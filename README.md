@@ -34,4 +34,3 @@ For SingStat, the csv file would contain the categories of the data which it bel
 
 ## Installation of libraries (Python)
 You may install using package manager such as Python pip or environment management system such as Conda to install all the libraries listed in *requirements.txt*
-
