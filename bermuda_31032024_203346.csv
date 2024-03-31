@@ -1,0 +1,765 @@
+Geo,Event Year,Date,Day,Name,Type
+bermuda,2010,1 Jan,Friday,New Year's Day,Public Holiday
+bermuda,2010,14 Feb,Sunday,Valentine's Day,Observance
+bermuda,2010,14 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2010,20 Mar,Saturday,March Equinox,Season
+bermuda,2010,2 Apr,Friday,Good Friday,Public Holiday
+bermuda,2010,4 Apr,Sunday,Easter Sunday,Observance
+bermuda,2010,9 May,Sunday,Mothers' Day,Observance
+bermuda,2010,24 May,Monday,Bermuda Day,Public Holiday
+bermuda,2010,20 Jun,Sunday,Fathers' Day,Observance
+bermuda,2010,21 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2010,21 Jun,Monday,June Solstice,Season
+bermuda,2010,29 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2010,30 Jul,Friday,Somers' Day,Public Holiday
+bermuda,2010,6 Sep,Monday,Labour Day,Public Holiday
+bermuda,2010,23 Sep,Thursday,September Equinox,Season
+bermuda,2010,31 Oct,Sunday,Halloween,Observance
+bermuda,2010,7 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2010,11 Nov,Thursday,Remembrance Day,Public Holiday
+bermuda,2010,21 Dec,Tuesday,December Solstice,Season
+bermuda,2010,24 Dec,Friday,Christmas Eve,Observance
+bermuda,2010,25 Dec,Saturday,Christmas Day,Public Holiday
+bermuda,2010,26 Dec,Sunday,Boxing Day,Public Holiday
+bermuda,2010,27 Dec,Monday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2010,28 Dec,Tuesday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2010,31 Dec,Friday,New Year's Eve,Observance
+bermuda,2011,1 Jan,Saturday,New Year's Day,Public Holiday
+bermuda,2011,3 Jan,Monday,Day off for New Year's Day,Public Holiday
+bermuda,2011,14 Feb,Monday,Valentine's Day,Observance
+bermuda,2011,13 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2011,20 Mar,Sunday,March Equinox,Season
+bermuda,2011,22 Apr,Friday,Good Friday,Public Holiday
+bermuda,2011,24 Apr,Sunday,Easter Sunday,Observance
+bermuda,2011,8 May,Sunday,Mothers' Day,Observance
+bermuda,2011,24 May,Tuesday,Bermuda Day,Public Holiday
+bermuda,2011,19 Jun,Sunday,Fathers' Day,Observance
+bermuda,2011,20 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2011,21 Jun,Tuesday,June Solstice,Season
+bermuda,2011,28 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2011,29 Jul,Friday,Somers' Day,Public Holiday
+bermuda,2011,5 Sep,Monday,Labour Day,Public Holiday
+bermuda,2011,23 Sep,Friday,September Equinox,Season
+bermuda,2011,31 Oct,Monday,Halloween,Observance
+bermuda,2011,6 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2011,11 Nov,Friday,Remembrance Day,Public Holiday
+bermuda,2011,22 Dec,Thursday,December Solstice,Season
+bermuda,2011,24 Dec,Saturday,Christmas Eve,Observance
+bermuda,2011,25 Dec,Sunday,Christmas Day,Public Holiday
+bermuda,2011,26 Dec,Monday,Day off for Christmas Day,Public Holiday
+bermuda,2011,26 Dec,Monday,Boxing Day,Public Holiday
+bermuda,2011,27 Dec,Tuesday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2011,31 Dec,Saturday,New Year's Eve,Observance
+bermuda,2012,1 Jan,Sunday,New Year's Day,Public Holiday
+bermuda,2012,2 Jan,Monday,Day off for New Year's Day,Public Holiday
+bermuda,2012,14 Feb,Tuesday,Valentine's Day,Observance
+bermuda,2012,11 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2012,20 Mar,Tuesday,March Equinox,Season
+bermuda,2012,6 Apr,Friday,Good Friday,Public Holiday
+bermuda,2012,8 Apr,Sunday,Easter Sunday,Observance
+bermuda,2012,13 May,Sunday,Mothers' Day,Observance
+bermuda,2012,24 May,Thursday,Bermuda Day,Public Holiday
+bermuda,2012,17 Jun,Sunday,Fathers' Day,Observance
+bermuda,2012,18 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2012,20 Jun,Wednesday,June Solstice,Season
+bermuda,2012,2 Aug,Thursday,Emancipation Day,Public Holiday
+bermuda,2012,3 Aug,Friday,Somers' Day,Public Holiday
+bermuda,2012,3 Sep,Monday,Labour Day,Public Holiday
+bermuda,2012,22 Sep,Saturday,September Equinox,Season
+bermuda,2012,31 Oct,Wednesday,Halloween,Observance
+bermuda,2012,4 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2012,11 Nov,Sunday,Remembrance Day,Public Holiday
+bermuda,2012,12 Nov,Monday,Day off for Remembrance Day,Public Holiday
+bermuda,2012,21 Dec,Friday,December Solstice,Season
+bermuda,2012,24 Dec,Monday,Christmas Eve,Observance
+bermuda,2012,25 Dec,Tuesday,Christmas Day,Public Holiday
+bermuda,2012,26 Dec,Wednesday,Boxing Day,Public Holiday
+bermuda,2012,31 Dec,Monday,New Year's Eve,Observance
+bermuda,2013,1 Jan,Tuesday,New Year's Day,Public Holiday
+bermuda,2013,14 Feb,Thursday,Valentine's Day,Observance
+bermuda,2013,10 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2013,20 Mar,Wednesday,March Equinox,Season
+bermuda,2013,29 Mar,Friday,Good Friday,Public Holiday
+bermuda,2013,31 Mar,Sunday,Easter Sunday,Observance
+bermuda,2013,12 May,Sunday,Mothers' Day,Observance
+bermuda,2013,24 May,Friday,Bermuda Day,Public Holiday
+bermuda,2013,16 Jun,Sunday,Fathers' Day,Observance
+bermuda,2013,17 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2013,21 Jun,Friday,June Solstice,Season
+bermuda,2013,1 Aug,Thursday,Emancipation Day,Public Holiday
+bermuda,2013,2 Aug,Friday,Somers' Day,Public Holiday
+bermuda,2013,2 Sep,Monday,Labour Day,Public Holiday
+bermuda,2013,22 Sep,Sunday,September Equinox,Season
+bermuda,2013,31 Oct,Thursday,Halloween,Observance
+bermuda,2013,3 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2013,11 Nov,Monday,Remembrance Day,Public Holiday
+bermuda,2013,21 Dec,Saturday,December Solstice,Season
+bermuda,2013,24 Dec,Tuesday,Christmas Eve,Observance
+bermuda,2013,25 Dec,Wednesday,Christmas Day,Public Holiday
+bermuda,2013,26 Dec,Thursday,Boxing Day,Public Holiday
+bermuda,2013,31 Dec,Tuesday,New Year's Eve,Observance
+bermuda,2014,1 Jan,Wednesday,New Year's Day,Public Holiday
+bermuda,2014,14 Feb,Friday,Valentine's Day,Observance
+bermuda,2014,9 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2014,20 Mar,Thursday,March Equinox,Season
+bermuda,2014,18 Apr,Friday,Good Friday,Public Holiday
+bermuda,2014,20 Apr,Sunday,Easter Sunday,Observance
+bermuda,2014,11 May,Sunday,Mothers' Day,Observance
+bermuda,2014,24 May,Saturday,Bermuda Day,Public Holiday
+bermuda,2014,26 May,Monday,Bermuda Day observed,Public Holiday
+bermuda,2014,15 Jun,Sunday,Fathers' Day,Observance
+bermuda,2014,16 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2014,21 Jun,Saturday,June Solstice,Season
+bermuda,2014,31 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2014,1 Aug,Friday,Somers' Day,Public Holiday
+bermuda,2014,1 Sep,Monday,Labour Day,Public Holiday
+bermuda,2014,22 Sep,Monday,September Equinox,Season
+bermuda,2014,31 Oct,Friday,Halloween,Observance
+bermuda,2014,2 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2014,11 Nov,Tuesday,Remembrance Day,Public Holiday
+bermuda,2014,21 Dec,Sunday,December Solstice,Season
+bermuda,2014,24 Dec,Wednesday,Christmas Eve,Observance
+bermuda,2014,25 Dec,Thursday,Christmas Day,Public Holiday
+bermuda,2014,26 Dec,Friday,Boxing Day,Public Holiday
+bermuda,2014,31 Dec,Wednesday,New Year's Eve,Observance
+bermuda,2015,1 Jan,Thursday,New Year's Day,Public Holiday
+bermuda,2015,14 Feb,Saturday,Valentine's Day,Observance
+bermuda,2015,8 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2015,20 Mar,Friday,March Equinox,Season
+bermuda,2015,3 Apr,Friday,Good Friday,Public Holiday
+bermuda,2015,5 Apr,Sunday,Easter Sunday,Observance
+bermuda,2015,10 May,Sunday,Mothers' Day,Observance
+bermuda,2015,24 May,Sunday,Bermuda Day,Public Holiday
+bermuda,2015,25 May,Monday,Bermuda Day observed,Public Holiday
+bermuda,2015,15 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2015,21 Jun,Sunday,Fathers' Day,Observance
+bermuda,2015,21 Jun,Sunday,June Solstice,Season
+bermuda,2015,30 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2015,31 Jul,Friday,Somers' Day,Public Holiday
+bermuda,2015,7 Sep,Monday,Labour Day,Public Holiday
+bermuda,2015,23 Sep,Wednesday,September Equinox,Season
+bermuda,2015,31 Oct,Saturday,Halloween,Observance
+bermuda,2015,1 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2015,11 Nov,Wednesday,Remembrance Day,Public Holiday
+bermuda,2015,22 Dec,Tuesday,December Solstice,Season
+bermuda,2015,24 Dec,Thursday,Christmas Eve,Observance
+bermuda,2015,25 Dec,Friday,Christmas Day,Public Holiday
+bermuda,2015,26 Dec,Saturday,Boxing Day,Public Holiday
+bermuda,2015,28 Dec,Monday,Boxing Day observed,Public Holiday
+bermuda,2015,31 Dec,Thursday,New Year's Eve,Observance
+bermuda,2016,1 Jan,Friday,New Year's Day,Public Holiday
+bermuda,2016,14 Feb,Sunday,Valentine's Day,Observance
+bermuda,2016,13 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2016,20 Mar,Sunday,March Equinox,Season
+bermuda,2016,25 Mar,Friday,Good Friday,Public Holiday
+bermuda,2016,27 Mar,Sunday,Easter Sunday,Observance
+bermuda,2016,8 May,Sunday,Mothers' Day,Observance
+bermuda,2016,24 May,Tuesday,Bermuda Day,Public Holiday
+bermuda,2016,19 Jun,Sunday,Fathers' Day,Observance
+bermuda,2016,20 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2016,20 Jun,Monday,June Solstice,Season
+bermuda,2016,28 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2016,29 Jul,Friday,Somers' Day,Public Holiday
+bermuda,2016,5 Sep,Monday,Labour Day,Public Holiday
+bermuda,2016,22 Sep,Thursday,September Equinox,Season
+bermuda,2016,31 Oct,Monday,Halloween,Observance
+bermuda,2016,6 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2016,11 Nov,Friday,Remembrance Day,Public Holiday
+bermuda,2016,21 Dec,Wednesday,December Solstice,Season
+bermuda,2016,24 Dec,Saturday,Christmas Eve,Observance
+bermuda,2016,25 Dec,Sunday,Christmas Day,Public Holiday
+bermuda,2016,26 Dec,Monday,Day off for Christmas Day,Public Holiday
+bermuda,2016,26 Dec,Monday,Boxing Day,Public Holiday
+bermuda,2016,27 Dec,Tuesday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2016,31 Dec,Saturday,New Year's Eve,Observance
+bermuda,2017,1 Jan,Sunday,New Year's Day,Public Holiday
+bermuda,2017,2 Jan,Monday,Day off for New Year's Day,Public Holiday
+bermuda,2017,14 Feb,Tuesday,Valentine's Day,Observance
+bermuda,2017,12 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2017,20 Mar,Monday,March Equinox,Season
+bermuda,2017,14 Apr,Friday,Good Friday,Public Holiday
+bermuda,2017,16 Apr,Sunday,Easter Sunday,Observance
+bermuda,2017,14 May,Sunday,Mothers' Day,Observance
+bermuda,2017,24 May,Wednesday,Bermuda Day,Public Holiday
+bermuda,2017,18 Jun,Sunday,Fathers' Day,Observance
+bermuda,2017,19 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2017,21 Jun,Wednesday,June Solstice,Season
+bermuda,2017,3 Aug,Thursday,Emancipation Day,Public Holiday
+bermuda,2017,4 Aug,Friday,Somers' Day,Public Holiday
+bermuda,2017,4 Sep,Monday,Labour Day,Public Holiday
+bermuda,2017,22 Sep,Friday,September Equinox,Season
+bermuda,2017,31 Oct,Tuesday,Halloween,Observance
+bermuda,2017,5 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2017,11 Nov,Saturday,Remembrance Day,Public Holiday
+bermuda,2017,13 Nov,Monday,Day off for Remembrance Day,Public Holiday
+bermuda,2017,21 Dec,Thursday,December Solstice,Season
+bermuda,2017,24 Dec,Sunday,Christmas Eve,Observance
+bermuda,2017,25 Dec,Monday,Christmas Day,Public Holiday
+bermuda,2017,26 Dec,Tuesday,Boxing Day,Public Holiday
+bermuda,2017,31 Dec,Sunday,New Year's Eve,Observance
+bermuda,2018,1 Jan,Monday,New Year's Day,Public Holiday
+bermuda,2018,14 Feb,Wednesday,Valentine's Day,Observance
+bermuda,2018,11 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2018,20 Mar,Tuesday,March Equinox,Season
+bermuda,2018,30 Mar,Friday,Good Friday,Public Holiday
+bermuda,2018,1 Apr,Sunday,Easter Sunday,Observance
+bermuda,2018,13 May,Sunday,Mothers' Day,Observance
+bermuda,2018,25 May,Friday,Bermuda Day,Public Holiday
+bermuda,2018,17 Jun,Sunday,Fathers' Day,Observance
+bermuda,2018,18 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2018,21 Jun,Thursday,June Solstice,Season
+bermuda,2018,2 Aug,Thursday,Emancipation Day,Public Holiday
+bermuda,2018,3 Aug,Friday,Somers' Day,Public Holiday
+bermuda,2018,3 Sep,Monday,Labour Day,Public Holiday
+bermuda,2018,22 Sep,Saturday,September Equinox,Season
+bermuda,2018,31 Oct,Wednesday,Halloween,Observance
+bermuda,2018,4 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2018,11 Nov,Sunday,Remembrance Day,Public Holiday
+bermuda,2018,12 Nov,Monday,Day off for Remembrance Day,Public Holiday
+bermuda,2018,21 Dec,Friday,December Solstice,Season
+bermuda,2018,24 Dec,Monday,Christmas Eve,Observance
+bermuda,2018,25 Dec,Tuesday,Christmas Day,Public Holiday
+bermuda,2018,26 Dec,Wednesday,Boxing Day,Public Holiday
+bermuda,2018,31 Dec,Monday,New Year's Eve,Observance
+bermuda,2019,1 Jan,Tuesday,New Year's Day,Public Holiday
+bermuda,2019,14 Feb,Thursday,Valentine's Day,Observance
+bermuda,2019,10 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2019,20 Mar,Wednesday,March Equinox,Season
+bermuda,2019,19 Apr,Friday,Good Friday,Public Holiday
+bermuda,2019,21 Apr,Sunday,Easter Sunday,Observance
+bermuda,2019,12 May,Sunday,Mothers' Day,Observance
+bermuda,2019,24 May,Friday,Bermuda Day,Public Holiday
+bermuda,2019,16 Jun,Sunday,Fathers' Day,Observance
+bermuda,2019,17 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2019,21 Jun,Friday,June Solstice,Season
+bermuda,2019,1 Aug,Thursday,Emancipation Day,Public Holiday
+bermuda,2019,2 Aug,Friday,Somers' Day,Public Holiday
+bermuda,2019,2 Sep,Monday,Labour Day,Public Holiday
+bermuda,2019,23 Sep,Monday,September Equinox,Season
+bermuda,2019,31 Oct,Thursday,Halloween,Observance
+bermuda,2019,3 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2019,11 Nov,Monday,Remembrance Day,Public Holiday
+bermuda,2019,22 Dec,Sunday,December Solstice,Season
+bermuda,2019,24 Dec,Tuesday,Christmas Eve,Observance
+bermuda,2019,25 Dec,Wednesday,Christmas Day,Public Holiday
+bermuda,2019,26 Dec,Thursday,Boxing Day,Public Holiday
+bermuda,2019,31 Dec,Tuesday,New Year's Eve,Observance
+bermuda,2020,1 Jan,Wednesday,New Year's Day,Public Holiday
+bermuda,2020,14 Feb,Friday,Valentine's Day,Observance
+bermuda,2020,8 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2020,20 Mar,Friday,March Equinox,Season
+bermuda,2020,10 Apr,Friday,Good Friday,Public Holiday
+bermuda,2020,12 Apr,Sunday,Easter Sunday,Observance
+bermuda,2020,10 May,Sunday,Mothers' Day,Observance
+bermuda,2020,29 May,Friday,Bermuda Day,Public Holiday
+bermuda,2020,15 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2020,20 Jun,Saturday,June Solstice,Season
+bermuda,2020,21 Jun,Sunday,Fathers' Day,Observance
+bermuda,2020,30 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2020,31 Jul,Friday,Somers' Day,Public Holiday
+bermuda,2020,7 Sep,Monday,Labour Day,Public Holiday
+bermuda,2020,22 Sep,Tuesday,September Equinox,Season
+bermuda,2020,31 Oct,Saturday,Halloween,Observance
+bermuda,2020,1 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2020,11 Nov,Wednesday,Remembrance Day,Public Holiday
+bermuda,2020,21 Dec,Monday,December Solstice,Season
+bermuda,2020,24 Dec,Thursday,Christmas Eve,Observance
+bermuda,2020,25 Dec,Friday,Christmas Day,Public Holiday
+bermuda,2020,26 Dec,Saturday,Boxing Day,Public Holiday
+bermuda,2020,28 Dec,Monday,Boxing Day observed,Public Holiday
+bermuda,2020,31 Dec,Thursday,New Year's Eve,Observance
+bermuda,2021,1 Jan,Friday,New Year's Day,Public Holiday
+bermuda,2021,14 Feb,Sunday,Valentine's Day,Observance
+bermuda,2021,14 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2021,20 Mar,Saturday,March Equinox,Season
+bermuda,2021,2 Apr,Friday,Good Friday,Public Holiday
+bermuda,2021,4 Apr,Sunday,Easter Sunday,Observance
+bermuda,2021,9 May,Sunday,Mothers' Day,Observance
+bermuda,2021,28 May,Friday,Bermuda Day,Public Holiday
+bermuda,2021,20 Jun,Sunday,Fathers' Day,Observance
+bermuda,2021,21 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2021,21 Jun,Monday,June Solstice,Season
+bermuda,2021,29 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2021,30 Jul,Friday,Mary Prince Day,Public Holiday
+bermuda,2021,6 Sep,Monday,Labour Day,Public Holiday
+bermuda,2021,22 Sep,Wednesday,September Equinox,Season
+bermuda,2021,18 Oct,Monday,Flora Duffy Day,Public Holiday
+bermuda,2021,31 Oct,Sunday,Halloween,Observance
+bermuda,2021,7 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2021,11 Nov,Thursday,Remembrance Day,Public Holiday
+bermuda,2021,21 Dec,Tuesday,December Solstice,Season
+bermuda,2021,24 Dec,Friday,Christmas Eve,Observance
+bermuda,2021,25 Dec,Saturday,Christmas Day,Public Holiday
+bermuda,2021,26 Dec,Sunday,Boxing Day,Public Holiday
+bermuda,2021,27 Dec,Monday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2021,28 Dec,Tuesday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2021,31 Dec,Friday,New Year's Eve,Observance
+bermuda,2022,1 Jan,Saturday,New Year's Day,Public Holiday
+bermuda,2022,3 Jan,Monday,Day off for New Year's Day,Public Holiday
+bermuda,2022,14 Feb,Monday,Valentine's Day,Observance
+bermuda,2022,13 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2022,20 Mar,Sunday,March Equinox,Season
+bermuda,2022,15 Apr,Friday,Good Friday,Public Holiday
+bermuda,2022,17 Apr,Sunday,Easter Sunday,Observance
+bermuda,2022,8 May,Sunday,Mothers' Day,Observance
+bermuda,2022,27 May,Friday,Bermuda Day,Public Holiday
+bermuda,2022,19 Jun,Sunday,Fathers' Day,Observance
+bermuda,2022,20 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2022,21 Jun,Tuesday,June Solstice,Season
+bermuda,2022,28 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2022,29 Jul,Friday,Mary Prince Day,Public Holiday
+bermuda,2022,5 Sep,Monday,Labour Day,Public Holiday
+bermuda,2022,19 Sep,Monday,Queen Elizabeth II's Funeral Day,Public Holiday
+bermuda,2022,22 Sep,Thursday,September Equinox,Season
+bermuda,2022,31 Oct,Monday,Halloween,Observance
+bermuda,2022,6 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2022,11 Nov,Friday,Remembrance Day,Public Holiday
+bermuda,2022,21 Dec,Wednesday,December Solstice,Season
+bermuda,2022,24 Dec,Saturday,Christmas Eve,Observance
+bermuda,2022,25 Dec,Sunday,Christmas Day,Public Holiday
+bermuda,2022,26 Dec,Monday,Day off for Christmas Day,Public Holiday
+bermuda,2022,26 Dec,Monday,Boxing Day,Public Holiday
+bermuda,2022,27 Dec,Tuesday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2022,31 Dec,Saturday,New Year's Eve,Observance
+bermuda,2023,1 Jan,Sunday,New Year's Day,Public Holiday
+bermuda,2023,2 Jan,Monday,Day off for New Year's Day,Public Holiday
+bermuda,2023,14 Feb,Tuesday,Valentine's Day,Observance
+bermuda,2023,12 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2023,20 Mar,Monday,March Equinox,Season
+bermuda,2023,7 Apr,Friday,Good Friday,Public Holiday
+bermuda,2023,9 Apr,Sunday,Easter Sunday,Observance
+bermuda,2023,6 May,Saturday,The Coronation of His Majesty King Charles III,Observance
+bermuda,2023,8 May,Monday,Holiday for the Coronation of His Majesty King Charles III,Public Holiday
+bermuda,2023,14 May,Sunday,Mothers' Day,Observance
+bermuda,2023,26 May,Friday,Bermuda Day,Public Holiday
+bermuda,2023,18 Jun,Sunday,Fathers' Day,Observance
+bermuda,2023,19 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2023,21 Jun,Wednesday,June Solstice,Season
+bermuda,2023,3 Aug,Thursday,Emancipation Day,Public Holiday
+bermuda,2023,4 Aug,Friday,Mary Prince Day,Public Holiday
+bermuda,2023,4 Sep,Monday,Labour Day,Public Holiday
+bermuda,2023,23 Sep,Saturday,September Equinox,Season
+bermuda,2023,31 Oct,Tuesday,Halloween,Observance
+bermuda,2023,5 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2023,11 Nov,Saturday,Remembrance Day,Public Holiday
+bermuda,2023,13 Nov,Monday,Day off for Remembrance Day,Public Holiday
+bermuda,2023,21 Dec,Thursday,December Solstice,Season
+bermuda,2023,24 Dec,Sunday,Christmas Eve,Observance
+bermuda,2023,25 Dec,Monday,Christmas Day,Public Holiday
+bermuda,2023,26 Dec,Tuesday,Boxing Day,Public Holiday
+bermuda,2023,31 Dec,Sunday,New Year's Eve,Observance
+bermuda,2024,1 Jan,Monday,New Year's Day,Public Holiday
+bermuda,2024,14 Feb,Wednesday,Valentine's Day,Observance
+bermuda,2024,10 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2024,20 Mar,Wednesday,March Equinox,Season
+bermuda,2024,29 Mar,Friday,Good Friday,Public Holiday
+bermuda,2024,31 Mar,Sunday,Easter Sunday,Observance
+bermuda,2024,12 May,Sunday,Mothers' Day,Observance
+bermuda,2024,24 May,Friday,Bermuda Day,Public Holiday
+bermuda,2024,16 Jun,Sunday,Fathers' Day,Observance
+bermuda,2024,17 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2024,20 Jun,Thursday,June Solstice,Season
+bermuda,2024,1 Aug,Thursday,Emancipation Day,Public Holiday
+bermuda,2024,2 Aug,Friday,Mary Prince Day,Public Holiday
+bermuda,2024,2 Sep,Monday,Labour Day,Public Holiday
+bermuda,2024,22 Sep,Sunday,September Equinox,Season
+bermuda,2024,31 Oct,Thursday,Halloween,Observance
+bermuda,2024,3 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2024,11 Nov,Monday,Remembrance Day,Public Holiday
+bermuda,2024,21 Dec,Saturday,December Solstice,Season
+bermuda,2024,24 Dec,Tuesday,Christmas Eve,Observance
+bermuda,2024,25 Dec,Wednesday,Christmas Day,Public Holiday
+bermuda,2024,26 Dec,Thursday,Boxing Day,Public Holiday
+bermuda,2024,31 Dec,Tuesday,New Year's Eve,Observance
+bermuda,2025,1 Jan,Wednesday,New Year's Day,Public Holiday
+bermuda,2025,14 Feb,Friday,Valentine's Day,Observance
+bermuda,2025,9 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2025,20 Mar,Thursday,March Equinox,Season
+bermuda,2025,18 Apr,Friday,Good Friday,Public Holiday
+bermuda,2025,20 Apr,Sunday,Easter Sunday,Observance
+bermuda,2025,11 May,Sunday,Mothers' Day,Observance
+bermuda,2025,23 May,Friday,Bermuda Day,Public Holiday
+bermuda,2025,15 Jun,Sunday,Fathers' Day,Observance
+bermuda,2025,16 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2025,20 Jun,Friday,June Solstice,Season
+bermuda,2025,31 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2025,1 Aug,Friday,Mary Prince Day,Public Holiday
+bermuda,2025,1 Sep,Monday,Labour Day,Public Holiday
+bermuda,2025,22 Sep,Monday,September Equinox,Season
+bermuda,2025,31 Oct,Friday,Halloween,Observance
+bermuda,2025,2 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2025,11 Nov,Tuesday,Remembrance Day,Public Holiday
+bermuda,2025,21 Dec,Sunday,December Solstice,Season
+bermuda,2025,24 Dec,Wednesday,Christmas Eve,Observance
+bermuda,2025,25 Dec,Thursday,Christmas Day,Public Holiday
+bermuda,2025,26 Dec,Friday,Boxing Day,Public Holiday
+bermuda,2025,31 Dec,Wednesday,New Year's Eve,Observance
+bermuda,2026,1 Jan,Thursday,New Year's Day,Public Holiday
+bermuda,2026,14 Feb,Saturday,Valentine's Day,Observance
+bermuda,2026,8 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2026,20 Mar,Friday,March Equinox,Season
+bermuda,2026,3 Apr,Friday,Good Friday,Public Holiday
+bermuda,2026,5 Apr,Sunday,Easter Sunday,Observance
+bermuda,2026,10 May,Sunday,Mothers' Day,Observance
+bermuda,2026,22 May,Friday,Bermuda Day,Public Holiday
+bermuda,2026,15 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2026,21 Jun,Sunday,Fathers' Day,Observance
+bermuda,2026,21 Jun,Sunday,June Solstice,Season
+bermuda,2026,30 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2026,31 Jul,Friday,Mary Prince Day,Public Holiday
+bermuda,2026,7 Sep,Monday,Labour Day,Public Holiday
+bermuda,2026,22 Sep,Tuesday,September Equinox,Season
+bermuda,2026,31 Oct,Saturday,Halloween,Observance
+bermuda,2026,1 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2026,11 Nov,Wednesday,Remembrance Day,Public Holiday
+bermuda,2026,21 Dec,Monday,December Solstice,Season
+bermuda,2026,24 Dec,Thursday,Christmas Eve,Observance
+bermuda,2026,25 Dec,Friday,Christmas Day,Public Holiday
+bermuda,2026,26 Dec,Saturday,Boxing Day,Public Holiday
+bermuda,2026,28 Dec,Monday,Boxing Day observed,Public Holiday
+bermuda,2026,31 Dec,Thursday,New Year's Eve,Observance
+bermuda,2027,1 Jan,Friday,New Year's Day,Public Holiday
+bermuda,2027,14 Feb,Sunday,Valentine's Day,Observance
+bermuda,2027,14 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2027,20 Mar,Saturday,March Equinox,Season
+bermuda,2027,26 Mar,Friday,Good Friday,Public Holiday
+bermuda,2027,28 Mar,Sunday,Easter Sunday,Observance
+bermuda,2027,9 May,Sunday,Mothers' Day,Observance
+bermuda,2027,28 May,Friday,Bermuda Day,Public Holiday
+bermuda,2027,20 Jun,Sunday,Fathers' Day,Observance
+bermuda,2027,21 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2027,21 Jun,Monday,June Solstice,Season
+bermuda,2027,29 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2027,30 Jul,Friday,Mary Prince Day,Public Holiday
+bermuda,2027,6 Sep,Monday,Labour Day,Public Holiday
+bermuda,2027,23 Sep,Thursday,September Equinox,Season
+bermuda,2027,31 Oct,Sunday,Halloween,Observance
+bermuda,2027,7 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2027,11 Nov,Thursday,Remembrance Day,Public Holiday
+bermuda,2027,21 Dec,Tuesday,December Solstice,Season
+bermuda,2027,24 Dec,Friday,Christmas Eve,Observance
+bermuda,2027,25 Dec,Saturday,Christmas Day,Public Holiday
+bermuda,2027,26 Dec,Sunday,Boxing Day,Public Holiday
+bermuda,2027,27 Dec,Monday,Boxing Day observed,Public Holiday
+bermuda,2027,27 Dec,Monday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2027,28 Dec,Tuesday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2027,31 Dec,Friday,New Year's Eve,Observance
+bermuda,2028,1 Jan,Saturday,New Year's Day,Public Holiday
+bermuda,2028,3 Jan,Monday,Day off for New Year's Day,Public Holiday
+bermuda,2028,14 Feb,Monday,Valentine's Day,Observance
+bermuda,2028,12 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2028,19 Mar,Sunday,March Equinox,Season
+bermuda,2028,14 Apr,Friday,Good Friday,Public Holiday
+bermuda,2028,16 Apr,Sunday,Easter Sunday,Observance
+bermuda,2028,14 May,Sunday,Mothers' Day,Observance
+bermuda,2028,26 May,Friday,Bermuda Day,Public Holiday
+bermuda,2028,18 Jun,Sunday,Fathers' Day,Observance
+bermuda,2028,19 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2028,20 Jun,Tuesday,June Solstice,Season
+bermuda,2028,3 Aug,Thursday,Emancipation Day,Public Holiday
+bermuda,2028,4 Aug,Friday,Mary Prince Day,Public Holiday
+bermuda,2028,4 Sep,Monday,Labour Day,Public Holiday
+bermuda,2028,22 Sep,Friday,September Equinox,Season
+bermuda,2028,31 Oct,Tuesday,Halloween,Observance
+bermuda,2028,5 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2028,11 Nov,Saturday,Remembrance Day,Public Holiday
+bermuda,2028,13 Nov,Monday,Day off for Remembrance Day,Public Holiday
+bermuda,2028,21 Dec,Thursday,December Solstice,Season
+bermuda,2028,24 Dec,Sunday,Christmas Eve,Observance
+bermuda,2028,25 Dec,Monday,Christmas Day,Public Holiday
+bermuda,2028,26 Dec,Tuesday,Boxing Day,Public Holiday
+bermuda,2028,31 Dec,Sunday,New Year's Eve,Observance
+bermuda,2029,1 Jan,Monday,New Year's Day,Public Holiday
+bermuda,2029,14 Feb,Wednesday,Valentine's Day,Observance
+bermuda,2029,11 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2029,20 Mar,Tuesday,March Equinox,Season
+bermuda,2029,30 Mar,Friday,Good Friday,Public Holiday
+bermuda,2029,1 Apr,Sunday,Easter Sunday,Observance
+bermuda,2029,13 May,Sunday,Mothers' Day,Observance
+bermuda,2029,25 May,Friday,Bermuda Day,Public Holiday
+bermuda,2029,17 Jun,Sunday,Fathers' Day,Observance
+bermuda,2029,18 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2029,20 Jun,Wednesday,June Solstice,Season
+bermuda,2029,2 Aug,Thursday,Emancipation Day,Public Holiday
+bermuda,2029,3 Aug,Friday,Mary Prince Day,Public Holiday
+bermuda,2029,3 Sep,Monday,Labour Day,Public Holiday
+bermuda,2029,22 Sep,Saturday,September Equinox,Season
+bermuda,2029,31 Oct,Wednesday,Halloween,Observance
+bermuda,2029,4 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2029,11 Nov,Sunday,Remembrance Day,Public Holiday
+bermuda,2029,12 Nov,Monday,Day off for Remembrance Day,Public Holiday
+bermuda,2029,21 Dec,Friday,December Solstice,Season
+bermuda,2029,24 Dec,Monday,Christmas Eve,Observance
+bermuda,2029,25 Dec,Tuesday,Christmas Day,Public Holiday
+bermuda,2029,26 Dec,Wednesday,Boxing Day,Public Holiday
+bermuda,2029,31 Dec,Monday,New Year's Eve,Observance
+bermuda,2030,1 Jan,Tuesday,New Year's Day,Public Holiday
+bermuda,2030,14 Feb,Thursday,Valentine's Day,Observance
+bermuda,2030,10 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2030,20 Mar,Wednesday,March Equinox,Season
+bermuda,2030,19 Apr,Friday,Good Friday,Public Holiday
+bermuda,2030,21 Apr,Sunday,Easter Sunday,Observance
+bermuda,2030,12 May,Sunday,Mothers' Day,Observance
+bermuda,2030,24 May,Friday,Bermuda Day,Public Holiday
+bermuda,2030,16 Jun,Sunday,Fathers' Day,Observance
+bermuda,2030,17 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2030,21 Jun,Friday,June Solstice,Season
+bermuda,2030,1 Aug,Thursday,Emancipation Day,Public Holiday
+bermuda,2030,2 Aug,Friday,Mary Prince Day,Public Holiday
+bermuda,2030,2 Sep,Monday,Labour Day,Public Holiday
+bermuda,2030,22 Sep,Sunday,September Equinox,Season
+bermuda,2030,31 Oct,Thursday,Halloween,Observance
+bermuda,2030,3 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2030,11 Nov,Monday,Remembrance Day,Public Holiday
+bermuda,2030,21 Dec,Saturday,December Solstice,Season
+bermuda,2030,24 Dec,Tuesday,Christmas Eve,Observance
+bermuda,2030,25 Dec,Wednesday,Christmas Day,Public Holiday
+bermuda,2030,26 Dec,Thursday,Boxing Day,Public Holiday
+bermuda,2030,31 Dec,Tuesday,New Year's Eve,Observance
+bermuda,2031,1 Jan,Wednesday,New Year's Day,Public Holiday
+bermuda,2031,14 Feb,Friday,Valentine's Day,Observance
+bermuda,2031,9 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2031,20 Mar,Thursday,March Equinox,Season
+bermuda,2031,11 Apr,Friday,Good Friday,Public Holiday
+bermuda,2031,13 Apr,Sunday,Easter Sunday,Observance
+bermuda,2031,11 May,Sunday,Mothers' Day,Observance
+bermuda,2031,23 May,Friday,Bermuda Day,Public Holiday
+bermuda,2031,15 Jun,Sunday,Fathers' Day,Observance
+bermuda,2031,16 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2031,21 Jun,Saturday,June Solstice,Season
+bermuda,2031,31 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2031,1 Aug,Friday,Mary Prince Day,Public Holiday
+bermuda,2031,1 Sep,Monday,Labour Day,Public Holiday
+bermuda,2031,23 Sep,Tuesday,September Equinox,Season
+bermuda,2031,31 Oct,Friday,Halloween,Observance
+bermuda,2031,2 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2031,11 Nov,Tuesday,Remembrance Day,Public Holiday
+bermuda,2031,21 Dec,Sunday,December Solstice,Season
+bermuda,2031,24 Dec,Wednesday,Christmas Eve,Observance
+bermuda,2031,25 Dec,Thursday,Christmas Day,Public Holiday
+bermuda,2031,26 Dec,Friday,Boxing Day,Public Holiday
+bermuda,2031,31 Dec,Wednesday,New Year's Eve,Observance
+bermuda,2032,1 Jan,Thursday,New Year's Day,Public Holiday
+bermuda,2032,14 Feb,Saturday,Valentine's Day,Observance
+bermuda,2032,14 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2032,19 Mar,Friday,March Equinox,Season
+bermuda,2032,26 Mar,Friday,Good Friday,Public Holiday
+bermuda,2032,28 Mar,Sunday,Easter Sunday,Observance
+bermuda,2032,9 May,Sunday,Mothers' Day,Observance
+bermuda,2032,28 May,Friday,Bermuda Day,Public Holiday
+bermuda,2032,20 Jun,Sunday,Fathers' Day,Observance
+bermuda,2032,20 Jun,Sunday,June Solstice,Season
+bermuda,2032,21 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2032,29 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2032,30 Jul,Friday,Mary Prince Day,Public Holiday
+bermuda,2032,6 Sep,Monday,Labour Day,Public Holiday
+bermuda,2032,22 Sep,Wednesday,September Equinox,Season
+bermuda,2032,31 Oct,Sunday,Halloween,Observance
+bermuda,2032,7 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2032,11 Nov,Thursday,Remembrance Day,Public Holiday
+bermuda,2032,21 Dec,Tuesday,December Solstice,Season
+bermuda,2032,24 Dec,Friday,Christmas Eve,Observance
+bermuda,2032,25 Dec,Saturday,Christmas Day,Public Holiday
+bermuda,2032,26 Dec,Sunday,Boxing Day,Public Holiday
+bermuda,2032,27 Dec,Monday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2032,28 Dec,Tuesday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2032,31 Dec,Friday,New Year's Eve,Observance
+bermuda,2033,1 Jan,Saturday,New Year's Day,Public Holiday
+bermuda,2033,3 Jan,Monday,Day off for New Year's Day,Public Holiday
+bermuda,2033,14 Feb,Monday,Valentine's Day,Observance
+bermuda,2033,13 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2033,20 Mar,Sunday,March Equinox,Season
+bermuda,2033,15 Apr,Friday,Good Friday,Public Holiday
+bermuda,2033,17 Apr,Sunday,Easter Sunday,Observance
+bermuda,2033,8 May,Sunday,Mothers' Day,Observance
+bermuda,2033,27 May,Friday,Bermuda Day,Public Holiday
+bermuda,2033,19 Jun,Sunday,Fathers' Day,Observance
+bermuda,2033,20 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2033,20 Jun,Monday,June Solstice,Season
+bermuda,2033,28 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2033,29 Jul,Friday,Mary Prince Day,Public Holiday
+bermuda,2033,5 Sep,Monday,Labour Day,Public Holiday
+bermuda,2033,22 Sep,Thursday,September Equinox,Season
+bermuda,2033,31 Oct,Monday,Halloween,Observance
+bermuda,2033,6 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2033,11 Nov,Friday,Remembrance Day,Public Holiday
+bermuda,2033,21 Dec,Wednesday,December Solstice,Season
+bermuda,2033,24 Dec,Saturday,Christmas Eve,Observance
+bermuda,2033,25 Dec,Sunday,Christmas Day,Public Holiday
+bermuda,2033,26 Dec,Monday,Day off for Christmas Day,Public Holiday
+bermuda,2033,26 Dec,Monday,Boxing Day,Public Holiday
+bermuda,2033,27 Dec,Tuesday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2033,31 Dec,Saturday,New Year's Eve,Observance
+bermuda,2034,1 Jan,Sunday,New Year's Day,Public Holiday
+bermuda,2034,2 Jan,Monday,Day off for New Year's Day,Public Holiday
+bermuda,2034,14 Feb,Tuesday,Valentine's Day,Observance
+bermuda,2034,12 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2034,20 Mar,Monday,March Equinox,Season
+bermuda,2034,7 Apr,Friday,Good Friday,Public Holiday
+bermuda,2034,9 Apr,Sunday,Easter Sunday,Observance
+bermuda,2034,14 May,Sunday,Mothers' Day,Observance
+bermuda,2034,26 May,Friday,Bermuda Day,Public Holiday
+bermuda,2034,18 Jun,Sunday,Fathers' Day,Observance
+bermuda,2034,19 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2034,21 Jun,Wednesday,June Solstice,Season
+bermuda,2034,3 Aug,Thursday,Emancipation Day,Public Holiday
+bermuda,2034,4 Aug,Friday,Mary Prince Day,Public Holiday
+bermuda,2034,4 Sep,Monday,Labour Day,Public Holiday
+bermuda,2034,22 Sep,Friday,September Equinox,Season
+bermuda,2034,31 Oct,Tuesday,Halloween,Observance
+bermuda,2034,5 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2034,11 Nov,Saturday,Remembrance Day,Public Holiday
+bermuda,2034,13 Nov,Monday,Day off for Remembrance Day,Public Holiday
+bermuda,2034,21 Dec,Thursday,December Solstice,Season
+bermuda,2034,24 Dec,Sunday,Christmas Eve,Observance
+bermuda,2034,25 Dec,Monday,Christmas Day,Public Holiday
+bermuda,2034,26 Dec,Tuesday,Boxing Day,Public Holiday
+bermuda,2034,31 Dec,Sunday,New Year's Eve,Observance
+bermuda,2035,1 Jan,Monday,New Year's Day,Public Holiday
+bermuda,2035,14 Feb,Wednesday,Valentine's Day,Observance
+bermuda,2035,11 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2035,20 Mar,Tuesday,March Equinox,Season
+bermuda,2035,23 Mar,Friday,Good Friday,Public Holiday
+bermuda,2035,25 Mar,Sunday,Easter Sunday,Observance
+bermuda,2035,13 May,Sunday,Mothers' Day,Observance
+bermuda,2035,25 May,Friday,Bermuda Day,Public Holiday
+bermuda,2035,17 Jun,Sunday,Fathers' Day,Observance
+bermuda,2035,18 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2035,21 Jun,Thursday,June Solstice,Season
+bermuda,2035,2 Aug,Thursday,Emancipation Day,Public Holiday
+bermuda,2035,3 Aug,Friday,Mary Prince Day,Public Holiday
+bermuda,2035,3 Sep,Monday,Labour Day,Public Holiday
+bermuda,2035,23 Sep,Sunday,September Equinox,Season
+bermuda,2035,31 Oct,Wednesday,Halloween,Observance
+bermuda,2035,4 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2035,11 Nov,Sunday,Remembrance Day,Public Holiday
+bermuda,2035,12 Nov,Monday,Day off for Remembrance Day,Public Holiday
+bermuda,2035,21 Dec,Friday,December Solstice,Season
+bermuda,2035,24 Dec,Monday,Christmas Eve,Observance
+bermuda,2035,25 Dec,Tuesday,Christmas Day,Public Holiday
+bermuda,2035,26 Dec,Wednesday,Boxing Day,Public Holiday
+bermuda,2035,31 Dec,Monday,New Year's Eve,Observance
+bermuda,2036,1 Jan,Tuesday,New Year's Day,Public Holiday
+bermuda,2036,14 Feb,Thursday,Valentine's Day,Observance
+bermuda,2036,9 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2036,19 Mar,Wednesday,March Equinox,Season
+bermuda,2036,11 Apr,Friday,Good Friday,Public Holiday
+bermuda,2036,13 Apr,Sunday,Easter Sunday,Observance
+bermuda,2036,11 May,Sunday,Mothers' Day,Observance
+bermuda,2036,23 May,Friday,Bermuda Day,Public Holiday
+bermuda,2036,15 Jun,Sunday,Fathers' Day,Observance
+bermuda,2036,16 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2036,20 Jun,Friday,June Solstice,Season
+bermuda,2036,31 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2036,1 Aug,Friday,Mary Prince Day,Public Holiday
+bermuda,2036,1 Sep,Monday,Labour Day,Public Holiday
+bermuda,2036,22 Sep,Monday,September Equinox,Season
+bermuda,2036,31 Oct,Friday,Halloween,Observance
+bermuda,2036,2 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2036,11 Nov,Tuesday,Remembrance Day,Public Holiday
+bermuda,2036,21 Dec,Sunday,December Solstice,Season
+bermuda,2036,24 Dec,Wednesday,Christmas Eve,Observance
+bermuda,2036,25 Dec,Thursday,Christmas Day,Public Holiday
+bermuda,2036,26 Dec,Friday,Boxing Day,Public Holiday
+bermuda,2036,31 Dec,Wednesday,New Year's Eve,Observance
+bermuda,2037,1 Jan,Thursday,New Year's Day,Public Holiday
+bermuda,2037,14 Feb,Saturday,Valentine's Day,Observance
+bermuda,2037,8 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2037,20 Mar,Friday,March Equinox,Season
+bermuda,2037,3 Apr,Friday,Good Friday,Public Holiday
+bermuda,2037,5 Apr,Sunday,Easter Sunday,Observance
+bermuda,2037,10 May,Sunday,Mothers' Day,Observance
+bermuda,2037,22 May,Friday,Bermuda Day,Public Holiday
+bermuda,2037,15 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2037,20 Jun,Saturday,June Solstice,Season
+bermuda,2037,21 Jun,Sunday,Fathers' Day,Observance
+bermuda,2037,30 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2037,31 Jul,Friday,Mary Prince Day,Public Holiday
+bermuda,2037,7 Sep,Monday,Labour Day,Public Holiday
+bermuda,2037,22 Sep,Tuesday,September Equinox,Season
+bermuda,2037,31 Oct,Saturday,Halloween,Observance
+bermuda,2037,1 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2037,11 Nov,Wednesday,Remembrance Day,Public Holiday
+bermuda,2037,21 Dec,Monday,December Solstice,Season
+bermuda,2037,24 Dec,Thursday,Christmas Eve,Observance
+bermuda,2037,25 Dec,Friday,Christmas Day,Public Holiday
+bermuda,2037,26 Dec,Saturday,Boxing Day,Public Holiday
+bermuda,2037,28 Dec,Monday,Boxing Day observed,Public Holiday
+bermuda,2037,31 Dec,Thursday,New Year's Eve,Observance
+bermuda,2038,1 Jan,Friday,New Year's Day,Public Holiday
+bermuda,2038,14 Feb,Sunday,Valentine's Day,Observance
+bermuda,2038,14 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2038,20 Mar,Saturday,March Equinox,Season
+bermuda,2038,23 Apr,Friday,Good Friday,Public Holiday
+bermuda,2038,25 Apr,Sunday,Easter Sunday,Observance
+bermuda,2038,9 May,Sunday,Mothers' Day,Observance
+bermuda,2038,28 May,Friday,Bermuda Day,Public Holiday
+bermuda,2038,20 Jun,Sunday,Fathers' Day,Observance
+bermuda,2038,21 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2038,21 Jun,Monday,June Solstice,Season
+bermuda,2038,29 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2038,30 Jul,Friday,Mary Prince Day,Public Holiday
+bermuda,2038,6 Sep,Monday,Labour Day,Public Holiday
+bermuda,2038,22 Sep,Wednesday,September Equinox,Season
+bermuda,2038,31 Oct,Sunday,Halloween,Observance
+bermuda,2038,7 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2038,11 Nov,Thursday,Remembrance Day,Public Holiday
+bermuda,2038,21 Dec,Tuesday,December Solstice,Season
+bermuda,2038,24 Dec,Friday,Christmas Eve,Observance
+bermuda,2038,25 Dec,Saturday,Christmas Day,Public Holiday
+bermuda,2038,26 Dec,Sunday,Boxing Day,Public Holiday
+bermuda,2038,27 Dec,Monday,Boxing Day observed,Public Holiday
+bermuda,2038,27 Dec,Monday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2038,28 Dec,Tuesday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2038,31 Dec,Friday,New Year's Eve,Observance
+bermuda,2039,1 Jan,Saturday,New Year's Day,Public Holiday
+bermuda,2039,3 Jan,Monday,Day off for New Year's Day,Public Holiday
+bermuda,2039,14 Feb,Monday,Valentine's Day,Observance
+bermuda,2039,13 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2039,20 Mar,Sunday,March Equinox,Season
+bermuda,2039,8 Apr,Friday,Good Friday,Public Holiday
+bermuda,2039,10 Apr,Sunday,Easter Sunday,Observance
+bermuda,2039,8 May,Sunday,Mothers' Day,Observance
+bermuda,2039,27 May,Friday,Bermuda Day,Public Holiday
+bermuda,2039,19 Jun,Sunday,Fathers' Day,Observance
+bermuda,2039,20 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2039,21 Jun,Tuesday,June Solstice,Season
+bermuda,2039,28 Jul,Thursday,Emancipation Day,Public Holiday
+bermuda,2039,29 Jul,Friday,Mary Prince Day,Public Holiday
+bermuda,2039,5 Sep,Monday,Labour Day,Public Holiday
+bermuda,2039,23 Sep,Friday,September Equinox,Season
+bermuda,2039,31 Oct,Monday,Halloween,Observance
+bermuda,2039,6 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2039,11 Nov,Friday,Remembrance Day,Public Holiday
+bermuda,2039,21 Dec,Wednesday,December Solstice,Season
+bermuda,2039,24 Dec,Saturday,Christmas Eve,Observance
+bermuda,2039,25 Dec,Sunday,Christmas Day,Public Holiday
+bermuda,2039,26 Dec,Monday,Day off for Christmas Day,Public Holiday
+bermuda,2039,26 Dec,Monday,Boxing Day,Public Holiday
+bermuda,2039,27 Dec,Tuesday,Christmas/Boxing Day Holiday,Public Holiday
+bermuda,2039,31 Dec,Saturday,New Year's Eve,Observance
+bermuda,2040,1 Jan,Sunday,New Year's Day,Public Holiday
+bermuda,2040,2 Jan,Monday,Day off for New Year's Day,Public Holiday
+bermuda,2040,14 Feb,Tuesday,Valentine's Day,Observance
+bermuda,2040,11 Mar,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+bermuda,2040,19 Mar,Monday,March Equinox,Season
+bermuda,2040,30 Mar,Friday,Good Friday,Public Holiday
+bermuda,2040,1 Apr,Sunday,Easter Sunday,Observance
+bermuda,2040,13 May,Sunday,Mothers' Day,Observance
+bermuda,2040,25 May,Friday,Bermuda Day,Public Holiday
+bermuda,2040,17 Jun,Sunday,Fathers' Day,Observance
+bermuda,2040,18 Jun,Monday,National Heroes Day,Public Holiday
+bermuda,2040,20 Jun,Wednesday,June Solstice,Season
+bermuda,2040,2 Aug,Thursday,Emancipation Day,Public Holiday
+bermuda,2040,3 Aug,Friday,Mary Prince Day,Public Holiday
+bermuda,2040,3 Sep,Monday,Labour Day,Public Holiday
+bermuda,2040,22 Sep,Saturday,September Equinox,Season
+bermuda,2040,31 Oct,Wednesday,Halloween,Observance
+bermuda,2040,4 Nov,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+bermuda,2040,11 Nov,Sunday,Remembrance Day,Public Holiday
+bermuda,2040,12 Nov,Monday,Day off for Remembrance Day,Public Holiday
+bermuda,2040,21 Dec,Friday,December Solstice,Season
+bermuda,2040,24 Dec,Monday,Christmas Eve,Observance
+bermuda,2040,25 Dec,Tuesday,Christmas Day,Public Holiday
+bermuda,2040,26 Dec,Wednesday,Boxing Day,Public Holiday
+bermuda,2040,31 Dec,Monday,New Year's Eve,Observance

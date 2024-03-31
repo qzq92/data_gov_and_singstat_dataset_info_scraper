@@ -1,0 +1,953 @@
+Geo,Event Year,Date,Day,Name,Type
+iceland,2007,1 Jan,Monday,New Year's Day,National holiday
+iceland,2007,6 Jan,Saturday,Twelfth Night,Observance
+iceland,2007,14 Feb,Wednesday,Valentine's Day,Observance
+iceland,2007,21 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2007,21 Mar,Wednesday,March Equinox,Season
+iceland,2007,5 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2007,6 Apr,Friday,Good Friday,National holiday
+iceland,2007,7 Apr,Saturday,Holy Saturday,Observance
+iceland,2007,8 Apr,Sunday,Easter Sunday,National holiday
+iceland,2007,9 Apr,Monday,Easter Monday,National holiday
+iceland,2007,19 Apr,Thursday,First Day of Summer,National holiday
+iceland,2007,1 May,Tuesday,Labour Day,National holiday
+iceland,2007,13 May,Sunday,Mothers' Day,Observance
+iceland,2007,17 May,Thursday,Ascension Day,National holiday
+iceland,2007,27 May,Sunday,Whit Sunday,National holiday
+iceland,2007,28 May,Monday,Whit Monday,National holiday
+iceland,2007,17 Jun,Sunday,Icelandic Republic Day,National holiday
+iceland,2007,21 Jun,Thursday,June Solstice,Season
+iceland,2007,6 Aug,Monday,Commerce Day,National holiday
+iceland,2007,23 Sep,Sunday,September Equinox,Season
+iceland,2007,31 Oct,Wednesday,Halloween,Observance
+iceland,2007,11 Nov,Sunday,Fathers' Day,Observance
+iceland,2007,1 Dec,Saturday,Independence Day,Observance
+iceland,2007,22 Dec,Saturday,December Solstice,Season
+iceland,2007,24 Dec,Monday,Christmas Eve (from noon),National holiday
+iceland,2007,25 Dec,Tuesday,Christmas Day,National holiday
+iceland,2007,26 Dec,Wednesday,Second Day of Christmas,National holiday
+iceland,2007,31 Dec,Monday,New Year's Eve (from noon),National holiday
+iceland,2008,1 Jan,Tuesday,New Year's Day,National holiday
+iceland,2008,6 Jan,Sunday,Twelfth Night,Observance
+iceland,2008,6 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2008,14 Feb,Thursday,Valentine's Day,Observance
+iceland,2008,20 Mar,Thursday,Maundy Thursday,National holiday
+iceland,2008,20 Mar,Thursday,March Equinox,Season
+iceland,2008,21 Mar,Friday,Good Friday,National holiday
+iceland,2008,22 Mar,Saturday,Holy Saturday,Observance
+iceland,2008,23 Mar,Sunday,Easter Sunday,National holiday
+iceland,2008,24 Mar,Monday,Easter Monday,National holiday
+iceland,2008,24 Apr,Thursday,First Day of Summer,National holiday
+iceland,2008,1 May,Thursday,Labour Day,National holiday
+iceland,2008,1 May,Thursday,Ascension Day,National holiday
+iceland,2008,11 May,Sunday,Whit Sunday,National holiday
+iceland,2008,11 May,Sunday,Mothers' Day,Observance
+iceland,2008,12 May,Monday,Whit Monday,National holiday
+iceland,2008,17 Jun,Tuesday,Icelandic Republic Day,National holiday
+iceland,2008,20 Jun,Friday,June Solstice,Season
+iceland,2008,4 Aug,Monday,Commerce Day,National holiday
+iceland,2008,22 Sep,Monday,September Equinox,Season
+iceland,2008,31 Oct,Friday,Halloween,Observance
+iceland,2008,9 Nov,Sunday,Fathers' Day,Observance
+iceland,2008,1 Dec,Monday,Independence Day,Observance
+iceland,2008,21 Dec,Sunday,December Solstice,Season
+iceland,2008,24 Dec,Wednesday,Christmas Eve (from noon),National holiday
+iceland,2008,25 Dec,Thursday,Christmas Day,National holiday
+iceland,2008,26 Dec,Friday,Second Day of Christmas,National holiday
+iceland,2008,31 Dec,Wednesday,New Year's Eve (from noon),National holiday
+iceland,2009,1 Jan,Thursday,New Year's Day,National holiday
+iceland,2009,6 Jan,Tuesday,Twelfth Night,Observance
+iceland,2009,14 Feb,Saturday,Valentine's Day,Observance
+iceland,2009,25 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2009,20 Mar,Friday,March Equinox,Season
+iceland,2009,9 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2009,10 Apr,Friday,Good Friday,National holiday
+iceland,2009,11 Apr,Saturday,Holy Saturday,Observance
+iceland,2009,12 Apr,Sunday,Easter Sunday,National holiday
+iceland,2009,13 Apr,Monday,Easter Monday,National holiday
+iceland,2009,23 Apr,Thursday,First Day of Summer,National holiday
+iceland,2009,1 May,Friday,Labour Day,National holiday
+iceland,2009,10 May,Sunday,Mothers' Day,Observance
+iceland,2009,21 May,Thursday,Ascension Day,National holiday
+iceland,2009,31 May,Sunday,Whit Sunday,National holiday
+iceland,2009,1 Jun,Monday,Whit Monday,National holiday
+iceland,2009,17 Jun,Wednesday,Icelandic Republic Day,National holiday
+iceland,2009,21 Jun,Sunday,June Solstice,Season
+iceland,2009,3 Aug,Monday,Commerce Day,National holiday
+iceland,2009,22 Sep,Tuesday,September Equinox,Season
+iceland,2009,31 Oct,Saturday,Halloween,Observance
+iceland,2009,8 Nov,Sunday,Fathers' Day,Observance
+iceland,2009,1 Dec,Tuesday,Independence Day,Observance
+iceland,2009,21 Dec,Monday,December Solstice,Season
+iceland,2009,24 Dec,Thursday,Christmas Eve (from noon),National holiday
+iceland,2009,25 Dec,Friday,Christmas Day,National holiday
+iceland,2009,26 Dec,Saturday,Second Day of Christmas,National holiday
+iceland,2009,31 Dec,Thursday,New Year's Eve (from noon),National holiday
+iceland,2010,1 Jan,Friday,New Year's Day,National holiday
+iceland,2010,6 Jan,Wednesday,Twelfth Night,Observance
+iceland,2010,14 Feb,Sunday,Valentine's Day,Observance
+iceland,2010,17 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2010,20 Mar,Saturday,March Equinox,Season
+iceland,2010,1 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2010,2 Apr,Friday,Good Friday,National holiday
+iceland,2010,3 Apr,Saturday,Holy Saturday,Observance
+iceland,2010,4 Apr,Sunday,Easter Sunday,National holiday
+iceland,2010,5 Apr,Monday,Easter Monday,National holiday
+iceland,2010,22 Apr,Thursday,First Day of Summer,National holiday
+iceland,2010,1 May,Saturday,Labour Day,National holiday
+iceland,2010,9 May,Sunday,Mothers' Day,Observance
+iceland,2010,13 May,Thursday,Ascension Day,National holiday
+iceland,2010,23 May,Sunday,Whit Sunday,National holiday
+iceland,2010,24 May,Monday,Whit Monday,National holiday
+iceland,2010,17 Jun,Thursday,Icelandic Republic Day,National holiday
+iceland,2010,21 Jun,Monday,June Solstice,Season
+iceland,2010,2 Aug,Monday,Commerce Day,National holiday
+iceland,2010,23 Sep,Thursday,September Equinox,Season
+iceland,2010,31 Oct,Sunday,Halloween,Observance
+iceland,2010,14 Nov,Sunday,Fathers' Day,Observance
+iceland,2010,1 Dec,Wednesday,Independence Day,Observance
+iceland,2010,21 Dec,Tuesday,December Solstice,Season
+iceland,2010,24 Dec,Friday,Christmas Eve (from noon),National holiday
+iceland,2010,25 Dec,Saturday,Christmas Day,National holiday
+iceland,2010,26 Dec,Sunday,Second Day of Christmas,National holiday
+iceland,2010,31 Dec,Friday,New Year's Eve (from noon),National holiday
+iceland,2011,1 Jan,Saturday,New Year's Day,National holiday
+iceland,2011,6 Jan,Thursday,Twelfth Night,Observance
+iceland,2011,14 Feb,Monday,Valentine's Day,Observance
+iceland,2011,9 Mar,Wednesday,Ash Wednesday,Observance
+iceland,2011,20 Mar,Sunday,March Equinox,Season
+iceland,2011,21 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2011,21 Apr,Thursday,First Day of Summer,National holiday
+iceland,2011,22 Apr,Friday,Good Friday,National holiday
+iceland,2011,23 Apr,Saturday,Holy Saturday,Observance
+iceland,2011,24 Apr,Sunday,Easter Sunday,National holiday
+iceland,2011,25 Apr,Monday,Easter Monday,National holiday
+iceland,2011,1 May,Sunday,Labour Day,National holiday
+iceland,2011,8 May,Sunday,Mothers' Day,Observance
+iceland,2011,2 Jun,Thursday,Ascension Day,National holiday
+iceland,2011,12 Jun,Sunday,Whit Sunday,National holiday
+iceland,2011,13 Jun,Monday,Whit Monday,National holiday
+iceland,2011,17 Jun,Friday,Icelandic Republic Day,National holiday
+iceland,2011,21 Jun,Tuesday,June Solstice,Season
+iceland,2011,1 Aug,Monday,Commerce Day,National holiday
+iceland,2011,23 Sep,Friday,September Equinox,Season
+iceland,2011,31 Oct,Monday,Halloween,Observance
+iceland,2011,13 Nov,Sunday,Fathers' Day,Observance
+iceland,2011,1 Dec,Thursday,Independence Day,Observance
+iceland,2011,22 Dec,Thursday,December Solstice,Season
+iceland,2011,24 Dec,Saturday,Christmas Eve (from noon),National holiday
+iceland,2011,25 Dec,Sunday,Christmas Day,National holiday
+iceland,2011,26 Dec,Monday,Second Day of Christmas,National holiday
+iceland,2011,31 Dec,Saturday,New Year's Eve (from noon),National holiday
+iceland,2012,1 Jan,Sunday,New Year's Day,National holiday
+iceland,2012,6 Jan,Friday,Twelfth Night,Observance
+iceland,2012,14 Feb,Tuesday,Valentine's Day,Observance
+iceland,2012,22 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2012,20 Mar,Tuesday,March Equinox,Season
+iceland,2012,5 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2012,6 Apr,Friday,Good Friday,National holiday
+iceland,2012,7 Apr,Saturday,Holy Saturday,Observance
+iceland,2012,8 Apr,Sunday,Easter Sunday,National holiday
+iceland,2012,9 Apr,Monday,Easter Monday,National holiday
+iceland,2012,19 Apr,Thursday,First Day of Summer,National holiday
+iceland,2012,1 May,Tuesday,Labour Day,National holiday
+iceland,2012,13 May,Sunday,Mothers' Day,Observance
+iceland,2012,17 May,Thursday,Ascension Day,National holiday
+iceland,2012,27 May,Sunday,Whit Sunday,National holiday
+iceland,2012,28 May,Monday,Whit Monday,National holiday
+iceland,2012,17 Jun,Sunday,Icelandic Republic Day,National holiday
+iceland,2012,20 Jun,Wednesday,June Solstice,Season
+iceland,2012,6 Aug,Monday,Commerce Day,National holiday
+iceland,2012,22 Sep,Saturday,September Equinox,Season
+iceland,2012,31 Oct,Wednesday,Halloween,Observance
+iceland,2012,11 Nov,Sunday,Fathers' Day,Observance
+iceland,2012,1 Dec,Saturday,Independence Day,Observance
+iceland,2012,21 Dec,Friday,December Solstice,Season
+iceland,2012,24 Dec,Monday,Christmas Eve (from noon),National holiday
+iceland,2012,25 Dec,Tuesday,Christmas Day,National holiday
+iceland,2012,26 Dec,Wednesday,Second Day of Christmas,National holiday
+iceland,2012,31 Dec,Monday,New Year's Eve (from noon),National holiday
+iceland,2013,1 Jan,Tuesday,New Year's Day,National holiday
+iceland,2013,6 Jan,Sunday,Twelfth Night,Observance
+iceland,2013,13 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2013,14 Feb,Thursday,Valentine's Day,Observance
+iceland,2013,20 Mar,Wednesday,March Equinox,Season
+iceland,2013,28 Mar,Thursday,Maundy Thursday,National holiday
+iceland,2013,29 Mar,Friday,Good Friday,National holiday
+iceland,2013,30 Mar,Saturday,Holy Saturday,Observance
+iceland,2013,31 Mar,Sunday,Easter Sunday,National holiday
+iceland,2013,1 Apr,Monday,Easter Monday,National holiday
+iceland,2013,25 Apr,Thursday,First Day of Summer,National holiday
+iceland,2013,1 May,Wednesday,Labour Day,National holiday
+iceland,2013,9 May,Thursday,Ascension Day,National holiday
+iceland,2013,12 May,Sunday,Mothers' Day,Observance
+iceland,2013,19 May,Sunday,Whit Sunday,National holiday
+iceland,2013,20 May,Monday,Whit Monday,National holiday
+iceland,2013,17 Jun,Monday,Icelandic Republic Day,National holiday
+iceland,2013,21 Jun,Friday,June Solstice,Season
+iceland,2013,5 Aug,Monday,Commerce Day,National holiday
+iceland,2013,22 Sep,Sunday,September Equinox,Season
+iceland,2013,31 Oct,Thursday,Halloween,Observance
+iceland,2013,10 Nov,Sunday,Fathers' Day,Observance
+iceland,2013,1 Dec,Sunday,Independence Day,Observance
+iceland,2013,21 Dec,Saturday,December Solstice,Season
+iceland,2013,24 Dec,Tuesday,Christmas Eve (from noon),National holiday
+iceland,2013,25 Dec,Wednesday,Christmas Day,National holiday
+iceland,2013,26 Dec,Thursday,Second Day of Christmas,National holiday
+iceland,2013,31 Dec,Tuesday,New Year's Eve (from noon),National holiday
+iceland,2014,1 Jan,Wednesday,New Year's Day,National holiday
+iceland,2014,6 Jan,Monday,Twelfth Night,Observance
+iceland,2014,14 Feb,Friday,Valentine's Day,Observance
+iceland,2014,5 Mar,Wednesday,Ash Wednesday,Observance
+iceland,2014,20 Mar,Thursday,March Equinox,Season
+iceland,2014,17 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2014,18 Apr,Friday,Good Friday,National holiday
+iceland,2014,19 Apr,Saturday,Holy Saturday,Observance
+iceland,2014,20 Apr,Sunday,Easter Sunday,National holiday
+iceland,2014,21 Apr,Monday,Easter Monday,National holiday
+iceland,2014,24 Apr,Thursday,First Day of Summer,National holiday
+iceland,2014,1 May,Thursday,Labour Day,National holiday
+iceland,2014,11 May,Sunday,Mothers' Day,Observance
+iceland,2014,29 May,Thursday,Ascension Day,National holiday
+iceland,2014,8 Jun,Sunday,Whit Sunday,National holiday
+iceland,2014,9 Jun,Monday,Whit Monday,National holiday
+iceland,2014,17 Jun,Tuesday,Icelandic Republic Day,National holiday
+iceland,2014,21 Jun,Saturday,June Solstice,Season
+iceland,2014,4 Aug,Monday,Commerce Day,National holiday
+iceland,2014,23 Sep,Tuesday,September Equinox,Season
+iceland,2014,31 Oct,Friday,Halloween,Observance
+iceland,2014,9 Nov,Sunday,Fathers' Day,Observance
+iceland,2014,1 Dec,Monday,Independence Day,Observance
+iceland,2014,21 Dec,Sunday,December Solstice,Season
+iceland,2014,24 Dec,Wednesday,Christmas Eve (from noon),National holiday
+iceland,2014,25 Dec,Thursday,Christmas Day,National holiday
+iceland,2014,26 Dec,Friday,Second Day of Christmas,National holiday
+iceland,2014,31 Dec,Wednesday,New Year's Eve (from noon),National holiday
+iceland,2015,1 Jan,Thursday,New Year's Day,National holiday
+iceland,2015,6 Jan,Tuesday,Twelfth Night,Observance
+iceland,2015,14 Feb,Saturday,Valentine's Day,Observance
+iceland,2015,18 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2015,20 Mar,Friday,March Equinox,Season
+iceland,2015,2 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2015,3 Apr,Friday,Good Friday,National holiday
+iceland,2015,4 Apr,Saturday,Holy Saturday,Observance
+iceland,2015,5 Apr,Sunday,Easter Sunday,National holiday
+iceland,2015,6 Apr,Monday,Easter Monday,National holiday
+iceland,2015,23 Apr,Thursday,First Day of Summer,National holiday
+iceland,2015,1 May,Friday,Labour Day,National holiday
+iceland,2015,10 May,Sunday,Mothers' Day,Observance
+iceland,2015,14 May,Thursday,Ascension Day,National holiday
+iceland,2015,24 May,Sunday,Whit Sunday,National holiday
+iceland,2015,25 May,Monday,Whit Monday,National holiday
+iceland,2015,17 Jun,Wednesday,Icelandic Republic Day,National holiday
+iceland,2015,21 Jun,Sunday,June Solstice,Season
+iceland,2015,3 Aug,Monday,Commerce Day,National holiday
+iceland,2015,23 Sep,Wednesday,September Equinox,Season
+iceland,2015,31 Oct,Saturday,Halloween,Observance
+iceland,2015,8 Nov,Sunday,Fathers' Day,Observance
+iceland,2015,1 Dec,Tuesday,Independence Day,Observance
+iceland,2015,22 Dec,Tuesday,December Solstice,Season
+iceland,2015,24 Dec,Thursday,Christmas Eve (from noon),National holiday
+iceland,2015,25 Dec,Friday,Christmas Day,National holiday
+iceland,2015,26 Dec,Saturday,Second Day of Christmas,National holiday
+iceland,2015,31 Dec,Thursday,New Year's Eve (from noon),National holiday
+iceland,2016,1 Jan,Friday,New Year's Day,National holiday
+iceland,2016,6 Jan,Wednesday,Twelfth Night,Observance
+iceland,2016,10 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2016,14 Feb,Sunday,Valentine's Day,Observance
+iceland,2016,20 Mar,Sunday,March Equinox,Season
+iceland,2016,24 Mar,Thursday,Maundy Thursday,National holiday
+iceland,2016,25 Mar,Friday,Good Friday,National holiday
+iceland,2016,26 Mar,Saturday,Holy Saturday,Observance
+iceland,2016,27 Mar,Sunday,Easter Sunday,National holiday
+iceland,2016,28 Mar,Monday,Easter Monday,National holiday
+iceland,2016,21 Apr,Thursday,First Day of Summer,National holiday
+iceland,2016,1 May,Sunday,Labour Day,National holiday
+iceland,2016,5 May,Thursday,Ascension Day,National holiday
+iceland,2016,8 May,Sunday,Mothers' Day,Observance
+iceland,2016,15 May,Sunday,Whit Sunday,National holiday
+iceland,2016,16 May,Monday,Whit Monday,National holiday
+iceland,2016,17 Jun,Friday,Icelandic Republic Day,National holiday
+iceland,2016,20 Jun,Monday,June Solstice,Season
+iceland,2016,1 Aug,Monday,Commerce Day,National holiday
+iceland,2016,22 Sep,Thursday,September Equinox,Season
+iceland,2016,31 Oct,Monday,Halloween,Observance
+iceland,2016,13 Nov,Sunday,Fathers' Day,Observance
+iceland,2016,1 Dec,Thursday,Independence Day,Observance
+iceland,2016,21 Dec,Wednesday,December Solstice,Season
+iceland,2016,24 Dec,Saturday,Christmas Eve (from noon),National holiday
+iceland,2016,25 Dec,Sunday,Christmas Day,National holiday
+iceland,2016,26 Dec,Monday,Second Day of Christmas,National holiday
+iceland,2016,31 Dec,Saturday,New Year's Eve (from noon),National holiday
+iceland,2017,1 Jan,Sunday,New Year's Day,National holiday
+iceland,2017,6 Jan,Friday,Twelfth Night,Observance
+iceland,2017,14 Feb,Tuesday,Valentine's Day,Observance
+iceland,2017,1 Mar,Wednesday,Ash Wednesday,Observance
+iceland,2017,20 Mar,Monday,March Equinox,Season
+iceland,2017,13 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2017,14 Apr,Friday,Good Friday,National holiday
+iceland,2017,15 Apr,Saturday,Holy Saturday,Observance
+iceland,2017,16 Apr,Sunday,Easter Sunday,National holiday
+iceland,2017,17 Apr,Monday,Easter Monday,National holiday
+iceland,2017,20 Apr,Thursday,First Day of Summer,National holiday
+iceland,2017,1 May,Monday,Labour Day,National holiday
+iceland,2017,14 May,Sunday,Mothers' Day,Observance
+iceland,2017,25 May,Thursday,Ascension Day,National holiday
+iceland,2017,4 Jun,Sunday,Whit Sunday,National holiday
+iceland,2017,5 Jun,Monday,Whit Monday,National holiday
+iceland,2017,17 Jun,Saturday,Icelandic Republic Day,National holiday
+iceland,2017,21 Jun,Wednesday,June Solstice,Season
+iceland,2017,7 Aug,Monday,Commerce Day,National holiday
+iceland,2017,22 Sep,Friday,September Equinox,Season
+iceland,2017,31 Oct,Tuesday,Halloween,Observance
+iceland,2017,12 Nov,Sunday,Fathers' Day,Observance
+iceland,2017,1 Dec,Friday,Independence Day,Observance
+iceland,2017,21 Dec,Thursday,December Solstice,Season
+iceland,2017,24 Dec,Sunday,Christmas Eve (from noon),National holiday
+iceland,2017,25 Dec,Monday,Christmas Day,National holiday
+iceland,2017,26 Dec,Tuesday,Second Day of Christmas,National holiday
+iceland,2017,31 Dec,Sunday,New Year's Eve (from noon),National holiday
+iceland,2018,1 Jan,Monday,New Year's Day,National holiday
+iceland,2018,6 Jan,Saturday,Twelfth Night,Observance
+iceland,2018,14 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2018,14 Feb,Wednesday,Valentine's Day,Observance
+iceland,2018,20 Mar,Tuesday,March Equinox,Season
+iceland,2018,29 Mar,Thursday,Maundy Thursday,National holiday
+iceland,2018,30 Mar,Friday,Good Friday,National holiday
+iceland,2018,31 Mar,Saturday,Holy Saturday,Observance
+iceland,2018,1 Apr,Sunday,Easter Sunday,National holiday
+iceland,2018,2 Apr,Monday,Easter Monday,National holiday
+iceland,2018,19 Apr,Thursday,First Day of Summer,National holiday
+iceland,2018,1 May,Tuesday,Labour Day,National holiday
+iceland,2018,10 May,Thursday,Ascension Day,National holiday
+iceland,2018,13 May,Sunday,Mothers' Day,Observance
+iceland,2018,20 May,Sunday,Whit Sunday,National holiday
+iceland,2018,21 May,Monday,Whit Monday,National holiday
+iceland,2018,17 Jun,Sunday,Icelandic Republic Day,National holiday
+iceland,2018,21 Jun,Thursday,June Solstice,Season
+iceland,2018,6 Aug,Monday,Commerce Day,National holiday
+iceland,2018,23 Sep,Sunday,September Equinox,Season
+iceland,2018,31 Oct,Wednesday,Halloween,Observance
+iceland,2018,11 Nov,Sunday,Fathers' Day,Observance
+iceland,2018,1 Dec,Saturday,Independence Day,Observance
+iceland,2018,21 Dec,Friday,December Solstice,Season
+iceland,2018,24 Dec,Monday,Christmas Eve (from noon),National holiday
+iceland,2018,25 Dec,Tuesday,Christmas Day,National holiday
+iceland,2018,26 Dec,Wednesday,Second Day of Christmas,National holiday
+iceland,2018,31 Dec,Monday,New Year's Eve (from noon),National holiday
+iceland,2019,1 Jan,Tuesday,New Year's Day,National holiday
+iceland,2019,6 Jan,Sunday,Twelfth Night,Observance
+iceland,2019,14 Feb,Thursday,Valentine's Day,Observance
+iceland,2019,6 Mar,Wednesday,Ash Wednesday,Observance
+iceland,2019,20 Mar,Wednesday,March Equinox,Season
+iceland,2019,18 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2019,19 Apr,Friday,Good Friday,National holiday
+iceland,2019,20 Apr,Saturday,Holy Saturday,Observance
+iceland,2019,21 Apr,Sunday,Easter Sunday,National holiday
+iceland,2019,22 Apr,Monday,Easter Monday,National holiday
+iceland,2019,25 Apr,Thursday,First Day of Summer,National holiday
+iceland,2019,1 May,Wednesday,Labour Day,National holiday
+iceland,2019,12 May,Sunday,Mothers' Day,Observance
+iceland,2019,30 May,Thursday,Ascension Day,National holiday
+iceland,2019,9 Jun,Sunday,Whit Sunday,National holiday
+iceland,2019,10 Jun,Monday,Whit Monday,National holiday
+iceland,2019,17 Jun,Monday,Icelandic Republic Day,National holiday
+iceland,2019,21 Jun,Friday,June Solstice,Season
+iceland,2019,5 Aug,Monday,Commerce Day,National holiday
+iceland,2019,23 Sep,Monday,September Equinox,Season
+iceland,2019,31 Oct,Thursday,Halloween,Observance
+iceland,2019,10 Nov,Sunday,Fathers' Day,Observance
+iceland,2019,1 Dec,Sunday,Independence Day,Observance
+iceland,2019,22 Dec,Sunday,December Solstice,Season
+iceland,2019,24 Dec,Tuesday,Christmas Eve (from noon),National holiday
+iceland,2019,25 Dec,Wednesday,Christmas Day,National holiday
+iceland,2019,26 Dec,Thursday,Second Day of Christmas,National holiday
+iceland,2019,31 Dec,Tuesday,New Year's Eve (from noon),National holiday
+iceland,2020,1 Jan,Wednesday,New Year's Day,National holiday
+iceland,2020,6 Jan,Monday,Twelfth Night,Observance
+iceland,2020,14 Feb,Friday,Valentine's Day,Observance
+iceland,2020,26 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2020,20 Mar,Friday,March Equinox,Season
+iceland,2020,9 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2020,10 Apr,Friday,Good Friday,National holiday
+iceland,2020,11 Apr,Saturday,Holy Saturday,Observance
+iceland,2020,12 Apr,Sunday,Easter Sunday,National holiday
+iceland,2020,13 Apr,Monday,Easter Monday,National holiday
+iceland,2020,23 Apr,Thursday,First Day of Summer,National holiday
+iceland,2020,1 May,Friday,Labour Day,National holiday
+iceland,2020,10 May,Sunday,Mothers' Day,Observance
+iceland,2020,21 May,Thursday,Ascension Day,National holiday
+iceland,2020,31 May,Sunday,Whit Sunday,National holiday
+iceland,2020,1 Jun,Monday,Whit Monday,National holiday
+iceland,2020,17 Jun,Wednesday,Icelandic Republic Day,National holiday
+iceland,2020,20 Jun,Saturday,June Solstice,Season
+iceland,2020,3 Aug,Monday,Commerce Day,National holiday
+iceland,2020,22 Sep,Tuesday,September Equinox,Season
+iceland,2020,31 Oct,Saturday,Halloween,Observance
+iceland,2020,8 Nov,Sunday,Fathers' Day,Observance
+iceland,2020,1 Dec,Tuesday,Independence Day,Observance
+iceland,2020,21 Dec,Monday,December Solstice,Season
+iceland,2020,24 Dec,Thursday,Christmas Eve (from noon),National holiday
+iceland,2020,25 Dec,Friday,Christmas Day,National holiday
+iceland,2020,26 Dec,Saturday,Second Day of Christmas,National holiday
+iceland,2020,31 Dec,Thursday,New Year's Eve (from noon),National holiday
+iceland,2021,1 Jan,Friday,New Year's Day,National holiday
+iceland,2021,6 Jan,Wednesday,Twelfth Night,Observance
+iceland,2021,14 Feb,Sunday,Valentine's Day,Observance
+iceland,2021,17 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2021,20 Mar,Saturday,March Equinox,Season
+iceland,2021,1 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2021,2 Apr,Friday,Good Friday,National holiday
+iceland,2021,3 Apr,Saturday,Holy Saturday,Observance
+iceland,2021,4 Apr,Sunday,Easter Sunday,National holiday
+iceland,2021,5 Apr,Monday,Easter Monday,National holiday
+iceland,2021,22 Apr,Thursday,First Day of Summer,National holiday
+iceland,2021,1 May,Saturday,Labour Day,National holiday
+iceland,2021,9 May,Sunday,Mothers' Day,Observance
+iceland,2021,13 May,Thursday,Ascension Day,National holiday
+iceland,2021,23 May,Sunday,Whit Sunday,National holiday
+iceland,2021,24 May,Monday,Whit Monday,National holiday
+iceland,2021,17 Jun,Thursday,Icelandic Republic Day,National holiday
+iceland,2021,21 Jun,Monday,June Solstice,Season
+iceland,2021,2 Aug,Monday,Commerce Day,National holiday
+iceland,2021,22 Sep,Wednesday,September Equinox,Season
+iceland,2021,31 Oct,Sunday,Halloween,Observance
+iceland,2021,14 Nov,Sunday,Fathers' Day,Observance
+iceland,2021,1 Dec,Wednesday,Independence Day,Observance
+iceland,2021,21 Dec,Tuesday,December Solstice,Season
+iceland,2021,24 Dec,Friday,Christmas Eve (from noon),National holiday
+iceland,2021,25 Dec,Saturday,Christmas Day,National holiday
+iceland,2021,26 Dec,Sunday,Second Day of Christmas,National holiday
+iceland,2021,31 Dec,Friday,New Year's Eve (from noon),National holiday
+iceland,2022,1 Jan,Saturday,New Year's Day,National holiday
+iceland,2022,6 Jan,Thursday,Twelfth Night,Observance
+iceland,2022,14 Feb,Monday,Valentine's Day,Observance
+iceland,2022,2 Mar,Wednesday,Ash Wednesday,Observance
+iceland,2022,20 Mar,Sunday,March Equinox,Season
+iceland,2022,14 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2022,15 Apr,Friday,Good Friday,National holiday
+iceland,2022,16 Apr,Saturday,Holy Saturday,Observance
+iceland,2022,17 Apr,Sunday,Easter Sunday,National holiday
+iceland,2022,18 Apr,Monday,Easter Monday,National holiday
+iceland,2022,21 Apr,Thursday,First Day of Summer,National holiday
+iceland,2022,1 May,Sunday,Labour Day,National holiday
+iceland,2022,8 May,Sunday,Mothers' Day,Observance
+iceland,2022,26 May,Thursday,Ascension Day,National holiday
+iceland,2022,5 Jun,Sunday,Whit Sunday,National holiday
+iceland,2022,6 Jun,Monday,Whit Monday,National holiday
+iceland,2022,17 Jun,Friday,Icelandic Republic Day,National holiday
+iceland,2022,21 Jun,Tuesday,June Solstice,Season
+iceland,2022,1 Aug,Monday,Commerce Day,National holiday
+iceland,2022,23 Sep,Friday,September Equinox,Season
+iceland,2022,31 Oct,Monday,Halloween,Observance
+iceland,2022,13 Nov,Sunday,Fathers' Day,Observance
+iceland,2022,1 Dec,Thursday,Independence Day,Observance
+iceland,2022,21 Dec,Wednesday,December Solstice,Season
+iceland,2022,24 Dec,Saturday,Christmas Eve (from noon),National holiday
+iceland,2022,25 Dec,Sunday,Christmas Day,National holiday
+iceland,2022,26 Dec,Monday,Second Day of Christmas,National holiday
+iceland,2022,31 Dec,Saturday,New Year's Eve (from noon),National holiday
+iceland,2023,1 Jan,Sunday,New Year's Day,National holiday
+iceland,2023,6 Jan,Friday,Twelfth Night,Observance
+iceland,2023,14 Feb,Tuesday,Valentine's Day,Observance
+iceland,2023,22 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2023,20 Mar,Monday,March Equinox,Season
+iceland,2023,6 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2023,7 Apr,Friday,Good Friday,National holiday
+iceland,2023,8 Apr,Saturday,Holy Saturday,Observance
+iceland,2023,9 Apr,Sunday,Easter Sunday,National holiday
+iceland,2023,10 Apr,Monday,Easter Monday,National holiday
+iceland,2023,20 Apr,Thursday,First Day of Summer,National holiday
+iceland,2023,1 May,Monday,Labour Day,National holiday
+iceland,2023,14 May,Sunday,Mothers' Day,Observance
+iceland,2023,18 May,Thursday,Ascension Day,National holiday
+iceland,2023,28 May,Sunday,Whit Sunday,National holiday
+iceland,2023,29 May,Monday,Whit Monday,National holiday
+iceland,2023,17 Jun,Saturday,Icelandic Republic Day,National holiday
+iceland,2023,21 Jun,Wednesday,June Solstice,Season
+iceland,2023,7 Aug,Monday,Commerce Day,National holiday
+iceland,2023,23 Sep,Saturday,September Equinox,Season
+iceland,2023,31 Oct,Tuesday,Halloween,Observance
+iceland,2023,12 Nov,Sunday,Fathers' Day,Observance
+iceland,2023,1 Dec,Friday,Independence Day,Observance
+iceland,2023,22 Dec,Friday,December Solstice,Season
+iceland,2023,24 Dec,Sunday,Christmas Eve (from noon),National holiday
+iceland,2023,25 Dec,Monday,Christmas Day,National holiday
+iceland,2023,26 Dec,Tuesday,Second Day of Christmas,National holiday
+iceland,2023,31 Dec,Sunday,New Year's Eve (from noon),National holiday
+iceland,2024,1 Jan,Monday,New Year's Day,National holiday
+iceland,2024,6 Jan,Saturday,Twelfth Night,Observance
+iceland,2024,14 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2024,14 Feb,Wednesday,Valentine's Day,Observance
+iceland,2024,20 Mar,Wednesday,March Equinox,Season
+iceland,2024,28 Mar,Thursday,Maundy Thursday,National holiday
+iceland,2024,29 Mar,Friday,Good Friday,National holiday
+iceland,2024,30 Mar,Saturday,Holy Saturday,Observance
+iceland,2024,31 Mar,Sunday,Easter Sunday,National holiday
+iceland,2024,1 Apr,Monday,Easter Monday,National holiday
+iceland,2024,25 Apr,Thursday,First Day of Summer,National holiday
+iceland,2024,1 May,Wednesday,Labour Day,National holiday
+iceland,2024,9 May,Thursday,Ascension Day,National holiday
+iceland,2024,12 May,Sunday,Mothers' Day,Observance
+iceland,2024,19 May,Sunday,Whit Sunday,National holiday
+iceland,2024,20 May,Monday,Whit Monday,National holiday
+iceland,2024,17 Jun,Monday,Icelandic Republic Day,National holiday
+iceland,2024,20 Jun,Thursday,June Solstice,Season
+iceland,2024,5 Aug,Monday,Commerce Day,National holiday
+iceland,2024,22 Sep,Sunday,September Equinox,Season
+iceland,2024,31 Oct,Thursday,Halloween,Observance
+iceland,2024,10 Nov,Sunday,Fathers' Day,Observance
+iceland,2024,1 Dec,Sunday,Independence Day,Observance
+iceland,2024,21 Dec,Saturday,December Solstice,Season
+iceland,2024,24 Dec,Tuesday,Christmas Eve (from noon),National holiday
+iceland,2024,25 Dec,Wednesday,Christmas Day,National holiday
+iceland,2024,26 Dec,Thursday,Second Day of Christmas,National holiday
+iceland,2024,31 Dec,Tuesday,New Year's Eve (from noon),National holiday
+iceland,2025,1 Jan,Wednesday,New Year's Day,National holiday
+iceland,2025,6 Jan,Monday,Twelfth Night,Observance
+iceland,2025,14 Feb,Friday,Valentine's Day,Observance
+iceland,2025,5 Mar,Wednesday,Ash Wednesday,Observance
+iceland,2025,20 Mar,Thursday,March Equinox,Season
+iceland,2025,17 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2025,18 Apr,Friday,Good Friday,National holiday
+iceland,2025,19 Apr,Saturday,Holy Saturday,Observance
+iceland,2025,20 Apr,Sunday,Easter Sunday,National holiday
+iceland,2025,21 Apr,Monday,Easter Monday,National holiday
+iceland,2025,24 Apr,Thursday,First Day of Summer,National holiday
+iceland,2025,1 May,Thursday,Labour Day,National holiday
+iceland,2025,11 May,Sunday,Mothers' Day,Observance
+iceland,2025,29 May,Thursday,Ascension Day,National holiday
+iceland,2025,8 Jun,Sunday,Whit Sunday,National holiday
+iceland,2025,9 Jun,Monday,Whit Monday,National holiday
+iceland,2025,17 Jun,Tuesday,Icelandic Republic Day,National holiday
+iceland,2025,21 Jun,Saturday,June Solstice,Season
+iceland,2025,4 Aug,Monday,Commerce Day,National holiday
+iceland,2025,22 Sep,Monday,September Equinox,Season
+iceland,2025,31 Oct,Friday,Halloween,Observance
+iceland,2025,9 Nov,Sunday,Fathers' Day,Observance
+iceland,2025,1 Dec,Monday,Independence Day,Observance
+iceland,2025,21 Dec,Sunday,December Solstice,Season
+iceland,2025,24 Dec,Wednesday,Christmas Eve (from noon),National holiday
+iceland,2025,25 Dec,Thursday,Christmas Day,National holiday
+iceland,2025,26 Dec,Friday,Second Day of Christmas,National holiday
+iceland,2025,31 Dec,Wednesday,New Year's Eve (from noon),National holiday
+iceland,2026,1 Jan,Thursday,New Year's Day,National holiday
+iceland,2026,6 Jan,Tuesday,Twelfth Night,Observance
+iceland,2026,14 Feb,Saturday,Valentine's Day,Observance
+iceland,2026,18 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2026,20 Mar,Friday,March Equinox,Season
+iceland,2026,2 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2026,3 Apr,Friday,Good Friday,National holiday
+iceland,2026,4 Apr,Saturday,Holy Saturday,Observance
+iceland,2026,5 Apr,Sunday,Easter Sunday,National holiday
+iceland,2026,6 Apr,Monday,Easter Monday,National holiday
+iceland,2026,23 Apr,Thursday,First Day of Summer,National holiday
+iceland,2026,1 May,Friday,Labour Day,National holiday
+iceland,2026,10 May,Sunday,Mothers' Day,Observance
+iceland,2026,14 May,Thursday,Ascension Day,National holiday
+iceland,2026,24 May,Sunday,Whit Sunday,National holiday
+iceland,2026,25 May,Monday,Whit Monday,National holiday
+iceland,2026,17 Jun,Wednesday,Icelandic Republic Day,National holiday
+iceland,2026,21 Jun,Sunday,June Solstice,Season
+iceland,2026,3 Aug,Monday,Commerce Day,National holiday
+iceland,2026,23 Sep,Wednesday,September Equinox,Season
+iceland,2026,31 Oct,Saturday,Halloween,Observance
+iceland,2026,8 Nov,Sunday,Fathers' Day,Observance
+iceland,2026,1 Dec,Tuesday,Independence Day,Observance
+iceland,2026,21 Dec,Monday,December Solstice,Season
+iceland,2026,24 Dec,Thursday,Christmas Eve (from noon),National holiday
+iceland,2026,25 Dec,Friday,Christmas Day,National holiday
+iceland,2026,26 Dec,Saturday,Second Day of Christmas,National holiday
+iceland,2026,31 Dec,Thursday,New Year's Eve (from noon),National holiday
+iceland,2027,1 Jan,Friday,New Year's Day,National holiday
+iceland,2027,6 Jan,Wednesday,Twelfth Night,Observance
+iceland,2027,10 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2027,14 Feb,Sunday,Valentine's Day,Observance
+iceland,2027,20 Mar,Saturday,March Equinox,Season
+iceland,2027,25 Mar,Thursday,Maundy Thursday,National holiday
+iceland,2027,26 Mar,Friday,Good Friday,National holiday
+iceland,2027,27 Mar,Saturday,Holy Saturday,Observance
+iceland,2027,28 Mar,Sunday,Easter Sunday,National holiday
+iceland,2027,29 Mar,Monday,Easter Monday,National holiday
+iceland,2027,22 Apr,Thursday,First Day of Summer,National holiday
+iceland,2027,1 May,Saturday,Labour Day,National holiday
+iceland,2027,6 May,Thursday,Ascension Day,National holiday
+iceland,2027,9 May,Sunday,Mothers' Day,Observance
+iceland,2027,16 May,Sunday,Whit Sunday,National holiday
+iceland,2027,17 May,Monday,Whit Monday,National holiday
+iceland,2027,17 Jun,Thursday,Icelandic Republic Day,National holiday
+iceland,2027,21 Jun,Monday,June Solstice,Season
+iceland,2027,2 Aug,Monday,Commerce Day,National holiday
+iceland,2027,23 Sep,Thursday,September Equinox,Season
+iceland,2027,31 Oct,Sunday,Halloween,Observance
+iceland,2027,14 Nov,Sunday,Fathers' Day,Observance
+iceland,2027,1 Dec,Wednesday,Independence Day,Observance
+iceland,2027,22 Dec,Wednesday,December Solstice,Season
+iceland,2027,24 Dec,Friday,Christmas Eve (from noon),National holiday
+iceland,2027,25 Dec,Saturday,Christmas Day,National holiday
+iceland,2027,26 Dec,Sunday,Second Day of Christmas,National holiday
+iceland,2027,31 Dec,Friday,New Year's Eve (from noon),National holiday
+iceland,2028,1 Jan,Saturday,New Year's Day,National holiday
+iceland,2028,6 Jan,Thursday,Twelfth Night,Observance
+iceland,2028,14 Feb,Monday,Valentine's Day,Observance
+iceland,2028,1 Mar,Wednesday,Ash Wednesday,Observance
+iceland,2028,20 Mar,Monday,March Equinox,Season
+iceland,2028,13 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2028,14 Apr,Friday,Good Friday,National holiday
+iceland,2028,15 Apr,Saturday,Holy Saturday,Observance
+iceland,2028,16 Apr,Sunday,Easter Sunday,National holiday
+iceland,2028,17 Apr,Monday,Easter Monday,National holiday
+iceland,2028,20 Apr,Thursday,First Day of Summer,National holiday
+iceland,2028,1 May,Monday,Labour Day,National holiday
+iceland,2028,14 May,Sunday,Mothers' Day,Observance
+iceland,2028,25 May,Thursday,Ascension Day,National holiday
+iceland,2028,4 Jun,Sunday,Whit Sunday,National holiday
+iceland,2028,5 Jun,Monday,Whit Monday,National holiday
+iceland,2028,17 Jun,Saturday,Icelandic Republic Day,National holiday
+iceland,2028,20 Jun,Tuesday,June Solstice,Season
+iceland,2028,7 Aug,Monday,Commerce Day,National holiday
+iceland,2028,22 Sep,Friday,September Equinox,Season
+iceland,2028,31 Oct,Tuesday,Halloween,Observance
+iceland,2028,12 Nov,Sunday,Fathers' Day,Observance
+iceland,2028,1 Dec,Friday,Independence Day,Observance
+iceland,2028,21 Dec,Thursday,December Solstice,Season
+iceland,2028,24 Dec,Sunday,Christmas Eve (from noon),National holiday
+iceland,2028,25 Dec,Monday,Christmas Day,National holiday
+iceland,2028,26 Dec,Tuesday,Second Day of Christmas,National holiday
+iceland,2028,31 Dec,Sunday,New Year's Eve (from noon),National holiday
+iceland,2029,1 Jan,Monday,New Year's Day,National holiday
+iceland,2029,6 Jan,Saturday,Twelfth Night,Observance
+iceland,2029,14 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2029,14 Feb,Wednesday,Valentine's Day,Observance
+iceland,2029,20 Mar,Tuesday,March Equinox,Season
+iceland,2029,29 Mar,Thursday,Maundy Thursday,National holiday
+iceland,2029,30 Mar,Friday,Good Friday,National holiday
+iceland,2029,31 Mar,Saturday,Holy Saturday,Observance
+iceland,2029,1 Apr,Sunday,Easter Sunday,National holiday
+iceland,2029,2 Apr,Monday,Easter Monday,National holiday
+iceland,2029,19 Apr,Thursday,First Day of Summer,National holiday
+iceland,2029,1 May,Tuesday,Labour Day,National holiday
+iceland,2029,10 May,Thursday,Ascension Day,National holiday
+iceland,2029,13 May,Sunday,Mothers' Day,Observance
+iceland,2029,20 May,Sunday,Whit Sunday,National holiday
+iceland,2029,21 May,Monday,Whit Monday,National holiday
+iceland,2029,17 Jun,Sunday,Icelandic Republic Day,National holiday
+iceland,2029,21 Jun,Thursday,June Solstice,Season
+iceland,2029,6 Aug,Monday,Commerce Day,National holiday
+iceland,2029,22 Sep,Saturday,September Equinox,Season
+iceland,2029,31 Oct,Wednesday,Halloween,Observance
+iceland,2029,11 Nov,Sunday,Fathers' Day,Observance
+iceland,2029,1 Dec,Saturday,Independence Day,Observance
+iceland,2029,21 Dec,Friday,December Solstice,Season
+iceland,2029,24 Dec,Monday,Christmas Eve (from noon),National holiday
+iceland,2029,25 Dec,Tuesday,Christmas Day,National holiday
+iceland,2029,26 Dec,Wednesday,Second Day of Christmas,National holiday
+iceland,2029,31 Dec,Monday,New Year's Eve (from noon),National holiday
+iceland,2030,1 Jan,Tuesday,New Year's Day,National holiday
+iceland,2030,6 Jan,Sunday,Twelfth Night,Observance
+iceland,2030,14 Feb,Thursday,Valentine's Day,Observance
+iceland,2030,6 Mar,Wednesday,Ash Wednesday,Observance
+iceland,2030,20 Mar,Wednesday,March Equinox,Season
+iceland,2030,18 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2030,19 Apr,Friday,Good Friday,National holiday
+iceland,2030,20 Apr,Saturday,Holy Saturday,Observance
+iceland,2030,21 Apr,Sunday,Easter Sunday,National holiday
+iceland,2030,22 Apr,Monday,Easter Monday,National holiday
+iceland,2030,25 Apr,Thursday,First Day of Summer,National holiday
+iceland,2030,1 May,Wednesday,Labour Day,National holiday
+iceland,2030,12 May,Sunday,Mothers' Day,Observance
+iceland,2030,30 May,Thursday,Ascension Day,National holiday
+iceland,2030,9 Jun,Sunday,Whit Sunday,National holiday
+iceland,2030,10 Jun,Monday,Whit Monday,National holiday
+iceland,2030,17 Jun,Monday,Icelandic Republic Day,National holiday
+iceland,2030,21 Jun,Friday,June Solstice,Season
+iceland,2030,5 Aug,Monday,Commerce Day,National holiday
+iceland,2030,22 Sep,Sunday,September Equinox,Season
+iceland,2030,31 Oct,Thursday,Halloween,Observance
+iceland,2030,10 Nov,Sunday,Fathers' Day,Observance
+iceland,2030,1 Dec,Sunday,Independence Day,Observance
+iceland,2030,21 Dec,Saturday,December Solstice,Season
+iceland,2030,24 Dec,Tuesday,Christmas Eve (from noon),National holiday
+iceland,2030,25 Dec,Wednesday,Christmas Day,National holiday
+iceland,2030,26 Dec,Thursday,Second Day of Christmas,National holiday
+iceland,2030,31 Dec,Tuesday,New Year's Eve (from noon),National holiday
+iceland,2031,1 Jan,Wednesday,New Year's Day,National holiday
+iceland,2031,6 Jan,Monday,Twelfth Night,Observance
+iceland,2031,14 Feb,Friday,Valentine's Day,Observance
+iceland,2031,26 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2031,20 Mar,Thursday,March Equinox,Season
+iceland,2031,10 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2031,11 Apr,Friday,Good Friday,National holiday
+iceland,2031,12 Apr,Saturday,Holy Saturday,Observance
+iceland,2031,13 Apr,Sunday,Easter Sunday,National holiday
+iceland,2031,14 Apr,Monday,Easter Monday,National holiday
+iceland,2031,24 Apr,Thursday,First Day of Summer,National holiday
+iceland,2031,1 May,Thursday,Labour Day,National holiday
+iceland,2031,11 May,Sunday,Mothers' Day,Observance
+iceland,2031,22 May,Thursday,Ascension Day,National holiday
+iceland,2031,1 Jun,Sunday,Whit Sunday,National holiday
+iceland,2031,2 Jun,Monday,Whit Monday,National holiday
+iceland,2031,17 Jun,Tuesday,Icelandic Republic Day,National holiday
+iceland,2031,21 Jun,Saturday,June Solstice,Season
+iceland,2031,4 Aug,Monday,Commerce Day,National holiday
+iceland,2031,23 Sep,Tuesday,September Equinox,Season
+iceland,2031,31 Oct,Friday,Halloween,Observance
+iceland,2031,9 Nov,Sunday,Fathers' Day,Observance
+iceland,2031,1 Dec,Monday,Independence Day,Observance
+iceland,2031,22 Dec,Monday,December Solstice,Season
+iceland,2031,24 Dec,Wednesday,Christmas Eve (from noon),National holiday
+iceland,2031,25 Dec,Thursday,Christmas Day,National holiday
+iceland,2031,26 Dec,Friday,Second Day of Christmas,National holiday
+iceland,2031,31 Dec,Wednesday,New Year's Eve (from noon),National holiday
+iceland,2032,1 Jan,Thursday,New Year's Day,National holiday
+iceland,2032,6 Jan,Tuesday,Twelfth Night,Observance
+iceland,2032,11 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2032,14 Feb,Saturday,Valentine's Day,Observance
+iceland,2032,20 Mar,Saturday,March Equinox,Season
+iceland,2032,25 Mar,Thursday,Maundy Thursday,National holiday
+iceland,2032,26 Mar,Friday,Good Friday,National holiday
+iceland,2032,27 Mar,Saturday,Holy Saturday,Observance
+iceland,2032,28 Mar,Sunday,Easter Sunday,National holiday
+iceland,2032,29 Mar,Monday,Easter Monday,National holiday
+iceland,2032,22 Apr,Thursday,First Day of Summer,National holiday
+iceland,2032,1 May,Saturday,Labour Day,National holiday
+iceland,2032,6 May,Thursday,Ascension Day,National holiday
+iceland,2032,9 May,Sunday,Mothers' Day,Observance
+iceland,2032,16 May,Sunday,Whit Sunday,National holiday
+iceland,2032,17 May,Monday,Whit Monday,National holiday
+iceland,2032,17 Jun,Thursday,Icelandic Republic Day,National holiday
+iceland,2032,20 Jun,Sunday,June Solstice,Season
+iceland,2032,2 Aug,Monday,Commerce Day,National holiday
+iceland,2032,22 Sep,Wednesday,September Equinox,Season
+iceland,2032,31 Oct,Sunday,Halloween,Observance
+iceland,2032,14 Nov,Sunday,Fathers' Day,Observance
+iceland,2032,1 Dec,Wednesday,Independence Day,Observance
+iceland,2032,21 Dec,Tuesday,December Solstice,Season
+iceland,2032,24 Dec,Friday,Christmas Eve (from noon),National holiday
+iceland,2032,25 Dec,Saturday,Christmas Day,National holiday
+iceland,2032,26 Dec,Sunday,Second Day of Christmas,National holiday
+iceland,2032,31 Dec,Friday,New Year's Eve (from noon),National holiday
+iceland,2033,1 Jan,Saturday,New Year's Day,National holiday
+iceland,2033,6 Jan,Thursday,Twelfth Night,Observance
+iceland,2033,14 Feb,Monday,Valentine's Day,Observance
+iceland,2033,2 Mar,Wednesday,Ash Wednesday,Observance
+iceland,2033,20 Mar,Sunday,March Equinox,Season
+iceland,2033,14 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2033,15 Apr,Friday,Good Friday,National holiday
+iceland,2033,16 Apr,Saturday,Holy Saturday,Observance
+iceland,2033,17 Apr,Sunday,Easter Sunday,National holiday
+iceland,2033,18 Apr,Monday,Easter Monday,National holiday
+iceland,2033,21 Apr,Thursday,First Day of Summer,National holiday
+iceland,2033,1 May,Sunday,Labour Day,National holiday
+iceland,2033,8 May,Sunday,Mothers' Day,Observance
+iceland,2033,26 May,Thursday,Ascension Day,National holiday
+iceland,2033,5 Jun,Sunday,Whit Sunday,National holiday
+iceland,2033,6 Jun,Monday,Whit Monday,National holiday
+iceland,2033,17 Jun,Friday,Icelandic Republic Day,National holiday
+iceland,2033,21 Jun,Tuesday,June Solstice,Season
+iceland,2033,1 Aug,Monday,Commerce Day,National holiday
+iceland,2033,22 Sep,Thursday,September Equinox,Season
+iceland,2033,31 Oct,Monday,Halloween,Observance
+iceland,2033,13 Nov,Sunday,Fathers' Day,Observance
+iceland,2033,1 Dec,Thursday,Independence Day,Observance
+iceland,2033,21 Dec,Wednesday,December Solstice,Season
+iceland,2033,24 Dec,Saturday,Christmas Eve (from noon),National holiday
+iceland,2033,25 Dec,Sunday,Christmas Day,National holiday
+iceland,2033,26 Dec,Monday,Second Day of Christmas,National holiday
+iceland,2033,31 Dec,Saturday,New Year's Eve (from noon),National holiday
+iceland,2034,1 Jan,Sunday,New Year's Day,National holiday
+iceland,2034,6 Jan,Friday,Twelfth Night,Observance
+iceland,2034,14 Feb,Tuesday,Valentine's Day,Observance
+iceland,2034,22 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2034,20 Mar,Monday,March Equinox,Season
+iceland,2034,6 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2034,7 Apr,Friday,Good Friday,National holiday
+iceland,2034,8 Apr,Saturday,Holy Saturday,Observance
+iceland,2034,9 Apr,Sunday,Easter Sunday,National holiday
+iceland,2034,10 Apr,Monday,Easter Monday,National holiday
+iceland,2034,20 Apr,Thursday,First Day of Summer,National holiday
+iceland,2034,1 May,Monday,Labour Day,National holiday
+iceland,2034,14 May,Sunday,Mothers' Day,Observance
+iceland,2034,18 May,Thursday,Ascension Day,National holiday
+iceland,2034,28 May,Sunday,Whit Sunday,National holiday
+iceland,2034,29 May,Monday,Whit Monday,National holiday
+iceland,2034,17 Jun,Saturday,Icelandic Republic Day,National holiday
+iceland,2034,21 Jun,Wednesday,June Solstice,Season
+iceland,2034,7 Aug,Monday,Commerce Day,National holiday
+iceland,2034,22 Sep,Friday,September Equinox,Season
+iceland,2034,31 Oct,Tuesday,Halloween,Observance
+iceland,2034,12 Nov,Sunday,Fathers' Day,Observance
+iceland,2034,1 Dec,Friday,Independence Day,Observance
+iceland,2034,21 Dec,Thursday,December Solstice,Season
+iceland,2034,24 Dec,Sunday,Christmas Eve (from noon),National holiday
+iceland,2034,25 Dec,Monday,Christmas Day,National holiday
+iceland,2034,26 Dec,Tuesday,Second Day of Christmas,National holiday
+iceland,2034,31 Dec,Sunday,New Year's Eve (from noon),National holiday
+iceland,2035,1 Jan,Monday,New Year's Day,National holiday
+iceland,2035,6 Jan,Saturday,Twelfth Night,Observance
+iceland,2035,7 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2035,14 Feb,Wednesday,Valentine's Day,Observance
+iceland,2035,20 Mar,Tuesday,March Equinox,Season
+iceland,2035,22 Mar,Thursday,Maundy Thursday,National holiday
+iceland,2035,23 Mar,Friday,Good Friday,National holiday
+iceland,2035,24 Mar,Saturday,Holy Saturday,Observance
+iceland,2035,25 Mar,Sunday,Easter Sunday,National holiday
+iceland,2035,26 Mar,Monday,Easter Monday,National holiday
+iceland,2035,19 Apr,Thursday,First Day of Summer,National holiday
+iceland,2035,1 May,Tuesday,Labour Day,National holiday
+iceland,2035,3 May,Thursday,Ascension Day,National holiday
+iceland,2035,13 May,Sunday,Whit Sunday,National holiday
+iceland,2035,13 May,Sunday,Mothers' Day,Observance
+iceland,2035,14 May,Monday,Whit Monday,National holiday
+iceland,2035,17 Jun,Sunday,Icelandic Republic Day,National holiday
+iceland,2035,21 Jun,Thursday,June Solstice,Season
+iceland,2035,6 Aug,Monday,Commerce Day,National holiday
+iceland,2035,23 Sep,Sunday,September Equinox,Season
+iceland,2035,31 Oct,Wednesday,Halloween,Observance
+iceland,2035,11 Nov,Sunday,Fathers' Day,Observance
+iceland,2035,1 Dec,Saturday,Independence Day,Observance
+iceland,2035,22 Dec,Saturday,December Solstice,Season
+iceland,2035,24 Dec,Monday,Christmas Eve (from noon),National holiday
+iceland,2035,25 Dec,Tuesday,Christmas Day,National holiday
+iceland,2035,26 Dec,Wednesday,Second Day of Christmas,National holiday
+iceland,2035,31 Dec,Monday,New Year's Eve (from noon),National holiday
+iceland,2036,1 Jan,Tuesday,New Year's Day,National holiday
+iceland,2036,6 Jan,Sunday,Twelfth Night,Observance
+iceland,2036,14 Feb,Thursday,Valentine's Day,Observance
+iceland,2036,27 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2036,20 Mar,Thursday,March Equinox,Season
+iceland,2036,10 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2036,11 Apr,Friday,Good Friday,National holiday
+iceland,2036,12 Apr,Saturday,Holy Saturday,Observance
+iceland,2036,13 Apr,Sunday,Easter Sunday,National holiday
+iceland,2036,14 Apr,Monday,Easter Monday,National holiday
+iceland,2036,24 Apr,Thursday,First Day of Summer,National holiday
+iceland,2036,1 May,Thursday,Labour Day,National holiday
+iceland,2036,11 May,Sunday,Mothers' Day,Observance
+iceland,2036,22 May,Thursday,Ascension Day,National holiday
+iceland,2036,1 Jun,Sunday,Whit Sunday,National holiday
+iceland,2036,2 Jun,Monday,Whit Monday,National holiday
+iceland,2036,17 Jun,Tuesday,Icelandic Republic Day,National holiday
+iceland,2036,20 Jun,Friday,June Solstice,Season
+iceland,2036,4 Aug,Monday,Commerce Day,National holiday
+iceland,2036,22 Sep,Monday,September Equinox,Season
+iceland,2036,31 Oct,Friday,Halloween,Observance
+iceland,2036,9 Nov,Sunday,Fathers' Day,Observance
+iceland,2036,1 Dec,Monday,Independence Day,Observance
+iceland,2036,21 Dec,Sunday,December Solstice,Season
+iceland,2036,24 Dec,Wednesday,Christmas Eve (from noon),National holiday
+iceland,2036,25 Dec,Thursday,Christmas Day,National holiday
+iceland,2036,26 Dec,Friday,Second Day of Christmas,National holiday
+iceland,2036,31 Dec,Wednesday,New Year's Eve (from noon),National holiday
+iceland,2037,1 Jan,Thursday,New Year's Day,National holiday
+iceland,2037,6 Jan,Tuesday,Twelfth Night,Observance
+iceland,2037,14 Feb,Saturday,Valentine's Day,Observance
+iceland,2037,18 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2037,20 Mar,Friday,March Equinox,Season
+iceland,2037,2 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2037,3 Apr,Friday,Good Friday,National holiday
+iceland,2037,4 Apr,Saturday,Holy Saturday,Observance
+iceland,2037,5 Apr,Sunday,Easter Sunday,National holiday
+iceland,2037,6 Apr,Monday,Easter Monday,National holiday
+iceland,2037,23 Apr,Thursday,First Day of Summer,National holiday
+iceland,2037,1 May,Friday,Labour Day,National holiday
+iceland,2037,10 May,Sunday,Mothers' Day,Observance
+iceland,2037,14 May,Thursday,Ascension Day,National holiday
+iceland,2037,24 May,Sunday,Whit Sunday,National holiday
+iceland,2037,25 May,Monday,Whit Monday,National holiday
+iceland,2037,17 Jun,Wednesday,Icelandic Republic Day,National holiday
+iceland,2037,21 Jun,Sunday,June Solstice,Season
+iceland,2037,3 Aug,Monday,Commerce Day,National holiday
+iceland,2037,22 Sep,Tuesday,September Equinox,Season
+iceland,2037,31 Oct,Saturday,Halloween,Observance
+iceland,2037,8 Nov,Sunday,Fathers' Day,Observance
+iceland,2037,1 Dec,Tuesday,Independence Day,Observance
+iceland,2037,21 Dec,Monday,December Solstice,Season
+iceland,2037,24 Dec,Thursday,Christmas Eve (from noon),National holiday
+iceland,2037,25 Dec,Friday,Christmas Day,National holiday
+iceland,2037,26 Dec,Saturday,Second Day of Christmas,National holiday
+iceland,2037,31 Dec,Thursday,New Year's Eve (from noon),National holiday
+iceland,2038,1 Jan,Friday,New Year's Day,National holiday
+iceland,2038,6 Jan,Wednesday,Twelfth Night,Observance
+iceland,2038,14 Feb,Sunday,Valentine's Day,Observance
+iceland,2038,10 Mar,Wednesday,Ash Wednesday,Observance
+iceland,2038,20 Mar,Saturday,March Equinox,Season
+iceland,2038,22 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2038,22 Apr,Thursday,First Day of Summer,National holiday
+iceland,2038,23 Apr,Friday,Good Friday,National holiday
+iceland,2038,24 Apr,Saturday,Holy Saturday,Observance
+iceland,2038,25 Apr,Sunday,Easter Sunday,National holiday
+iceland,2038,26 Apr,Monday,Easter Monday,National holiday
+iceland,2038,1 May,Saturday,Labour Day,National holiday
+iceland,2038,9 May,Sunday,Mothers' Day,Observance
+iceland,2038,3 Jun,Thursday,Ascension Day,National holiday
+iceland,2038,13 Jun,Sunday,Whit Sunday,National holiday
+iceland,2038,14 Jun,Monday,Whit Monday,National holiday
+iceland,2038,17 Jun,Thursday,Icelandic Republic Day,National holiday
+iceland,2038,21 Jun,Monday,June Solstice,Season
+iceland,2038,2 Aug,Monday,Commerce Day,National holiday
+iceland,2038,22 Sep,Wednesday,September Equinox,Season
+iceland,2038,31 Oct,Sunday,Halloween,Observance
+iceland,2038,14 Nov,Sunday,Fathers' Day,Observance
+iceland,2038,1 Dec,Wednesday,Independence Day,Observance
+iceland,2038,21 Dec,Tuesday,December Solstice,Season
+iceland,2038,24 Dec,Friday,Christmas Eve (from noon),National holiday
+iceland,2038,25 Dec,Saturday,Christmas Day,National holiday
+iceland,2038,26 Dec,Sunday,Second Day of Christmas,National holiday
+iceland,2038,31 Dec,Friday,New Year's Eve (from noon),National holiday
+iceland,2039,1 Jan,Saturday,New Year's Day,National holiday
+iceland,2039,6 Jan,Thursday,Twelfth Night,Observance
+iceland,2039,14 Feb,Monday,Valentine's Day,Observance
+iceland,2039,23 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2039,20 Mar,Sunday,March Equinox,Season
+iceland,2039,7 Apr,Thursday,Maundy Thursday,National holiday
+iceland,2039,8 Apr,Friday,Good Friday,National holiday
+iceland,2039,9 Apr,Saturday,Holy Saturday,Observance
+iceland,2039,10 Apr,Sunday,Easter Sunday,National holiday
+iceland,2039,11 Apr,Monday,Easter Monday,National holiday
+iceland,2039,21 Apr,Thursday,First Day of Summer,National holiday
+iceland,2039,1 May,Sunday,Labour Day,National holiday
+iceland,2039,8 May,Sunday,Mothers' Day,Observance
+iceland,2039,19 May,Thursday,Ascension Day,National holiday
+iceland,2039,29 May,Sunday,Whit Sunday,National holiday
+iceland,2039,30 May,Monday,Whit Monday,National holiday
+iceland,2039,17 Jun,Friday,Icelandic Republic Day,National holiday
+iceland,2039,21 Jun,Tuesday,June Solstice,Season
+iceland,2039,1 Aug,Monday,Commerce Day,National holiday
+iceland,2039,23 Sep,Friday,September Equinox,Season
+iceland,2039,31 Oct,Monday,Halloween,Observance
+iceland,2039,13 Nov,Sunday,Fathers' Day,Observance
+iceland,2039,1 Dec,Thursday,Independence Day,Observance
+iceland,2039,22 Dec,Thursday,December Solstice,Season
+iceland,2039,24 Dec,Saturday,Christmas Eve (from noon),National holiday
+iceland,2039,25 Dec,Sunday,Christmas Day,National holiday
+iceland,2039,26 Dec,Monday,Second Day of Christmas,National holiday
+iceland,2039,31 Dec,Saturday,New Year's Eve (from noon),National holiday
+iceland,2040,1 Jan,Sunday,New Year's Day,National holiday
+iceland,2040,6 Jan,Friday,Twelfth Night,Observance
+iceland,2040,14 Feb,Tuesday,Valentine's Day,Observance
+iceland,2040,15 Feb,Wednesday,Ash Wednesday,Observance
+iceland,2040,20 Mar,Tuesday,March Equinox,Season
+iceland,2040,29 Mar,Thursday,Maundy Thursday,National holiday
+iceland,2040,30 Mar,Friday,Good Friday,National holiday
+iceland,2040,31 Mar,Saturday,Holy Saturday,Observance
+iceland,2040,1 Apr,Sunday,Easter Sunday,National holiday
+iceland,2040,2 Apr,Monday,Easter Monday,National holiday
+iceland,2040,19 Apr,Thursday,First Day of Summer,National holiday
+iceland,2040,1 May,Tuesday,Labour Day,National holiday
+iceland,2040,10 May,Thursday,Ascension Day,National holiday
+iceland,2040,13 May,Sunday,Mothers' Day,Observance
+iceland,2040,20 May,Sunday,Whit Sunday,National holiday
+iceland,2040,21 May,Monday,Whit Monday,National holiday
+iceland,2040,17 Jun,Sunday,Icelandic Republic Day,National holiday
+iceland,2040,20 Jun,Wednesday,June Solstice,Season
+iceland,2040,6 Aug,Monday,Commerce Day,National holiday
+iceland,2040,22 Sep,Saturday,September Equinox,Season
+iceland,2040,31 Oct,Wednesday,Halloween,Observance
+iceland,2040,11 Nov,Sunday,Fathers' Day,Observance
+iceland,2040,1 Dec,Saturday,Independence Day,Observance
+iceland,2040,21 Dec,Friday,December Solstice,Season
+iceland,2040,24 Dec,Monday,Christmas Eve (from noon),National holiday
+iceland,2040,25 Dec,Tuesday,Christmas Day,National holiday
+iceland,2040,26 Dec,Wednesday,Second Day of Christmas,National holiday
+iceland,2040,31 Dec,Monday,New Year's Eve (from noon),National holiday
