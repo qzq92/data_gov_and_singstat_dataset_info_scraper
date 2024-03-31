@@ -36,7 +36,8 @@ For SingStat, the csv file would contain the categories of the data which it bel
 
 
 # New update
-- Inclusion of SmartLocal for Singapore events
+- Inclusion of SmartLocal website for Singapore events
+- Inclusion of timeanddate.com website for various countries/region holidays.
 
 ## Installation of libraries (Python)
 You may install using package manager such as Python pip or environment management system such as Conda to install all the libraries listed in *requirements.txt*
@@ -44,3 +45,6 @@ You may install using package manager such as Python pip or environment manageme
 ## Execution
 1. To conduct scraping from Data.gov.sg and Singstat, please execute the cells in the notebook *datagov_singstat_metadata_scraper.ipynb* 
 2. Similary for SmartLocal source, please execute the cells in the notebook *smartlocal_scraper.ipynb* 
+
+## Location of generated files.
+When executing the relevant Jupyter notebooks, the output files are stored in the same directory as the notebooks that were used. For ease of reference, I have moved the files generated into their respective folders instead. I.e Generated Smartlocal csv file is stored under Smartlocal/ directory.
