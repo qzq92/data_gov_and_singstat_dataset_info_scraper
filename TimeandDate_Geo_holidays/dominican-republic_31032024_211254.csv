@@ -1,0 +1,929 @@
+Geo,Event Year,Date,Day,Name,Type
+dominican-republic,2000,1 Jan,Saturday,New Year's Day,National holiday
+dominican-republic,2000,10 Jan,Monday,Epiphany,National holiday
+dominican-republic,2000,21 Jan,Friday,Our Lady of Altagracia,National holiday
+dominican-republic,2000,24 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2000,26 Jan,Wednesday,Duarte's Day,National holiday
+dominican-republic,2000,27 Feb,Sunday,Independence Day,National holiday
+dominican-republic,2000,20 Mar,Monday,March Equinox,Season
+dominican-republic,2000,20 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2000,21 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2000,1 May,Monday,Labor Day,National holiday
+dominican-republic,2000,28 May,Sunday,Mother's Day,Observance
+dominican-republic,2000,20 Jun,Tuesday,June Solstice,Season
+dominican-republic,2000,22 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2000,30 Jul,Sunday,Father's Day,Observance
+dominican-republic,2000,16 Aug,Wednesday,Restoration Day,National holiday
+dominican-republic,2000,22 Sep,Friday,September Equinox,Season
+dominican-republic,2000,24 Sep,Sunday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2000,6 Nov,Monday,Constitution Day,National holiday
+dominican-republic,2000,21 Dec,Thursday,December Solstice,Season
+dominican-republic,2000,24 Dec,Sunday,Christmas Eve,Observance
+dominican-republic,2000,25 Dec,Monday,Christmas Day,National holiday
+dominican-republic,2000,31 Dec,Sunday,New Year's Eve,Observance
+dominican-republic,2001,1 Jan,Monday,New Year's Day,National holiday
+dominican-republic,2001,6 Jan,Saturday,Epiphany,National holiday
+dominican-republic,2001,21 Jan,Sunday,Our Lady of Altagracia,National holiday
+dominican-republic,2001,26 Jan,Friday,Duarte's Day,National holiday
+dominican-republic,2001,29 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2001,27 Feb,Tuesday,Independence Day,National holiday
+dominican-republic,2001,20 Mar,Tuesday,March Equinox,Season
+dominican-republic,2001,12 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2001,13 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2001,1 May,Tuesday,Labor Day,National holiday
+dominican-republic,2001,27 May,Sunday,Mother's Day,Observance
+dominican-republic,2001,14 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2001,21 Jun,Thursday,June Solstice,Season
+dominican-republic,2001,29 Jul,Sunday,Father's Day,Observance
+dominican-republic,2001,16 Aug,Thursday,Restoration Day,National holiday
+dominican-republic,2001,22 Sep,Saturday,September Equinox,Season
+dominican-republic,2001,24 Sep,Monday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2001,5 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2001,6 Nov,Tuesday,Constitution Day,National holiday
+dominican-republic,2001,21 Dec,Friday,December Solstice,Season
+dominican-republic,2001,24 Dec,Monday,Christmas Eve,Observance
+dominican-republic,2001,25 Dec,Tuesday,Christmas Day,National holiday
+dominican-republic,2001,31 Dec,Monday,New Year's Eve,Observance
+dominican-republic,2002,1 Jan,Tuesday,New Year's Day,National holiday
+dominican-republic,2002,6 Jan,Sunday,Epiphany,National holiday
+dominican-republic,2002,21 Jan,Monday,Our Lady of Altagracia,National holiday
+dominican-republic,2002,26 Jan,Saturday,Duarte's Day,National holiday
+dominican-republic,2002,27 Feb,Wednesday,Independence Day,National holiday
+dominican-republic,2002,20 Mar,Wednesday,March Equinox,Season
+dominican-republic,2002,28 Mar,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2002,29 Mar,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2002,1 May,Wednesday,Labor Day,National holiday
+dominican-republic,2002,26 May,Sunday,Mother's Day,Observance
+dominican-republic,2002,30 May,Thursday,Corpus Christi,National holiday
+dominican-republic,2002,21 Jun,Friday,June Solstice,Season
+dominican-republic,2002,28 Jul,Sunday,Father's Day,Observance
+dominican-republic,2002,16 Aug,Friday,Restoration Day,National holiday
+dominican-republic,2002,23 Sep,Monday,September Equinox,Season
+dominican-republic,2002,24 Sep,Tuesday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2002,4 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2002,6 Nov,Wednesday,Constitution Day,National holiday
+dominican-republic,2002,21 Dec,Saturday,December Solstice,Season
+dominican-republic,2002,24 Dec,Tuesday,Christmas Eve,Observance
+dominican-republic,2002,25 Dec,Wednesday,Christmas Day,National holiday
+dominican-republic,2002,31 Dec,Tuesday,New Year's Eve,Observance
+dominican-republic,2003,1 Jan,Wednesday,New Year's Day,National holiday
+dominican-republic,2003,6 Jan,Monday,Epiphany,National holiday
+dominican-republic,2003,21 Jan,Tuesday,Our Lady of Altagracia,National holiday
+dominican-republic,2003,26 Jan,Sunday,Duarte's Day,National holiday
+dominican-republic,2003,27 Feb,Thursday,Independence Day,National holiday
+dominican-republic,2003,20 Mar,Thursday,March Equinox,Season
+dominican-republic,2003,17 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2003,18 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2003,1 May,Thursday,Labor Day,National holiday
+dominican-republic,2003,25 May,Sunday,Mother's Day,Observance
+dominican-republic,2003,19 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2003,21 Jun,Saturday,June Solstice,Season
+dominican-republic,2003,27 Jul,Sunday,Father's Day,Observance
+dominican-republic,2003,16 Aug,Saturday,Restoration Day,National holiday
+dominican-republic,2003,23 Sep,Tuesday,September Equinox,Season
+dominican-republic,2003,24 Sep,Wednesday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2003,6 Nov,Thursday,Constitution Day,National holiday
+dominican-republic,2003,10 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2003,22 Dec,Monday,December Solstice,Season
+dominican-republic,2003,24 Dec,Wednesday,Christmas Eve,Observance
+dominican-republic,2003,25 Dec,Thursday,Christmas Day,National holiday
+dominican-republic,2003,31 Dec,Wednesday,New Year's Eve,Observance
+dominican-republic,2004,1 Jan,Thursday,New Year's Day,National holiday
+dominican-republic,2004,5 Jan,Monday,Epiphany,National holiday
+dominican-republic,2004,21 Jan,Wednesday,Our Lady of Altagracia,National holiday
+dominican-republic,2004,26 Jan,Monday,Duarte's Day,National holiday
+dominican-republic,2004,27 Feb,Friday,Independence Day,National holiday
+dominican-republic,2004,20 Mar,Saturday,March Equinox,Season
+dominican-republic,2004,8 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2004,9 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2004,30 Apr,Friday,Labor Day observed,National holiday
+dominican-republic,2004,1 May,Saturday,Labor Day,National holiday
+dominican-republic,2004,30 May,Sunday,Mother's Day,Observance
+dominican-republic,2004,10 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2004,20 Jun,Sunday,June Solstice,Season
+dominican-republic,2004,25 Jul,Sunday,Father's Day,Observance
+dominican-republic,2004,16 Aug,Monday,Restoration Day,National holiday
+dominican-republic,2004,22 Sep,Wednesday,September Equinox,Season
+dominican-republic,2004,24 Sep,Friday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2004,6 Nov,Saturday,Constitution Day,National holiday
+dominican-republic,2004,21 Dec,Tuesday,December Solstice,Season
+dominican-republic,2004,24 Dec,Friday,Christmas Eve,Observance
+dominican-republic,2004,25 Dec,Saturday,Christmas Day,National holiday
+dominican-republic,2004,31 Dec,Friday,New Year's Eve,Observance
+dominican-republic,2005,1 Jan,Saturday,New Year's Day,National holiday
+dominican-republic,2005,10 Jan,Monday,Epiphany,National holiday
+dominican-republic,2005,21 Jan,Friday,Our Lady of Altagracia,National holiday
+dominican-republic,2005,24 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2005,26 Jan,Wednesday,Duarte's Day,National holiday
+dominican-republic,2005,27 Feb,Sunday,Independence Day,National holiday
+dominican-republic,2005,20 Mar,Sunday,March Equinox,Season
+dominican-republic,2005,24 Mar,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2005,25 Mar,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2005,1 May,Sunday,Labor Day,National holiday
+dominican-republic,2005,2 May,Monday,Labor Day observed,National holiday
+dominican-republic,2005,26 May,Thursday,Corpus Christi,National holiday
+dominican-republic,2005,29 May,Sunday,Mother's Day,Observance
+dominican-republic,2005,21 Jun,Tuesday,June Solstice,Season
+dominican-republic,2005,31 Jul,Sunday,Father's Day,Observance
+dominican-republic,2005,16 Aug,Tuesday,Restoration Day,National holiday
+dominican-republic,2005,22 Sep,Thursday,September Equinox,Season
+dominican-republic,2005,24 Sep,Saturday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2005,6 Nov,Sunday,Constitution Day,National holiday
+dominican-republic,2005,21 Dec,Wednesday,December Solstice,Season
+dominican-republic,2005,24 Dec,Saturday,Christmas Eve,Observance
+dominican-republic,2005,25 Dec,Sunday,Christmas Day,National holiday
+dominican-republic,2005,31 Dec,Saturday,New Year's Eve,Observance
+dominican-republic,2006,1 Jan,Sunday,New Year's Day,National holiday
+dominican-republic,2006,9 Jan,Monday,Epiphany,National holiday
+dominican-republic,2006,21 Jan,Saturday,Our Lady of Altagracia,National holiday
+dominican-republic,2006,26 Jan,Thursday,Duarte's Day,National holiday
+dominican-republic,2006,30 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2006,27 Feb,Monday,Independence Day,National holiday
+dominican-republic,2006,20 Mar,Monday,March Equinox,Season
+dominican-republic,2006,13 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2006,14 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2006,1 May,Monday,Labor Day,National holiday
+dominican-republic,2006,28 May,Sunday,Mother's Day,Observance
+dominican-republic,2006,15 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2006,21 Jun,Wednesday,June Solstice,Season
+dominican-republic,2006,30 Jul,Sunday,Father's Day,Observance
+dominican-republic,2006,16 Aug,Wednesday,Restoration Day,National holiday
+dominican-republic,2006,23 Sep,Saturday,September Equinox,Season
+dominican-republic,2006,24 Sep,Sunday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2006,6 Nov,Monday,Constitution Day,National holiday
+dominican-republic,2006,21 Dec,Thursday,December Solstice,Season
+dominican-republic,2006,24 Dec,Sunday,Christmas Eve,Observance
+dominican-republic,2006,25 Dec,Monday,Christmas Day,National holiday
+dominican-republic,2006,31 Dec,Sunday,New Year's Eve,Observance
+dominican-republic,2007,1 Jan,Monday,New Year's Day,National holiday
+dominican-republic,2007,6 Jan,Saturday,Epiphany,National holiday
+dominican-republic,2007,21 Jan,Sunday,Our Lady of Altagracia,National holiday
+dominican-republic,2007,26 Jan,Friday,Duarte's Day,National holiday
+dominican-republic,2007,29 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2007,27 Feb,Tuesday,Independence Day,National holiday
+dominican-republic,2007,20 Mar,Tuesday,March Equinox,Season
+dominican-republic,2007,5 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2007,6 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2007,1 May,Tuesday,Labor Day,National holiday
+dominican-republic,2007,27 May,Sunday,Mother's Day,Observance
+dominican-republic,2007,7 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2007,21 Jun,Thursday,June Solstice,Season
+dominican-republic,2007,29 Jul,Sunday,Father's Day,Observance
+dominican-republic,2007,16 Aug,Thursday,Restoration Day,National holiday
+dominican-republic,2007,23 Sep,Sunday,September Equinox,Season
+dominican-republic,2007,24 Sep,Monday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2007,5 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2007,6 Nov,Tuesday,Constitution Day,National holiday
+dominican-republic,2007,22 Dec,Saturday,December Solstice,Season
+dominican-republic,2007,24 Dec,Monday,Christmas Eve,Observance
+dominican-republic,2007,25 Dec,Tuesday,Christmas Day,National holiday
+dominican-republic,2007,31 Dec,Monday,New Year's Eve,Observance
+dominican-republic,2008,1 Jan,Tuesday,New Year's Day,National holiday
+dominican-republic,2008,6 Jan,Sunday,Epiphany,National holiday
+dominican-republic,2008,21 Jan,Monday,Our Lady of Altagracia,National holiday
+dominican-republic,2008,26 Jan,Saturday,Duarte's Day,National holiday
+dominican-republic,2008,27 Feb,Wednesday,Independence Day,National holiday
+dominican-republic,2008,20 Mar,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2008,20 Mar,Thursday,March Equinox,Season
+dominican-republic,2008,21 Mar,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2008,1 May,Thursday,Labor Day,National holiday
+dominican-republic,2008,22 May,Thursday,Corpus Christi,National holiday
+dominican-republic,2008,25 May,Sunday,Mother's Day,Observance
+dominican-republic,2008,20 Jun,Friday,June Solstice,Season
+dominican-republic,2008,27 Jul,Sunday,Father's Day,Observance
+dominican-republic,2008,16 Aug,Saturday,Restoration Day,National holiday
+dominican-republic,2008,22 Sep,Monday,September Equinox,Season
+dominican-republic,2008,24 Sep,Wednesday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2008,6 Nov,Thursday,Constitution Day,National holiday
+dominican-republic,2008,10 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2008,21 Dec,Sunday,December Solstice,Season
+dominican-republic,2008,24 Dec,Wednesday,Christmas Eve,Observance
+dominican-republic,2008,25 Dec,Thursday,Christmas Day,National holiday
+dominican-republic,2008,31 Dec,Wednesday,New Year's Eve,Observance
+dominican-republic,2009,1 Jan,Thursday,New Year's Day,National holiday
+dominican-republic,2009,5 Jan,Monday,Epiphany,National holiday
+dominican-republic,2009,21 Jan,Wednesday,Our Lady of Altagracia,National holiday
+dominican-republic,2009,26 Jan,Monday,Duarte's Day,National holiday
+dominican-republic,2009,27 Feb,Friday,Independence Day,National holiday
+dominican-republic,2009,20 Mar,Friday,March Equinox,Season
+dominican-republic,2009,9 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2009,10 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2009,1 May,Friday,Labor Day,National holiday
+dominican-republic,2009,31 May,Sunday,Mother's Day,Observance
+dominican-republic,2009,11 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2009,21 Jun,Sunday,June Solstice,Season
+dominican-republic,2009,26 Jul,Sunday,Father's Day,Observance
+dominican-republic,2009,16 Aug,Sunday,Restoration Day,National holiday
+dominican-republic,2009,22 Sep,Tuesday,September Equinox,Season
+dominican-republic,2009,24 Sep,Thursday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2009,6 Nov,Friday,Constitution Day,National holiday
+dominican-republic,2009,9 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2009,21 Dec,Monday,December Solstice,Season
+dominican-republic,2009,24 Dec,Thursday,Christmas Eve,Observance
+dominican-republic,2009,25 Dec,Friday,Christmas Day,National holiday
+dominican-republic,2009,31 Dec,Thursday,New Year's Eve,Observance
+dominican-republic,2010,1 Jan,Friday,New Year's Day,National holiday
+dominican-republic,2010,4 Jan,Monday,Epiphany,National holiday
+dominican-republic,2010,21 Jan,Thursday,Our Lady of Altagracia,National holiday
+dominican-republic,2010,25 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2010,26 Jan,Tuesday,Duarte's Day,National holiday
+dominican-republic,2010,27 Feb,Saturday,Independence Day,National holiday
+dominican-republic,2010,20 Mar,Saturday,March Equinox,Season
+dominican-republic,2010,1 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2010,2 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2010,30 Apr,Friday,Labor Day observed,National holiday
+dominican-republic,2010,1 May,Saturday,Labor Day,National holiday
+dominican-republic,2010,30 May,Sunday,Mother's Day,Observance
+dominican-republic,2010,3 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2010,21 Jun,Monday,June Solstice,Season
+dominican-republic,2010,25 Jul,Sunday,Father's Day,Observance
+dominican-republic,2010,16 Aug,Monday,Restoration Day,National holiday
+dominican-republic,2010,22 Sep,Wednesday,September Equinox,Season
+dominican-republic,2010,24 Sep,Friday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2010,6 Nov,Saturday,Constitution Day,National holiday
+dominican-republic,2010,21 Dec,Tuesday,December Solstice,Season
+dominican-republic,2010,24 Dec,Friday,Christmas Eve,Observance
+dominican-republic,2010,25 Dec,Saturday,Christmas Day,National holiday
+dominican-republic,2010,31 Dec,Friday,New Year's Eve,Observance
+dominican-republic,2011,1 Jan,Saturday,New Year's Day,National holiday
+dominican-republic,2011,10 Jan,Monday,Epiphany,National holiday
+dominican-republic,2011,21 Jan,Friday,Our Lady of Altagracia,National holiday
+dominican-republic,2011,24 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2011,26 Jan,Wednesday,Duarte's Day,National holiday
+dominican-republic,2011,27 Feb,Sunday,Independence Day,National holiday
+dominican-republic,2011,20 Mar,Sunday,March Equinox,Season
+dominican-republic,2011,21 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2011,22 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2011,1 May,Sunday,Labor Day,National holiday
+dominican-republic,2011,2 May,Monday,Labor Day observed,National holiday
+dominican-republic,2011,29 May,Sunday,Mother's Day,Observance
+dominican-republic,2011,21 Jun,Tuesday,June Solstice,Season
+dominican-republic,2011,23 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2011,31 Jul,Sunday,Father's Day,Observance
+dominican-republic,2011,16 Aug,Tuesday,Restoration Day,National holiday
+dominican-republic,2011,23 Sep,Friday,September Equinox,Season
+dominican-republic,2011,24 Sep,Saturday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2011,6 Nov,Sunday,Constitution Day,National holiday
+dominican-republic,2011,22 Dec,Thursday,December Solstice,Season
+dominican-republic,2011,24 Dec,Saturday,Christmas Eve,Observance
+dominican-republic,2011,25 Dec,Sunday,Christmas Day,National holiday
+dominican-republic,2011,31 Dec,Saturday,New Year's Eve,Observance
+dominican-republic,2012,1 Jan,Sunday,New Year's Day,National holiday
+dominican-republic,2012,9 Jan,Monday,Epiphany,National holiday
+dominican-republic,2012,21 Jan,Saturday,Our Lady of Altagracia,National holiday
+dominican-republic,2012,26 Jan,Thursday,Duarte's Day,National holiday
+dominican-republic,2012,30 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2012,27 Feb,Monday,Independence Day,National holiday
+dominican-republic,2012,20 Mar,Tuesday,March Equinox,Season
+dominican-republic,2012,5 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2012,6 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2012,1 May,Tuesday,Labor Day,National holiday
+dominican-republic,2012,27 May,Sunday,Mother's Day,Observance
+dominican-republic,2012,7 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2012,20 Jun,Wednesday,June Solstice,Season
+dominican-republic,2012,29 Jul,Sunday,Father's Day,Observance
+dominican-republic,2012,16 Aug,Thursday,Restoration Day,National holiday
+dominican-republic,2012,22 Sep,Saturday,September Equinox,Season
+dominican-republic,2012,24 Sep,Monday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2012,5 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2012,6 Nov,Tuesday,Constitution Day,National holiday
+dominican-republic,2012,21 Dec,Friday,December Solstice,Season
+dominican-republic,2012,24 Dec,Monday,Christmas Eve,Observance
+dominican-republic,2012,25 Dec,Tuesday,Christmas Day,National holiday
+dominican-republic,2012,31 Dec,Monday,New Year's Eve,Observance
+dominican-republic,2013,1 Jan,Tuesday,New Year's Day,National holiday
+dominican-republic,2013,6 Jan,Sunday,Epiphany,National holiday
+dominican-republic,2013,21 Jan,Monday,Our Lady of Altagracia,National holiday
+dominican-republic,2013,26 Jan,Saturday,Duarte's Day,National holiday
+dominican-republic,2013,27 Feb,Wednesday,Independence Day,National holiday
+dominican-republic,2013,20 Mar,Wednesday,March Equinox,Season
+dominican-republic,2013,28 Mar,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2013,29 Mar,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2013,1 May,Wednesday,Labor Day,National holiday
+dominican-republic,2013,26 May,Sunday,Mother's Day,Observance
+dominican-republic,2013,30 May,Thursday,Corpus Christi,National holiday
+dominican-republic,2013,21 Jun,Friday,June Solstice,Season
+dominican-republic,2013,28 Jul,Sunday,Father's Day,Observance
+dominican-republic,2013,16 Aug,Friday,Restoration Day,National holiday
+dominican-republic,2013,22 Sep,Sunday,September Equinox,Season
+dominican-republic,2013,24 Sep,Tuesday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2013,4 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2013,6 Nov,Wednesday,Constitution Day,National holiday
+dominican-republic,2013,21 Dec,Saturday,December Solstice,Season
+dominican-republic,2013,24 Dec,Tuesday,Christmas Eve,Observance
+dominican-republic,2013,25 Dec,Wednesday,Christmas Day,National holiday
+dominican-republic,2013,31 Dec,Tuesday,New Year's Eve,Observance
+dominican-republic,2014,1 Jan,Wednesday,New Year's Day,National holiday
+dominican-republic,2014,6 Jan,Monday,Epiphany,National holiday
+dominican-republic,2014,21 Jan,Tuesday,Our Lady of Altagracia,National holiday
+dominican-republic,2014,26 Jan,Sunday,Duarte's Day,National holiday
+dominican-republic,2014,27 Feb,Thursday,Independence Day,National holiday
+dominican-republic,2014,20 Mar,Thursday,March Equinox,Season
+dominican-republic,2014,17 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2014,18 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2014,1 May,Thursday,Labor Day,Observance
+dominican-republic,2014,5 May,Monday,Day off for Labor Day,National holiday
+dominican-republic,2014,25 May,Sunday,Mother's Day,Observance
+dominican-republic,2014,19 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2014,21 Jun,Saturday,June Solstice,Season
+dominican-republic,2014,27 Jul,Sunday,Father's Day,Observance
+dominican-republic,2014,16 Aug,Saturday,Restoration Day,National holiday
+dominican-republic,2014,22 Sep,Monday,September Equinox,Season
+dominican-republic,2014,24 Sep,Wednesday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2014,6 Nov,Thursday,Constitution Day,National holiday
+dominican-republic,2014,10 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2014,21 Dec,Sunday,December Solstice,Season
+dominican-republic,2014,24 Dec,Wednesday,Christmas Eve,Observance
+dominican-republic,2014,25 Dec,Thursday,Christmas Day,National holiday
+dominican-republic,2014,31 Dec,Wednesday,New Year's Eve,Observance
+dominican-republic,2015,1 Jan,Thursday,New Year's Day,National holiday
+dominican-republic,2015,5 Jan,Monday,Epiphany,National holiday
+dominican-republic,2015,21 Jan,Wednesday,Our Lady of Altagracia,National holiday
+dominican-republic,2015,26 Jan,Monday,Duarte's Day,National holiday
+dominican-republic,2015,27 Feb,Friday,Independence Day,National holiday
+dominican-republic,2015,20 Mar,Friday,March Equinox,Season
+dominican-republic,2015,2 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2015,3 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2015,1 May,Friday,Labor Day,Observance
+dominican-republic,2015,4 May,Monday,Day off for Labor Day,National holiday
+dominican-republic,2015,31 May,Sunday,Mother's Day,Observance
+dominican-republic,2015,4 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2015,21 Jun,Sunday,June Solstice,Season
+dominican-republic,2015,26 Jul,Sunday,Father's Day,Observance
+dominican-republic,2015,16 Aug,Sunday,Restoration Day,National holiday
+dominican-republic,2015,23 Sep,Wednesday,September Equinox,Season
+dominican-republic,2015,24 Sep,Thursday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2015,9 Nov,Monday,Constitution Day,National holiday
+dominican-republic,2015,22 Dec,Tuesday,December Solstice,Season
+dominican-republic,2015,24 Dec,Thursday,Christmas Eve,Observance
+dominican-republic,2015,25 Dec,Friday,Christmas Day,National holiday
+dominican-republic,2015,31 Dec,Thursday,New Year's Eve,Observance
+dominican-republic,2016,1 Jan,Friday,New Year's Day,National holiday
+dominican-republic,2016,6 Jan,Wednesday,Epiphany,National holiday
+dominican-republic,2016,21 Jan,Thursday,Our Lady of Altagracia,National holiday
+dominican-republic,2016,25 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2016,26 Jan,Tuesday,Duarte's Day,National holiday
+dominican-republic,2016,27 Feb,Saturday,Independence Day,National holiday
+dominican-republic,2016,20 Mar,Sunday,March Equinox,Season
+dominican-republic,2016,24 Mar,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2016,25 Mar,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2016,1 May,Sunday,Day off for Labor Day,National holiday
+dominican-republic,2016,1 May,Sunday,Labor Day,Observance
+dominican-republic,2016,2 May,Monday,Day off for Labor Day observed,National holiday
+dominican-republic,2016,26 May,Thursday,Corpus Christi,National holiday
+dominican-republic,2016,29 May,Sunday,Mother's Day,Observance
+dominican-republic,2016,20 Jun,Monday,June Solstice,Season
+dominican-republic,2016,31 Jul,Sunday,Father's Day,Observance
+dominican-republic,2016,16 Aug,Tuesday,Restoration Day,National holiday
+dominican-republic,2016,22 Sep,Thursday,September Equinox,Season
+dominican-republic,2016,24 Sep,Saturday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2016,6 Nov,Sunday,Constitution Day,National holiday
+dominican-republic,2016,21 Dec,Wednesday,December Solstice,Season
+dominican-republic,2016,24 Dec,Saturday,Christmas Eve,Observance
+dominican-republic,2016,25 Dec,Sunday,Christmas Day,National holiday
+dominican-republic,2016,31 Dec,Saturday,New Year's Eve,Observance
+dominican-republic,2017,1 Jan,Sunday,New Year's Day,National holiday
+dominican-republic,2017,6 Jan,Friday,Epiphany,National holiday
+dominican-republic,2017,21 Jan,Saturday,Our Lady of Altagracia,National holiday
+dominican-republic,2017,26 Jan,Thursday,Duarte's Day,National holiday
+dominican-republic,2017,30 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2017,27 Feb,Monday,Independence Day,National holiday
+dominican-republic,2017,20 Mar,Monday,March Equinox,Season
+dominican-republic,2017,13 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2017,14 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2017,1 May,Monday,Day off for Labor Day,National holiday
+dominican-republic,2017,1 May,Monday,Labor Day,Observance
+dominican-republic,2017,28 May,Sunday,Mother's Day,Observance
+dominican-republic,2017,15 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2017,21 Jun,Wednesday,June Solstice,Season
+dominican-republic,2017,30 Jul,Sunday,Father's Day,Observance
+dominican-republic,2017,16 Aug,Wednesday,Restoration Day,National holiday
+dominican-republic,2017,22 Sep,Friday,September Equinox,Season
+dominican-republic,2017,24 Sep,Sunday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2017,6 Nov,Monday,Constitution Day,National holiday
+dominican-republic,2017,21 Dec,Thursday,December Solstice,Season
+dominican-republic,2017,24 Dec,Sunday,Christmas Eve,Observance
+dominican-republic,2017,25 Dec,Monday,Christmas Day,National holiday
+dominican-republic,2017,31 Dec,Sunday,New Year's Eve,Observance
+dominican-republic,2018,1 Jan,Monday,New Year's Day,National holiday
+dominican-republic,2018,6 Jan,Saturday,Epiphany,National holiday
+dominican-republic,2018,21 Jan,Sunday,Our Lady of Altagracia,National holiday
+dominican-republic,2018,26 Jan,Friday,Duarte's Day,National holiday
+dominican-republic,2018,29 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2018,27 Feb,Tuesday,Independence Day,National holiday
+dominican-republic,2018,20 Mar,Tuesday,March Equinox,Season
+dominican-republic,2018,29 Mar,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2018,30 Mar,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2018,30 Apr,Monday,Day off for Labor Day,National holiday
+dominican-republic,2018,1 May,Tuesday,Labor Day,Observance
+dominican-republic,2018,27 May,Sunday,Mother's Day,Observance
+dominican-republic,2018,31 May,Thursday,Corpus Christi,National holiday
+dominican-republic,2018,21 Jun,Thursday,June Solstice,Season
+dominican-republic,2018,29 Jul,Sunday,Father's Day,Observance
+dominican-republic,2018,16 Aug,Thursday,Restoration Day,National holiday
+dominican-republic,2018,22 Sep,Saturday,September Equinox,Season
+dominican-republic,2018,24 Sep,Monday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2018,5 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2018,6 Nov,Tuesday,Constitution Day,National holiday
+dominican-republic,2018,21 Dec,Friday,December Solstice,Season
+dominican-republic,2018,24 Dec,Monday,Christmas Eve,Observance
+dominican-republic,2018,25 Dec,Tuesday,Christmas Day,National holiday
+dominican-republic,2018,31 Dec,Monday,New Year's Eve,Observance
+dominican-republic,2019,1 Jan,Tuesday,New Year's Day,National holiday
+dominican-republic,2019,6 Jan,Sunday,Epiphany,National holiday
+dominican-republic,2019,21 Jan,Monday,Our Lady of Altagracia,National holiday
+dominican-republic,2019,26 Jan,Saturday,Duarte's Day,National holiday
+dominican-republic,2019,27 Feb,Wednesday,Independence Day,National holiday
+dominican-republic,2019,20 Mar,Wednesday,March Equinox,Season
+dominican-republic,2019,18 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2019,19 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2019,29 Apr,Monday,Day off for Labor Day,National holiday
+dominican-republic,2019,1 May,Wednesday,Labor Day,Observance
+dominican-republic,2019,26 May,Sunday,Mother's Day,Observance
+dominican-republic,2019,20 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2019,21 Jun,Friday,June Solstice,Season
+dominican-republic,2019,28 Jul,Sunday,Father's Day,Observance
+dominican-republic,2019,16 Aug,Friday,Restoration Day,National holiday
+dominican-republic,2019,23 Sep,Monday,September Equinox,Season
+dominican-republic,2019,24 Sep,Tuesday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2019,4 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2019,6 Nov,Wednesday,Constitution Day,National holiday
+dominican-republic,2019,22 Dec,Sunday,December Solstice,Season
+dominican-republic,2019,24 Dec,Tuesday,Christmas Eve,Observance
+dominican-republic,2019,25 Dec,Wednesday,Christmas Day,National holiday
+dominican-republic,2019,31 Dec,Tuesday,New Year's Eve,Observance
+dominican-republic,2020,1 Jan,Wednesday,New Year's Day,National holiday
+dominican-republic,2020,6 Jan,Monday,Epiphany,National holiday
+dominican-republic,2020,21 Jan,Tuesday,Our Lady of Altagracia,National holiday
+dominican-republic,2020,26 Jan,Sunday,Duarte's Day,National holiday
+dominican-republic,2020,27 Feb,Thursday,Independence Day,National holiday
+dominican-republic,2020,19 Mar,Thursday,March Equinox,Season
+dominican-republic,2020,9 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2020,10 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2020,1 May,Friday,Labor Day,National holiday
+dominican-republic,2020,31 May,Sunday,Mother's Day,Observance
+dominican-republic,2020,11 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2020,20 Jun,Saturday,June Solstice,Season
+dominican-republic,2020,26 Jul,Sunday,Father's Day,Observance
+dominican-republic,2020,16 Aug,Sunday,Restoration Day,National holiday
+dominican-republic,2020,22 Sep,Tuesday,September Equinox,Season
+dominican-republic,2020,24 Sep,Thursday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2020,6 Nov,Friday,Constitution Day,National holiday
+dominican-republic,2020,9 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2020,21 Dec,Monday,December Solstice,Season
+dominican-republic,2020,24 Dec,Thursday,Christmas Eve,Observance
+dominican-republic,2020,25 Dec,Friday,Christmas Day,National holiday
+dominican-republic,2020,31 Dec,Thursday,New Year's Eve,Observance
+dominican-republic,2021,1 Jan,Friday,New Year's Day,National holiday
+dominican-republic,2021,4 Jan,Monday,Epiphany,National holiday
+dominican-republic,2021,6 Jan,Wednesday,Epiphany,Observance
+dominican-republic,2021,21 Jan,Thursday,Our Lady of Altagracia,National holiday
+dominican-republic,2021,25 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2021,26 Jan,Tuesday,Duarte's Day,Observance
+dominican-republic,2021,27 Feb,Saturday,Independence Day,National holiday
+dominican-republic,2021,20 Mar,Saturday,March Equinox,Season
+dominican-republic,2021,1 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2021,2 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2021,1 May,Saturday,Labor Day,National holiday
+dominican-republic,2021,30 May,Sunday,Mother's Day,Observance
+dominican-republic,2021,3 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2021,20 Jun,Sunday,June Solstice,Season
+dominican-republic,2021,25 Jul,Sunday,Father's Day,Observance
+dominican-republic,2021,16 Aug,Monday,Restoration Day,National holiday
+dominican-republic,2021,22 Sep,Wednesday,September Equinox,Season
+dominican-republic,2021,24 Sep,Friday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2021,6 Nov,Saturday,Constitution Day,National holiday
+dominican-republic,2021,21 Dec,Tuesday,December Solstice,Season
+dominican-republic,2021,24 Dec,Friday,Christmas Eve,Observance
+dominican-republic,2021,25 Dec,Saturday,Christmas Day,National holiday
+dominican-republic,2021,31 Dec,Friday,New Year's Eve,Observance
+dominican-republic,2022,1 Jan,Saturday,New Year's Day,National holiday
+dominican-republic,2022,6 Jan,Thursday,Epiphany,Observance
+dominican-republic,2022,10 Jan,Monday,Epiphany,National holiday
+dominican-republic,2022,21 Jan,Friday,Our Lady of Altagracia,National holiday
+dominican-republic,2022,24 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2022,26 Jan,Wednesday,Duarte's Day,Observance
+dominican-republic,2022,27 Feb,Sunday,Independence Day,National holiday
+dominican-republic,2022,20 Mar,Sunday,March Equinox,Season
+dominican-republic,2022,14 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2022,15 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2022,1 May,Sunday,Labor Day,National holiday
+dominican-republic,2022,2 May,Monday,Day off for Labor Day,National holiday
+dominican-republic,2022,29 May,Sunday,Mother's Day,Observance
+dominican-republic,2022,16 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2022,21 Jun,Tuesday,June Solstice,Season
+dominican-republic,2022,31 Jul,Sunday,Father's Day,Observance
+dominican-republic,2022,16 Aug,Tuesday,Restoration Day,National holiday
+dominican-republic,2022,22 Sep,Thursday,September Equinox,Season
+dominican-republic,2022,24 Sep,Saturday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2022,6 Nov,Sunday,Constitution Day,National holiday
+dominican-republic,2022,21 Dec,Wednesday,December Solstice,Season
+dominican-republic,2022,24 Dec,Saturday,Christmas Eve,Observance
+dominican-republic,2022,25 Dec,Sunday,Christmas Day,National holiday
+dominican-republic,2022,31 Dec,Saturday,New Year's Eve,Observance
+dominican-republic,2023,1 Jan,Sunday,New Year's Day,National holiday
+dominican-republic,2023,6 Jan,Friday,Epiphany,Observance
+dominican-republic,2023,9 Jan,Monday,Epiphany,National holiday
+dominican-republic,2023,21 Jan,Saturday,Our Lady of Altagracia,National holiday
+dominican-republic,2023,26 Jan,Thursday,Duarte's Day,Observance
+dominican-republic,2023,30 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2023,27 Feb,Monday,Independence Day,National holiday
+dominican-republic,2023,20 Mar,Monday,March Equinox,Season
+dominican-republic,2023,6 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2023,7 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2023,1 May,Monday,Labor Day,National holiday
+dominican-republic,2023,28 May,Sunday,Mother's Day,Observance
+dominican-republic,2023,8 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2023,21 Jun,Wednesday,June Solstice,Season
+dominican-republic,2023,30 Jul,Sunday,Father's Day,Observance
+dominican-republic,2023,16 Aug,Wednesday,Restoration Day,National holiday
+dominican-republic,2023,23 Sep,Saturday,September Equinox,Season
+dominican-republic,2023,24 Sep,Sunday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2023,6 Nov,Monday,Constitution Day,National holiday
+dominican-republic,2023,21 Dec,Thursday,December Solstice,Season
+dominican-republic,2023,24 Dec,Sunday,Christmas Eve,Observance
+dominican-republic,2023,25 Dec,Monday,Christmas Day,National holiday
+dominican-republic,2023,31 Dec,Sunday,New Year's Eve,Observance
+dominican-republic,2024,1 Jan,Monday,New Year's Day,National holiday
+dominican-republic,2024,6 Jan,Saturday,Epiphany,National holiday
+dominican-republic,2024,21 Jan,Sunday,Our Lady of Altagracia,National holiday
+dominican-republic,2024,26 Jan,Friday,Duarte's Day,Observance
+dominican-republic,2024,29 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2024,27 Feb,Tuesday,Independence Day,National holiday
+dominican-republic,2024,19 Mar,Tuesday,March Equinox,Season
+dominican-republic,2024,28 Mar,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2024,29 Mar,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2024,29 Apr,Monday,Day off for Labor Day,National holiday
+dominican-republic,2024,1 May,Wednesday,Labor Day,Observance
+dominican-republic,2024,26 May,Sunday,Mother's Day,Observance
+dominican-republic,2024,30 May,Thursday,Corpus Christi,National holiday
+dominican-republic,2024,20 Jun,Thursday,June Solstice,Season
+dominican-republic,2024,28 Jul,Sunday,Father's Day,Observance
+dominican-republic,2024,16 Aug,Friday,Restoration Day,National holiday
+dominican-republic,2024,22 Sep,Sunday,September Equinox,Season
+dominican-republic,2024,24 Sep,Tuesday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2024,4 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2024,6 Nov,Wednesday,Constitution Day,Observance
+dominican-republic,2024,21 Dec,Saturday,December Solstice,Season
+dominican-republic,2024,24 Dec,Tuesday,Christmas Eve,Observance
+dominican-republic,2024,25 Dec,Wednesday,Christmas Day,National holiday
+dominican-republic,2024,31 Dec,Tuesday,New Year's Eve,Observance
+dominican-republic,2025,1 Jan,Wednesday,New Year's Day,National holiday
+dominican-republic,2025,6 Jan,Monday,Epiphany,National holiday
+dominican-republic,2025,21 Jan,Tuesday,Our Lady of Altagracia,National holiday
+dominican-republic,2025,26 Jan,Sunday,Duarte's Day,National holiday
+dominican-republic,2025,27 Feb,Thursday,Independence Day,National holiday
+dominican-republic,2025,20 Mar,Thursday,March Equinox,Season
+dominican-republic,2025,17 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2025,18 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2025,1 May,Thursday,Labor Day,National holiday
+dominican-republic,2025,25 May,Sunday,Mother's Day,Observance
+dominican-republic,2025,19 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2025,20 Jun,Friday,June Solstice,Season
+dominican-republic,2025,27 Jul,Sunday,Father's Day,Observance
+dominican-republic,2025,16 Aug,Saturday,Restoration Day,National holiday
+dominican-republic,2025,22 Sep,Monday,September Equinox,Season
+dominican-republic,2025,24 Sep,Wednesday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2025,6 Nov,Thursday,Constitution Day,Observance
+dominican-republic,2025,10 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2025,21 Dec,Sunday,December Solstice,Season
+dominican-republic,2025,24 Dec,Wednesday,Christmas Eve,Observance
+dominican-republic,2025,25 Dec,Thursday,Christmas Day,National holiday
+dominican-republic,2025,31 Dec,Wednesday,New Year's Eve,Observance
+dominican-republic,2026,1 Jan,Thursday,New Year's Day,National holiday
+dominican-republic,2026,6 Jan,Tuesday,Epiphany,National holiday
+dominican-republic,2026,21 Jan,Wednesday,Our Lady of Altagracia,National holiday
+dominican-republic,2026,26 Jan,Monday,Duarte's Day,National holiday
+dominican-republic,2026,27 Feb,Friday,Independence Day,National holiday
+dominican-republic,2026,20 Mar,Friday,March Equinox,Season
+dominican-republic,2026,2 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2026,3 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2026,1 May,Friday,Labor Day,National holiday
+dominican-republic,2026,31 May,Sunday,Mother's Day,Observance
+dominican-republic,2026,4 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2026,21 Jun,Sunday,June Solstice,Season
+dominican-republic,2026,26 Jul,Sunday,Father's Day,Observance
+dominican-republic,2026,16 Aug,Sunday,Restoration Day,National holiday
+dominican-republic,2026,22 Sep,Tuesday,September Equinox,Season
+dominican-republic,2026,24 Sep,Thursday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2026,6 Nov,Friday,Constitution Day,Observance
+dominican-republic,2026,9 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2026,21 Dec,Monday,December Solstice,Season
+dominican-republic,2026,24 Dec,Thursday,Christmas Eve,Observance
+dominican-republic,2026,25 Dec,Friday,Christmas Day,National holiday
+dominican-republic,2026,31 Dec,Thursday,New Year's Eve,Observance
+dominican-republic,2027,1 Jan,Friday,New Year's Day,National holiday
+dominican-republic,2027,6 Jan,Wednesday,Epiphany,National holiday
+dominican-republic,2027,21 Jan,Thursday,Our Lady of Altagracia,National holiday
+dominican-republic,2027,25 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2027,26 Jan,Tuesday,Duarte's Day,National holiday
+dominican-republic,2027,27 Feb,Saturday,Independence Day,National holiday
+dominican-republic,2027,20 Mar,Saturday,March Equinox,Season
+dominican-republic,2027,25 Mar,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2027,26 Mar,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2027,30 Apr,Friday,Day off for Labor Day,National holiday
+dominican-republic,2027,1 May,Saturday,Labor Day,National holiday
+dominican-republic,2027,27 May,Thursday,Corpus Christi,National holiday
+dominican-republic,2027,30 May,Sunday,Mother's Day,Observance
+dominican-republic,2027,21 Jun,Monday,June Solstice,Season
+dominican-republic,2027,25 Jul,Sunday,Father's Day,Observance
+dominican-republic,2027,16 Aug,Monday,Restoration Day,National holiday
+dominican-republic,2027,23 Sep,Thursday,September Equinox,Season
+dominican-republic,2027,24 Sep,Friday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2027,6 Nov,Saturday,Constitution Day,National holiday
+dominican-republic,2027,21 Dec,Tuesday,December Solstice,Season
+dominican-republic,2027,24 Dec,Friday,Christmas Eve,Observance
+dominican-republic,2027,25 Dec,Saturday,Christmas Day,National holiday
+dominican-republic,2027,31 Dec,Friday,New Year's Eve,Observance
+dominican-republic,2028,1 Jan,Saturday,New Year's Day,National holiday
+dominican-republic,2028,6 Jan,Thursday,Epiphany,National holiday
+dominican-republic,2028,21 Jan,Friday,Our Lady of Altagracia,National holiday
+dominican-republic,2028,24 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2028,26 Jan,Wednesday,Duarte's Day,National holiday
+dominican-republic,2028,27 Feb,Sunday,Independence Day,National holiday
+dominican-republic,2028,19 Mar,Sunday,March Equinox,Season
+dominican-republic,2028,13 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2028,14 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2028,1 May,Monday,Labor Day,National holiday
+dominican-republic,2028,28 May,Sunday,Mother's Day,Observance
+dominican-republic,2028,15 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2028,20 Jun,Tuesday,June Solstice,Season
+dominican-republic,2028,30 Jul,Sunday,Father's Day,Observance
+dominican-republic,2028,16 Aug,Wednesday,Restoration Day,National holiday
+dominican-republic,2028,22 Sep,Friday,September Equinox,Season
+dominican-republic,2028,24 Sep,Sunday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2028,6 Nov,Monday,Constitution Day,National holiday
+dominican-republic,2028,21 Dec,Thursday,December Solstice,Season
+dominican-republic,2028,24 Dec,Sunday,Christmas Eve,Observance
+dominican-republic,2028,25 Dec,Monday,Christmas Day,National holiday
+dominican-republic,2028,31 Dec,Sunday,New Year's Eve,Observance
+dominican-republic,2029,1 Jan,Monday,New Year's Day,National holiday
+dominican-republic,2029,6 Jan,Saturday,Epiphany,National holiday
+dominican-republic,2029,21 Jan,Sunday,Our Lady of Altagracia,National holiday
+dominican-republic,2029,26 Jan,Friday,Duarte's Day,National holiday
+dominican-republic,2029,29 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2029,27 Feb,Tuesday,Independence Day,National holiday
+dominican-republic,2029,20 Mar,Tuesday,March Equinox,Season
+dominican-republic,2029,29 Mar,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2029,30 Mar,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2029,1 May,Tuesday,Labor Day,National holiday
+dominican-republic,2029,27 May,Sunday,Mother's Day,Observance
+dominican-republic,2029,31 May,Thursday,Corpus Christi,National holiday
+dominican-republic,2029,20 Jun,Wednesday,June Solstice,Season
+dominican-republic,2029,29 Jul,Sunday,Father's Day,Observance
+dominican-republic,2029,16 Aug,Thursday,Restoration Day,National holiday
+dominican-republic,2029,22 Sep,Saturday,September Equinox,Season
+dominican-republic,2029,24 Sep,Monday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2029,5 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2029,6 Nov,Tuesday,Constitution Day,National holiday
+dominican-republic,2029,21 Dec,Friday,December Solstice,Season
+dominican-republic,2029,24 Dec,Monday,Christmas Eve,Observance
+dominican-republic,2029,25 Dec,Tuesday,Christmas Day,National holiday
+dominican-republic,2029,31 Dec,Monday,New Year's Eve,Observance
+dominican-republic,2030,1 Jan,Tuesday,New Year's Day,National holiday
+dominican-republic,2030,6 Jan,Sunday,Epiphany,National holiday
+dominican-republic,2030,21 Jan,Monday,Our Lady of Altagracia,National holiday
+dominican-republic,2030,26 Jan,Saturday,Duarte's Day,National holiday
+dominican-republic,2030,27 Feb,Wednesday,Independence Day,National holiday
+dominican-republic,2030,20 Mar,Wednesday,March Equinox,Season
+dominican-republic,2030,18 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2030,19 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2030,1 May,Wednesday,Labor Day,National holiday
+dominican-republic,2030,26 May,Sunday,Mother's Day,Observance
+dominican-republic,2030,20 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2030,21 Jun,Friday,June Solstice,Season
+dominican-republic,2030,28 Jul,Sunday,Father's Day,Observance
+dominican-republic,2030,16 Aug,Friday,Restoration Day,National holiday
+dominican-republic,2030,22 Sep,Sunday,September Equinox,Season
+dominican-republic,2030,24 Sep,Tuesday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2030,4 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2030,6 Nov,Wednesday,Constitution Day,National holiday
+dominican-republic,2030,21 Dec,Saturday,December Solstice,Season
+dominican-republic,2030,24 Dec,Tuesday,Christmas Eve,Observance
+dominican-republic,2030,25 Dec,Wednesday,Christmas Day,National holiday
+dominican-republic,2030,31 Dec,Tuesday,New Year's Eve,Observance
+dominican-republic,2031,1 Jan,Wednesday,New Year's Day,National holiday
+dominican-republic,2031,6 Jan,Monday,Epiphany,National holiday
+dominican-republic,2031,21 Jan,Tuesday,Our Lady of Altagracia,National holiday
+dominican-republic,2031,26 Jan,Sunday,Duarte's Day,National holiday
+dominican-republic,2031,27 Feb,Thursday,Independence Day,National holiday
+dominican-republic,2031,20 Mar,Thursday,March Equinox,Season
+dominican-republic,2031,10 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2031,11 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2031,1 May,Thursday,Labor Day,National holiday
+dominican-republic,2031,25 May,Sunday,Mother's Day,Observance
+dominican-republic,2031,12 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2031,21 Jun,Saturday,June Solstice,Season
+dominican-republic,2031,27 Jul,Sunday,Father's Day,Observance
+dominican-republic,2031,16 Aug,Saturday,Restoration Day,National holiday
+dominican-republic,2031,23 Sep,Tuesday,September Equinox,Season
+dominican-republic,2031,24 Sep,Wednesday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2031,6 Nov,Thursday,Constitution Day,National holiday
+dominican-republic,2031,10 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2031,21 Dec,Sunday,December Solstice,Season
+dominican-republic,2031,24 Dec,Wednesday,Christmas Eve,Observance
+dominican-republic,2031,25 Dec,Thursday,Christmas Day,National holiday
+dominican-republic,2031,31 Dec,Wednesday,New Year's Eve,Observance
+dominican-republic,2032,1 Jan,Thursday,New Year's Day,National holiday
+dominican-republic,2032,6 Jan,Tuesday,Epiphany,National holiday
+dominican-republic,2032,21 Jan,Wednesday,Our Lady of Altagracia,National holiday
+dominican-republic,2032,26 Jan,Monday,Duarte's Day,National holiday
+dominican-republic,2032,27 Feb,Friday,Independence Day,National holiday
+dominican-republic,2032,19 Mar,Friday,March Equinox,Season
+dominican-republic,2032,25 Mar,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2032,26 Mar,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2032,30 Apr,Friday,Day off for Labor Day,National holiday
+dominican-republic,2032,1 May,Saturday,Labor Day,National holiday
+dominican-republic,2032,27 May,Thursday,Corpus Christi,National holiday
+dominican-republic,2032,30 May,Sunday,Mother's Day,Observance
+dominican-republic,2032,20 Jun,Sunday,June Solstice,Season
+dominican-republic,2032,25 Jul,Sunday,Father's Day,Observance
+dominican-republic,2032,16 Aug,Monday,Restoration Day,National holiday
+dominican-republic,2032,22 Sep,Wednesday,September Equinox,Season
+dominican-republic,2032,24 Sep,Friday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2032,6 Nov,Saturday,Constitution Day,National holiday
+dominican-republic,2032,21 Dec,Tuesday,December Solstice,Season
+dominican-republic,2032,24 Dec,Friday,Christmas Eve,Observance
+dominican-republic,2032,25 Dec,Saturday,Christmas Day,National holiday
+dominican-republic,2032,31 Dec,Friday,New Year's Eve,Observance
+dominican-republic,2033,1 Jan,Saturday,New Year's Day,National holiday
+dominican-republic,2033,6 Jan,Thursday,Epiphany,National holiday
+dominican-republic,2033,21 Jan,Friday,Our Lady of Altagracia,National holiday
+dominican-republic,2033,24 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2033,26 Jan,Wednesday,Duarte's Day,National holiday
+dominican-republic,2033,27 Feb,Sunday,Independence Day,National holiday
+dominican-republic,2033,20 Mar,Sunday,March Equinox,Season
+dominican-republic,2033,14 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2033,15 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2033,1 May,Sunday,Labor Day,National holiday
+dominican-republic,2033,2 May,Monday,Day off for Labor Day,National holiday
+dominican-republic,2033,29 May,Sunday,Mother's Day,Observance
+dominican-republic,2033,16 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2033,20 Jun,Monday,June Solstice,Season
+dominican-republic,2033,31 Jul,Sunday,Father's Day,Observance
+dominican-republic,2033,16 Aug,Tuesday,Restoration Day,National holiday
+dominican-republic,2033,22 Sep,Thursday,September Equinox,Season
+dominican-republic,2033,24 Sep,Saturday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2033,6 Nov,Sunday,Constitution Day,National holiday
+dominican-republic,2033,21 Dec,Wednesday,December Solstice,Season
+dominican-republic,2033,24 Dec,Saturday,Christmas Eve,Observance
+dominican-republic,2033,25 Dec,Sunday,Christmas Day,National holiday
+dominican-republic,2033,31 Dec,Saturday,New Year's Eve,Observance
+dominican-republic,2034,1 Jan,Sunday,New Year's Day,National holiday
+dominican-republic,2034,6 Jan,Friday,Epiphany,National holiday
+dominican-republic,2034,21 Jan,Saturday,Our Lady of Altagracia,National holiday
+dominican-republic,2034,26 Jan,Thursday,Duarte's Day,National holiday
+dominican-republic,2034,30 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2034,27 Feb,Monday,Independence Day,National holiday
+dominican-republic,2034,20 Mar,Monday,March Equinox,Season
+dominican-republic,2034,6 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2034,7 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2034,1 May,Monday,Labor Day,National holiday
+dominican-republic,2034,28 May,Sunday,Mother's Day,Observance
+dominican-republic,2034,8 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2034,21 Jun,Wednesday,June Solstice,Season
+dominican-republic,2034,30 Jul,Sunday,Father's Day,Observance
+dominican-republic,2034,16 Aug,Wednesday,Restoration Day,National holiday
+dominican-republic,2034,22 Sep,Friday,September Equinox,Season
+dominican-republic,2034,24 Sep,Sunday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2034,6 Nov,Monday,Constitution Day,National holiday
+dominican-republic,2034,21 Dec,Thursday,December Solstice,Season
+dominican-republic,2034,24 Dec,Sunday,Christmas Eve,Observance
+dominican-republic,2034,25 Dec,Monday,Christmas Day,National holiday
+dominican-republic,2034,31 Dec,Sunday,New Year's Eve,Observance
+dominican-republic,2035,1 Jan,Monday,New Year's Day,National holiday
+dominican-republic,2035,6 Jan,Saturday,Epiphany,National holiday
+dominican-republic,2035,21 Jan,Sunday,Our Lady of Altagracia,National holiday
+dominican-republic,2035,26 Jan,Friday,Duarte's Day,National holiday
+dominican-republic,2035,29 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2035,27 Feb,Tuesday,Independence Day,National holiday
+dominican-republic,2035,20 Mar,Tuesday,March Equinox,Season
+dominican-republic,2035,22 Mar,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2035,23 Mar,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2035,1 May,Tuesday,Labor Day,National holiday
+dominican-republic,2035,24 May,Thursday,Corpus Christi,National holiday
+dominican-republic,2035,27 May,Sunday,Mother's Day,Observance
+dominican-republic,2035,21 Jun,Thursday,June Solstice,Season
+dominican-republic,2035,29 Jul,Sunday,Father's Day,Observance
+dominican-republic,2035,16 Aug,Thursday,Restoration Day,National holiday
+dominican-republic,2035,23 Sep,Sunday,September Equinox,Season
+dominican-republic,2035,24 Sep,Monday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2035,5 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2035,6 Nov,Tuesday,Constitution Day,National holiday
+dominican-republic,2035,21 Dec,Friday,December Solstice,Season
+dominican-republic,2035,24 Dec,Monday,Christmas Eve,Observance
+dominican-republic,2035,25 Dec,Tuesday,Christmas Day,National holiday
+dominican-republic,2035,31 Dec,Monday,New Year's Eve,Observance
+dominican-republic,2036,1 Jan,Tuesday,New Year's Day,National holiday
+dominican-republic,2036,6 Jan,Sunday,Epiphany,National holiday
+dominican-republic,2036,21 Jan,Monday,Our Lady of Altagracia,National holiday
+dominican-republic,2036,26 Jan,Saturday,Duarte's Day,National holiday
+dominican-republic,2036,27 Feb,Wednesday,Independence Day,National holiday
+dominican-republic,2036,19 Mar,Wednesday,March Equinox,Season
+dominican-republic,2036,10 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2036,11 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2036,1 May,Thursday,Labor Day,National holiday
+dominican-republic,2036,25 May,Sunday,Mother's Day,Observance
+dominican-republic,2036,12 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2036,20 Jun,Friday,June Solstice,Season
+dominican-republic,2036,27 Jul,Sunday,Father's Day,Observance
+dominican-republic,2036,16 Aug,Saturday,Restoration Day,National holiday
+dominican-republic,2036,22 Sep,Monday,September Equinox,Season
+dominican-republic,2036,24 Sep,Wednesday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2036,6 Nov,Thursday,Constitution Day,National holiday
+dominican-republic,2036,10 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2036,21 Dec,Sunday,December Solstice,Season
+dominican-republic,2036,24 Dec,Wednesday,Christmas Eve,Observance
+dominican-republic,2036,25 Dec,Thursday,Christmas Day,National holiday
+dominican-republic,2036,31 Dec,Wednesday,New Year's Eve,Observance
+dominican-republic,2037,1 Jan,Thursday,New Year's Day,National holiday
+dominican-republic,2037,6 Jan,Tuesday,Epiphany,National holiday
+dominican-republic,2037,21 Jan,Wednesday,Our Lady of Altagracia,National holiday
+dominican-republic,2037,26 Jan,Monday,Duarte's Day,National holiday
+dominican-republic,2037,27 Feb,Friday,Independence Day,National holiday
+dominican-republic,2037,20 Mar,Friday,March Equinox,Season
+dominican-republic,2037,2 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2037,3 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2037,1 May,Friday,Labor Day,National holiday
+dominican-republic,2037,31 May,Sunday,Mother's Day,Observance
+dominican-republic,2037,4 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2037,20 Jun,Saturday,June Solstice,Season
+dominican-republic,2037,26 Jul,Sunday,Father's Day,Observance
+dominican-republic,2037,16 Aug,Sunday,Restoration Day,National holiday
+dominican-republic,2037,22 Sep,Tuesday,September Equinox,Season
+dominican-republic,2037,24 Sep,Thursday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2037,6 Nov,Friday,Constitution Day,National holiday
+dominican-republic,2037,9 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2037,21 Dec,Monday,December Solstice,Season
+dominican-republic,2037,24 Dec,Thursday,Christmas Eve,Observance
+dominican-republic,2037,25 Dec,Friday,Christmas Day,National holiday
+dominican-republic,2037,31 Dec,Thursday,New Year's Eve,Observance
+dominican-republic,2038,1 Jan,Friday,New Year's Day,National holiday
+dominican-republic,2038,6 Jan,Wednesday,Epiphany,National holiday
+dominican-republic,2038,21 Jan,Thursday,Our Lady of Altagracia,National holiday
+dominican-republic,2038,25 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2038,26 Jan,Tuesday,Duarte's Day,National holiday
+dominican-republic,2038,27 Feb,Saturday,Independence Day,National holiday
+dominican-republic,2038,20 Mar,Saturday,March Equinox,Season
+dominican-republic,2038,22 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2038,23 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2038,30 Apr,Friday,Day off for Labor Day,National holiday
+dominican-republic,2038,1 May,Saturday,Labor Day,National holiday
+dominican-republic,2038,30 May,Sunday,Mother's Day,Observance
+dominican-republic,2038,21 Jun,Monday,June Solstice,Season
+dominican-republic,2038,24 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2038,25 Jul,Sunday,Father's Day,Observance
+dominican-republic,2038,16 Aug,Monday,Restoration Day,National holiday
+dominican-republic,2038,22 Sep,Wednesday,September Equinox,Season
+dominican-republic,2038,24 Sep,Friday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2038,6 Nov,Saturday,Constitution Day,National holiday
+dominican-republic,2038,21 Dec,Tuesday,December Solstice,Season
+dominican-republic,2038,24 Dec,Friday,Christmas Eve,Observance
+dominican-republic,2038,25 Dec,Saturday,Christmas Day,National holiday
+dominican-republic,2038,31 Dec,Friday,New Year's Eve,Observance
+dominican-republic,2039,1 Jan,Saturday,New Year's Day,National holiday
+dominican-republic,2039,6 Jan,Thursday,Epiphany,National holiday
+dominican-republic,2039,21 Jan,Friday,Our Lady of Altagracia,National holiday
+dominican-republic,2039,24 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2039,26 Jan,Wednesday,Duarte's Day,National holiday
+dominican-republic,2039,27 Feb,Sunday,Independence Day,National holiday
+dominican-republic,2039,20 Mar,Sunday,March Equinox,Season
+dominican-republic,2039,7 Apr,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2039,8 Apr,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2039,1 May,Sunday,Labor Day,National holiday
+dominican-republic,2039,2 May,Monday,Day off for Labor Day,National holiday
+dominican-republic,2039,29 May,Sunday,Mother's Day,Observance
+dominican-republic,2039,9 Jun,Thursday,Corpus Christi,National holiday
+dominican-republic,2039,21 Jun,Tuesday,June Solstice,Season
+dominican-republic,2039,31 Jul,Sunday,Father's Day,Observance
+dominican-republic,2039,16 Aug,Tuesday,Restoration Day,National holiday
+dominican-republic,2039,22 Sep,Thursday,September Equinox,Season
+dominican-republic,2039,24 Sep,Saturday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2039,6 Nov,Sunday,Constitution Day,National holiday
+dominican-republic,2039,21 Dec,Wednesday,December Solstice,Season
+dominican-republic,2039,24 Dec,Saturday,Christmas Eve,Observance
+dominican-republic,2039,25 Dec,Sunday,Christmas Day,National holiday
+dominican-republic,2039,31 Dec,Saturday,New Year's Eve,Observance
+dominican-republic,2040,1 Jan,Sunday,New Year's Day,National holiday
+dominican-republic,2040,6 Jan,Friday,Epiphany,National holiday
+dominican-republic,2040,21 Jan,Saturday,Our Lady of Altagracia,National holiday
+dominican-republic,2040,26 Jan,Thursday,Duarte's Day,National holiday
+dominican-republic,2040,30 Jan,Monday,Day off for Duarte's Day,National holiday
+dominican-republic,2040,27 Feb,Monday,Independence Day,National holiday
+dominican-republic,2040,19 Mar,Monday,March Equinox,Season
+dominican-republic,2040,29 Mar,Thursday,Maundy Thursday,"Observance, Christian"
+dominican-republic,2040,30 Mar,Friday,Good Friday,"National holiday, Christian"
+dominican-republic,2040,1 May,Tuesday,Labor Day,National holiday
+dominican-republic,2040,27 May,Sunday,Mother's Day,Observance
+dominican-republic,2040,31 May,Thursday,Corpus Christi,National holiday
+dominican-republic,2040,20 Jun,Wednesday,June Solstice,Season
+dominican-republic,2040,29 Jul,Sunday,Father's Day,Observance
+dominican-republic,2040,16 Aug,Thursday,Restoration Day,National holiday
+dominican-republic,2040,22 Sep,Saturday,September Equinox,Season
+dominican-republic,2040,24 Sep,Monday,Feast of Our Lady of Mercy,National holiday
+dominican-republic,2040,5 Nov,Monday,Day off for Constitution Day,National holiday
+dominican-republic,2040,6 Nov,Tuesday,Constitution Day,National holiday
+dominican-republic,2040,21 Dec,Friday,December Solstice,Season
+dominican-republic,2040,24 Dec,Monday,Christmas Eve,Observance
+dominican-republic,2040,25 Dec,Tuesday,Christmas Day,National holiday
+dominican-republic,2040,31 Dec,Monday,New Year's Eve,Observance

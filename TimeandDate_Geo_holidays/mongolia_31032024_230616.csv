@@ -1,0 +1,753 @@
+Geo,Event Year,Date,Day,Name,Type
+mongolia,2015,1 Jan,Thursday,New Year,Public Holiday
+mongolia,2015,13 Jan,Tuesday,Constitution Day,Observance
+mongolia,2015,14 Feb,Saturday,Valentine's Day,Observance
+mongolia,2015,19 Feb,Thursday,Tsagaan Sar,Public Holiday
+mongolia,2015,1 Mar,Sunday,Patriots' Day,Observance
+mongolia,2015,8 Mar,Sunday,International Women's Day,Public Holiday
+mongolia,2015,18 Mar,Wednesday,Soldiers' Day,Observance
+mongolia,2015,21 Mar,Saturday,March Equinox,Season
+mongolia,2015,28 Mar,Saturday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+mongolia,2015,7 Apr,Tuesday,Health Day,Observance
+mongolia,2015,26 Apr,Sunday,Intellectual Property Day,Observance
+mongolia,2015,15 May,Friday,Family Day,Observance
+mongolia,2015,1 Jun,Monday,Children's Day,Public Holiday
+mongolia,2015,22 Jun,Monday,June Solstice,Season
+mongolia,2015,10 Jul,Friday,Political Flag Day,Observance
+mongolia,2015,11 Jul,Saturday,Naadam (National Day),Public Holiday
+mongolia,2015,12 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2015,13 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2015,14 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2015,15 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2015,25 Aug,Tuesday,Youth's Day,Observance
+mongolia,2015,10 Sep,Thursday,Repression Victims' Day,Observance
+mongolia,2015,23 Sep,Wednesday,September Equinox,Season
+mongolia,2015,26 Sep,Saturday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+mongolia,2015,1 Oct,Thursday,Elders' Day,Observance
+mongolia,2015,29 Oct,Thursday,Capital City Day,Observance
+mongolia,2015,12 Nov,Thursday,Genghis Khan Day,Public Holiday
+mongolia,2015,26 Nov,Thursday,Republic's Day,Public Holiday
+mongolia,2015,10 Dec,Thursday,Human Rights Day,Observance
+mongolia,2015,22 Dec,Tuesday,December Solstice,Season
+mongolia,2015,29 Dec,Tuesday,Independence Day,Public Holiday
+mongolia,2016,1 Jan,Friday,New Year,Public Holiday
+mongolia,2016,13 Jan,Wednesday,Constitution Day,Observance
+mongolia,2016,8 Feb,Monday,Tsagaan Sar,Public Holiday
+mongolia,2016,14 Feb,Sunday,Valentine's Day,Observance
+mongolia,2016,1 Mar,Tuesday,Patriots' Day,Observance
+mongolia,2016,8 Mar,Tuesday,International Women's Day,Public Holiday
+mongolia,2016,18 Mar,Friday,Soldiers' Day,Observance
+mongolia,2016,20 Mar,Sunday,March Equinox,Season
+mongolia,2016,26 Mar,Saturday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+mongolia,2016,7 Apr,Thursday,Health Day,Observance
+mongolia,2016,26 Apr,Tuesday,Intellectual Property Day,Observance
+mongolia,2016,15 May,Sunday,Family Day,Observance
+mongolia,2016,1 Jun,Wednesday,Children's Day,Public Holiday
+mongolia,2016,21 Jun,Tuesday,June Solstice,Season
+mongolia,2016,10 Jul,Sunday,Political Flag Day,Observance
+mongolia,2016,15 Jul,Friday,Naadam (National Day),Public Holiday
+mongolia,2016,16 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2016,17 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2016,18 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2016,19 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2016,25 Aug,Thursday,Youth's Day,Observance
+mongolia,2016,10 Sep,Saturday,Repression Victims' Day,Observance
+mongolia,2016,22 Sep,Thursday,September Equinox,Season
+mongolia,2016,24 Sep,Saturday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+mongolia,2016,1 Oct,Saturday,Elders' Day,Observance
+mongolia,2016,29 Oct,Saturday,Capital City Day,Observance
+mongolia,2016,31 Oct,Monday,Genghis Khan Day,Public Holiday
+mongolia,2016,26 Nov,Saturday,Republic's Day,Public Holiday
+mongolia,2016,10 Dec,Saturday,Human Rights Day,Observance
+mongolia,2016,21 Dec,Wednesday,December Solstice,Season
+mongolia,2016,29 Dec,Thursday,Independence Day,Public Holiday
+mongolia,2017,1 Jan,Sunday,New Year,Public Holiday
+mongolia,2017,13 Jan,Friday,Constitution Day,Observance
+mongolia,2017,14 Feb,Tuesday,Valentine's Day,Observance
+mongolia,2017,17 Feb,Friday,Tsagaan Sar,Public Holiday
+mongolia,2017,1 Mar,Wednesday,Patriots' Day,Observance
+mongolia,2017,8 Mar,Wednesday,International Women's Day,Public Holiday
+mongolia,2017,18 Mar,Saturday,Soldiers' Day,Observance
+mongolia,2017,20 Mar,Monday,March Equinox,Season
+mongolia,2017,7 Apr,Friday,Health Day,Observance
+mongolia,2017,26 Apr,Wednesday,Intellectual Property Day,Observance
+mongolia,2017,15 May,Monday,Family Day,Observance
+mongolia,2017,1 Jun,Thursday,Children's Day,Public Holiday
+mongolia,2017,21 Jun,Wednesday,June Solstice,Season
+mongolia,2017,10 Jul,Monday,Political Flag Day,Observance
+mongolia,2017,11 Jul,Tuesday,Naadam (National Day),Public Holiday
+mongolia,2017,12 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2017,13 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2017,14 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2017,15 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2017,25 Aug,Friday,Youth's Day,Observance
+mongolia,2017,10 Sep,Sunday,Repression Victims' Day,Observance
+mongolia,2017,23 Sep,Saturday,September Equinox,Season
+mongolia,2017,1 Oct,Sunday,Elders' Day,Observance
+mongolia,2017,29 Oct,Sunday,Capital City Day,Observance
+mongolia,2017,19 Nov,Sunday,Genghis Khan Day,Public Holiday
+mongolia,2017,26 Nov,Sunday,Republic's Day,Public Holiday
+mongolia,2017,10 Dec,Sunday,Human Rights Day,Observance
+mongolia,2017,22 Dec,Friday,December Solstice,Season
+mongolia,2017,29 Dec,Friday,Independence Day,Public Holiday
+mongolia,2018,1 Jan,Monday,New Year,Public Holiday
+mongolia,2018,13 Jan,Saturday,Constitution Day,Observance
+mongolia,2018,14 Feb,Wednesday,Valentine's Day,Observance
+mongolia,2018,16 Feb,Friday,Tsagaan Sar,Public Holiday
+mongolia,2018,1 Mar,Thursday,Patriots' Day,Observance
+mongolia,2018,8 Mar,Thursday,International Women's Day,Public Holiday
+mongolia,2018,18 Mar,Sunday,Soldiers' Day,Observance
+mongolia,2018,21 Mar,Wednesday,March Equinox,Season
+mongolia,2018,7 Apr,Saturday,Health Day,Observance
+mongolia,2018,26 Apr,Thursday,Intellectual Property Day,Observance
+mongolia,2018,15 May,Tuesday,Family Day,Observance
+mongolia,2018,1 Jun,Friday,Children's Day,Public Holiday
+mongolia,2018,21 Jun,Thursday,June Solstice,Season
+mongolia,2018,10 Jul,Tuesday,Political Flag Day,Observance
+mongolia,2018,11 Jul,Wednesday,Naadam (National Day),Public Holiday
+mongolia,2018,12 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2018,13 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2018,14 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2018,15 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2018,25 Aug,Saturday,Youth's Day,Observance
+mongolia,2018,10 Sep,Monday,Repression Victims' Day,Observance
+mongolia,2018,23 Sep,Sunday,September Equinox,Season
+mongolia,2018,1 Oct,Monday,Elders' Day,Observance
+mongolia,2018,29 Oct,Monday,Capital City Day,Observance
+mongolia,2018,8 Nov,Thursday,Genghis Khan Day,Public Holiday
+mongolia,2018,26 Nov,Monday,Republic's Day,Public Holiday
+mongolia,2018,10 Dec,Monday,Human Rights Day,Observance
+mongolia,2018,22 Dec,Saturday,December Solstice,Season
+mongolia,2018,29 Dec,Saturday,Independence Day,Public Holiday
+mongolia,2019,1 Jan,Tuesday,New Year,Public Holiday
+mongolia,2019,13 Jan,Sunday,Constitution Day,Observance
+mongolia,2019,5 Feb,Tuesday,Tsagaan Sar,Public Holiday
+mongolia,2019,14 Feb,Thursday,Valentine's Day,Observance
+mongolia,2019,1 Mar,Friday,Patriots' Day,Observance
+mongolia,2019,8 Mar,Friday,International Women's Day,Public Holiday
+mongolia,2019,18 Mar,Monday,Soldiers' Day,Observance
+mongolia,2019,21 Mar,Thursday,March Equinox,Season
+mongolia,2019,7 Apr,Sunday,Health Day,Observance
+mongolia,2019,26 Apr,Friday,Intellectual Property Day,Observance
+mongolia,2019,15 May,Wednesday,Family Day,Observance
+mongolia,2019,1 Jun,Saturday,Children's Day,Public Holiday
+mongolia,2019,21 Jun,Friday,June Solstice,Season
+mongolia,2019,10 Jul,Wednesday,Political Flag Day,Observance
+mongolia,2019,11 Jul,Thursday,Naadam (National Day),Public Holiday
+mongolia,2019,12 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2019,13 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2019,14 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2019,15 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2019,25 Aug,Sunday,Youth's Day,Observance
+mongolia,2019,10 Sep,Tuesday,Repression Victims' Day,Observance
+mongolia,2019,23 Sep,Monday,September Equinox,Season
+mongolia,2019,1 Oct,Tuesday,Elders' Day,Observance
+mongolia,2019,29 Oct,Tuesday,Capital City Day,Observance
+mongolia,2019,26 Nov,Tuesday,Republic's Day,Public Holiday
+mongolia,2019,27 Nov,Wednesday,Genghis Khan Day,Public Holiday
+mongolia,2019,10 Dec,Tuesday,Human Rights Day,Observance
+mongolia,2019,22 Dec,Sunday,December Solstice,Season
+mongolia,2019,29 Dec,Sunday,Independence Day,Public Holiday
+mongolia,2020,1 Jan,Wednesday,New Year,Public Holiday
+mongolia,2020,13 Jan,Monday,Constitution Day,Observance
+mongolia,2020,14 Feb,Friday,Valentine's Day,Observance
+mongolia,2020,24 Feb,Monday,Tsagaan Sar,Public Holiday
+mongolia,2020,25 Feb,Tuesday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2020,26 Feb,Wednesday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2020,1 Mar,Sunday,Patriots' Day,Observance
+mongolia,2020,8 Mar,Sunday,International Women's Day,Public Holiday
+mongolia,2020,18 Mar,Wednesday,Soldiers' Day,Observance
+mongolia,2020,20 Mar,Friday,March Equinox,Season
+mongolia,2020,7 Apr,Tuesday,Health Day,Observance
+mongolia,2020,26 Apr,Sunday,Intellectual Property Day,Observance
+mongolia,2020,15 May,Friday,Family Day,Observance
+mongolia,2020,1 Jun,Monday,Children's Day,Public Holiday
+mongolia,2020,5 Jun,Friday,Great Buddha Day,Public Holiday
+mongolia,2020,21 Jun,Sunday,June Solstice,Season
+mongolia,2020,10 Jul,Friday,Political Flag Day,Observance
+mongolia,2020,11 Jul,Saturday,Naadam (National Day),Public Holiday
+mongolia,2020,12 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2020,13 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2020,14 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2020,15 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2020,25 Aug,Tuesday,Youth's Day,Observance
+mongolia,2020,10 Sep,Thursday,Repression Victims' Day,Observance
+mongolia,2020,22 Sep,Tuesday,September Equinox,Season
+mongolia,2020,1 Oct,Thursday,Elders' Day,Observance
+mongolia,2020,15 Oct,Thursday,Election Day,Public Holiday
+mongolia,2020,29 Oct,Thursday,Capital City Day,Observance
+mongolia,2020,16 Nov,Monday,Genghis Khan Day,Public Holiday
+mongolia,2020,26 Nov,Thursday,Republic's Day,Public Holiday
+mongolia,2020,10 Dec,Thursday,Human Rights Day,Observance
+mongolia,2020,21 Dec,Monday,December Solstice,Season
+mongolia,2020,29 Dec,Tuesday,Independence Day,Public Holiday
+mongolia,2021,1 Jan,Friday,New Year,Public Holiday
+mongolia,2021,13 Jan,Wednesday,Constitution Day,Observance
+mongolia,2021,12 Feb,Friday,Tsagaan Sar,Public Holiday
+mongolia,2021,13 Feb,Saturday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2021,14 Feb,Sunday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2021,14 Feb,Sunday,Valentine's Day,Observance
+mongolia,2021,1 Mar,Monday,Patriots' Day,Observance
+mongolia,2021,8 Mar,Monday,International Women's Day,Public Holiday
+mongolia,2021,18 Mar,Thursday,Soldiers' Day,Observance
+mongolia,2021,20 Mar,Saturday,March Equinox,Season
+mongolia,2021,7 Apr,Wednesday,Health Day,Observance
+mongolia,2021,26 Apr,Monday,Intellectual Property Day,Observance
+mongolia,2021,15 May,Saturday,Family Day,Observance
+mongolia,2021,26 May,Wednesday,Great Buddha Day,Public Holiday
+mongolia,2021,1 Jun,Tuesday,Children's Day,Public Holiday
+mongolia,2021,9 Jun,Wednesday,Election Day,Public Holiday
+mongolia,2021,21 Jun,Monday,June Solstice,Season
+mongolia,2021,10 Jul,Saturday,Political Flag Day,Observance
+mongolia,2021,11 Jul,Sunday,Naadam (National Day),Public Holiday
+mongolia,2021,12 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2021,13 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2021,14 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2021,15 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2021,16 Jul,Friday,Naadam Holiday (National Day),Public Holiday
+mongolia,2021,25 Aug,Wednesday,Youth's Day,Observance
+mongolia,2021,10 Sep,Friday,Repression Victims' Day,Observance
+mongolia,2021,23 Sep,Thursday,September Equinox,Season
+mongolia,2021,1 Oct,Friday,Elders' Day,Observance
+mongolia,2021,29 Oct,Friday,Capital City Day,Observance
+mongolia,2021,5 Nov,Friday,Genghis Khan Day,Public Holiday
+mongolia,2021,26 Nov,Friday,Republic's Day,Public Holiday
+mongolia,2021,10 Dec,Friday,Human Rights Day,Observance
+mongolia,2021,21 Dec,Tuesday,December Solstice,Season
+mongolia,2021,29 Dec,Wednesday,Independence Day,Public Holiday
+mongolia,2022,1 Jan,Saturday,New Year,Public Holiday
+mongolia,2022,13 Jan,Thursday,Constitution Day,Observance
+mongolia,2022,2 Feb,Wednesday,Tsagaan Sar,Public Holiday
+mongolia,2022,3 Feb,Thursday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2022,4 Feb,Friday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2022,14 Feb,Monday,Valentine's Day,Observance
+mongolia,2022,1 Mar,Tuesday,Patriots' Day,Observance
+mongolia,2022,8 Mar,Tuesday,International Women's Day,Public Holiday
+mongolia,2022,18 Mar,Friday,Soldiers' Day,Observance
+mongolia,2022,20 Mar,Sunday,March Equinox,Season
+mongolia,2022,7 Apr,Thursday,Health Day,Observance
+mongolia,2022,26 Apr,Tuesday,Intellectual Property Day,Observance
+mongolia,2022,15 May,Sunday,Family Day,Observance
+mongolia,2022,1 Jun,Wednesday,Children's Day,Public Holiday
+mongolia,2022,14 Jun,Tuesday,Great Buddha Day,Public Holiday
+mongolia,2022,21 Jun,Tuesday,June Solstice,Season
+mongolia,2022,10 Jul,Sunday,Political Flag Day,Observance
+mongolia,2022,11 Jul,Monday,Naadam (National Day),Public Holiday
+mongolia,2022,12 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2022,13 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2022,14 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2022,15 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2022,25 Aug,Thursday,Youth's Day,Observance
+mongolia,2022,10 Sep,Saturday,Repression Victims' Day,Observance
+mongolia,2022,23 Sep,Friday,September Equinox,Season
+mongolia,2022,1 Oct,Saturday,Elders' Day,Observance
+mongolia,2022,29 Oct,Saturday,Capital City Day,Observance
+mongolia,2022,24 Nov,Thursday,Genghis Khan Day,Public Holiday
+mongolia,2022,26 Nov,Saturday,Republic's Day,Public Holiday
+mongolia,2022,10 Dec,Saturday,Human Rights Day,Observance
+mongolia,2022,22 Dec,Thursday,December Solstice,Season
+mongolia,2022,29 Dec,Thursday,Independence Day,Public Holiday
+mongolia,2023,1 Jan,Sunday,New Year,Public Holiday
+mongolia,2023,13 Jan,Friday,Constitution Day,Observance
+mongolia,2023,14 Feb,Tuesday,Valentine's Day,Observance
+mongolia,2023,21 Feb,Tuesday,Tsagaan Sar,Public Holiday
+mongolia,2023,22 Feb,Wednesday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2023,23 Feb,Thursday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2023,1 Mar,Wednesday,Patriots' Day,Observance
+mongolia,2023,8 Mar,Wednesday,International Women's Day,Public Holiday
+mongolia,2023,18 Mar,Saturday,Soldiers' Day,Observance
+mongolia,2023,21 Mar,Tuesday,March Equinox,Season
+mongolia,2023,7 Apr,Friday,Health Day,Observance
+mongolia,2023,26 Apr,Wednesday,Intellectual Property Day,Observance
+mongolia,2023,15 May,Monday,Family Day,Observance
+mongolia,2023,1 Jun,Thursday,Children's Day,Public Holiday
+mongolia,2023,4 Jun,Sunday,Great Buddha Day,Public Holiday
+mongolia,2023,21 Jun,Wednesday,June Solstice,Season
+mongolia,2023,10 Jul,Monday,Political Flag Day,Observance
+mongolia,2023,11 Jul,Tuesday,Naadam (National Day),Public Holiday
+mongolia,2023,12 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2023,13 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2023,14 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2023,15 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2023,25 Aug,Friday,Youth's Day,Observance
+mongolia,2023,10 Sep,Sunday,Repression Victims' Day,Observance
+mongolia,2023,23 Sep,Saturday,September Equinox,Season
+mongolia,2023,1 Oct,Sunday,Elders' Day,Observance
+mongolia,2023,29 Oct,Sunday,Capital City Day,Observance
+mongolia,2023,14 Nov,Tuesday,Genghis Khan Day,Public Holiday
+mongolia,2023,26 Nov,Sunday,Republic's Day,Public Holiday
+mongolia,2023,10 Dec,Sunday,Human Rights Day,Observance
+mongolia,2023,22 Dec,Friday,December Solstice,Season
+mongolia,2023,29 Dec,Friday,Independence Day,Public Holiday
+mongolia,2024,1 Jan,Monday,New Year,Public Holiday
+mongolia,2024,13 Jan,Saturday,Constitution Day,Observance
+mongolia,2024,10 Feb,Saturday,Tsagaan Sar,Public Holiday
+mongolia,2024,11 Feb,Sunday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2024,12 Feb,Monday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2024,14 Feb,Wednesday,Valentine's Day,Observance
+mongolia,2024,1 Mar,Friday,Patriots' Day,Observance
+mongolia,2024,8 Mar,Friday,International Women's Day,Public Holiday
+mongolia,2024,18 Mar,Monday,Soldiers' Day,Observance
+mongolia,2024,20 Mar,Wednesday,March Equinox,Season
+mongolia,2024,7 Apr,Sunday,Health Day,Observance
+mongolia,2024,26 Apr,Friday,Intellectual Property Day,Observance
+mongolia,2024,15 May,Wednesday,Family Day,Observance
+mongolia,2024,23 May,Thursday,Great Buddha Day,Public Holiday
+mongolia,2024,1 Jun,Saturday,Children's Day,Public Holiday
+mongolia,2024,21 Jun,Friday,June Solstice,Season
+mongolia,2024,10 Jul,Wednesday,Political Flag Day,Observance
+mongolia,2024,11 Jul,Thursday,Naadam (National Day),Public Holiday
+mongolia,2024,12 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2024,13 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2024,14 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2024,15 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2024,25 Aug,Sunday,Youth's Day,Observance
+mongolia,2024,10 Sep,Tuesday,Repression Victims' Day,Observance
+mongolia,2024,22 Sep,Sunday,September Equinox,Season
+mongolia,2024,1 Oct,Tuesday,Elders' Day,Observance
+mongolia,2024,29 Oct,Tuesday,Capital City Day,Observance
+mongolia,2024,16 Nov,Saturday,Genghis Khan Day,Public Holiday
+mongolia,2024,26 Nov,Tuesday,Republic's Day,Public Holiday
+mongolia,2024,10 Dec,Tuesday,Human Rights Day,Observance
+mongolia,2024,21 Dec,Saturday,December Solstice,Season
+mongolia,2024,29 Dec,Sunday,Independence Day,Public Holiday
+mongolia,2025,1 Jan,Wednesday,New Year,Public Holiday
+mongolia,2025,13 Jan,Monday,Constitution Day,Observance
+mongolia,2025,14 Feb,Friday,Valentine's Day,Observance
+mongolia,2025,1 Mar,Saturday,Tsagaan Sar,Public Holiday
+mongolia,2025,1 Mar,Saturday,Patriots' Day,Observance
+mongolia,2025,2 Mar,Sunday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2025,3 Mar,Monday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2025,8 Mar,Saturday,International Women's Day,Public Holiday
+mongolia,2025,18 Mar,Tuesday,Soldiers' Day,Observance
+mongolia,2025,20 Mar,Thursday,March Equinox,Season
+mongolia,2025,7 Apr,Monday,Health Day,Observance
+mongolia,2025,26 Apr,Saturday,Intellectual Property Day,Observance
+mongolia,2025,15 May,Thursday,Family Day,Observance
+mongolia,2025,1 Jun,Sunday,Children's Day,Public Holiday
+mongolia,2025,4 Jun,Wednesday,Great Buddha Day,Public Holiday
+mongolia,2025,21 Jun,Saturday,June Solstice,Season
+mongolia,2025,10 Jul,Thursday,Political Flag Day,Observance
+mongolia,2025,11 Jul,Friday,Naadam (National Day),Public Holiday
+mongolia,2025,12 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2025,13 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2025,14 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2025,15 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2025,25 Aug,Monday,Youth's Day,Observance
+mongolia,2025,10 Sep,Wednesday,Repression Victims' Day,Observance
+mongolia,2025,23 Sep,Tuesday,September Equinox,Season
+mongolia,2025,1 Oct,Wednesday,Elders' Day,Observance
+mongolia,2025,29 Oct,Wednesday,Capital City Day,Observance
+mongolia,2025,21 Nov,Friday,Genghis Khan Day,Public Holiday
+mongolia,2025,26 Nov,Wednesday,Republic's Day,Public Holiday
+mongolia,2025,10 Dec,Wednesday,Human Rights Day,Observance
+mongolia,2025,21 Dec,Sunday,December Solstice,Season
+mongolia,2025,29 Dec,Monday,Independence Day,Public Holiday
+mongolia,2026,1 Jan,Thursday,New Year,Public Holiday
+mongolia,2026,13 Jan,Tuesday,Constitution Day,Observance
+mongolia,2026,14 Feb,Saturday,Valentine's Day,Observance
+mongolia,2026,20 Feb,Friday,Tsagaan Sar,Public Holiday
+mongolia,2026,21 Feb,Saturday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2026,22 Feb,Sunday,Tsagaan Sar Holiday,Public Holiday
+mongolia,2026,1 Mar,Sunday,Patriots' Day,Observance
+mongolia,2026,8 Mar,Sunday,International Women's Day,Public Holiday
+mongolia,2026,18 Mar,Wednesday,Soldiers' Day,Observance
+mongolia,2026,20 Mar,Friday,March Equinox,Season
+mongolia,2026,7 Apr,Tuesday,Health Day,Observance
+mongolia,2026,26 Apr,Sunday,Intellectual Property Day,Observance
+mongolia,2026,15 May,Friday,Family Day,Observance
+mongolia,2026,1 Jun,Monday,Children's Day,Public Holiday
+mongolia,2026,21 Jun,Sunday,June Solstice,Season
+mongolia,2026,10 Jul,Friday,Political Flag Day,Observance
+mongolia,2026,11 Jul,Saturday,Naadam (National Day),Public Holiday
+mongolia,2026,12 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2026,13 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2026,14 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2026,15 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2026,25 Aug,Tuesday,Youth's Day,Observance
+mongolia,2026,10 Sep,Thursday,Repression Victims' Day,Observance
+mongolia,2026,23 Sep,Wednesday,September Equinox,Season
+mongolia,2026,1 Oct,Thursday,Elders' Day,Observance
+mongolia,2026,29 Oct,Thursday,Capital City Day,Observance
+mongolia,2026,26 Nov,Thursday,Republic's Day,Public Holiday
+mongolia,2026,10 Dec,Thursday,Human Rights Day,Observance
+mongolia,2026,22 Dec,Tuesday,December Solstice,Season
+mongolia,2026,29 Dec,Tuesday,Independence Day,Public Holiday
+mongolia,2027,1 Jan,Friday,New Year,Public Holiday
+mongolia,2027,13 Jan,Wednesday,Constitution Day,Observance
+mongolia,2027,14 Feb,Sunday,Valentine's Day,Observance
+mongolia,2027,1 Mar,Monday,Patriots' Day,Observance
+mongolia,2027,8 Mar,Monday,International Women's Day,Public Holiday
+mongolia,2027,18 Mar,Thursday,Soldiers' Day,Observance
+mongolia,2027,21 Mar,Sunday,March Equinox,Season
+mongolia,2027,7 Apr,Wednesday,Health Day,Observance
+mongolia,2027,26 Apr,Monday,Intellectual Property Day,Observance
+mongolia,2027,15 May,Saturday,Family Day,Observance
+mongolia,2027,1 Jun,Tuesday,Children's Day,Public Holiday
+mongolia,2027,21 Jun,Monday,June Solstice,Season
+mongolia,2027,10 Jul,Saturday,Political Flag Day,Observance
+mongolia,2027,11 Jul,Sunday,Naadam (National Day),Public Holiday
+mongolia,2027,12 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2027,13 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2027,14 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2027,15 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2027,25 Aug,Wednesday,Youth's Day,Observance
+mongolia,2027,10 Sep,Friday,Repression Victims' Day,Observance
+mongolia,2027,23 Sep,Thursday,September Equinox,Season
+mongolia,2027,1 Oct,Friday,Elders' Day,Observance
+mongolia,2027,29 Oct,Friday,Capital City Day,Observance
+mongolia,2027,26 Nov,Friday,Republic's Day,Public Holiday
+mongolia,2027,10 Dec,Friday,Human Rights Day,Observance
+mongolia,2027,22 Dec,Wednesday,December Solstice,Season
+mongolia,2027,29 Dec,Wednesday,Independence Day,Public Holiday
+mongolia,2028,1 Jan,Saturday,New Year,Public Holiday
+mongolia,2028,13 Jan,Thursday,Constitution Day,Observance
+mongolia,2028,14 Feb,Monday,Valentine's Day,Observance
+mongolia,2028,1 Mar,Wednesday,Patriots' Day,Observance
+mongolia,2028,8 Mar,Wednesday,International Women's Day,Public Holiday
+mongolia,2028,18 Mar,Saturday,Soldiers' Day,Observance
+mongolia,2028,20 Mar,Monday,March Equinox,Season
+mongolia,2028,7 Apr,Friday,Health Day,Observance
+mongolia,2028,26 Apr,Wednesday,Intellectual Property Day,Observance
+mongolia,2028,15 May,Monday,Family Day,Observance
+mongolia,2028,1 Jun,Thursday,Children's Day,Public Holiday
+mongolia,2028,21 Jun,Wednesday,June Solstice,Season
+mongolia,2028,10 Jul,Monday,Political Flag Day,Observance
+mongolia,2028,11 Jul,Tuesday,Naadam (National Day),Public Holiday
+mongolia,2028,12 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2028,13 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2028,14 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2028,15 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2028,25 Aug,Friday,Youth's Day,Observance
+mongolia,2028,10 Sep,Sunday,Repression Victims' Day,Observance
+mongolia,2028,22 Sep,Friday,September Equinox,Season
+mongolia,2028,1 Oct,Sunday,Elders' Day,Observance
+mongolia,2028,29 Oct,Sunday,Capital City Day,Observance
+mongolia,2028,26 Nov,Sunday,Republic's Day,Public Holiday
+mongolia,2028,10 Dec,Sunday,Human Rights Day,Observance
+mongolia,2028,21 Dec,Thursday,December Solstice,Season
+mongolia,2028,29 Dec,Friday,Independence Day,Public Holiday
+mongolia,2029,1 Jan,Monday,New Year,Public Holiday
+mongolia,2029,13 Jan,Saturday,Constitution Day,Observance
+mongolia,2029,14 Feb,Wednesday,Valentine's Day,Observance
+mongolia,2029,1 Mar,Thursday,Patriots' Day,Observance
+mongolia,2029,8 Mar,Thursday,International Women's Day,Public Holiday
+mongolia,2029,18 Mar,Sunday,Soldiers' Day,Observance
+mongolia,2029,20 Mar,Tuesday,March Equinox,Season
+mongolia,2029,7 Apr,Saturday,Health Day,Observance
+mongolia,2029,26 Apr,Thursday,Intellectual Property Day,Observance
+mongolia,2029,15 May,Tuesday,Family Day,Observance
+mongolia,2029,1 Jun,Friday,Children's Day,Public Holiday
+mongolia,2029,21 Jun,Thursday,June Solstice,Season
+mongolia,2029,10 Jul,Tuesday,Political Flag Day,Observance
+mongolia,2029,11 Jul,Wednesday,Naadam (National Day),Public Holiday
+mongolia,2029,12 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2029,13 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2029,14 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2029,15 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2029,25 Aug,Saturday,Youth's Day,Observance
+mongolia,2029,10 Sep,Monday,Repression Victims' Day,Observance
+mongolia,2029,23 Sep,Sunday,September Equinox,Season
+mongolia,2029,1 Oct,Monday,Elders' Day,Observance
+mongolia,2029,29 Oct,Monday,Capital City Day,Observance
+mongolia,2029,26 Nov,Monday,Republic's Day,Public Holiday
+mongolia,2029,10 Dec,Monday,Human Rights Day,Observance
+mongolia,2029,21 Dec,Friday,December Solstice,Season
+mongolia,2029,29 Dec,Saturday,Independence Day,Public Holiday
+mongolia,2030,1 Jan,Tuesday,New Year,Public Holiday
+mongolia,2030,13 Jan,Sunday,Constitution Day,Observance
+mongolia,2030,14 Feb,Thursday,Valentine's Day,Observance
+mongolia,2030,1 Mar,Friday,Patriots' Day,Observance
+mongolia,2030,8 Mar,Friday,International Women's Day,Public Holiday
+mongolia,2030,18 Mar,Monday,Soldiers' Day,Observance
+mongolia,2030,20 Mar,Wednesday,March Equinox,Season
+mongolia,2030,7 Apr,Sunday,Health Day,Observance
+mongolia,2030,26 Apr,Friday,Intellectual Property Day,Observance
+mongolia,2030,15 May,Wednesday,Family Day,Observance
+mongolia,2030,1 Jun,Saturday,Children's Day,Public Holiday
+mongolia,2030,21 Jun,Friday,June Solstice,Season
+mongolia,2030,10 Jul,Wednesday,Political Flag Day,Observance
+mongolia,2030,11 Jul,Thursday,Naadam (National Day),Public Holiday
+mongolia,2030,12 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2030,13 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2030,14 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2030,15 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2030,25 Aug,Sunday,Youth's Day,Observance
+mongolia,2030,10 Sep,Tuesday,Repression Victims' Day,Observance
+mongolia,2030,23 Sep,Monday,September Equinox,Season
+mongolia,2030,1 Oct,Tuesday,Elders' Day,Observance
+mongolia,2030,29 Oct,Tuesday,Capital City Day,Observance
+mongolia,2030,26 Nov,Tuesday,Republic's Day,Public Holiday
+mongolia,2030,10 Dec,Tuesday,Human Rights Day,Observance
+mongolia,2030,22 Dec,Sunday,December Solstice,Season
+mongolia,2030,29 Dec,Sunday,Independence Day,Public Holiday
+mongolia,2031,1 Jan,Wednesday,New Year,Public Holiday
+mongolia,2031,13 Jan,Monday,Constitution Day,Observance
+mongolia,2031,14 Feb,Friday,Valentine's Day,Observance
+mongolia,2031,1 Mar,Saturday,Patriots' Day,Observance
+mongolia,2031,8 Mar,Saturday,International Women's Day,Public Holiday
+mongolia,2031,18 Mar,Tuesday,Soldiers' Day,Observance
+mongolia,2031,21 Mar,Friday,March Equinox,Season
+mongolia,2031,7 Apr,Monday,Health Day,Observance
+mongolia,2031,26 Apr,Saturday,Intellectual Property Day,Observance
+mongolia,2031,15 May,Thursday,Family Day,Observance
+mongolia,2031,1 Jun,Sunday,Children's Day,Public Holiday
+mongolia,2031,21 Jun,Saturday,June Solstice,Season
+mongolia,2031,10 Jul,Thursday,Political Flag Day,Observance
+mongolia,2031,11 Jul,Friday,Naadam (National Day),Public Holiday
+mongolia,2031,12 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2031,13 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2031,14 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2031,15 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2031,25 Aug,Monday,Youth's Day,Observance
+mongolia,2031,10 Sep,Wednesday,Repression Victims' Day,Observance
+mongolia,2031,23 Sep,Tuesday,September Equinox,Season
+mongolia,2031,1 Oct,Wednesday,Elders' Day,Observance
+mongolia,2031,29 Oct,Wednesday,Capital City Day,Observance
+mongolia,2031,26 Nov,Wednesday,Republic's Day,Public Holiday
+mongolia,2031,10 Dec,Wednesday,Human Rights Day,Observance
+mongolia,2031,22 Dec,Monday,December Solstice,Season
+mongolia,2031,29 Dec,Monday,Independence Day,Public Holiday
+mongolia,2032,1 Jan,Thursday,New Year,Public Holiday
+mongolia,2032,13 Jan,Tuesday,Constitution Day,Observance
+mongolia,2032,14 Feb,Saturday,Valentine's Day,Observance
+mongolia,2032,1 Mar,Monday,Patriots' Day,Observance
+mongolia,2032,8 Mar,Monday,International Women's Day,Public Holiday
+mongolia,2032,18 Mar,Thursday,Soldiers' Day,Observance
+mongolia,2032,20 Mar,Saturday,March Equinox,Season
+mongolia,2032,7 Apr,Wednesday,Health Day,Observance
+mongolia,2032,26 Apr,Monday,Intellectual Property Day,Observance
+mongolia,2032,15 May,Saturday,Family Day,Observance
+mongolia,2032,1 Jun,Tuesday,Children's Day,Public Holiday
+mongolia,2032,21 Jun,Monday,June Solstice,Season
+mongolia,2032,10 Jul,Saturday,Political Flag Day,Observance
+mongolia,2032,11 Jul,Sunday,Naadam (National Day),Public Holiday
+mongolia,2032,12 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2032,13 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2032,14 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2032,15 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2032,25 Aug,Wednesday,Youth's Day,Observance
+mongolia,2032,10 Sep,Friday,Repression Victims' Day,Observance
+mongolia,2032,22 Sep,Wednesday,September Equinox,Season
+mongolia,2032,1 Oct,Friday,Elders' Day,Observance
+mongolia,2032,29 Oct,Friday,Capital City Day,Observance
+mongolia,2032,26 Nov,Friday,Republic's Day,Public Holiday
+mongolia,2032,10 Dec,Friday,Human Rights Day,Observance
+mongolia,2032,21 Dec,Tuesday,December Solstice,Season
+mongolia,2032,29 Dec,Wednesday,Independence Day,Public Holiday
+mongolia,2033,1 Jan,Saturday,New Year,Public Holiday
+mongolia,2033,13 Jan,Thursday,Constitution Day,Observance
+mongolia,2033,14 Feb,Monday,Valentine's Day,Observance
+mongolia,2033,1 Mar,Tuesday,Patriots' Day,Observance
+mongolia,2033,8 Mar,Tuesday,International Women's Day,Public Holiday
+mongolia,2033,18 Mar,Friday,Soldiers' Day,Observance
+mongolia,2033,20 Mar,Sunday,March Equinox,Season
+mongolia,2033,7 Apr,Thursday,Health Day,Observance
+mongolia,2033,26 Apr,Tuesday,Intellectual Property Day,Observance
+mongolia,2033,15 May,Sunday,Family Day,Observance
+mongolia,2033,1 Jun,Wednesday,Children's Day,Public Holiday
+mongolia,2033,21 Jun,Tuesday,June Solstice,Season
+mongolia,2033,10 Jul,Sunday,Political Flag Day,Observance
+mongolia,2033,11 Jul,Monday,Naadam (National Day),Public Holiday
+mongolia,2033,12 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2033,13 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2033,14 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2033,15 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2033,25 Aug,Thursday,Youth's Day,Observance
+mongolia,2033,10 Sep,Saturday,Repression Victims' Day,Observance
+mongolia,2033,23 Sep,Friday,September Equinox,Season
+mongolia,2033,1 Oct,Saturday,Elders' Day,Observance
+mongolia,2033,29 Oct,Saturday,Capital City Day,Observance
+mongolia,2033,26 Nov,Saturday,Republic's Day,Public Holiday
+mongolia,2033,10 Dec,Saturday,Human Rights Day,Observance
+mongolia,2033,21 Dec,Wednesday,December Solstice,Season
+mongolia,2033,29 Dec,Thursday,Independence Day,Public Holiday
+mongolia,2034,1 Jan,Sunday,New Year,Public Holiday
+mongolia,2034,13 Jan,Friday,Constitution Day,Observance
+mongolia,2034,14 Feb,Tuesday,Valentine's Day,Observance
+mongolia,2034,1 Mar,Wednesday,Patriots' Day,Observance
+mongolia,2034,8 Mar,Wednesday,International Women's Day,Public Holiday
+mongolia,2034,18 Mar,Saturday,Soldiers' Day,Observance
+mongolia,2034,20 Mar,Monday,March Equinox,Season
+mongolia,2034,7 Apr,Friday,Health Day,Observance
+mongolia,2034,26 Apr,Wednesday,Intellectual Property Day,Observance
+mongolia,2034,15 May,Monday,Family Day,Observance
+mongolia,2034,1 Jun,Thursday,Children's Day,Public Holiday
+mongolia,2034,21 Jun,Wednesday,June Solstice,Season
+mongolia,2034,10 Jul,Monday,Political Flag Day,Observance
+mongolia,2034,11 Jul,Tuesday,Naadam (National Day),Public Holiday
+mongolia,2034,12 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2034,13 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2034,14 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2034,15 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2034,25 Aug,Friday,Youth's Day,Observance
+mongolia,2034,10 Sep,Sunday,Repression Victims' Day,Observance
+mongolia,2034,23 Sep,Saturday,September Equinox,Season
+mongolia,2034,1 Oct,Sunday,Elders' Day,Observance
+mongolia,2034,29 Oct,Sunday,Capital City Day,Observance
+mongolia,2034,26 Nov,Sunday,Republic's Day,Public Holiday
+mongolia,2034,10 Dec,Sunday,Human Rights Day,Observance
+mongolia,2034,22 Dec,Friday,December Solstice,Season
+mongolia,2034,29 Dec,Friday,Independence Day,Public Holiday
+mongolia,2035,1 Jan,Monday,New Year,Public Holiday
+mongolia,2035,13 Jan,Saturday,Constitution Day,Observance
+mongolia,2035,14 Feb,Wednesday,Valentine's Day,Observance
+mongolia,2035,1 Mar,Thursday,Patriots' Day,Observance
+mongolia,2035,8 Mar,Thursday,International Women's Day,Public Holiday
+mongolia,2035,18 Mar,Sunday,Soldiers' Day,Observance
+mongolia,2035,21 Mar,Wednesday,March Equinox,Season
+mongolia,2035,7 Apr,Saturday,Health Day,Observance
+mongolia,2035,26 Apr,Thursday,Intellectual Property Day,Observance
+mongolia,2035,15 May,Tuesday,Family Day,Observance
+mongolia,2035,1 Jun,Friday,Children's Day,Public Holiday
+mongolia,2035,21 Jun,Thursday,June Solstice,Season
+mongolia,2035,10 Jul,Tuesday,Political Flag Day,Observance
+mongolia,2035,11 Jul,Wednesday,Naadam (National Day),Public Holiday
+mongolia,2035,12 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2035,13 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2035,14 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2035,15 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2035,25 Aug,Saturday,Youth's Day,Observance
+mongolia,2035,10 Sep,Monday,Repression Victims' Day,Observance
+mongolia,2035,23 Sep,Sunday,September Equinox,Season
+mongolia,2035,1 Oct,Monday,Elders' Day,Observance
+mongolia,2035,29 Oct,Monday,Capital City Day,Observance
+mongolia,2035,26 Nov,Monday,Republic's Day,Public Holiday
+mongolia,2035,10 Dec,Monday,Human Rights Day,Observance
+mongolia,2035,22 Dec,Saturday,December Solstice,Season
+mongolia,2035,29 Dec,Saturday,Independence Day,Public Holiday
+mongolia,2036,1 Jan,Tuesday,New Year,Public Holiday
+mongolia,2036,13 Jan,Sunday,Constitution Day,Observance
+mongolia,2036,14 Feb,Thursday,Valentine's Day,Observance
+mongolia,2036,1 Mar,Saturday,Patriots' Day,Observance
+mongolia,2036,8 Mar,Saturday,International Women's Day,Public Holiday
+mongolia,2036,18 Mar,Tuesday,Soldiers' Day,Observance
+mongolia,2036,20 Mar,Thursday,March Equinox,Season
+mongolia,2036,7 Apr,Monday,Health Day,Observance
+mongolia,2036,26 Apr,Saturday,Intellectual Property Day,Observance
+mongolia,2036,15 May,Thursday,Family Day,Observance
+mongolia,2036,1 Jun,Sunday,Children's Day,Public Holiday
+mongolia,2036,21 Jun,Saturday,June Solstice,Season
+mongolia,2036,10 Jul,Thursday,Political Flag Day,Observance
+mongolia,2036,11 Jul,Friday,Naadam (National Day),Public Holiday
+mongolia,2036,12 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2036,13 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2036,14 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2036,15 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2036,25 Aug,Monday,Youth's Day,Observance
+mongolia,2036,10 Sep,Wednesday,Repression Victims' Day,Observance
+mongolia,2036,22 Sep,Monday,September Equinox,Season
+mongolia,2036,1 Oct,Wednesday,Elders' Day,Observance
+mongolia,2036,29 Oct,Wednesday,Capital City Day,Observance
+mongolia,2036,26 Nov,Wednesday,Republic's Day,Public Holiday
+mongolia,2036,10 Dec,Wednesday,Human Rights Day,Observance
+mongolia,2036,21 Dec,Sunday,December Solstice,Season
+mongolia,2036,29 Dec,Monday,Independence Day,Public Holiday
+mongolia,2037,1 Jan,Thursday,New Year,Public Holiday
+mongolia,2037,13 Jan,Tuesday,Constitution Day,Observance
+mongolia,2037,14 Feb,Saturday,Valentine's Day,Observance
+mongolia,2037,1 Mar,Sunday,Patriots' Day,Observance
+mongolia,2037,8 Mar,Sunday,International Women's Day,Public Holiday
+mongolia,2037,18 Mar,Wednesday,Soldiers' Day,Observance
+mongolia,2037,20 Mar,Friday,March Equinox,Season
+mongolia,2037,7 Apr,Tuesday,Health Day,Observance
+mongolia,2037,26 Apr,Sunday,Intellectual Property Day,Observance
+mongolia,2037,15 May,Friday,Family Day,Observance
+mongolia,2037,1 Jun,Monday,Children's Day,Public Holiday
+mongolia,2037,21 Jun,Sunday,June Solstice,Season
+mongolia,2037,10 Jul,Friday,Political Flag Day,Observance
+mongolia,2037,11 Jul,Saturday,Naadam (National Day),Public Holiday
+mongolia,2037,12 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2037,13 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2037,14 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2037,15 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2037,25 Aug,Tuesday,Youth's Day,Observance
+mongolia,2037,10 Sep,Thursday,Repression Victims' Day,Observance
+mongolia,2037,23 Sep,Wednesday,September Equinox,Season
+mongolia,2037,1 Oct,Thursday,Elders' Day,Observance
+mongolia,2037,29 Oct,Thursday,Capital City Day,Observance
+mongolia,2037,26 Nov,Thursday,Republic's Day,Public Holiday
+mongolia,2037,10 Dec,Thursday,Human Rights Day,Observance
+mongolia,2037,21 Dec,Monday,December Solstice,Season
+mongolia,2037,29 Dec,Tuesday,Independence Day,Public Holiday
+mongolia,2038,1 Jan,Friday,New Year,Public Holiday
+mongolia,2038,13 Jan,Wednesday,Constitution Day,Observance
+mongolia,2038,14 Feb,Sunday,Valentine's Day,Observance
+mongolia,2038,1 Mar,Monday,Patriots' Day,Observance
+mongolia,2038,8 Mar,Monday,International Women's Day,Public Holiday
+mongolia,2038,18 Mar,Thursday,Soldiers' Day,Observance
+mongolia,2038,20 Mar,Saturday,March Equinox,Season
+mongolia,2038,7 Apr,Wednesday,Health Day,Observance
+mongolia,2038,26 Apr,Monday,Intellectual Property Day,Observance
+mongolia,2038,15 May,Saturday,Family Day,Observance
+mongolia,2038,1 Jun,Tuesday,Children's Day,Public Holiday
+mongolia,2038,21 Jun,Monday,June Solstice,Season
+mongolia,2038,10 Jul,Saturday,Political Flag Day,Observance
+mongolia,2038,11 Jul,Sunday,Naadam (National Day),Public Holiday
+mongolia,2038,12 Jul,Monday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2038,13 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2038,14 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2038,15 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2038,25 Aug,Wednesday,Youth's Day,Observance
+mongolia,2038,10 Sep,Friday,Repression Victims' Day,Observance
+mongolia,2038,23 Sep,Thursday,September Equinox,Season
+mongolia,2038,1 Oct,Friday,Elders' Day,Observance
+mongolia,2038,29 Oct,Friday,Capital City Day,Observance
+mongolia,2038,26 Nov,Friday,Republic's Day,Public Holiday
+mongolia,2038,10 Dec,Friday,Human Rights Day,Observance
+mongolia,2038,22 Dec,Wednesday,December Solstice,Season
+mongolia,2038,29 Dec,Wednesday,Independence Day,Public Holiday
+mongolia,2039,1 Jan,Saturday,New Year,Public Holiday
+mongolia,2039,13 Jan,Thursday,Constitution Day,Observance
+mongolia,2039,14 Feb,Monday,Valentine's Day,Observance
+mongolia,2039,1 Mar,Tuesday,Patriots' Day,Observance
+mongolia,2039,8 Mar,Tuesday,International Women's Day,Public Holiday
+mongolia,2039,18 Mar,Friday,Soldiers' Day,Observance
+mongolia,2039,21 Mar,Monday,March Equinox,Season
+mongolia,2039,7 Apr,Thursday,Health Day,Observance
+mongolia,2039,26 Apr,Tuesday,Intellectual Property Day,Observance
+mongolia,2039,15 May,Sunday,Family Day,Observance
+mongolia,2039,1 Jun,Wednesday,Children's Day,Public Holiday
+mongolia,2039,21 Jun,Tuesday,June Solstice,Season
+mongolia,2039,10 Jul,Sunday,Political Flag Day,Observance
+mongolia,2039,11 Jul,Monday,Naadam (National Day),Public Holiday
+mongolia,2039,12 Jul,Tuesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2039,13 Jul,Wednesday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2039,14 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2039,15 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2039,25 Aug,Thursday,Youth's Day,Observance
+mongolia,2039,10 Sep,Saturday,Repression Victims' Day,Observance
+mongolia,2039,23 Sep,Friday,September Equinox,Season
+mongolia,2039,1 Oct,Saturday,Elders' Day,Observance
+mongolia,2039,29 Oct,Saturday,Capital City Day,Observance
+mongolia,2039,26 Nov,Saturday,Republic's Day,Public Holiday
+mongolia,2039,10 Dec,Saturday,Human Rights Day,Observance
+mongolia,2039,22 Dec,Thursday,December Solstice,Season
+mongolia,2039,29 Dec,Thursday,Independence Day,Public Holiday
+mongolia,2040,1 Jan,Sunday,New Year,Public Holiday
+mongolia,2040,13 Jan,Friday,Constitution Day,Observance
+mongolia,2040,14 Feb,Tuesday,Valentine's Day,Observance
+mongolia,2040,1 Mar,Thursday,Patriots' Day,Observance
+mongolia,2040,8 Mar,Thursday,International Women's Day,Public Holiday
+mongolia,2040,18 Mar,Sunday,Soldiers' Day,Observance
+mongolia,2040,20 Mar,Tuesday,March Equinox,Season
+mongolia,2040,7 Apr,Saturday,Health Day,Observance
+mongolia,2040,26 Apr,Thursday,Intellectual Property Day,Observance
+mongolia,2040,15 May,Tuesday,Family Day,Observance
+mongolia,2040,1 Jun,Friday,Children's Day,Public Holiday
+mongolia,2040,21 Jun,Thursday,June Solstice,Season
+mongolia,2040,10 Jul,Tuesday,Political Flag Day,Observance
+mongolia,2040,11 Jul,Wednesday,Naadam (National Day),Public Holiday
+mongolia,2040,12 Jul,Thursday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2040,13 Jul,Friday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2040,14 Jul,Saturday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2040,15 Jul,Sunday,Naadam Holiday (National Day Holiday),Public Holiday
+mongolia,2040,25 Aug,Saturday,Youth's Day,Observance
+mongolia,2040,10 Sep,Monday,Repression Victims' Day,Observance
+mongolia,2040,22 Sep,Saturday,September Equinox,Season
+mongolia,2040,1 Oct,Monday,Elders' Day,Observance
+mongolia,2040,29 Oct,Monday,Capital City Day,Observance
+mongolia,2040,26 Nov,Monday,Republic's Day,Public Holiday
+mongolia,2040,10 Dec,Monday,Human Rights Day,Observance
+mongolia,2040,21 Dec,Friday,December Solstice,Season
+mongolia,2040,29 Dec,Saturday,Independence Day,Public Holiday

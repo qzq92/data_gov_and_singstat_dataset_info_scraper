@@ -1,0 +1,537 @@
+Geo,Event Year,Date,Day,Name,Type
+eritrea,2015,1 Jan,Thursday,New Year,Public Holiday
+eritrea,2015,3 Jan,Saturday,The Prophet's Birthday,Public Holiday
+eritrea,2015,7 Jan,Wednesday,Orthodox Christmas Day,Public Holiday
+eritrea,2015,19 Jan,Monday,Timket,Public Holiday
+eritrea,2015,8 Mar,Sunday,Women's Day,Public Holiday
+eritrea,2015,21 Mar,Saturday,March Equinox,Season
+eritrea,2015,10 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2015,12 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2015,1 May,Friday,International Workers' Day,Public Holiday
+eritrea,2015,24 May,Sunday,Independence Day,Public Holiday
+eritrea,2015,20 Jun,Saturday,Martyrs' Day,Public Holiday
+eritrea,2015,21 Jun,Sunday,June Solstice,Season
+eritrea,2015,18 Jul,Saturday,Eid al-Fitr,Public Holiday
+eritrea,2015,1 Sep,Tuesday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2015,11 Sep,Friday,Orthodox New Year,"Observance, Orthodox"
+eritrea,2015,12 Sep,Saturday,St. John the Baptist Day,Public Holiday
+eritrea,2015,12 Sep,Saturday,Geez New Year,Public Holiday
+eritrea,2015,23 Sep,Wednesday,September Equinox,Season
+eritrea,2015,24 Sep,Thursday,Eid al-Adha,Public Holiday
+eritrea,2015,27 Sep,Sunday,Meskel,Public Holiday
+eritrea,2015,22 Dec,Tuesday,December Solstice,Season
+eritrea,2015,24 Dec,Thursday,The Prophet's Birthday,Public Holiday
+eritrea,2015,25 Dec,Friday,Christmas Day,Public Holiday
+eritrea,2016,1 Jan,Friday,New Year,Public Holiday
+eritrea,2016,7 Jan,Thursday,Orthodox Christmas Day,Public Holiday
+eritrea,2016,20 Jan,Wednesday,Timket,Public Holiday
+eritrea,2016,8 Mar,Tuesday,Women's Day,Public Holiday
+eritrea,2016,20 Mar,Sunday,March Equinox,Season
+eritrea,2016,29 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2016,1 May,Sunday,International Workers' Day,Public Holiday
+eritrea,2016,1 May,Sunday,Coptic Easter,Public Holiday
+eritrea,2016,24 May,Tuesday,Independence Day,Public Holiday
+eritrea,2016,20 Jun,Monday,Martyrs' Day,Public Holiday
+eritrea,2016,21 Jun,Tuesday,June Solstice,Season
+eritrea,2016,7 Jul,Thursday,Eid al-Fitr,Public Holiday
+eritrea,2016,1 Sep,Thursday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2016,11 Sep,Sunday,St. John the Baptist Day,Public Holiday
+eritrea,2016,11 Sep,Sunday,Geez New Year,Public Holiday
+eritrea,2016,13 Sep,Tuesday,Eid al-Adha,Public Holiday
+eritrea,2016,22 Sep,Thursday,September Equinox,Season
+eritrea,2016,27 Sep,Tuesday,Meskel,Public Holiday
+eritrea,2016,12 Dec,Monday,The Prophet's Birthday,Public Holiday
+eritrea,2016,21 Dec,Wednesday,December Solstice,Season
+eritrea,2016,25 Dec,Sunday,Christmas Day,Public Holiday
+eritrea,2017,1 Jan,Sunday,New Year,Public Holiday
+eritrea,2017,7 Jan,Saturday,Orthodox Christmas Day,Public Holiday
+eritrea,2017,19 Jan,Thursday,Timket,Public Holiday
+eritrea,2017,8 Mar,Wednesday,Women's Day,Public Holiday
+eritrea,2017,20 Mar,Monday,March Equinox,Season
+eritrea,2017,14 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2017,16 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2017,1 May,Monday,International Workers' Day,Public Holiday
+eritrea,2017,24 May,Wednesday,Independence Day,Public Holiday
+eritrea,2017,20 Jun,Tuesday,Martyrs' Day,Public Holiday
+eritrea,2017,21 Jun,Wednesday,June Solstice,Season
+eritrea,2017,26 Jun,Monday,Eid al-Fitr,Public Holiday
+eritrea,2017,1 Sep,Friday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2017,2 Sep,Saturday,Eid al-Adha,Public Holiday
+eritrea,2017,11 Sep,Monday,St. John the Baptist Day,Public Holiday
+eritrea,2017,11 Sep,Monday,Geez New Year,Public Holiday
+eritrea,2017,22 Sep,Friday,September Equinox,Season
+eritrea,2017,27 Sep,Wednesday,Meskel,Public Holiday
+eritrea,2017,1 Dec,Friday,The Prophet's Birthday,Public Holiday
+eritrea,2017,21 Dec,Thursday,December Solstice,Season
+eritrea,2017,25 Dec,Monday,Christmas Day,Public Holiday
+eritrea,2018,1 Jan,Monday,New Year,Public Holiday
+eritrea,2018,7 Jan,Sunday,Orthodox Christmas Day,Public Holiday
+eritrea,2018,19 Jan,Friday,Timket,Public Holiday
+eritrea,2018,8 Mar,Thursday,Women's Day,Public Holiday
+eritrea,2018,20 Mar,Tuesday,March Equinox,Season
+eritrea,2018,6 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2018,8 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2018,1 May,Tuesday,International Workers' Day,Public Holiday
+eritrea,2018,24 May,Thursday,Independence Day,Public Holiday
+eritrea,2018,15 Jun,Friday,Eid al-Fitr,Public Holiday
+eritrea,2018,20 Jun,Wednesday,Martyrs' Day,Public Holiday
+eritrea,2018,21 Jun,Thursday,June Solstice,Season
+eritrea,2018,21 Aug,Tuesday,Eid al-Adha,Public Holiday
+eritrea,2018,1 Sep,Saturday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2018,11 Sep,Tuesday,Geez New Year,Public Holiday
+eritrea,2018,23 Sep,Sunday,September Equinox,Season
+eritrea,2018,27 Sep,Thursday,Meskel,Public Holiday
+eritrea,2018,21 Nov,Wednesday,The Prophet's Birthday,Public Holiday
+eritrea,2018,22 Dec,Saturday,December Solstice,Season
+eritrea,2018,25 Dec,Tuesday,Christmas Day,Public Holiday
+eritrea,2019,1 Jan,Tuesday,New Year,Public Holiday
+eritrea,2019,7 Jan,Monday,Orthodox Christmas Day,Public Holiday
+eritrea,2019,19 Jan,Saturday,Timket,Public Holiday
+eritrea,2019,8 Mar,Friday,Women's Day,Public Holiday
+eritrea,2019,21 Mar,Thursday,March Equinox,Season
+eritrea,2019,26 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2019,28 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2019,1 May,Wednesday,International Workers' Day,Public Holiday
+eritrea,2019,24 May,Friday,Independence Day,Public Holiday
+eritrea,2019,4 Jun,Tuesday,Eid al-Fitr,Public Holiday
+eritrea,2019,20 Jun,Thursday,Martyrs' Day,Public Holiday
+eritrea,2019,21 Jun,Friday,June Solstice,Season
+eritrea,2019,11 Aug,Sunday,Eid al-Adha,Public Holiday
+eritrea,2019,1 Sep,Sunday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2019,12 Sep,Thursday,Geez New Year,Public Holiday
+eritrea,2019,23 Sep,Monday,September Equinox,Season
+eritrea,2019,27 Sep,Friday,Meskel,Public Holiday
+eritrea,2019,10 Nov,Sunday,The Prophet's Birthday,Public Holiday
+eritrea,2019,22 Dec,Sunday,December Solstice,Season
+eritrea,2019,25 Dec,Wednesday,Christmas Day,Public Holiday
+eritrea,2020,1 Jan,Wednesday,New Year,Public Holiday
+eritrea,2020,7 Jan,Tuesday,Orthodox Christmas Day,Public Holiday
+eritrea,2020,20 Jan,Monday,Timket,Public Holiday
+eritrea,2020,8 Mar,Sunday,Women's Day,Public Holiday
+eritrea,2020,20 Mar,Friday,March Equinox,Season
+eritrea,2020,17 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2020,19 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2020,1 May,Friday,International Workers' Day,Public Holiday
+eritrea,2020,24 May,Sunday,Eid al-Fitr,Public Holiday
+eritrea,2020,24 May,Sunday,Independence Day,Public Holiday
+eritrea,2020,20 Jun,Saturday,Martyrs' Day,Public Holiday
+eritrea,2020,21 Jun,Sunday,June Solstice,Season
+eritrea,2020,31 Jul,Friday,Eid al-Adha,Public Holiday
+eritrea,2020,1 Sep,Tuesday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2020,11 Sep,Friday,Geez New Year,Public Holiday
+eritrea,2020,22 Sep,Tuesday,September Equinox,Season
+eritrea,2020,27 Sep,Sunday,Meskel,Public Holiday
+eritrea,2020,29 Oct,Thursday,The Prophet's Birthday,Public Holiday
+eritrea,2020,21 Dec,Monday,December Solstice,Season
+eritrea,2020,25 Dec,Friday,Christmas Day,Public Holiday
+eritrea,2021,1 Jan,Friday,New Year,Public Holiday
+eritrea,2021,7 Jan,Thursday,Orthodox Christmas Day,Public Holiday
+eritrea,2021,19 Jan,Tuesday,Timket,Public Holiday
+eritrea,2021,8 Mar,Monday,Women's Day,Public Holiday
+eritrea,2021,20 Mar,Saturday,March Equinox,Season
+eritrea,2021,30 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2021,1 May,Saturday,International Workers' Day,Public Holiday
+eritrea,2021,2 May,Sunday,Coptic Easter,Public Holiday
+eritrea,2021,13 May,Thursday,Eid al-Fitr,Public Holiday
+eritrea,2021,24 May,Monday,Independence Day,Public Holiday
+eritrea,2021,20 Jun,Sunday,Martyrs' Day,Public Holiday
+eritrea,2021,21 Jun,Monday,June Solstice,Season
+eritrea,2021,20 Jul,Tuesday,Eid al-Adha,Public Holiday
+eritrea,2021,1 Sep,Wednesday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2021,11 Sep,Saturday,Geez New Year,Public Holiday
+eritrea,2021,22 Sep,Wednesday,September Equinox,Season
+eritrea,2021,27 Sep,Monday,Meskel,Public Holiday
+eritrea,2021,18 Oct,Monday,The Prophet's Birthday,Public Holiday
+eritrea,2021,21 Dec,Tuesday,December Solstice,Season
+eritrea,2021,25 Dec,Saturday,Christmas Day,Public Holiday
+eritrea,2022,1 Jan,Saturday,New Year,Public Holiday
+eritrea,2022,7 Jan,Friday,Orthodox Christmas Day,Public Holiday
+eritrea,2022,19 Jan,Wednesday,Timket,Public Holiday
+eritrea,2022,8 Mar,Tuesday,Women's Day,Public Holiday
+eritrea,2022,20 Mar,Sunday,March Equinox,Season
+eritrea,2022,22 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2022,24 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2022,1 May,Sunday,International Workers' Day,Public Holiday
+eritrea,2022,2 May,Monday,Eid al-Fitr,Public Holiday
+eritrea,2022,24 May,Tuesday,Independence Day,Public Holiday
+eritrea,2022,20 Jun,Monday,Martyrs' Day,Public Holiday
+eritrea,2022,21 Jun,Tuesday,June Solstice,Season
+eritrea,2022,9 Jul,Saturday,Eid al-Adha,Public Holiday
+eritrea,2022,1 Sep,Thursday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2022,11 Sep,Sunday,Geez New Year,Public Holiday
+eritrea,2022,23 Sep,Friday,September Equinox,Season
+eritrea,2022,27 Sep,Tuesday,Meskel,Public Holiday
+eritrea,2022,8 Oct,Saturday,The Prophet's Birthday,Public Holiday
+eritrea,2022,22 Dec,Thursday,December Solstice,Season
+eritrea,2022,25 Dec,Sunday,Christmas Day,Public Holiday
+eritrea,2023,1 Jan,Sunday,New Year,Public Holiday
+eritrea,2023,7 Jan,Saturday,Orthodox Christmas Day,Public Holiday
+eritrea,2023,19 Jan,Thursday,Timket,Public Holiday
+eritrea,2023,8 Mar,Wednesday,Women's Day,Public Holiday
+eritrea,2023,21 Mar,Tuesday,March Equinox,Season
+eritrea,2023,14 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2023,16 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2023,21 Apr,Friday,Eid al-Fitr,Public Holiday
+eritrea,2023,1 May,Monday,International Workers' Day,Public Holiday
+eritrea,2023,24 May,Wednesday,Independence Day,Public Holiday
+eritrea,2023,20 Jun,Tuesday,Martyrs' Day,Public Holiday
+eritrea,2023,21 Jun,Wednesday,June Solstice,Season
+eritrea,2023,28 Jun,Wednesday,Eid al-Adha,Public Holiday
+eritrea,2023,1 Sep,Friday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2023,12 Sep,Tuesday,Geez New Year,Public Holiday
+eritrea,2023,23 Sep,Saturday,September Equinox,Season
+eritrea,2023,27 Sep,Wednesday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2023,27 Sep,Wednesday,Meskel,Public Holiday
+eritrea,2023,22 Dec,Friday,December Solstice,Season
+eritrea,2023,25 Dec,Monday,Christmas Day,Public Holiday
+eritrea,2024,1 Jan,Monday,New Year,Public Holiday
+eritrea,2024,7 Jan,Sunday,Orthodox Christmas Day,Public Holiday
+eritrea,2024,20 Jan,Saturday,Timket,Public Holiday
+eritrea,2024,8 Mar,Friday,Women's Day,Public Holiday
+eritrea,2024,11 Mar,Monday,Ramadan Start,Observance
+eritrea,2024,20 Mar,Wednesday,March Equinox,Season
+eritrea,2024,10 Apr,Wednesday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2024,1 May,Wednesday,International Workers' Day,Public Holiday
+eritrea,2024,3 May,Friday,Coptic Good Friday,Public Holiday
+eritrea,2024,5 May,Sunday,Coptic Easter,Public Holiday
+eritrea,2024,24 May,Friday,Independence Day,Public Holiday
+eritrea,2024,17 Jun,Monday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2024,20 Jun,Thursday,Martyrs' Day,Public Holiday
+eritrea,2024,20 Jun,Thursday,June Solstice,Season
+eritrea,2024,1 Sep,Sunday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2024,11 Sep,Wednesday,Geez New Year,Public Holiday
+eritrea,2024,16 Sep,Monday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2024,22 Sep,Sunday,September Equinox,Season
+eritrea,2024,27 Sep,Friday,Meskel,Public Holiday
+eritrea,2024,21 Dec,Saturday,December Solstice,Season
+eritrea,2024,25 Dec,Wednesday,Christmas Day,Public Holiday
+eritrea,2025,1 Jan,Wednesday,New Year,Public Holiday
+eritrea,2025,7 Jan,Tuesday,Orthodox Christmas Day,Public Holiday
+eritrea,2025,19 Jan,Sunday,Timket,Public Holiday
+eritrea,2025,1 Mar,Saturday,Ramadan Start (Tentative Date),Observance
+eritrea,2025,8 Mar,Saturday,Women's Day,Public Holiday
+eritrea,2025,20 Mar,Thursday,March Equinox,Season
+eritrea,2025,31 Mar,Monday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2025,18 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2025,20 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2025,1 May,Thursday,International Workers' Day,Public Holiday
+eritrea,2025,24 May,Saturday,Independence Day,Public Holiday
+eritrea,2025,7 Jun,Saturday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2025,20 Jun,Friday,Martyrs' Day,Public Holiday
+eritrea,2025,21 Jun,Saturday,June Solstice,Season
+eritrea,2025,1 Sep,Monday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2025,5 Sep,Friday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2025,11 Sep,Thursday,Geez New Year,Public Holiday
+eritrea,2025,22 Sep,Monday,September Equinox,Season
+eritrea,2025,27 Sep,Saturday,Meskel,Public Holiday
+eritrea,2025,21 Dec,Sunday,December Solstice,Season
+eritrea,2025,25 Dec,Thursday,Christmas Day,Public Holiday
+eritrea,2026,1 Jan,Thursday,New Year,Public Holiday
+eritrea,2026,7 Jan,Wednesday,Orthodox Christmas Day,Public Holiday
+eritrea,2026,19 Jan,Monday,Timket,Public Holiday
+eritrea,2026,18 Feb,Wednesday,Ramadan Start (Tentative Date),Observance
+eritrea,2026,8 Mar,Sunday,Women's Day,Public Holiday
+eritrea,2026,20 Mar,Friday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2026,20 Mar,Friday,March Equinox,Season
+eritrea,2026,10 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2026,12 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2026,1 May,Friday,International Workers' Day,Public Holiday
+eritrea,2026,24 May,Sunday,Independence Day,Public Holiday
+eritrea,2026,27 May,Wednesday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2026,20 Jun,Saturday,Martyrs' Day,Public Holiday
+eritrea,2026,21 Jun,Sunday,June Solstice,Season
+eritrea,2026,26 Aug,Wednesday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2026,1 Sep,Tuesday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2026,11 Sep,Friday,Geez New Year,Public Holiday
+eritrea,2026,23 Sep,Wednesday,September Equinox,Season
+eritrea,2026,27 Sep,Sunday,Meskel,Public Holiday
+eritrea,2026,21 Dec,Monday,December Solstice,Season
+eritrea,2026,25 Dec,Friday,Christmas Day,Public Holiday
+eritrea,2027,1 Jan,Friday,New Year,Public Holiday
+eritrea,2027,7 Jan,Thursday,Orthodox Christmas Day,Public Holiday
+eritrea,2027,19 Jan,Tuesday,Timket,Public Holiday
+eritrea,2027,8 Feb,Monday,Ramadan Start (Tentative Date),Observance
+eritrea,2027,8 Mar,Monday,Women's Day,Public Holiday
+eritrea,2027,10 Mar,Wednesday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2027,20 Mar,Saturday,March Equinox,Season
+eritrea,2027,30 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2027,1 May,Saturday,International Workers' Day,Public Holiday
+eritrea,2027,2 May,Sunday,Coptic Easter,Public Holiday
+eritrea,2027,17 May,Monday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2027,24 May,Monday,Independence Day,Public Holiday
+eritrea,2027,20 Jun,Sunday,Martyrs' Day,Public Holiday
+eritrea,2027,21 Jun,Monday,June Solstice,Season
+eritrea,2027,15 Aug,Sunday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2027,1 Sep,Wednesday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2027,12 Sep,Sunday,Geez New Year,Public Holiday
+eritrea,2027,23 Sep,Thursday,September Equinox,Season
+eritrea,2027,27 Sep,Monday,Meskel,Public Holiday
+eritrea,2027,22 Dec,Wednesday,December Solstice,Season
+eritrea,2027,25 Dec,Saturday,Christmas Day,Public Holiday
+eritrea,2028,1 Jan,Saturday,New Year,Public Holiday
+eritrea,2028,7 Jan,Friday,Orthodox Christmas Day,Public Holiday
+eritrea,2028,20 Jan,Thursday,Timket,Public Holiday
+eritrea,2028,28 Jan,Friday,Ramadan Start (Tentative Date),Observance
+eritrea,2028,27 Feb,Sunday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2028,8 Mar,Wednesday,Women's Day,Public Holiday
+eritrea,2028,20 Mar,Monday,March Equinox,Season
+eritrea,2028,14 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2028,16 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2028,1 May,Monday,International Workers' Day,Public Holiday
+eritrea,2028,5 May,Friday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2028,24 May,Wednesday,Independence Day,Public Holiday
+eritrea,2028,20 Jun,Tuesday,Martyrs' Day,Public Holiday
+eritrea,2028,20 Jun,Tuesday,June Solstice,Season
+eritrea,2028,3 Aug,Thursday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2028,1 Sep,Friday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2028,11 Sep,Monday,Geez New Year,Public Holiday
+eritrea,2028,22 Sep,Friday,September Equinox,Season
+eritrea,2028,27 Sep,Wednesday,Meskel,Public Holiday
+eritrea,2028,21 Dec,Thursday,December Solstice,Season
+eritrea,2028,25 Dec,Monday,Christmas Day,Public Holiday
+eritrea,2029,1 Jan,Monday,New Year,Public Holiday
+eritrea,2029,7 Jan,Sunday,Orthodox Christmas Day,Public Holiday
+eritrea,2029,16 Jan,Tuesday,Ramadan Start (Tentative Date),Observance
+eritrea,2029,19 Jan,Friday,Timket,Public Holiday
+eritrea,2029,15 Feb,Thursday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2029,8 Mar,Thursday,Women's Day,Public Holiday
+eritrea,2029,20 Mar,Tuesday,March Equinox,Season
+eritrea,2029,6 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2029,8 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2029,24 Apr,Tuesday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2029,1 May,Tuesday,International Workers' Day,Public Holiday
+eritrea,2029,24 May,Thursday,Independence Day,Public Holiday
+eritrea,2029,20 Jun,Wednesday,Martyrs' Day,Public Holiday
+eritrea,2029,21 Jun,Thursday,June Solstice,Season
+eritrea,2029,24 Jul,Tuesday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2029,1 Sep,Saturday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2029,11 Sep,Tuesday,Geez New Year,Public Holiday
+eritrea,2029,22 Sep,Saturday,September Equinox,Season
+eritrea,2029,27 Sep,Thursday,Meskel,Public Holiday
+eritrea,2029,21 Dec,Friday,December Solstice,Season
+eritrea,2029,25 Dec,Tuesday,Christmas Day,Public Holiday
+eritrea,2030,1 Jan,Tuesday,New Year,Public Holiday
+eritrea,2030,6 Jan,Sunday,Ramadan Start (Tentative Date),Observance
+eritrea,2030,7 Jan,Monday,Orthodox Christmas Day,Public Holiday
+eritrea,2030,19 Jan,Saturday,Timket,Public Holiday
+eritrea,2030,5 Feb,Tuesday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2030,8 Mar,Friday,Women's Day,Public Holiday
+eritrea,2030,20 Mar,Wednesday,March Equinox,Season
+eritrea,2030,14 Apr,Sunday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2030,26 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2030,28 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2030,1 May,Wednesday,International Workers' Day,Public Holiday
+eritrea,2030,24 May,Friday,Independence Day,Public Holiday
+eritrea,2030,20 Jun,Thursday,Martyrs' Day,Public Holiday
+eritrea,2030,21 Jun,Friday,June Solstice,Season
+eritrea,2030,13 Jul,Saturday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2030,1 Sep,Sunday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2030,11 Sep,Wednesday,Geez New Year,Public Holiday
+eritrea,2030,23 Sep,Monday,September Equinox,Season
+eritrea,2030,27 Sep,Friday,Meskel,Public Holiday
+eritrea,2030,21 Dec,Saturday,December Solstice,Season
+eritrea,2030,25 Dec,Wednesday,Christmas Day,Public Holiday
+eritrea,2030,26 Dec,Thursday,Ramadan Start,Observance
+eritrea,2031,1 Jan,Wednesday,New Year,Public Holiday
+eritrea,2031,7 Jan,Tuesday,Orthodox Christmas Day,Public Holiday
+eritrea,2031,19 Jan,Sunday,Timket,Public Holiday
+eritrea,2031,25 Jan,Saturday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2031,8 Mar,Saturday,Women's Day,Public Holiday
+eritrea,2031,20 Mar,Thursday,March Equinox,Season
+eritrea,2031,3 Apr,Thursday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2031,11 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2031,13 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2031,1 May,Thursday,International Workers' Day,Public Holiday
+eritrea,2031,24 May,Saturday,Independence Day,Public Holiday
+eritrea,2031,20 Jun,Friday,Martyrs' Day,Public Holiday
+eritrea,2031,21 Jun,Saturday,June Solstice,Season
+eritrea,2031,2 Jul,Wednesday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2031,1 Sep,Monday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2031,11 Sep,Thursday,Geez New Year,Public Holiday
+eritrea,2031,23 Sep,Tuesday,September Equinox,Season
+eritrea,2031,27 Sep,Saturday,Meskel,Public Holiday
+eritrea,2031,15 Dec,Monday,Ramadan Start (Tentative Date),Observance
+eritrea,2031,22 Dec,Monday,December Solstice,Season
+eritrea,2031,25 Dec,Thursday,Christmas Day,Public Holiday
+eritrea,2032,1 Jan,Thursday,New Year,Public Holiday
+eritrea,2032,7 Jan,Wednesday,Orthodox Christmas Day,Public Holiday
+eritrea,2032,14 Jan,Wednesday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2032,20 Jan,Tuesday,Timket,Public Holiday
+eritrea,2032,8 Mar,Monday,Women's Day,Public Holiday
+eritrea,2032,20 Mar,Saturday,March Equinox,Season
+eritrea,2032,22 Mar,Monday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2032,30 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2032,1 May,Saturday,International Workers' Day,Public Holiday
+eritrea,2032,2 May,Sunday,Coptic Easter,Public Holiday
+eritrea,2032,24 May,Monday,Independence Day,Public Holiday
+eritrea,2032,20 Jun,Sunday,Martyrs' Day,Public Holiday
+eritrea,2032,20 Jun,Sunday,June Solstice,Season
+eritrea,2032,21 Jun,Monday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2032,1 Sep,Wednesday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2032,22 Sep,Wednesday,September Equinox,Season
+eritrea,2032,27 Sep,Monday,Meskel,Public Holiday
+eritrea,2032,4 Dec,Saturday,Ramadan Start (Tentative Date),Observance
+eritrea,2032,21 Dec,Tuesday,December Solstice,Season
+eritrea,2032,25 Dec,Saturday,Christmas Day,Public Holiday
+eritrea,2033,1 Jan,Saturday,New Year,Public Holiday
+eritrea,2033,3 Jan,Monday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2033,7 Jan,Friday,Orthodox Christmas Day,Public Holiday
+eritrea,2033,19 Jan,Wednesday,Timket,Public Holiday
+eritrea,2033,8 Mar,Tuesday,Women's Day,Public Holiday
+eritrea,2033,12 Mar,Saturday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2033,20 Mar,Sunday,March Equinox,Season
+eritrea,2033,22 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2033,24 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2033,1 May,Sunday,International Workers' Day,Public Holiday
+eritrea,2033,24 May,Tuesday,Independence Day,Public Holiday
+eritrea,2033,10 Jun,Friday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2033,20 Jun,Monday,Martyrs' Day,Public Holiday
+eritrea,2033,21 Jun,Tuesday,June Solstice,Season
+eritrea,2033,1 Sep,Thursday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2033,22 Sep,Thursday,September Equinox,Season
+eritrea,2033,27 Sep,Tuesday,Meskel,Public Holiday
+eritrea,2033,23 Nov,Wednesday,Ramadan Start (Tentative Date),Observance
+eritrea,2033,21 Dec,Wednesday,December Solstice,Season
+eritrea,2033,23 Dec,Friday,Eid al-Fitr,Public Holiday
+eritrea,2033,25 Dec,Sunday,Christmas Day,Public Holiday
+eritrea,2034,1 Jan,Sunday,New Year,Public Holiday
+eritrea,2034,7 Jan,Saturday,Orthodox Christmas Day,Public Holiday
+eritrea,2034,19 Jan,Thursday,Timket,Public Holiday
+eritrea,2034,1 Mar,Wednesday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2034,8 Mar,Wednesday,Women's Day,Public Holiday
+eritrea,2034,20 Mar,Monday,March Equinox,Season
+eritrea,2034,7 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2034,9 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2034,1 May,Monday,International Workers' Day,Public Holiday
+eritrea,2034,24 May,Wednesday,Independence Day,Public Holiday
+eritrea,2034,30 May,Tuesday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2034,20 Jun,Tuesday,Martyrs' Day,Public Holiday
+eritrea,2034,21 Jun,Wednesday,June Solstice,Season
+eritrea,2034,1 Sep,Friday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2034,23 Sep,Saturday,September Equinox,Season
+eritrea,2034,27 Sep,Wednesday,Meskel,Public Holiday
+eritrea,2034,12 Nov,Sunday,Ramadan Start (Tentative Date),Observance
+eritrea,2034,12 Dec,Tuesday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2034,21 Dec,Thursday,December Solstice,Season
+eritrea,2034,25 Dec,Monday,Christmas Day,Public Holiday
+eritrea,2035,1 Jan,Monday,New Year,Public Holiday
+eritrea,2035,7 Jan,Sunday,Orthodox Christmas Day,Public Holiday
+eritrea,2035,19 Jan,Friday,Timket,Public Holiday
+eritrea,2035,18 Feb,Sunday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2035,8 Mar,Thursday,Women's Day,Public Holiday
+eritrea,2035,20 Mar,Tuesday,March Equinox,Season
+eritrea,2035,27 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2035,29 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2035,1 May,Tuesday,International Workers' Day,Public Holiday
+eritrea,2035,20 May,Sunday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2035,24 May,Thursday,Independence Day,Public Holiday
+eritrea,2035,20 Jun,Wednesday,Martyrs' Day,Public Holiday
+eritrea,2035,21 Jun,Thursday,June Solstice,Season
+eritrea,2035,1 Sep,Saturday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2035,23 Sep,Sunday,September Equinox,Season
+eritrea,2035,27 Sep,Thursday,Meskel,Public Holiday
+eritrea,2035,2 Nov,Friday,Ramadan Start (Tentative Date),Observance
+eritrea,2035,2 Dec,Sunday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2035,22 Dec,Saturday,December Solstice,Season
+eritrea,2035,25 Dec,Tuesday,Christmas Day,Public Holiday
+eritrea,2036,1 Jan,Tuesday,New Year,Public Holiday
+eritrea,2036,7 Jan,Monday,Orthodox Christmas Day,Public Holiday
+eritrea,2036,20 Jan,Sunday,Timket,Public Holiday
+eritrea,2036,8 Feb,Friday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2036,8 Mar,Saturday,Women's Day,Public Holiday
+eritrea,2036,20 Mar,Thursday,March Equinox,Season
+eritrea,2036,18 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2036,20 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2036,1 May,Thursday,International Workers' Day,Public Holiday
+eritrea,2036,8 May,Thursday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2036,24 May,Saturday,Independence Day,Public Holiday
+eritrea,2036,20 Jun,Friday,Martyrs' Day,Public Holiday
+eritrea,2036,20 Jun,Friday,June Solstice,Season
+eritrea,2036,1 Sep,Monday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2036,22 Sep,Monday,September Equinox,Season
+eritrea,2036,27 Sep,Saturday,Meskel,Public Holiday
+eritrea,2036,21 Oct,Tuesday,Ramadan Start (Tentative Date),Observance
+eritrea,2036,20 Nov,Thursday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2036,21 Dec,Sunday,December Solstice,Season
+eritrea,2036,25 Dec,Thursday,Christmas Day,Public Holiday
+eritrea,2037,1 Jan,Thursday,New Year,Public Holiday
+eritrea,2037,7 Jan,Wednesday,Orthodox Christmas Day,Public Holiday
+eritrea,2037,19 Jan,Monday,Timket,Public Holiday
+eritrea,2037,27 Jan,Tuesday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2037,8 Mar,Sunday,Women's Day,Public Holiday
+eritrea,2037,20 Mar,Friday,March Equinox,Season
+eritrea,2037,3 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2037,5 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2037,28 Apr,Tuesday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2037,1 May,Friday,International Workers' Day,Public Holiday
+eritrea,2037,24 May,Sunday,Independence Day,Public Holiday
+eritrea,2037,20 Jun,Saturday,Martyrs' Day,Public Holiday
+eritrea,2037,21 Jun,Sunday,June Solstice,Season
+eritrea,2037,1 Sep,Tuesday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2037,22 Sep,Tuesday,September Equinox,Season
+eritrea,2037,27 Sep,Sunday,Meskel,Public Holiday
+eritrea,2037,11 Oct,Sunday,Ramadan Start (Tentative Date),Observance
+eritrea,2037,10 Nov,Tuesday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2037,21 Dec,Monday,December Solstice,Season
+eritrea,2037,25 Dec,Friday,Christmas Day,Public Holiday
+eritrea,2038,1 Jan,Friday,New Year,Public Holiday
+eritrea,2038,7 Jan,Thursday,Orthodox Christmas Day,Public Holiday
+eritrea,2038,17 Jan,Sunday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2038,19 Jan,Tuesday,Timket,Public Holiday
+eritrea,2038,8 Mar,Monday,Women's Day,Public Holiday
+eritrea,2038,20 Mar,Saturday,March Equinox,Season
+eritrea,2038,17 Apr,Saturday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2038,23 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2038,25 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2038,1 May,Saturday,International Workers' Day,Public Holiday
+eritrea,2038,24 May,Monday,Independence Day,Public Holiday
+eritrea,2038,20 Jun,Sunday,Martyrs' Day,Public Holiday
+eritrea,2038,21 Jun,Monday,June Solstice,Season
+eritrea,2038,1 Sep,Wednesday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2038,23 Sep,Thursday,September Equinox,Season
+eritrea,2038,27 Sep,Monday,Meskel,Public Holiday
+eritrea,2038,30 Sep,Thursday,Ramadan Start (Tentative Date),Observance
+eritrea,2038,30 Oct,Saturday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2038,21 Dec,Tuesday,December Solstice,Season
+eritrea,2038,25 Dec,Saturday,Christmas Day,Public Holiday
+eritrea,2039,1 Jan,Saturday,New Year,Public Holiday
+eritrea,2039,6 Jan,Thursday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2039,7 Jan,Friday,Orthodox Christmas Day,Public Holiday
+eritrea,2039,19 Jan,Wednesday,Timket,Public Holiday
+eritrea,2039,8 Mar,Tuesday,Women's Day,Public Holiday
+eritrea,2039,20 Mar,Sunday,March Equinox,Season
+eritrea,2039,6 Apr,Wednesday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2039,15 Apr,Friday,Coptic Good Friday,Public Holiday
+eritrea,2039,17 Apr,Sunday,Coptic Easter,Public Holiday
+eritrea,2039,1 May,Sunday,International Workers' Day,Public Holiday
+eritrea,2039,24 May,Tuesday,Independence Day,Public Holiday
+eritrea,2039,20 Jun,Monday,Martyrs' Day,Public Holiday
+eritrea,2039,21 Jun,Tuesday,June Solstice,Season
+eritrea,2039,1 Sep,Thursday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2039,19 Sep,Monday,Ramadan Start (Tentative Date),Observance
+eritrea,2039,23 Sep,Friday,September Equinox,Season
+eritrea,2039,27 Sep,Tuesday,Meskel,Public Holiday
+eritrea,2039,19 Oct,Wednesday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2039,22 Dec,Thursday,December Solstice,Season
+eritrea,2039,25 Dec,Sunday,Christmas Day,Public Holiday
+eritrea,2039,26 Dec,Monday,Eid al-Adha,Public Holiday
+eritrea,2040,1 Jan,Sunday,New Year,Public Holiday
+eritrea,2040,7 Jan,Saturday,Orthodox Christmas Day,Public Holiday
+eritrea,2040,20 Jan,Friday,Timket,Public Holiday
+eritrea,2040,8 Mar,Thursday,Women's Day,Public Holiday
+eritrea,2040,20 Mar,Tuesday,March Equinox,Season
+eritrea,2040,26 Mar,Monday,The Prophet's Birthday (Tentative Date),Public Holiday
+eritrea,2040,1 May,Tuesday,International Workers' Day,Public Holiday
+eritrea,2040,4 May,Friday,Coptic Good Friday,Public Holiday
+eritrea,2040,6 May,Sunday,Coptic Easter,Public Holiday
+eritrea,2040,24 May,Thursday,Independence Day,Public Holiday
+eritrea,2040,20 Jun,Wednesday,Martyrs' Day,Public Holiday
+eritrea,2040,20 Jun,Wednesday,June Solstice,Season
+eritrea,2040,1 Sep,Saturday,Commencement Day of Eritrean Armed Struggle,Public Holiday
+eritrea,2040,8 Sep,Saturday,Ramadan Start (Tentative Date),Observance
+eritrea,2040,22 Sep,Saturday,September Equinox,Season
+eritrea,2040,27 Sep,Thursday,Meskel,Public Holiday
+eritrea,2040,8 Oct,Monday,Eid al-Fitr (Tentative Date),Public Holiday
+eritrea,2040,15 Dec,Saturday,Eid al-Adha (Tentative Date),Public Holiday
+eritrea,2040,21 Dec,Friday,December Solstice,Season
+eritrea,2040,25 Dec,Tuesday,Christmas Day,Public Holiday

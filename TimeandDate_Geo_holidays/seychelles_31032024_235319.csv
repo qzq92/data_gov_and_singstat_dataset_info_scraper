@@ -1,0 +1,506 @@
+Geo,Event Year,Date,Day,Name,Type
+seychelles,2015,1 Jan,Thursday,New Year,Public Holiday
+seychelles,2015,2 Jan,Friday,New Year holiday,Public Holiday
+seychelles,2015,21 Mar,Saturday,March Equinox,Season
+seychelles,2015,3 Apr,Friday,Good Friday,Public Holiday
+seychelles,2015,4 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2015,5 Apr,Sunday,Easter Sunday,Observance
+seychelles,2015,1 May,Friday,Labour Day,Public Holiday
+seychelles,2015,4 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2015,5 Jun,Friday,Liberation Day,Public Holiday
+seychelles,2015,18 Jun,Thursday,Constitution Day,Public Holiday
+seychelles,2015,21 Jun,Sunday,June Solstice,Season
+seychelles,2015,29 Jun,Monday,National Day,Public Holiday
+seychelles,2015,15 Aug,Saturday,Assumption of Mary,Public Holiday
+seychelles,2015,23 Sep,Wednesday,September Equinox,Season
+seychelles,2015,1 Nov,Sunday,All Saints' Day,Public Holiday
+seychelles,2015,2 Nov,Monday,Day off for All Saints' Day,Public Holiday
+seychelles,2015,5 Dec,Saturday,Presidential Elections,Public Holiday
+seychelles,2015,8 Dec,Tuesday,Immaculate Conception,Public Holiday
+seychelles,2015,22 Dec,Tuesday,December Solstice,Season
+seychelles,2015,25 Dec,Friday,Christmas Day,Public Holiday
+seychelles,2016,1 Jan,Friday,New Year,Public Holiday
+seychelles,2016,2 Jan,Saturday,New Year holiday,Public Holiday
+seychelles,2016,20 Mar,Sunday,March Equinox,Season
+seychelles,2016,25 Mar,Friday,Good Friday,Public Holiday
+seychelles,2016,26 Mar,Saturday,Holy Saturday,Public Holiday
+seychelles,2016,27 Mar,Sunday,Easter Sunday,Observance
+seychelles,2016,1 May,Sunday,Labour Day,Public Holiday
+seychelles,2016,2 May,Monday,Day off for Labour Day,Public Holiday
+seychelles,2016,26 May,Thursday,Corpus Christi,Public Holiday
+seychelles,2016,5 Jun,Sunday,Liberation Day,Public Holiday
+seychelles,2016,18 Jun,Saturday,Constitution Day,Public Holiday
+seychelles,2016,21 Jun,Tuesday,June Solstice,Season
+seychelles,2016,29 Jun,Wednesday,National Day,Public Holiday
+seychelles,2016,15 Aug,Monday,Assumption of Mary,Public Holiday
+seychelles,2016,22 Sep,Thursday,September Equinox,Season
+seychelles,2016,1 Nov,Tuesday,All Saints' Day,Public Holiday
+seychelles,2016,8 Dec,Thursday,Immaculate Conception,Public Holiday
+seychelles,2016,21 Dec,Wednesday,December Solstice,Season
+seychelles,2016,25 Dec,Sunday,Christmas Day,Public Holiday
+seychelles,2016,26 Dec,Monday,Day off for Christmas Day,Public Holiday
+seychelles,2017,1 Jan,Sunday,New Year,Public Holiday
+seychelles,2017,2 Jan,Monday,New Year holiday,Public Holiday
+seychelles,2017,3 Jan,Tuesday,Day off for New Year,Public Holiday
+seychelles,2017,20 Mar,Monday,March Equinox,Season
+seychelles,2017,14 Apr,Friday,Good Friday,Public Holiday
+seychelles,2017,15 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2017,16 Apr,Sunday,Easter Sunday,Observance
+seychelles,2017,17 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2017,1 May,Monday,Labour Day,Public Holiday
+seychelles,2017,15 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2017,18 Jun,Sunday,Constitution Day,Public Holiday
+seychelles,2017,19 Jun,Monday,Day off for Constitution Day,Public Holiday
+seychelles,2017,21 Jun,Wednesday,June Solstice,Season
+seychelles,2017,29 Jun,Thursday,National Day,Public Holiday
+seychelles,2017,15 Aug,Tuesday,Assumption of Mary,Public Holiday
+seychelles,2017,23 Sep,Saturday,September Equinox,Season
+seychelles,2017,1 Nov,Wednesday,All Saints' Day,Public Holiday
+seychelles,2017,8 Dec,Friday,Immaculate Conception,Public Holiday
+seychelles,2017,21 Dec,Thursday,December Solstice,Season
+seychelles,2017,25 Dec,Monday,Christmas Day,Public Holiday
+seychelles,2018,1 Jan,Monday,New Year,Public Holiday
+seychelles,2018,2 Jan,Tuesday,New Year holiday,Public Holiday
+seychelles,2018,20 Mar,Tuesday,March Equinox,Season
+seychelles,2018,30 Mar,Friday,Good Friday,Public Holiday
+seychelles,2018,31 Mar,Saturday,Holy Saturday,Public Holiday
+seychelles,2018,1 Apr,Sunday,Easter Sunday,Observance
+seychelles,2018,2 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2018,1 May,Tuesday,Labour Day,Public Holiday
+seychelles,2018,31 May,Thursday,Corpus Christi,Public Holiday
+seychelles,2018,18 Jun,Monday,Constitution Day,Public Holiday
+seychelles,2018,21 Jun,Thursday,June Solstice,Season
+seychelles,2018,29 Jun,Friday,National Day,Public Holiday
+seychelles,2018,15 Aug,Wednesday,Assumption of Mary,Public Holiday
+seychelles,2018,23 Sep,Sunday,September Equinox,Season
+seychelles,2018,1 Nov,Thursday,All Saints' Day,Public Holiday
+seychelles,2018,8 Dec,Saturday,Immaculate Conception,Public Holiday
+seychelles,2018,22 Dec,Saturday,December Solstice,Season
+seychelles,2018,25 Dec,Tuesday,Christmas Day,Public Holiday
+seychelles,2019,1 Jan,Tuesday,New Year,Public Holiday
+seychelles,2019,2 Jan,Wednesday,New Year holiday,Public Holiday
+seychelles,2019,21 Mar,Thursday,March Equinox,Season
+seychelles,2019,19 Apr,Friday,Good Friday,Public Holiday
+seychelles,2019,20 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2019,21 Apr,Sunday,Easter Sunday,Observance
+seychelles,2019,22 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2019,1 May,Wednesday,Labour Day,Public Holiday
+seychelles,2019,18 Jun,Tuesday,Constitution Day,Public Holiday
+seychelles,2019,20 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2019,21 Jun,Friday,June Solstice,Season
+seychelles,2019,29 Jun,Saturday,National Day,Public Holiday
+seychelles,2019,15 Aug,Thursday,Assumption of Mary,Public Holiday
+seychelles,2019,23 Sep,Monday,September Equinox,Season
+seychelles,2019,1 Nov,Friday,All Saints' Day,Public Holiday
+seychelles,2019,8 Dec,Sunday,Immaculate Conception,Public Holiday
+seychelles,2019,9 Dec,Monday,Day off for Immaculate Conception,Public Holiday
+seychelles,2019,22 Dec,Sunday,December Solstice,Season
+seychelles,2019,25 Dec,Wednesday,Christmas Day,Public Holiday
+seychelles,2020,1 Jan,Wednesday,New Year,Public Holiday
+seychelles,2020,2 Jan,Thursday,New Year holiday,Public Holiday
+seychelles,2020,3 Jan,Friday,New Year holiday,Public Holiday
+seychelles,2020,20 Mar,Friday,March Equinox,Season
+seychelles,2020,10 Apr,Friday,Good Friday,Public Holiday
+seychelles,2020,11 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2020,12 Apr,Sunday,Easter Sunday,Observance
+seychelles,2020,13 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2020,1 May,Friday,Labour Day,Public Holiday
+seychelles,2020,11 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2020,18 Jun,Thursday,Constitution Day,Public Holiday
+seychelles,2020,21 Jun,Sunday,June Solstice,Season
+seychelles,2020,29 Jun,Monday,National Day,Public Holiday
+seychelles,2020,15 Aug,Saturday,Assumption of Mary,Public Holiday
+seychelles,2020,22 Sep,Tuesday,September Equinox,Season
+seychelles,2020,24 Oct,Saturday,Presidential Elections,Public Holiday
+seychelles,2020,1 Nov,Sunday,All Saints' Day,Public Holiday
+seychelles,2020,2 Nov,Monday,Day off for All Saints' Day,Public Holiday
+seychelles,2020,8 Dec,Tuesday,Immaculate Conception,Public Holiday
+seychelles,2020,21 Dec,Monday,December Solstice,Season
+seychelles,2020,25 Dec,Friday,Christmas Day,Public Holiday
+seychelles,2021,1 Jan,Friday,New Year,Public Holiday
+seychelles,2021,2 Jan,Saturday,New Year holiday,Public Holiday
+seychelles,2021,20 Mar,Saturday,March Equinox,Season
+seychelles,2021,2 Apr,Friday,Good Friday,Public Holiday
+seychelles,2021,3 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2021,4 Apr,Sunday,Easter Sunday,Observance
+seychelles,2021,5 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2021,1 May,Saturday,Labour Day,Public Holiday
+seychelles,2021,3 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2021,18 Jun,Friday,Constitution Day,Public Holiday
+seychelles,2021,21 Jun,Monday,June Solstice,Season
+seychelles,2021,29 Jun,Tuesday,National Day,Public Holiday
+seychelles,2021,15 Aug,Sunday,Assumption of Mary,Public Holiday
+seychelles,2021,16 Aug,Monday,Day off for Assumption of Mary,Public Holiday
+seychelles,2021,22 Sep,Wednesday,September Equinox,Season
+seychelles,2021,1 Nov,Monday,All Saints' Day,Public Holiday
+seychelles,2021,8 Dec,Wednesday,Immaculate Conception,Public Holiday
+seychelles,2021,21 Dec,Tuesday,December Solstice,Season
+seychelles,2021,25 Dec,Saturday,Christmas Day,Public Holiday
+seychelles,2022,1 Jan,Saturday,New Year,Public Holiday
+seychelles,2022,2 Jan,Sunday,New Year holiday,Public Holiday
+seychelles,2022,3 Jan,Monday,Day off for New Year holiday,Public Holiday
+seychelles,2022,20 Mar,Sunday,March Equinox,Season
+seychelles,2022,15 Apr,Friday,Good Friday,Public Holiday
+seychelles,2022,16 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2022,17 Apr,Sunday,Easter Sunday,Observance
+seychelles,2022,18 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2022,1 May,Sunday,Labour Day,Public Holiday
+seychelles,2022,2 May,Monday,Day off for Labour Day,Public Holiday
+seychelles,2022,16 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2022,18 Jun,Saturday,Constitution Day,Public Holiday
+seychelles,2022,21 Jun,Tuesday,June Solstice,Season
+seychelles,2022,29 Jun,Wednesday,National Day,Public Holiday
+seychelles,2022,15 Aug,Monday,Assumption of Mary,Public Holiday
+seychelles,2022,23 Sep,Friday,September Equinox,Season
+seychelles,2022,1 Nov,Tuesday,All Saints' Day,Public Holiday
+seychelles,2022,8 Dec,Thursday,Immaculate Conception,Public Holiday
+seychelles,2022,22 Dec,Thursday,December Solstice,Season
+seychelles,2022,25 Dec,Sunday,Christmas Day,Public Holiday
+seychelles,2022,26 Dec,Monday,Day off for Christmas Day,Public Holiday
+seychelles,2023,1 Jan,Sunday,New Year,Public Holiday
+seychelles,2023,2 Jan,Monday,New Year holiday,Public Holiday
+seychelles,2023,3 Jan,Tuesday,Day off for New Year,Public Holiday
+seychelles,2023,21 Mar,Tuesday,March Equinox,Season
+seychelles,2023,7 Apr,Friday,Good Friday,Public Holiday
+seychelles,2023,8 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2023,9 Apr,Sunday,Easter Sunday,Observance
+seychelles,2023,10 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2023,1 May,Monday,Labour Day,Public Holiday
+seychelles,2023,8 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2023,18 Jun,Sunday,Constitution Day,Public Holiday
+seychelles,2023,19 Jun,Monday,Day off for Constitution Day,Public Holiday
+seychelles,2023,21 Jun,Wednesday,June Solstice,Season
+seychelles,2023,29 Jun,Thursday,National Day,Public Holiday
+seychelles,2023,15 Aug,Tuesday,Assumption of Mary,Public Holiday
+seychelles,2023,23 Sep,Saturday,September Equinox,Season
+seychelles,2023,1 Nov,Wednesday,All Saints' Day,Public Holiday
+seychelles,2023,8 Dec,Friday,Immaculate Conception,Public Holiday
+seychelles,2023,22 Dec,Friday,December Solstice,Season
+seychelles,2023,25 Dec,Monday,Christmas Day,Public Holiday
+seychelles,2024,1 Jan,Monday,New Year,Public Holiday
+seychelles,2024,2 Jan,Tuesday,New Year holiday,Public Holiday
+seychelles,2024,20 Mar,Wednesday,March Equinox,Season
+seychelles,2024,29 Mar,Friday,Good Friday,Public Holiday
+seychelles,2024,30 Mar,Saturday,Holy Saturday,Public Holiday
+seychelles,2024,31 Mar,Sunday,Easter Sunday,Observance
+seychelles,2024,1 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2024,1 May,Wednesday,Labour Day,Public Holiday
+seychelles,2024,30 May,Thursday,Corpus Christi,Public Holiday
+seychelles,2024,18 Jun,Tuesday,Constitution Day,Public Holiday
+seychelles,2024,21 Jun,Friday,June Solstice,Season
+seychelles,2024,29 Jun,Saturday,National Day,Public Holiday
+seychelles,2024,15 Aug,Thursday,Assumption of Mary,Public Holiday
+seychelles,2024,22 Sep,Sunday,September Equinox,Season
+seychelles,2024,1 Nov,Friday,All Saints' Day,Public Holiday
+seychelles,2024,8 Dec,Sunday,Immaculate Conception,Public Holiday
+seychelles,2024,9 Dec,Monday,Day off for Immaculate Conception,Public Holiday
+seychelles,2024,21 Dec,Saturday,December Solstice,Season
+seychelles,2024,25 Dec,Wednesday,Christmas Day,Public Holiday
+seychelles,2025,1 Jan,Wednesday,New Year,Public Holiday
+seychelles,2025,2 Jan,Thursday,New Year holiday,Public Holiday
+seychelles,2025,20 Mar,Thursday,March Equinox,Season
+seychelles,2025,18 Apr,Friday,Good Friday,Public Holiday
+seychelles,2025,19 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2025,20 Apr,Sunday,Easter Sunday,Observance
+seychelles,2025,21 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2025,1 May,Thursday,Labour Day,Public Holiday
+seychelles,2025,18 Jun,Wednesday,Constitution Day,Public Holiday
+seychelles,2025,19 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2025,21 Jun,Saturday,June Solstice,Season
+seychelles,2025,29 Jun,Sunday,National Day,Public Holiday
+seychelles,2025,30 Jun,Monday,Day off for National Day,Public Holiday
+seychelles,2025,15 Aug,Friday,Assumption of Mary,Public Holiday
+seychelles,2025,22 Sep,Monday,September Equinox,Season
+seychelles,2025,1 Nov,Saturday,All Saints' Day,Public Holiday
+seychelles,2025,8 Dec,Monday,Immaculate Conception,Public Holiday
+seychelles,2025,21 Dec,Sunday,December Solstice,Season
+seychelles,2025,25 Dec,Thursday,Christmas Day,Public Holiday
+seychelles,2026,1 Jan,Thursday,New Year,Public Holiday
+seychelles,2026,2 Jan,Friday,New Year holiday,Public Holiday
+seychelles,2026,20 Mar,Friday,March Equinox,Season
+seychelles,2026,3 Apr,Friday,Good Friday,Public Holiday
+seychelles,2026,4 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2026,5 Apr,Sunday,Easter Sunday,Observance
+seychelles,2026,6 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2026,1 May,Friday,Labour Day,Public Holiday
+seychelles,2026,4 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2026,18 Jun,Thursday,Constitution Day,Public Holiday
+seychelles,2026,21 Jun,Sunday,June Solstice,Season
+seychelles,2026,29 Jun,Monday,National Day,Public Holiday
+seychelles,2026,15 Aug,Saturday,Assumption of Mary,Public Holiday
+seychelles,2026,23 Sep,Wednesday,September Equinox,Season
+seychelles,2026,1 Nov,Sunday,All Saints' Day,Public Holiday
+seychelles,2026,2 Nov,Monday,Day off for All Saints' Day,Public Holiday
+seychelles,2026,8 Dec,Tuesday,Immaculate Conception,Public Holiday
+seychelles,2026,22 Dec,Tuesday,December Solstice,Season
+seychelles,2026,25 Dec,Friday,Christmas Day,Public Holiday
+seychelles,2027,1 Jan,Friday,New Year,Public Holiday
+seychelles,2027,2 Jan,Saturday,New Year holiday,Public Holiday
+seychelles,2027,21 Mar,Sunday,March Equinox,Season
+seychelles,2027,26 Mar,Friday,Good Friday,Public Holiday
+seychelles,2027,27 Mar,Saturday,Holy Saturday,Public Holiday
+seychelles,2027,28 Mar,Sunday,Easter Sunday,Observance
+seychelles,2027,29 Mar,Monday,Easter Monday,Public Holiday
+seychelles,2027,1 May,Saturday,Labour Day,Public Holiday
+seychelles,2027,27 May,Thursday,Corpus Christi,Public Holiday
+seychelles,2027,18 Jun,Friday,Constitution Day,Public Holiday
+seychelles,2027,21 Jun,Monday,June Solstice,Season
+seychelles,2027,29 Jun,Tuesday,National Day,Public Holiday
+seychelles,2027,15 Aug,Sunday,Assumption of Mary,Public Holiday
+seychelles,2027,16 Aug,Monday,Day off for Assumption of Mary,Public Holiday
+seychelles,2027,23 Sep,Thursday,September Equinox,Season
+seychelles,2027,1 Nov,Monday,All Saints' Day,Public Holiday
+seychelles,2027,8 Dec,Wednesday,Immaculate Conception,Public Holiday
+seychelles,2027,22 Dec,Wednesday,December Solstice,Season
+seychelles,2027,25 Dec,Saturday,Christmas Day,Public Holiday
+seychelles,2028,1 Jan,Saturday,New Year,Public Holiday
+seychelles,2028,2 Jan,Sunday,New Year holiday,Public Holiday
+seychelles,2028,3 Jan,Monday,Day off for New Year holiday,Public Holiday
+seychelles,2028,20 Mar,Monday,March Equinox,Season
+seychelles,2028,14 Apr,Friday,Good Friday,Public Holiday
+seychelles,2028,15 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2028,16 Apr,Sunday,Easter Sunday,Observance
+seychelles,2028,17 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2028,1 May,Monday,Labour Day,Public Holiday
+seychelles,2028,15 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2028,18 Jun,Sunday,Constitution Day,Public Holiday
+seychelles,2028,19 Jun,Monday,Day off for Constitution Day,Public Holiday
+seychelles,2028,21 Jun,Wednesday,June Solstice,Season
+seychelles,2028,29 Jun,Thursday,National Day,Public Holiday
+seychelles,2028,15 Aug,Tuesday,Assumption of Mary,Public Holiday
+seychelles,2028,22 Sep,Friday,September Equinox,Season
+seychelles,2028,1 Nov,Wednesday,All Saints' Day,Public Holiday
+seychelles,2028,8 Dec,Friday,Immaculate Conception,Public Holiday
+seychelles,2028,21 Dec,Thursday,December Solstice,Season
+seychelles,2028,25 Dec,Monday,Christmas Day,Public Holiday
+seychelles,2029,1 Jan,Monday,New Year,Public Holiday
+seychelles,2029,2 Jan,Tuesday,New Year holiday,Public Holiday
+seychelles,2029,20 Mar,Tuesday,March Equinox,Season
+seychelles,2029,30 Mar,Friday,Good Friday,Public Holiday
+seychelles,2029,31 Mar,Saturday,Holy Saturday,Public Holiday
+seychelles,2029,1 Apr,Sunday,Easter Sunday,Observance
+seychelles,2029,2 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2029,1 May,Tuesday,Labour Day,Public Holiday
+seychelles,2029,31 May,Thursday,Corpus Christi,Public Holiday
+seychelles,2029,18 Jun,Monday,Constitution Day,Public Holiday
+seychelles,2029,21 Jun,Thursday,June Solstice,Season
+seychelles,2029,29 Jun,Friday,National Day,Public Holiday
+seychelles,2029,15 Aug,Wednesday,Assumption of Mary,Public Holiday
+seychelles,2029,22 Sep,Saturday,September Equinox,Season
+seychelles,2029,1 Nov,Thursday,All Saints' Day,Public Holiday
+seychelles,2029,8 Dec,Saturday,Immaculate Conception,Public Holiday
+seychelles,2029,21 Dec,Friday,December Solstice,Season
+seychelles,2029,25 Dec,Tuesday,Christmas Day,Public Holiday
+seychelles,2030,1 Jan,Tuesday,New Year,Public Holiday
+seychelles,2030,2 Jan,Wednesday,New Year holiday,Public Holiday
+seychelles,2030,20 Mar,Wednesday,March Equinox,Season
+seychelles,2030,19 Apr,Friday,Good Friday,Public Holiday
+seychelles,2030,20 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2030,21 Apr,Sunday,Easter Sunday,Observance
+seychelles,2030,22 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2030,1 May,Wednesday,Labour Day,Public Holiday
+seychelles,2030,18 Jun,Tuesday,Constitution Day,Public Holiday
+seychelles,2030,20 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2030,21 Jun,Friday,June Solstice,Season
+seychelles,2030,29 Jun,Saturday,National Day,Public Holiday
+seychelles,2030,15 Aug,Thursday,Assumption of Mary,Public Holiday
+seychelles,2030,23 Sep,Monday,September Equinox,Season
+seychelles,2030,1 Nov,Friday,All Saints' Day,Public Holiday
+seychelles,2030,8 Dec,Sunday,Immaculate Conception,Public Holiday
+seychelles,2030,9 Dec,Monday,Day off for Immaculate Conception,Public Holiday
+seychelles,2030,22 Dec,Sunday,December Solstice,Season
+seychelles,2030,25 Dec,Wednesday,Christmas Day,Public Holiday
+seychelles,2031,1 Jan,Wednesday,New Year,Public Holiday
+seychelles,2031,2 Jan,Thursday,New Year holiday,Public Holiday
+seychelles,2031,20 Mar,Thursday,March Equinox,Season
+seychelles,2031,11 Apr,Friday,Good Friday,Public Holiday
+seychelles,2031,12 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2031,13 Apr,Sunday,Easter Sunday,Observance
+seychelles,2031,14 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2031,1 May,Thursday,Labour Day,Public Holiday
+seychelles,2031,12 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2031,18 Jun,Wednesday,Constitution Day,Public Holiday
+seychelles,2031,21 Jun,Saturday,June Solstice,Season
+seychelles,2031,29 Jun,Sunday,National Day,Public Holiday
+seychelles,2031,30 Jun,Monday,Day off for National Day,Public Holiday
+seychelles,2031,15 Aug,Friday,Assumption of Mary,Public Holiday
+seychelles,2031,23 Sep,Tuesday,September Equinox,Season
+seychelles,2031,1 Nov,Saturday,All Saints' Day,Public Holiday
+seychelles,2031,8 Dec,Monday,Immaculate Conception,Public Holiday
+seychelles,2031,22 Dec,Monday,December Solstice,Season
+seychelles,2031,25 Dec,Thursday,Christmas Day,Public Holiday
+seychelles,2032,1 Jan,Thursday,New Year,Public Holiday
+seychelles,2032,2 Jan,Friday,New Year holiday,Public Holiday
+seychelles,2032,20 Mar,Saturday,March Equinox,Season
+seychelles,2032,26 Mar,Friday,Good Friday,Public Holiday
+seychelles,2032,27 Mar,Saturday,Holy Saturday,Public Holiday
+seychelles,2032,28 Mar,Sunday,Easter Sunday,Observance
+seychelles,2032,29 Mar,Monday,Easter Monday,Public Holiday
+seychelles,2032,1 May,Saturday,Labour Day,Public Holiday
+seychelles,2032,27 May,Thursday,Corpus Christi,Public Holiday
+seychelles,2032,18 Jun,Friday,Constitution Day,Public Holiday
+seychelles,2032,20 Jun,Sunday,June Solstice,Season
+seychelles,2032,29 Jun,Tuesday,National Day,Public Holiday
+seychelles,2032,15 Aug,Sunday,Assumption of Mary,Public Holiday
+seychelles,2032,16 Aug,Monday,Day off for Assumption of Mary,Public Holiday
+seychelles,2032,22 Sep,Wednesday,September Equinox,Season
+seychelles,2032,1 Nov,Monday,All Saints' Day,Public Holiday
+seychelles,2032,8 Dec,Wednesday,Immaculate Conception,Public Holiday
+seychelles,2032,21 Dec,Tuesday,December Solstice,Season
+seychelles,2032,25 Dec,Saturday,Christmas Day,Public Holiday
+seychelles,2033,1 Jan,Saturday,New Year,Public Holiday
+seychelles,2033,2 Jan,Sunday,New Year holiday,Public Holiday
+seychelles,2033,3 Jan,Monday,Day off for New Year holiday,Public Holiday
+seychelles,2033,20 Mar,Sunday,March Equinox,Season
+seychelles,2033,15 Apr,Friday,Good Friday,Public Holiday
+seychelles,2033,16 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2033,17 Apr,Sunday,Easter Sunday,Observance
+seychelles,2033,18 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2033,1 May,Sunday,Labour Day,Public Holiday
+seychelles,2033,2 May,Monday,Day off for Labour Day,Public Holiday
+seychelles,2033,16 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2033,18 Jun,Saturday,Constitution Day,Public Holiday
+seychelles,2033,21 Jun,Tuesday,June Solstice,Season
+seychelles,2033,29 Jun,Wednesday,National Day,Public Holiday
+seychelles,2033,15 Aug,Monday,Assumption of Mary,Public Holiday
+seychelles,2033,22 Sep,Thursday,September Equinox,Season
+seychelles,2033,1 Nov,Tuesday,All Saints' Day,Public Holiday
+seychelles,2033,8 Dec,Thursday,Immaculate Conception,Public Holiday
+seychelles,2033,21 Dec,Wednesday,December Solstice,Season
+seychelles,2033,25 Dec,Sunday,Christmas Day,Public Holiday
+seychelles,2033,26 Dec,Monday,Day off for Christmas Day,Public Holiday
+seychelles,2034,1 Jan,Sunday,New Year,Public Holiday
+seychelles,2034,2 Jan,Monday,New Year holiday,Public Holiday
+seychelles,2034,3 Jan,Tuesday,Day off for New Year,Public Holiday
+seychelles,2034,20 Mar,Monday,March Equinox,Season
+seychelles,2034,7 Apr,Friday,Good Friday,Public Holiday
+seychelles,2034,8 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2034,9 Apr,Sunday,Easter Sunday,Observance
+seychelles,2034,10 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2034,1 May,Monday,Labour Day,Public Holiday
+seychelles,2034,8 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2034,18 Jun,Sunday,Constitution Day,Public Holiday
+seychelles,2034,19 Jun,Monday,Day off for Constitution Day,Public Holiday
+seychelles,2034,21 Jun,Wednesday,June Solstice,Season
+seychelles,2034,29 Jun,Thursday,National Day,Public Holiday
+seychelles,2034,15 Aug,Tuesday,Assumption of Mary,Public Holiday
+seychelles,2034,23 Sep,Saturday,September Equinox,Season
+seychelles,2034,1 Nov,Wednesday,All Saints' Day,Public Holiday
+seychelles,2034,8 Dec,Friday,Immaculate Conception,Public Holiday
+seychelles,2034,21 Dec,Thursday,December Solstice,Season
+seychelles,2034,25 Dec,Monday,Christmas Day,Public Holiday
+seychelles,2035,1 Jan,Monday,New Year,Public Holiday
+seychelles,2035,2 Jan,Tuesday,New Year holiday,Public Holiday
+seychelles,2035,20 Mar,Tuesday,March Equinox,Season
+seychelles,2035,23 Mar,Friday,Good Friday,Public Holiday
+seychelles,2035,24 Mar,Saturday,Holy Saturday,Public Holiday
+seychelles,2035,25 Mar,Sunday,Easter Sunday,Observance
+seychelles,2035,26 Mar,Monday,Easter Monday,Public Holiday
+seychelles,2035,1 May,Tuesday,Labour Day,Public Holiday
+seychelles,2035,24 May,Thursday,Corpus Christi,Public Holiday
+seychelles,2035,18 Jun,Monday,Constitution Day,Public Holiday
+seychelles,2035,21 Jun,Thursday,June Solstice,Season
+seychelles,2035,29 Jun,Friday,National Day,Public Holiday
+seychelles,2035,15 Aug,Wednesday,Assumption of Mary,Public Holiday
+seychelles,2035,23 Sep,Sunday,September Equinox,Season
+seychelles,2035,1 Nov,Thursday,All Saints' Day,Public Holiday
+seychelles,2035,8 Dec,Saturday,Immaculate Conception,Public Holiday
+seychelles,2035,22 Dec,Saturday,December Solstice,Season
+seychelles,2035,25 Dec,Tuesday,Christmas Day,Public Holiday
+seychelles,2036,1 Jan,Tuesday,New Year,Public Holiday
+seychelles,2036,2 Jan,Wednesday,New Year holiday,Public Holiday
+seychelles,2036,20 Mar,Thursday,March Equinox,Season
+seychelles,2036,11 Apr,Friday,Good Friday,Public Holiday
+seychelles,2036,12 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2036,13 Apr,Sunday,Easter Sunday,Observance
+seychelles,2036,14 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2036,1 May,Thursday,Labour Day,Public Holiday
+seychelles,2036,12 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2036,18 Jun,Wednesday,Constitution Day,Public Holiday
+seychelles,2036,20 Jun,Friday,June Solstice,Season
+seychelles,2036,29 Jun,Sunday,National Day,Public Holiday
+seychelles,2036,30 Jun,Monday,Day off for National Day,Public Holiday
+seychelles,2036,15 Aug,Friday,Assumption of Mary,Public Holiday
+seychelles,2036,22 Sep,Monday,September Equinox,Season
+seychelles,2036,1 Nov,Saturday,All Saints' Day,Public Holiday
+seychelles,2036,8 Dec,Monday,Immaculate Conception,Public Holiday
+seychelles,2036,21 Dec,Sunday,December Solstice,Season
+seychelles,2036,25 Dec,Thursday,Christmas Day,Public Holiday
+seychelles,2037,1 Jan,Thursday,New Year,Public Holiday
+seychelles,2037,2 Jan,Friday,New Year holiday,Public Holiday
+seychelles,2037,20 Mar,Friday,March Equinox,Season
+seychelles,2037,3 Apr,Friday,Good Friday,Public Holiday
+seychelles,2037,4 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2037,5 Apr,Sunday,Easter Sunday,Observance
+seychelles,2037,6 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2037,1 May,Friday,Labour Day,Public Holiday
+seychelles,2037,4 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2037,18 Jun,Thursday,Constitution Day,Public Holiday
+seychelles,2037,21 Jun,Sunday,June Solstice,Season
+seychelles,2037,29 Jun,Monday,National Day,Public Holiday
+seychelles,2037,15 Aug,Saturday,Assumption of Mary,Public Holiday
+seychelles,2037,22 Sep,Tuesday,September Equinox,Season
+seychelles,2037,1 Nov,Sunday,All Saints' Day,Public Holiday
+seychelles,2037,2 Nov,Monday,Day off for All Saints' Day,Public Holiday
+seychelles,2037,8 Dec,Tuesday,Immaculate Conception,Public Holiday
+seychelles,2037,21 Dec,Monday,December Solstice,Season
+seychelles,2037,25 Dec,Friday,Christmas Day,Public Holiday
+seychelles,2038,1 Jan,Friday,New Year,Public Holiday
+seychelles,2038,2 Jan,Saturday,New Year holiday,Public Holiday
+seychelles,2038,20 Mar,Saturday,March Equinox,Season
+seychelles,2038,23 Apr,Friday,Good Friday,Public Holiday
+seychelles,2038,24 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2038,25 Apr,Sunday,Easter Sunday,Observance
+seychelles,2038,26 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2038,1 May,Saturday,Labour Day,Public Holiday
+seychelles,2038,18 Jun,Friday,Constitution Day,Public Holiday
+seychelles,2038,21 Jun,Monday,June Solstice,Season
+seychelles,2038,24 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2038,29 Jun,Tuesday,National Day,Public Holiday
+seychelles,2038,15 Aug,Sunday,Assumption of Mary,Public Holiday
+seychelles,2038,16 Aug,Monday,Day off for Assumption of Mary,Public Holiday
+seychelles,2038,23 Sep,Thursday,September Equinox,Season
+seychelles,2038,1 Nov,Monday,All Saints' Day,Public Holiday
+seychelles,2038,8 Dec,Wednesday,Immaculate Conception,Public Holiday
+seychelles,2038,21 Dec,Tuesday,December Solstice,Season
+seychelles,2038,25 Dec,Saturday,Christmas Day,Public Holiday
+seychelles,2039,1 Jan,Saturday,New Year,Public Holiday
+seychelles,2039,2 Jan,Sunday,New Year holiday,Public Holiday
+seychelles,2039,3 Jan,Monday,Day off for New Year holiday,Public Holiday
+seychelles,2039,20 Mar,Sunday,March Equinox,Season
+seychelles,2039,8 Apr,Friday,Good Friday,Public Holiday
+seychelles,2039,9 Apr,Saturday,Holy Saturday,Public Holiday
+seychelles,2039,10 Apr,Sunday,Easter Sunday,Observance
+seychelles,2039,11 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2039,1 May,Sunday,Labour Day,Public Holiday
+seychelles,2039,2 May,Monday,Day off for Labour Day,Public Holiday
+seychelles,2039,9 Jun,Thursday,Corpus Christi,Public Holiday
+seychelles,2039,18 Jun,Saturday,Constitution Day,Public Holiday
+seychelles,2039,21 Jun,Tuesday,June Solstice,Season
+seychelles,2039,29 Jun,Wednesday,National Day,Public Holiday
+seychelles,2039,15 Aug,Monday,Assumption of Mary,Public Holiday
+seychelles,2039,23 Sep,Friday,September Equinox,Season
+seychelles,2039,1 Nov,Tuesday,All Saints' Day,Public Holiday
+seychelles,2039,8 Dec,Thursday,Immaculate Conception,Public Holiday
+seychelles,2039,22 Dec,Thursday,December Solstice,Season
+seychelles,2039,25 Dec,Sunday,Christmas Day,Public Holiday
+seychelles,2039,26 Dec,Monday,Day off for Christmas Day,Public Holiday
+seychelles,2040,1 Jan,Sunday,New Year,Public Holiday
+seychelles,2040,2 Jan,Monday,New Year holiday,Public Holiday
+seychelles,2040,3 Jan,Tuesday,Day off for New Year,Public Holiday
+seychelles,2040,20 Mar,Tuesday,March Equinox,Season
+seychelles,2040,30 Mar,Friday,Good Friday,Public Holiday
+seychelles,2040,31 Mar,Saturday,Holy Saturday,Public Holiday
+seychelles,2040,1 Apr,Sunday,Easter Sunday,Observance
+seychelles,2040,2 Apr,Monday,Easter Monday,Public Holiday
+seychelles,2040,1 May,Tuesday,Labour Day,Public Holiday
+seychelles,2040,31 May,Thursday,Corpus Christi,Public Holiday
+seychelles,2040,18 Jun,Monday,Constitution Day,Public Holiday
+seychelles,2040,20 Jun,Wednesday,June Solstice,Season
+seychelles,2040,29 Jun,Friday,National Day,Public Holiday
+seychelles,2040,15 Aug,Wednesday,Assumption of Mary,Public Holiday
+seychelles,2040,22 Sep,Saturday,September Equinox,Season
+seychelles,2040,1 Nov,Thursday,All Saints' Day,Public Holiday
+seychelles,2040,8 Dec,Saturday,Immaculate Conception,Public Holiday
+seychelles,2040,21 Dec,Friday,December Solstice,Season
+seychelles,2040,25 Dec,Tuesday,Christmas Day,Public Holiday

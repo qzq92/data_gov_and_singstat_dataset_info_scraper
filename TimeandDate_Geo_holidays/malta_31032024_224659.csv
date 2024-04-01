@@ -1,0 +1,828 @@
+Geo,Event Year,Date,Day,Name,Type
+malta,2005,1 Jan,Saturday,New Year's Day,Public holiday
+malta,2005,10 Feb,Thursday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2005,19 Mar,Saturday,Feast of Saint Joseph,Public holiday
+malta,2005,25 Mar,Friday,Good Friday,Public holiday
+malta,2005,27 Mar,Sunday,Easter Sunday,Observance
+malta,2005,28 Mar,Monday,Easter Monday,Observance
+malta,2005,28 Mar,Monday,Bank Holiday,Bank holiday
+malta,2005,31 Mar,Thursday,Freedom Day,National holiday
+malta,2005,1 May,Sunday,Labour Day/May Day,Public holiday
+malta,2005,8 May,Sunday,Mothers' Day,Observance
+malta,2005,7 Jun,Tuesday,Sette Giugno,National holiday
+malta,2005,19 Jun,Sunday,Fathers' Day,Observance
+malta,2005,29 Jun,Wednesday,Feast of Saints Peter and Paul,Public holiday
+malta,2005,15 Aug,Monday,The Feast of Mary's Assumption,Public holiday
+malta,2005,8 Sep,Thursday,The Feast of Our Lady of Victories,National holiday
+malta,2005,21 Sep,Wednesday,Independence Day,National holiday
+malta,2005,8 Dec,Thursday,Feast of the Immaculate Conception,Public holiday
+malta,2005,13 Dec,Tuesday,Republic Day,National holiday
+malta,2005,24 Dec,Saturday,Christmas Eve,Observance
+malta,2005,25 Dec,Sunday,Christmas Day,Public holiday
+malta,2005,26 Dec,Monday,Boxing Day,Observance
+malta,2005,26 Dec,Monday,Bank Holiday,Bank holiday
+malta,2005,31 Dec,Saturday,New Year's Eve,Observance
+malta,2006,1 Jan,Sunday,New Year's Day,Public holiday
+malta,2006,10 Feb,Friday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2006,19 Mar,Sunday,Feast of Saint Joseph,Public holiday
+malta,2006,31 Mar,Friday,Freedom Day,National holiday
+malta,2006,14 Apr,Friday,Good Friday,Public holiday
+malta,2006,16 Apr,Sunday,Easter Sunday,Observance
+malta,2006,17 Apr,Monday,Easter Monday,Observance
+malta,2006,17 Apr,Monday,Bank Holiday,Bank holiday
+malta,2006,1 May,Monday,Labour Day/May Day,Public holiday
+malta,2006,14 May,Sunday,Mothers' Day,Observance
+malta,2006,7 Jun,Wednesday,Sette Giugno,National holiday
+malta,2006,18 Jun,Sunday,Fathers' Day,Observance
+malta,2006,29 Jun,Thursday,Feast of Saints Peter and Paul,Public holiday
+malta,2006,15 Aug,Tuesday,The Feast of Mary's Assumption,Public holiday
+malta,2006,8 Sep,Friday,The Feast of Our Lady of Victories,National holiday
+malta,2006,21 Sep,Thursday,Independence Day,National holiday
+malta,2006,8 Dec,Friday,Feast of the Immaculate Conception,Public holiday
+malta,2006,13 Dec,Wednesday,Republic Day,National holiday
+malta,2006,24 Dec,Sunday,Christmas Eve,Observance
+malta,2006,25 Dec,Monday,Christmas Day,Public holiday
+malta,2006,26 Dec,Tuesday,Boxing Day,Observance
+malta,2006,26 Dec,Tuesday,Bank Holiday,Bank holiday
+malta,2006,31 Dec,Sunday,New Year's Eve,Observance
+malta,2007,1 Jan,Monday,New Year's Day,Public holiday
+malta,2007,10 Feb,Saturday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2007,19 Mar,Monday,Feast of Saint Joseph,Public holiday
+malta,2007,31 Mar,Saturday,Freedom Day,National holiday
+malta,2007,6 Apr,Friday,Good Friday,Public holiday
+malta,2007,8 Apr,Sunday,Easter Sunday,Observance
+malta,2007,9 Apr,Monday,Easter Monday,Observance
+malta,2007,9 Apr,Monday,Bank Holiday,Bank holiday
+malta,2007,1 May,Tuesday,Labour Day/May Day,Public holiday
+malta,2007,13 May,Sunday,Mothers' Day,Observance
+malta,2007,7 Jun,Thursday,Sette Giugno,National holiday
+malta,2007,17 Jun,Sunday,Fathers' Day,Observance
+malta,2007,29 Jun,Friday,Feast of Saints Peter and Paul,Public holiday
+malta,2007,15 Aug,Wednesday,The Feast of Mary's Assumption,Public holiday
+malta,2007,8 Sep,Saturday,The Feast of Our Lady of Victories,National holiday
+malta,2007,21 Sep,Friday,Independence Day,National holiday
+malta,2007,8 Dec,Saturday,Feast of the Immaculate Conception,Public holiday
+malta,2007,13 Dec,Thursday,Republic Day,National holiday
+malta,2007,24 Dec,Monday,Christmas Eve,Observance
+malta,2007,25 Dec,Tuesday,Christmas Day,Public holiday
+malta,2007,26 Dec,Wednesday,Boxing Day,Observance
+malta,2007,26 Dec,Wednesday,Bank Holiday,Bank holiday
+malta,2007,31 Dec,Monday,New Year's Eve,Observance
+malta,2008,1 Jan,Tuesday,New Year's Day,Public holiday
+malta,2008,10 Feb,Sunday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2008,19 Mar,Wednesday,Feast of Saint Joseph,Public holiday
+malta,2008,21 Mar,Friday,Good Friday,Public holiday
+malta,2008,23 Mar,Sunday,Easter Sunday,Observance
+malta,2008,24 Mar,Monday,Easter Monday,Observance
+malta,2008,24 Mar,Monday,Bank Holiday,Bank holiday
+malta,2008,31 Mar,Monday,Freedom Day,National holiday
+malta,2008,1 May,Thursday,Labour Day/May Day,Public holiday
+malta,2008,11 May,Sunday,Mothers' Day,Observance
+malta,2008,7 Jun,Saturday,Sette Giugno,National holiday
+malta,2008,15 Jun,Sunday,Fathers' Day,Observance
+malta,2008,29 Jun,Sunday,Feast of Saints Peter and Paul,Public holiday
+malta,2008,15 Aug,Friday,The Feast of Mary's Assumption,Public holiday
+malta,2008,8 Sep,Monday,The Feast of Our Lady of Victories,National holiday
+malta,2008,21 Sep,Sunday,Independence Day,National holiday
+malta,2008,8 Dec,Monday,Feast of the Immaculate Conception,Public holiday
+malta,2008,13 Dec,Saturday,Republic Day,National holiday
+malta,2008,24 Dec,Wednesday,Christmas Eve,Observance
+malta,2008,25 Dec,Thursday,Christmas Day,Public holiday
+malta,2008,26 Dec,Friday,Boxing Day,Observance
+malta,2008,26 Dec,Friday,Bank Holiday,Bank holiday
+malta,2008,31 Dec,Wednesday,New Year's Eve,Observance
+malta,2009,1 Jan,Thursday,New Year's Day,Public holiday
+malta,2009,10 Feb,Tuesday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2009,19 Mar,Thursday,Feast of Saint Joseph,Public holiday
+malta,2009,31 Mar,Tuesday,Freedom Day,National holiday
+malta,2009,10 Apr,Friday,Good Friday,Public holiday
+malta,2009,12 Apr,Sunday,Easter Sunday,Observance
+malta,2009,13 Apr,Monday,Easter Monday,Observance
+malta,2009,13 Apr,Monday,Bank Holiday,Bank holiday
+malta,2009,1 May,Friday,Labour Day/May Day,Public holiday
+malta,2009,10 May,Sunday,Mothers' Day,Observance
+malta,2009,7 Jun,Sunday,Sette Giugno,National holiday
+malta,2009,21 Jun,Sunday,Fathers' Day,Observance
+malta,2009,29 Jun,Monday,Feast of Saints Peter and Paul,Public holiday
+malta,2009,15 Aug,Saturday,The Feast of Mary's Assumption,Public holiday
+malta,2009,8 Sep,Tuesday,The Feast of Our Lady of Victories,National holiday
+malta,2009,21 Sep,Monday,Independence Day,National holiday
+malta,2009,8 Dec,Tuesday,Feast of the Immaculate Conception,Public holiday
+malta,2009,13 Dec,Sunday,Republic Day,National holiday
+malta,2009,24 Dec,Thursday,Christmas Eve,Observance
+malta,2009,25 Dec,Friday,Christmas Day,Public holiday
+malta,2009,26 Dec,Saturday,Boxing Day,Observance
+malta,2009,26 Dec,Saturday,Bank Holiday,Bank holiday
+malta,2009,31 Dec,Thursday,New Year's Eve,Observance
+malta,2010,1 Jan,Friday,New Year's Day,Public holiday
+malta,2010,10 Feb,Wednesday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2010,19 Mar,Friday,Feast of Saint Joseph,Public holiday
+malta,2010,31 Mar,Wednesday,Freedom Day,National holiday
+malta,2010,2 Apr,Friday,Good Friday,Public holiday
+malta,2010,4 Apr,Sunday,Easter Sunday,Observance
+malta,2010,5 Apr,Monday,Easter Monday,Observance
+malta,2010,5 Apr,Monday,Bank Holiday,Bank holiday
+malta,2010,1 May,Saturday,Labour Day/May Day,Public holiday
+malta,2010,9 May,Sunday,Mothers' Day,Observance
+malta,2010,7 Jun,Monday,Sette Giugno,National holiday
+malta,2010,20 Jun,Sunday,Fathers' Day,Observance
+malta,2010,29 Jun,Tuesday,Feast of Saints Peter and Paul,Public holiday
+malta,2010,15 Aug,Sunday,The Feast of Mary's Assumption,Public holiday
+malta,2010,8 Sep,Wednesday,The Feast of Our Lady of Victories,National holiday
+malta,2010,21 Sep,Tuesday,Independence Day,National holiday
+malta,2010,8 Dec,Wednesday,Feast of the Immaculate Conception,Public holiday
+malta,2010,13 Dec,Monday,Republic Day,National holiday
+malta,2010,24 Dec,Friday,Christmas Eve,Observance
+malta,2010,25 Dec,Saturday,Christmas Day,Public holiday
+malta,2010,26 Dec,Sunday,Boxing Day,Observance
+malta,2010,26 Dec,Sunday,Bank Holiday,Bank holiday
+malta,2010,31 Dec,Friday,New Year's Eve,Observance
+malta,2011,1 Jan,Saturday,New Year's Day,Public holiday
+malta,2011,10 Feb,Thursday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2011,19 Mar,Saturday,Feast of Saint Joseph,Public holiday
+malta,2011,31 Mar,Thursday,Freedom Day,National holiday
+malta,2011,22 Apr,Friday,Good Friday,Public holiday
+malta,2011,24 Apr,Sunday,Easter Sunday,Observance
+malta,2011,25 Apr,Monday,Easter Monday,Observance
+malta,2011,25 Apr,Monday,Bank Holiday,Bank holiday
+malta,2011,1 May,Sunday,Labour Day/May Day,Public holiday
+malta,2011,8 May,Sunday,Mothers' Day,Observance
+malta,2011,7 Jun,Tuesday,Sette Giugno,National holiday
+malta,2011,19 Jun,Sunday,Fathers' Day,Observance
+malta,2011,29 Jun,Wednesday,Feast of Saints Peter and Paul,Public holiday
+malta,2011,15 Aug,Monday,The Feast of Mary's Assumption,Public holiday
+malta,2011,8 Sep,Thursday,The Feast of Our Lady of Victories,National holiday
+malta,2011,21 Sep,Wednesday,Independence Day,National holiday
+malta,2011,8 Dec,Thursday,Feast of the Immaculate Conception,Public holiday
+malta,2011,13 Dec,Tuesday,Republic Day,National holiday
+malta,2011,24 Dec,Saturday,Christmas Eve,Observance
+malta,2011,25 Dec,Sunday,Christmas Day,Public holiday
+malta,2011,26 Dec,Monday,Boxing Day,Observance
+malta,2011,26 Dec,Monday,Bank Holiday,Bank holiday
+malta,2011,31 Dec,Saturday,New Year's Eve,Observance
+malta,2012,1 Jan,Sunday,New Year's Day,Public holiday
+malta,2012,10 Feb,Friday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2012,19 Mar,Monday,Feast of Saint Joseph,Public holiday
+malta,2012,31 Mar,Saturday,Freedom Day,National holiday
+malta,2012,6 Apr,Friday,Good Friday,Public holiday
+malta,2012,8 Apr,Sunday,Easter Sunday,Observance
+malta,2012,9 Apr,Monday,Easter Monday,Observance
+malta,2012,9 Apr,Monday,Bank Holiday,Bank holiday
+malta,2012,1 May,Tuesday,Labour Day/May Day,Public holiday
+malta,2012,13 May,Sunday,Mothers' Day,Observance
+malta,2012,7 Jun,Thursday,Sette Giugno,National holiday
+malta,2012,17 Jun,Sunday,Fathers' Day,Observance
+malta,2012,29 Jun,Friday,Feast of Saints Peter and Paul,Public holiday
+malta,2012,15 Aug,Wednesday,The Feast of Mary's Assumption,Public holiday
+malta,2012,8 Sep,Saturday,The Feast of Our Lady of Victories,National holiday
+malta,2012,21 Sep,Friday,Independence Day,National holiday
+malta,2012,8 Dec,Saturday,Feast of the Immaculate Conception,Public holiday
+malta,2012,13 Dec,Thursday,Republic Day,National holiday
+malta,2012,24 Dec,Monday,Christmas Eve,Observance
+malta,2012,25 Dec,Tuesday,Christmas Day,Public holiday
+malta,2012,26 Dec,Wednesday,Boxing Day,Observance
+malta,2012,26 Dec,Wednesday,Bank Holiday,Bank holiday
+malta,2012,31 Dec,Monday,New Year's Eve,Observance
+malta,2013,1 Jan,Tuesday,New Year's Day,Public holiday
+malta,2013,10 Feb,Sunday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2013,19 Mar,Tuesday,Feast of Saint Joseph,Public holiday
+malta,2013,29 Mar,Friday,Good Friday,Public holiday
+malta,2013,31 Mar,Sunday,Freedom Day,National holiday
+malta,2013,31 Mar,Sunday,Easter Sunday,Observance
+malta,2013,1 Apr,Monday,Easter Monday,Observance
+malta,2013,1 Apr,Monday,Bank Holiday,Bank holiday
+malta,2013,1 May,Wednesday,Labour Day/May Day,Public holiday
+malta,2013,12 May,Sunday,Mothers' Day,Observance
+malta,2013,7 Jun,Friday,Sette Giugno,National holiday
+malta,2013,16 Jun,Sunday,Fathers' Day,Observance
+malta,2013,29 Jun,Saturday,Feast of Saints Peter and Paul,Public holiday
+malta,2013,15 Aug,Thursday,The Feast of Mary's Assumption,Public holiday
+malta,2013,8 Sep,Sunday,The Feast of Our Lady of Victories,National holiday
+malta,2013,21 Sep,Saturday,Independence Day,National holiday
+malta,2013,8 Dec,Sunday,Feast of the Immaculate Conception,Public holiday
+malta,2013,13 Dec,Friday,Republic Day,National holiday
+malta,2013,24 Dec,Tuesday,Christmas Eve,Observance
+malta,2013,25 Dec,Wednesday,Christmas Day,Public holiday
+malta,2013,26 Dec,Thursday,Boxing Day,Observance
+malta,2013,26 Dec,Thursday,Bank Holiday,Bank holiday
+malta,2013,31 Dec,Tuesday,New Year's Eve,Observance
+malta,2014,1 Jan,Wednesday,New Year's Day,Public holiday
+malta,2014,10 Feb,Monday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2014,19 Mar,Wednesday,Feast of Saint Joseph,Public holiday
+malta,2014,31 Mar,Monday,Freedom Day,National holiday
+malta,2014,18 Apr,Friday,Good Friday,Public holiday
+malta,2014,20 Apr,Sunday,Easter Sunday,Observance
+malta,2014,21 Apr,Monday,Easter Monday,Observance
+malta,2014,21 Apr,Monday,Bank Holiday,Bank holiday
+malta,2014,1 May,Thursday,Labour Day/May Day,Public holiday
+malta,2014,11 May,Sunday,Mothers' Day,Observance
+malta,2014,7 Jun,Saturday,Sette Giugno,National holiday
+malta,2014,15 Jun,Sunday,Fathers' Day,Observance
+malta,2014,29 Jun,Sunday,Feast of Saints Peter and Paul,Public holiday
+malta,2014,15 Aug,Friday,The Feast of Mary's Assumption,Public holiday
+malta,2014,8 Sep,Monday,The Feast of Our Lady of Victories,National holiday
+malta,2014,21 Sep,Sunday,Independence Day,National holiday
+malta,2014,8 Dec,Monday,Feast of the Immaculate Conception,Public holiday
+malta,2014,13 Dec,Saturday,Republic Day,National holiday
+malta,2014,24 Dec,Wednesday,Christmas Eve,Observance
+malta,2014,25 Dec,Thursday,Christmas Day,Public holiday
+malta,2014,26 Dec,Friday,Boxing Day,Observance
+malta,2014,26 Dec,Friday,Bank Holiday,Bank holiday
+malta,2014,31 Dec,Wednesday,New Year's Eve,Observance
+malta,2015,1 Jan,Thursday,New Year's Day,Public holiday
+malta,2015,10 Feb,Tuesday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2015,19 Mar,Thursday,Feast of Saint Joseph,Public holiday
+malta,2015,31 Mar,Tuesday,Freedom Day,National holiday
+malta,2015,3 Apr,Friday,Good Friday,Public holiday
+malta,2015,5 Apr,Sunday,Easter Sunday,Observance
+malta,2015,6 Apr,Monday,Easter Monday,Observance
+malta,2015,6 Apr,Monday,Bank Holiday,Bank holiday
+malta,2015,1 May,Friday,Labour Day/May Day,Public holiday
+malta,2015,10 May,Sunday,Mothers' Day,Observance
+malta,2015,7 Jun,Sunday,Sette Giugno,National holiday
+malta,2015,21 Jun,Sunday,Fathers' Day,Observance
+malta,2015,29 Jun,Monday,Feast of Saints Peter and Paul,Public holiday
+malta,2015,15 Aug,Saturday,The Feast of Mary's Assumption,Public holiday
+malta,2015,8 Sep,Tuesday,The Feast of Our Lady of Victories,National holiday
+malta,2015,21 Sep,Monday,Independence Day,National holiday
+malta,2015,8 Dec,Tuesday,Feast of the Immaculate Conception,Public holiday
+malta,2015,13 Dec,Sunday,Republic Day,National holiday
+malta,2015,24 Dec,Thursday,Christmas Eve,Observance
+malta,2015,25 Dec,Friday,Christmas Day,Public holiday
+malta,2015,26 Dec,Saturday,Boxing Day,Observance
+malta,2015,26 Dec,Saturday,Bank Holiday,Bank holiday
+malta,2015,31 Dec,Thursday,New Year's Eve,Observance
+malta,2016,1 Jan,Friday,New Year's Day,Public holiday
+malta,2016,10 Feb,Wednesday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2016,19 Mar,Saturday,Feast of Saint Joseph,Public holiday
+malta,2016,25 Mar,Friday,Good Friday,Public holiday
+malta,2016,27 Mar,Sunday,Easter Sunday,Observance
+malta,2016,28 Mar,Monday,Easter Monday,Observance
+malta,2016,28 Mar,Monday,Bank Holiday,Bank holiday
+malta,2016,31 Mar,Thursday,Freedom Day,National holiday
+malta,2016,1 May,Sunday,Labour Day/May Day,Public holiday
+malta,2016,8 May,Sunday,Mothers' Day,Observance
+malta,2016,7 Jun,Tuesday,Sette Giugno,National holiday
+malta,2016,19 Jun,Sunday,Fathers' Day,Observance
+malta,2016,29 Jun,Wednesday,Feast of Saints Peter and Paul,Public holiday
+malta,2016,15 Aug,Monday,The Feast of Mary's Assumption,Public holiday
+malta,2016,8 Sep,Thursday,The Feast of Our Lady of Victories,National holiday
+malta,2016,21 Sep,Wednesday,Independence Day,National holiday
+malta,2016,8 Dec,Thursday,Feast of the Immaculate Conception,Public holiday
+malta,2016,13 Dec,Tuesday,Republic Day,National holiday
+malta,2016,24 Dec,Saturday,Christmas Eve,Observance
+malta,2016,25 Dec,Sunday,Christmas Day,Public holiday
+malta,2016,26 Dec,Monday,Boxing Day,Observance
+malta,2016,26 Dec,Monday,Bank Holiday,Bank holiday
+malta,2016,31 Dec,Saturday,New Year's Eve,Observance
+malta,2017,1 Jan,Sunday,New Year's Day,Public holiday
+malta,2017,10 Feb,Friday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2017,19 Mar,Sunday,Feast of Saint Joseph,Public holiday
+malta,2017,31 Mar,Friday,Freedom Day,National holiday
+malta,2017,14 Apr,Friday,Good Friday,Public holiday
+malta,2017,16 Apr,Sunday,Easter Sunday,Observance
+malta,2017,17 Apr,Monday,Easter Monday,Observance
+malta,2017,17 Apr,Monday,Bank Holiday,Bank holiday
+malta,2017,1 May,Monday,Labour Day/May Day,Public holiday
+malta,2017,14 May,Sunday,Mothers' Day,Observance
+malta,2017,7 Jun,Wednesday,Sette Giugno,National holiday
+malta,2017,18 Jun,Sunday,Fathers' Day,Observance
+malta,2017,29 Jun,Thursday,Feast of Saints Peter and Paul,Public holiday
+malta,2017,15 Aug,Tuesday,The Feast of Mary's Assumption,Public holiday
+malta,2017,8 Sep,Friday,The Feast of Our Lady of Victories,National holiday
+malta,2017,21 Sep,Thursday,Independence Day,National holiday
+malta,2017,8 Dec,Friday,Feast of the Immaculate Conception,Public holiday
+malta,2017,13 Dec,Wednesday,Republic Day,National holiday
+malta,2017,24 Dec,Sunday,Christmas Eve,Observance
+malta,2017,25 Dec,Monday,Christmas Day,Public holiday
+malta,2017,26 Dec,Tuesday,Boxing Day,Observance
+malta,2017,26 Dec,Tuesday,Bank Holiday,Bank holiday
+malta,2017,31 Dec,Sunday,New Year's Eve,Observance
+malta,2018,1 Jan,Monday,New Year's Day,Public holiday
+malta,2018,10 Feb,Saturday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2018,19 Mar,Monday,Feast of Saint Joseph,Public holiday
+malta,2018,30 Mar,Friday,Good Friday,Public holiday
+malta,2018,31 Mar,Saturday,Freedom Day,National holiday
+malta,2018,1 Apr,Sunday,Easter Sunday,Observance
+malta,2018,2 Apr,Monday,Easter Monday,Observance
+malta,2018,2 Apr,Monday,Bank Holiday,Bank holiday
+malta,2018,1 May,Tuesday,Labour Day/May Day,Public holiday
+malta,2018,13 May,Sunday,Mothers' Day,Observance
+malta,2018,7 Jun,Thursday,Sette Giugno,National holiday
+malta,2018,17 Jun,Sunday,Fathers' Day,Observance
+malta,2018,29 Jun,Friday,Feast of Saints Peter and Paul,Public holiday
+malta,2018,15 Aug,Wednesday,The Feast of Mary's Assumption,Public holiday
+malta,2018,8 Sep,Saturday,The Feast of Our Lady of Victories,National holiday
+malta,2018,21 Sep,Friday,Independence Day,National holiday
+malta,2018,8 Dec,Saturday,Feast of the Immaculate Conception,Public holiday
+malta,2018,13 Dec,Thursday,Republic Day,National holiday
+malta,2018,24 Dec,Monday,Christmas Eve,Observance
+malta,2018,25 Dec,Tuesday,Christmas Day,Public holiday
+malta,2018,26 Dec,Wednesday,Boxing Day,Observance
+malta,2018,26 Dec,Wednesday,Bank Holiday,Bank holiday
+malta,2018,31 Dec,Monday,New Year's Eve,Observance
+malta,2019,1 Jan,Tuesday,New Year's Day,Public holiday
+malta,2019,10 Feb,Sunday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2019,19 Mar,Tuesday,Feast of Saint Joseph,Public holiday
+malta,2019,31 Mar,Sunday,Freedom Day,National holiday
+malta,2019,19 Apr,Friday,Good Friday,Public holiday
+malta,2019,21 Apr,Sunday,Easter Sunday,Observance
+malta,2019,22 Apr,Monday,Easter Monday,Observance
+malta,2019,22 Apr,Monday,Bank Holiday,Bank holiday
+malta,2019,1 May,Wednesday,Labour Day/May Day,Public holiday
+malta,2019,12 May,Sunday,Mothers' Day,Observance
+malta,2019,7 Jun,Friday,Sette Giugno,National holiday
+malta,2019,16 Jun,Sunday,Fathers' Day,Observance
+malta,2019,29 Jun,Saturday,Feast of Saints Peter and Paul,Public holiday
+malta,2019,15 Aug,Thursday,The Feast of Mary's Assumption,Public holiday
+malta,2019,8 Sep,Sunday,The Feast of Our Lady of Victories,National holiday
+malta,2019,21 Sep,Saturday,Independence Day,National holiday
+malta,2019,8 Dec,Sunday,Feast of the Immaculate Conception,Public holiday
+malta,2019,13 Dec,Friday,Republic Day,National holiday
+malta,2019,24 Dec,Tuesday,Christmas Eve,Observance
+malta,2019,25 Dec,Wednesday,Christmas Day,Public holiday
+malta,2019,26 Dec,Thursday,Boxing Day,Observance
+malta,2019,26 Dec,Thursday,Bank Holiday,Bank holiday
+malta,2019,31 Dec,Tuesday,New Year's Eve,Observance
+malta,2020,1 Jan,Wednesday,New Year's Day,Public holiday
+malta,2020,10 Feb,Monday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2020,19 Mar,Thursday,Feast of Saint Joseph,Public holiday
+malta,2020,31 Mar,Tuesday,Freedom Day,National holiday
+malta,2020,10 Apr,Friday,Good Friday,Public holiday
+malta,2020,12 Apr,Sunday,Easter Sunday,Observance
+malta,2020,13 Apr,Monday,Easter Monday,Observance
+malta,2020,13 Apr,Monday,Bank Holiday,Bank holiday
+malta,2020,1 May,Friday,Labour Day/May Day,Public holiday
+malta,2020,10 May,Sunday,Mothers' Day,Observance
+malta,2020,7 Jun,Sunday,Sette Giugno,National holiday
+malta,2020,21 Jun,Sunday,Fathers' Day,Observance
+malta,2020,29 Jun,Monday,Feast of Saints Peter and Paul,Public holiday
+malta,2020,15 Aug,Saturday,The Feast of Mary's Assumption,Public holiday
+malta,2020,8 Sep,Tuesday,The Feast of Our Lady of Victories,National holiday
+malta,2020,21 Sep,Monday,Independence Day,National holiday
+malta,2020,8 Dec,Tuesday,Feast of the Immaculate Conception,Public holiday
+malta,2020,13 Dec,Sunday,Republic Day,National holiday
+malta,2020,24 Dec,Thursday,Christmas Eve,Observance
+malta,2020,25 Dec,Friday,Christmas Day,Public holiday
+malta,2020,26 Dec,Saturday,Boxing Day,Observance
+malta,2020,26 Dec,Saturday,Bank Holiday,Bank holiday
+malta,2020,31 Dec,Thursday,New Year's Eve,Observance
+malta,2021,1 Jan,Friday,New Year's Day,Public holiday
+malta,2021,10 Feb,Wednesday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2021,19 Mar,Friday,Feast of Saint Joseph,Public holiday
+malta,2021,31 Mar,Wednesday,Freedom Day,National holiday
+malta,2021,2 Apr,Friday,Good Friday,Public holiday
+malta,2021,4 Apr,Sunday,Easter Sunday,Observance
+malta,2021,5 Apr,Monday,Easter Monday,Observance
+malta,2021,5 Apr,Monday,Bank Holiday,Bank holiday
+malta,2021,1 May,Saturday,Labour Day/May Day,Public holiday
+malta,2021,9 May,Sunday,Mothers' Day,Observance
+malta,2021,7 Jun,Monday,Sette Giugno,National holiday
+malta,2021,20 Jun,Sunday,Fathers' Day,Observance
+malta,2021,29 Jun,Tuesday,Feast of Saints Peter and Paul,Public holiday
+malta,2021,15 Aug,Sunday,The Feast of Mary's Assumption,Public holiday
+malta,2021,8 Sep,Wednesday,The Feast of Our Lady of Victories,National holiday
+malta,2021,21 Sep,Tuesday,Independence Day,National holiday
+malta,2021,8 Dec,Wednesday,Feast of the Immaculate Conception,Public holiday
+malta,2021,13 Dec,Monday,Republic Day,National holiday
+malta,2021,24 Dec,Friday,Christmas Eve,Observance
+malta,2021,25 Dec,Saturday,Christmas Day,Public holiday
+malta,2021,26 Dec,Sunday,Boxing Day,Observance
+malta,2021,31 Dec,Friday,New Year's Eve,Observance
+malta,2022,1 Jan,Saturday,New Year's Day,Public holiday
+malta,2022,10 Feb,Thursday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2022,19 Mar,Saturday,Feast of Saint Joseph,Public holiday
+malta,2022,31 Mar,Thursday,Freedom Day,National holiday
+malta,2022,15 Apr,Friday,Good Friday,Public holiday
+malta,2022,17 Apr,Sunday,Easter Sunday,Observance
+malta,2022,18 Apr,Monday,Easter Monday,Observance
+malta,2022,18 Apr,Monday,Bank Holiday,Bank holiday
+malta,2022,1 May,Sunday,Labour Day/May Day,Public holiday
+malta,2022,8 May,Sunday,Mothers' Day,Observance
+malta,2022,7 Jun,Tuesday,Sette Giugno,National holiday
+malta,2022,19 Jun,Sunday,Fathers' Day,Observance
+malta,2022,29 Jun,Wednesday,Feast of Saints Peter and Paul,Public holiday
+malta,2022,15 Aug,Monday,The Feast of Mary's Assumption,Public holiday
+malta,2022,8 Sep,Thursday,The Feast of Our Lady of Victories,National holiday
+malta,2022,21 Sep,Wednesday,Independence Day,National holiday
+malta,2022,8 Dec,Thursday,Feast of the Immaculate Conception,Public holiday
+malta,2022,13 Dec,Tuesday,Republic Day,National holiday
+malta,2022,24 Dec,Saturday,Christmas Eve,Observance
+malta,2022,25 Dec,Sunday,Christmas Day,Public holiday
+malta,2022,26 Dec,Monday,Boxing Day,Observance
+malta,2022,26 Dec,Monday,Bank Holiday,Bank holiday
+malta,2022,31 Dec,Saturday,New Year's Eve,Observance
+malta,2023,1 Jan,Sunday,New Year's Day,Public holiday
+malta,2023,10 Feb,Friday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2023,19 Mar,Sunday,Feast of Saint Joseph,Public holiday
+malta,2023,31 Mar,Friday,Freedom Day,National holiday
+malta,2023,7 Apr,Friday,Good Friday,Public holiday
+malta,2023,9 Apr,Sunday,Easter Sunday,Observance
+malta,2023,10 Apr,Monday,Easter Monday,Observance
+malta,2023,10 Apr,Monday,Bank Holiday,Bank holiday
+malta,2023,1 May,Monday,Labour Day/May Day,Public holiday
+malta,2023,14 May,Sunday,Mothers' Day,Observance
+malta,2023,7 Jun,Wednesday,Sette Giugno,National holiday
+malta,2023,18 Jun,Sunday,Fathers' Day,Observance
+malta,2023,29 Jun,Thursday,Feast of Saints Peter and Paul,Public holiday
+malta,2023,15 Aug,Tuesday,The Feast of Mary's Assumption,Public holiday
+malta,2023,8 Sep,Friday,The Feast of Our Lady of Victories,National holiday
+malta,2023,21 Sep,Thursday,Independence Day,National holiday
+malta,2023,8 Dec,Friday,Feast of the Immaculate Conception,Public holiday
+malta,2023,13 Dec,Wednesday,Republic Day,National holiday
+malta,2023,24 Dec,Sunday,Christmas Eve,Observance
+malta,2023,25 Dec,Monday,Christmas Day,Public holiday
+malta,2023,26 Dec,Tuesday,Boxing Day,Observance
+malta,2023,26 Dec,Tuesday,Bank Holiday,Bank holiday
+malta,2023,31 Dec,Sunday,New Year's Eve,Observance
+malta,2024,1 Jan,Monday,New Year's Day,Public holiday
+malta,2024,10 Feb,Saturday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2024,19 Mar,Tuesday,Feast of Saint Joseph,Public holiday
+malta,2024,29 Mar,Friday,Good Friday,Public holiday
+malta,2024,31 Mar,Sunday,Freedom Day,National holiday
+malta,2024,31 Mar,Sunday,Easter Sunday,Observance
+malta,2024,1 Apr,Monday,Easter Monday,Observance
+malta,2024,1 Apr,Monday,Bank Holiday,Bank holiday
+malta,2024,1 May,Wednesday,Labour Day/May Day,Public holiday
+malta,2024,12 May,Sunday,Mothers' Day,Observance
+malta,2024,7 Jun,Friday,Sette Giugno,National holiday
+malta,2024,16 Jun,Sunday,Fathers' Day,Observance
+malta,2024,29 Jun,Saturday,Feast of Saints Peter and Paul,Public holiday
+malta,2024,15 Aug,Thursday,The Feast of Mary's Assumption,Public holiday
+malta,2024,8 Sep,Sunday,The Feast of Our Lady of Victories,National holiday
+malta,2024,21 Sep,Saturday,Independence Day,National holiday
+malta,2024,8 Dec,Sunday,Feast of the Immaculate Conception,Public holiday
+malta,2024,13 Dec,Friday,Republic Day,National holiday
+malta,2024,24 Dec,Tuesday,Christmas Eve,Observance
+malta,2024,25 Dec,Wednesday,Christmas Day,Public holiday
+malta,2024,26 Dec,Thursday,Boxing Day,Observance
+malta,2024,26 Dec,Thursday,Bank Holiday,Bank holiday
+malta,2024,31 Dec,Tuesday,New Year's Eve,Observance
+malta,2025,1 Jan,Wednesday,New Year's Day,Public holiday
+malta,2025,10 Feb,Monday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2025,19 Mar,Wednesday,Feast of Saint Joseph,Public holiday
+malta,2025,31 Mar,Monday,Freedom Day,National holiday
+malta,2025,18 Apr,Friday,Good Friday,Public holiday
+malta,2025,20 Apr,Sunday,Easter Sunday,Observance
+malta,2025,21 Apr,Monday,Easter Monday,Observance
+malta,2025,21 Apr,Monday,Bank Holiday,Bank holiday
+malta,2025,1 May,Thursday,Labour Day/May Day,Public holiday
+malta,2025,11 May,Sunday,Mothers' Day,Observance
+malta,2025,7 Jun,Saturday,Sette Giugno,National holiday
+malta,2025,15 Jun,Sunday,Fathers' Day,Observance
+malta,2025,29 Jun,Sunday,Feast of Saints Peter and Paul,Public holiday
+malta,2025,15 Aug,Friday,The Feast of Mary's Assumption,Public holiday
+malta,2025,8 Sep,Monday,The Feast of Our Lady of Victories,National holiday
+malta,2025,21 Sep,Sunday,Independence Day,National holiday
+malta,2025,8 Dec,Monday,Feast of the Immaculate Conception,Public holiday
+malta,2025,13 Dec,Saturday,Republic Day,National holiday
+malta,2025,24 Dec,Wednesday,Christmas Eve,Observance
+malta,2025,25 Dec,Thursday,Christmas Day,Public holiday
+malta,2025,26 Dec,Friday,Boxing Day,Observance
+malta,2025,26 Dec,Friday,Bank Holiday,Bank holiday
+malta,2025,31 Dec,Wednesday,New Year's Eve,Observance
+malta,2026,1 Jan,Thursday,New Year's Day,Public holiday
+malta,2026,10 Feb,Tuesday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2026,19 Mar,Thursday,Feast of Saint Joseph,Public holiday
+malta,2026,31 Mar,Tuesday,Freedom Day,National holiday
+malta,2026,3 Apr,Friday,Good Friday,Public holiday
+malta,2026,5 Apr,Sunday,Easter Sunday,Observance
+malta,2026,6 Apr,Monday,Easter Monday,Observance
+malta,2026,6 Apr,Monday,Bank Holiday,Bank holiday
+malta,2026,1 May,Friday,Labour Day/May Day,Public holiday
+malta,2026,10 May,Sunday,Mothers' Day,Observance
+malta,2026,7 Jun,Sunday,Sette Giugno,National holiday
+malta,2026,21 Jun,Sunday,Fathers' Day,Observance
+malta,2026,29 Jun,Monday,Feast of Saints Peter and Paul,Public holiday
+malta,2026,15 Aug,Saturday,The Feast of Mary's Assumption,Public holiday
+malta,2026,8 Sep,Tuesday,The Feast of Our Lady of Victories,National holiday
+malta,2026,21 Sep,Monday,Independence Day,National holiday
+malta,2026,8 Dec,Tuesday,Feast of the Immaculate Conception,Public holiday
+malta,2026,13 Dec,Sunday,Republic Day,National holiday
+malta,2026,24 Dec,Thursday,Christmas Eve,Observance
+malta,2026,25 Dec,Friday,Christmas Day,Public holiday
+malta,2026,26 Dec,Saturday,Boxing Day,Observance
+malta,2026,26 Dec,Saturday,Bank Holiday,Bank holiday
+malta,2026,31 Dec,Thursday,New Year's Eve,Observance
+malta,2027,1 Jan,Friday,New Year's Day,Public holiday
+malta,2027,10 Feb,Wednesday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2027,19 Mar,Friday,Feast of Saint Joseph,Public holiday
+malta,2027,26 Mar,Friday,Good Friday,Public holiday
+malta,2027,28 Mar,Sunday,Easter Sunday,Observance
+malta,2027,29 Mar,Monday,Easter Monday,Observance
+malta,2027,29 Mar,Monday,Bank Holiday,Bank holiday
+malta,2027,31 Mar,Wednesday,Freedom Day,National holiday
+malta,2027,1 May,Saturday,Labour Day/May Day,Public holiday
+malta,2027,9 May,Sunday,Mothers' Day,Observance
+malta,2027,7 Jun,Monday,Sette Giugno,National holiday
+malta,2027,20 Jun,Sunday,Fathers' Day,Observance
+malta,2027,29 Jun,Tuesday,Feast of Saints Peter and Paul,Public holiday
+malta,2027,15 Aug,Sunday,The Feast of Mary's Assumption,Public holiday
+malta,2027,8 Sep,Wednesday,The Feast of Our Lady of Victories,National holiday
+malta,2027,21 Sep,Tuesday,Independence Day,National holiday
+malta,2027,8 Dec,Wednesday,Feast of the Immaculate Conception,Public holiday
+malta,2027,13 Dec,Monday,Republic Day,National holiday
+malta,2027,24 Dec,Friday,Christmas Eve,Observance
+malta,2027,25 Dec,Saturday,Christmas Day,Public holiday
+malta,2027,26 Dec,Sunday,Boxing Day,Observance
+malta,2027,26 Dec,Sunday,Bank Holiday,Bank holiday
+malta,2027,31 Dec,Friday,New Year's Eve,Observance
+malta,2028,1 Jan,Saturday,New Year's Day,Public holiday
+malta,2028,10 Feb,Thursday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2028,19 Mar,Sunday,Feast of Saint Joseph,Public holiday
+malta,2028,31 Mar,Friday,Freedom Day,National holiday
+malta,2028,14 Apr,Friday,Good Friday,Public holiday
+malta,2028,16 Apr,Sunday,Easter Sunday,Observance
+malta,2028,17 Apr,Monday,Easter Monday,Observance
+malta,2028,17 Apr,Monday,Bank Holiday,Bank holiday
+malta,2028,1 May,Monday,Labour Day/May Day,Public holiday
+malta,2028,14 May,Sunday,Mothers' Day,Observance
+malta,2028,7 Jun,Wednesday,Sette Giugno,National holiday
+malta,2028,18 Jun,Sunday,Fathers' Day,Observance
+malta,2028,29 Jun,Thursday,Feast of Saints Peter and Paul,Public holiday
+malta,2028,15 Aug,Tuesday,The Feast of Mary's Assumption,Public holiday
+malta,2028,8 Sep,Friday,The Feast of Our Lady of Victories,National holiday
+malta,2028,21 Sep,Thursday,Independence Day,National holiday
+malta,2028,8 Dec,Friday,Feast of the Immaculate Conception,Public holiday
+malta,2028,13 Dec,Wednesday,Republic Day,National holiday
+malta,2028,24 Dec,Sunday,Christmas Eve,Observance
+malta,2028,25 Dec,Monday,Christmas Day,Public holiday
+malta,2028,26 Dec,Tuesday,Boxing Day,Observance
+malta,2028,26 Dec,Tuesday,Bank Holiday,Bank holiday
+malta,2028,31 Dec,Sunday,New Year's Eve,Observance
+malta,2029,1 Jan,Monday,New Year's Day,Public holiday
+malta,2029,10 Feb,Saturday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2029,19 Mar,Monday,Feast of Saint Joseph,Public holiday
+malta,2029,30 Mar,Friday,Good Friday,Public holiday
+malta,2029,31 Mar,Saturday,Freedom Day,National holiday
+malta,2029,1 Apr,Sunday,Easter Sunday,Observance
+malta,2029,2 Apr,Monday,Easter Monday,Observance
+malta,2029,2 Apr,Monday,Bank Holiday,Bank holiday
+malta,2029,1 May,Tuesday,Labour Day/May Day,Public holiday
+malta,2029,13 May,Sunday,Mothers' Day,Observance
+malta,2029,7 Jun,Thursday,Sette Giugno,National holiday
+malta,2029,17 Jun,Sunday,Fathers' Day,Observance
+malta,2029,29 Jun,Friday,Feast of Saints Peter and Paul,Public holiday
+malta,2029,15 Aug,Wednesday,The Feast of Mary's Assumption,Public holiday
+malta,2029,8 Sep,Saturday,The Feast of Our Lady of Victories,National holiday
+malta,2029,21 Sep,Friday,Independence Day,National holiday
+malta,2029,8 Dec,Saturday,Feast of the Immaculate Conception,Public holiday
+malta,2029,13 Dec,Thursday,Republic Day,National holiday
+malta,2029,24 Dec,Monday,Christmas Eve,Observance
+malta,2029,25 Dec,Tuesday,Christmas Day,Public holiday
+malta,2029,26 Dec,Wednesday,Boxing Day,Observance
+malta,2029,26 Dec,Wednesday,Bank Holiday,Bank holiday
+malta,2029,31 Dec,Monday,New Year's Eve,Observance
+malta,2030,1 Jan,Tuesday,New Year's Day,Public holiday
+malta,2030,10 Feb,Sunday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2030,19 Mar,Tuesday,Feast of Saint Joseph,Public holiday
+malta,2030,31 Mar,Sunday,Freedom Day,National holiday
+malta,2030,19 Apr,Friday,Good Friday,Public holiday
+malta,2030,21 Apr,Sunday,Easter Sunday,Observance
+malta,2030,22 Apr,Monday,Easter Monday,Observance
+malta,2030,22 Apr,Monday,Bank Holiday,Bank holiday
+malta,2030,1 May,Wednesday,Labour Day/May Day,Public holiday
+malta,2030,12 May,Sunday,Mothers' Day,Observance
+malta,2030,7 Jun,Friday,Sette Giugno,National holiday
+malta,2030,16 Jun,Sunday,Fathers' Day,Observance
+malta,2030,29 Jun,Saturday,Feast of Saints Peter and Paul,Public holiday
+malta,2030,15 Aug,Thursday,The Feast of Mary's Assumption,Public holiday
+malta,2030,8 Sep,Sunday,The Feast of Our Lady of Victories,National holiday
+malta,2030,21 Sep,Saturday,Independence Day,National holiday
+malta,2030,8 Dec,Sunday,Feast of the Immaculate Conception,Public holiday
+malta,2030,13 Dec,Friday,Republic Day,National holiday
+malta,2030,24 Dec,Tuesday,Christmas Eve,Observance
+malta,2030,25 Dec,Wednesday,Christmas Day,Public holiday
+malta,2030,26 Dec,Thursday,Boxing Day,Observance
+malta,2030,26 Dec,Thursday,Bank Holiday,Bank holiday
+malta,2030,31 Dec,Tuesday,New Year's Eve,Observance
+malta,2031,1 Jan,Wednesday,New Year's Day,Public holiday
+malta,2031,10 Feb,Monday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2031,19 Mar,Wednesday,Feast of Saint Joseph,Public holiday
+malta,2031,31 Mar,Monday,Freedom Day,National holiday
+malta,2031,11 Apr,Friday,Good Friday,Public holiday
+malta,2031,13 Apr,Sunday,Easter Sunday,Observance
+malta,2031,14 Apr,Monday,Easter Monday,Observance
+malta,2031,14 Apr,Monday,Bank Holiday,Bank holiday
+malta,2031,1 May,Thursday,Labour Day/May Day,Public holiday
+malta,2031,11 May,Sunday,Mothers' Day,Observance
+malta,2031,7 Jun,Saturday,Sette Giugno,National holiday
+malta,2031,15 Jun,Sunday,Fathers' Day,Observance
+malta,2031,29 Jun,Sunday,Feast of Saints Peter and Paul,Public holiday
+malta,2031,15 Aug,Friday,The Feast of Mary's Assumption,Public holiday
+malta,2031,8 Sep,Monday,The Feast of Our Lady of Victories,National holiday
+malta,2031,21 Sep,Sunday,Independence Day,National holiday
+malta,2031,8 Dec,Monday,Feast of the Immaculate Conception,Public holiday
+malta,2031,13 Dec,Saturday,Republic Day,National holiday
+malta,2031,24 Dec,Wednesday,Christmas Eve,Observance
+malta,2031,25 Dec,Thursday,Christmas Day,Public holiday
+malta,2031,26 Dec,Friday,Boxing Day,Observance
+malta,2031,26 Dec,Friday,Bank Holiday,Bank holiday
+malta,2031,31 Dec,Wednesday,New Year's Eve,Observance
+malta,2032,1 Jan,Thursday,New Year's Day,Public holiday
+malta,2032,10 Feb,Tuesday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2032,19 Mar,Friday,Feast of Saint Joseph,Public holiday
+malta,2032,26 Mar,Friday,Good Friday,Public holiday
+malta,2032,28 Mar,Sunday,Easter Sunday,Observance
+malta,2032,29 Mar,Monday,Easter Monday,Observance
+malta,2032,29 Mar,Monday,Bank Holiday,Bank holiday
+malta,2032,31 Mar,Wednesday,Freedom Day,National holiday
+malta,2032,1 May,Saturday,Labour Day/May Day,Public holiday
+malta,2032,9 May,Sunday,Mothers' Day,Observance
+malta,2032,7 Jun,Monday,Sette Giugno,National holiday
+malta,2032,20 Jun,Sunday,Fathers' Day,Observance
+malta,2032,29 Jun,Tuesday,Feast of Saints Peter and Paul,Public holiday
+malta,2032,15 Aug,Sunday,The Feast of Mary's Assumption,Public holiday
+malta,2032,8 Sep,Wednesday,The Feast of Our Lady of Victories,National holiday
+malta,2032,21 Sep,Tuesday,Independence Day,National holiday
+malta,2032,8 Dec,Wednesday,Feast of the Immaculate Conception,Public holiday
+malta,2032,13 Dec,Monday,Republic Day,National holiday
+malta,2032,24 Dec,Friday,Christmas Eve,Observance
+malta,2032,25 Dec,Saturday,Christmas Day,Public holiday
+malta,2032,26 Dec,Sunday,Boxing Day,Observance
+malta,2032,26 Dec,Sunday,Bank Holiday,Bank holiday
+malta,2032,31 Dec,Friday,New Year's Eve,Observance
+malta,2033,1 Jan,Saturday,New Year's Day,Public holiday
+malta,2033,10 Feb,Thursday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2033,19 Mar,Saturday,Feast of Saint Joseph,Public holiday
+malta,2033,31 Mar,Thursday,Freedom Day,National holiday
+malta,2033,15 Apr,Friday,Good Friday,Public holiday
+malta,2033,17 Apr,Sunday,Easter Sunday,Observance
+malta,2033,18 Apr,Monday,Easter Monday,Observance
+malta,2033,18 Apr,Monday,Bank Holiday,Bank holiday
+malta,2033,1 May,Sunday,Labour Day/May Day,Public holiday
+malta,2033,8 May,Sunday,Mothers' Day,Observance
+malta,2033,7 Jun,Tuesday,Sette Giugno,National holiday
+malta,2033,19 Jun,Sunday,Fathers' Day,Observance
+malta,2033,29 Jun,Wednesday,Feast of Saints Peter and Paul,Public holiday
+malta,2033,15 Aug,Monday,The Feast of Mary's Assumption,Public holiday
+malta,2033,8 Sep,Thursday,The Feast of Our Lady of Victories,National holiday
+malta,2033,21 Sep,Wednesday,Independence Day,National holiday
+malta,2033,8 Dec,Thursday,Feast of the Immaculate Conception,Public holiday
+malta,2033,13 Dec,Tuesday,Republic Day,National holiday
+malta,2033,24 Dec,Saturday,Christmas Eve,Observance
+malta,2033,25 Dec,Sunday,Christmas Day,Public holiday
+malta,2033,26 Dec,Monday,Boxing Day,Observance
+malta,2033,26 Dec,Monday,Bank Holiday,Bank holiday
+malta,2033,31 Dec,Saturday,New Year's Eve,Observance
+malta,2034,1 Jan,Sunday,New Year's Day,Public holiday
+malta,2034,10 Feb,Friday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2034,19 Mar,Sunday,Feast of Saint Joseph,Public holiday
+malta,2034,31 Mar,Friday,Freedom Day,National holiday
+malta,2034,7 Apr,Friday,Good Friday,Public holiday
+malta,2034,9 Apr,Sunday,Easter Sunday,Observance
+malta,2034,10 Apr,Monday,Easter Monday,Observance
+malta,2034,10 Apr,Monday,Bank Holiday,Bank holiday
+malta,2034,1 May,Monday,Labour Day/May Day,Public holiday
+malta,2034,14 May,Sunday,Mothers' Day,Observance
+malta,2034,7 Jun,Wednesday,Sette Giugno,National holiday
+malta,2034,18 Jun,Sunday,Fathers' Day,Observance
+malta,2034,29 Jun,Thursday,Feast of Saints Peter and Paul,Public holiday
+malta,2034,15 Aug,Tuesday,The Feast of Mary's Assumption,Public holiday
+malta,2034,8 Sep,Friday,The Feast of Our Lady of Victories,National holiday
+malta,2034,21 Sep,Thursday,Independence Day,National holiday
+malta,2034,8 Dec,Friday,Feast of the Immaculate Conception,Public holiday
+malta,2034,13 Dec,Wednesday,Republic Day,National holiday
+malta,2034,24 Dec,Sunday,Christmas Eve,Observance
+malta,2034,25 Dec,Monday,Christmas Day,Public holiday
+malta,2034,26 Dec,Tuesday,Boxing Day,Observance
+malta,2034,26 Dec,Tuesday,Bank Holiday,Bank holiday
+malta,2034,31 Dec,Sunday,New Year's Eve,Observance
+malta,2035,1 Jan,Monday,New Year's Day,Public holiday
+malta,2035,10 Feb,Saturday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2035,19 Mar,Monday,Feast of Saint Joseph,Public holiday
+malta,2035,23 Mar,Friday,Good Friday,Public holiday
+malta,2035,25 Mar,Sunday,Easter Sunday,Observance
+malta,2035,26 Mar,Monday,Easter Monday,Observance
+malta,2035,26 Mar,Monday,Bank Holiday,Bank holiday
+malta,2035,31 Mar,Saturday,Freedom Day,National holiday
+malta,2035,1 May,Tuesday,Labour Day/May Day,Public holiday
+malta,2035,13 May,Sunday,Mothers' Day,Observance
+malta,2035,7 Jun,Thursday,Sette Giugno,National holiday
+malta,2035,17 Jun,Sunday,Fathers' Day,Observance
+malta,2035,29 Jun,Friday,Feast of Saints Peter and Paul,Public holiday
+malta,2035,15 Aug,Wednesday,The Feast of Mary's Assumption,Public holiday
+malta,2035,8 Sep,Saturday,The Feast of Our Lady of Victories,National holiday
+malta,2035,21 Sep,Friday,Independence Day,National holiday
+malta,2035,8 Dec,Saturday,Feast of the Immaculate Conception,Public holiday
+malta,2035,13 Dec,Thursday,Republic Day,National holiday
+malta,2035,24 Dec,Monday,Christmas Eve,Observance
+malta,2035,25 Dec,Tuesday,Christmas Day,Public holiday
+malta,2035,26 Dec,Wednesday,Boxing Day,Observance
+malta,2035,26 Dec,Wednesday,Bank Holiday,Bank holiday
+malta,2035,31 Dec,Monday,New Year's Eve,Observance
+malta,2036,1 Jan,Tuesday,New Year's Day,Public holiday
+malta,2036,10 Feb,Sunday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2036,19 Mar,Wednesday,Feast of Saint Joseph,Public holiday
+malta,2036,31 Mar,Monday,Freedom Day,National holiday
+malta,2036,11 Apr,Friday,Good Friday,Public holiday
+malta,2036,13 Apr,Sunday,Easter Sunday,Observance
+malta,2036,14 Apr,Monday,Easter Monday,Observance
+malta,2036,14 Apr,Monday,Bank Holiday,Bank holiday
+malta,2036,1 May,Thursday,Labour Day/May Day,Public holiday
+malta,2036,11 May,Sunday,Mothers' Day,Observance
+malta,2036,7 Jun,Saturday,Sette Giugno,National holiday
+malta,2036,15 Jun,Sunday,Fathers' Day,Observance
+malta,2036,29 Jun,Sunday,Feast of Saints Peter and Paul,Public holiday
+malta,2036,15 Aug,Friday,The Feast of Mary's Assumption,Public holiday
+malta,2036,8 Sep,Monday,The Feast of Our Lady of Victories,National holiday
+malta,2036,21 Sep,Sunday,Independence Day,National holiday
+malta,2036,8 Dec,Monday,Feast of the Immaculate Conception,Public holiday
+malta,2036,13 Dec,Saturday,Republic Day,National holiday
+malta,2036,24 Dec,Wednesday,Christmas Eve,Observance
+malta,2036,25 Dec,Thursday,Christmas Day,Public holiday
+malta,2036,26 Dec,Friday,Boxing Day,Observance
+malta,2036,26 Dec,Friday,Bank Holiday,Bank holiday
+malta,2036,31 Dec,Wednesday,New Year's Eve,Observance
+malta,2037,1 Jan,Thursday,New Year's Day,Public holiday
+malta,2037,10 Feb,Tuesday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2037,19 Mar,Thursday,Feast of Saint Joseph,Public holiday
+malta,2037,31 Mar,Tuesday,Freedom Day,National holiday
+malta,2037,3 Apr,Friday,Good Friday,Public holiday
+malta,2037,5 Apr,Sunday,Easter Sunday,Observance
+malta,2037,6 Apr,Monday,Easter Monday,Observance
+malta,2037,6 Apr,Monday,Bank Holiday,Bank holiday
+malta,2037,1 May,Friday,Labour Day/May Day,Public holiday
+malta,2037,10 May,Sunday,Mothers' Day,Observance
+malta,2037,7 Jun,Sunday,Sette Giugno,National holiday
+malta,2037,21 Jun,Sunday,Fathers' Day,Observance
+malta,2037,29 Jun,Monday,Feast of Saints Peter and Paul,Public holiday
+malta,2037,15 Aug,Saturday,The Feast of Mary's Assumption,Public holiday
+malta,2037,8 Sep,Tuesday,The Feast of Our Lady of Victories,National holiday
+malta,2037,21 Sep,Monday,Independence Day,National holiday
+malta,2037,8 Dec,Tuesday,Feast of the Immaculate Conception,Public holiday
+malta,2037,13 Dec,Sunday,Republic Day,National holiday
+malta,2037,24 Dec,Thursday,Christmas Eve,Observance
+malta,2037,25 Dec,Friday,Christmas Day,Public holiday
+malta,2037,26 Dec,Saturday,Boxing Day,Observance
+malta,2037,26 Dec,Saturday,Bank Holiday,Bank holiday
+malta,2037,31 Dec,Thursday,New Year's Eve,Observance
+malta,2038,1 Jan,Friday,New Year's Day,Public holiday
+malta,2038,10 Feb,Wednesday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2038,19 Mar,Friday,Feast of Saint Joseph,Public holiday
+malta,2038,31 Mar,Wednesday,Freedom Day,National holiday
+malta,2038,23 Apr,Friday,Good Friday,Public holiday
+malta,2038,25 Apr,Sunday,Easter Sunday,Observance
+malta,2038,26 Apr,Monday,Easter Monday,Observance
+malta,2038,26 Apr,Monday,Bank Holiday,Bank holiday
+malta,2038,1 May,Saturday,Labour Day/May Day,Public holiday
+malta,2038,9 May,Sunday,Mothers' Day,Observance
+malta,2038,7 Jun,Monday,Sette Giugno,National holiday
+malta,2038,20 Jun,Sunday,Fathers' Day,Observance
+malta,2038,29 Jun,Tuesday,Feast of Saints Peter and Paul,Public holiday
+malta,2038,15 Aug,Sunday,The Feast of Mary's Assumption,Public holiday
+malta,2038,8 Sep,Wednesday,The Feast of Our Lady of Victories,National holiday
+malta,2038,21 Sep,Tuesday,Independence Day,National holiday
+malta,2038,8 Dec,Wednesday,Feast of the Immaculate Conception,Public holiday
+malta,2038,13 Dec,Monday,Republic Day,National holiday
+malta,2038,24 Dec,Friday,Christmas Eve,Observance
+malta,2038,25 Dec,Saturday,Christmas Day,Public holiday
+malta,2038,26 Dec,Sunday,Boxing Day,Observance
+malta,2038,26 Dec,Sunday,Bank Holiday,Bank holiday
+malta,2038,31 Dec,Friday,New Year's Eve,Observance
+malta,2039,1 Jan,Saturday,New Year's Day,Public holiday
+malta,2039,10 Feb,Thursday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2039,19 Mar,Saturday,Feast of Saint Joseph,Public holiday
+malta,2039,31 Mar,Thursday,Freedom Day,National holiday
+malta,2039,8 Apr,Friday,Good Friday,Public holiday
+malta,2039,10 Apr,Sunday,Easter Sunday,Observance
+malta,2039,11 Apr,Monday,Easter Monday,Observance
+malta,2039,11 Apr,Monday,Bank Holiday,Bank holiday
+malta,2039,1 May,Sunday,Labour Day/May Day,Public holiday
+malta,2039,8 May,Sunday,Mothers' Day,Observance
+malta,2039,7 Jun,Tuesday,Sette Giugno,National holiday
+malta,2039,19 Jun,Sunday,Fathers' Day,Observance
+malta,2039,29 Jun,Wednesday,Feast of Saints Peter and Paul,Public holiday
+malta,2039,15 Aug,Monday,The Feast of Mary's Assumption,Public holiday
+malta,2039,8 Sep,Thursday,The Feast of Our Lady of Victories,National holiday
+malta,2039,21 Sep,Wednesday,Independence Day,National holiday
+malta,2039,8 Dec,Thursday,Feast of the Immaculate Conception,Public holiday
+malta,2039,13 Dec,Tuesday,Republic Day,National holiday
+malta,2039,24 Dec,Saturday,Christmas Eve,Observance
+malta,2039,25 Dec,Sunday,Christmas Day,Public holiday
+malta,2039,26 Dec,Monday,Boxing Day,Observance
+malta,2039,26 Dec,Monday,Bank Holiday,Bank holiday
+malta,2039,31 Dec,Saturday,New Year's Eve,Observance
+malta,2040,1 Jan,Sunday,New Year's Day,Public holiday
+malta,2040,10 Feb,Friday,Feast of Saint Paul's Shipwreck,Public holiday
+malta,2040,19 Mar,Monday,Feast of Saint Joseph,Public holiday
+malta,2040,30 Mar,Friday,Good Friday,Public holiday
+malta,2040,31 Mar,Saturday,Freedom Day,National holiday
+malta,2040,1 Apr,Sunday,Easter Sunday,Observance
+malta,2040,2 Apr,Monday,Easter Monday,Observance
+malta,2040,2 Apr,Monday,Bank Holiday,Bank holiday
+malta,2040,1 May,Tuesday,Labour Day/May Day,Public holiday
+malta,2040,13 May,Sunday,Mothers' Day,Observance
+malta,2040,7 Jun,Thursday,Sette Giugno,National holiday
+malta,2040,17 Jun,Sunday,Fathers' Day,Observance
+malta,2040,29 Jun,Friday,Feast of Saints Peter and Paul,Public holiday
+malta,2040,15 Aug,Wednesday,The Feast of Mary's Assumption,Public holiday
+malta,2040,8 Sep,Saturday,The Feast of Our Lady of Victories,National holiday
+malta,2040,21 Sep,Friday,Independence Day,National holiday
+malta,2040,8 Dec,Saturday,Feast of the Immaculate Conception,Public holiday
+malta,2040,13 Dec,Thursday,Republic Day,National holiday
+malta,2040,24 Dec,Monday,Christmas Eve,Observance
+malta,2040,25 Dec,Tuesday,Christmas Day,Public holiday
+malta,2040,26 Dec,Wednesday,Boxing Day,Observance
+malta,2040,26 Dec,Wednesday,Bank Holiday,Bank holiday
+malta,2040,31 Dec,Monday,New Year's Eve,Observance

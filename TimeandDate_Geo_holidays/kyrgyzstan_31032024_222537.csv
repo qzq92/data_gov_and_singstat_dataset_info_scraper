@@ -1,0 +1,920 @@
+Geo,Event Year,Date,Day,Name,Type
+kyrgyzstan,2000,1 Jan,Saturday,New Year,Public Holiday
+kyrgyzstan,2000,3 Jan,Monday,Day off for New Year,Public Holiday
+kyrgyzstan,2000,7 Jan,Friday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2000,8 Jan,Saturday,Orozo Ait,Public Holiday
+kyrgyzstan,2000,10 Jan,Monday,Day off for Orozo Ait,Public Holiday
+kyrgyzstan,2000,23 Feb,Wednesday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2000,8 Mar,Wednesday,International Women's Day,Public Holiday
+kyrgyzstan,2000,16 Mar,Thursday,Kurman Ait,Public Holiday
+kyrgyzstan,2000,20 Mar,Monday,March Equinox,Season
+kyrgyzstan,2000,21 Mar,Tuesday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2000,1 May,Monday,May Day,Public Holiday
+kyrgyzstan,2000,5 May,Friday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2000,9 May,Tuesday,Victory Day,Public Holiday
+kyrgyzstan,2000,21 Jun,Wednesday,June Solstice,Season
+kyrgyzstan,2000,31 Aug,Thursday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2000,22 Sep,Friday,September Equinox,Season
+kyrgyzstan,2000,7 Nov,Tuesday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2000,21 Dec,Thursday,December Solstice,Season
+kyrgyzstan,2000,28 Dec,Thursday,Orozo Ait,Public Holiday
+kyrgyzstan,2001,1 Jan,Monday,New Year,Public Holiday
+kyrgyzstan,2001,7 Jan,Sunday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2001,8 Jan,Monday,Day off for Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2001,23 Feb,Friday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2001,6 Mar,Tuesday,Kurman Ait,Public Holiday
+kyrgyzstan,2001,8 Mar,Thursday,International Women's Day,Public Holiday
+kyrgyzstan,2001,20 Mar,Tuesday,March Equinox,Season
+kyrgyzstan,2001,21 Mar,Wednesday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2001,1 May,Tuesday,May Day,Public Holiday
+kyrgyzstan,2001,5 May,Saturday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2001,7 May,Monday,Day off for Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2001,9 May,Wednesday,Victory Day,Public Holiday
+kyrgyzstan,2001,21 Jun,Thursday,June Solstice,Season
+kyrgyzstan,2001,31 Aug,Friday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2001,23 Sep,Sunday,September Equinox,Season
+kyrgyzstan,2001,7 Nov,Wednesday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2001,17 Dec,Monday,Orozo Ait,Public Holiday
+kyrgyzstan,2001,22 Dec,Saturday,December Solstice,Season
+kyrgyzstan,2002,1 Jan,Tuesday,New Year,Public Holiday
+kyrgyzstan,2002,7 Jan,Monday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2002,23 Feb,Saturday,Kurman Ait,Public Holiday
+kyrgyzstan,2002,23 Feb,Saturday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2002,25 Feb,Monday,Day off for Kurman Ait,Public Holiday
+kyrgyzstan,2002,25 Feb,Monday,Day off for Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2002,8 Mar,Friday,International Women's Day,Public Holiday
+kyrgyzstan,2002,21 Mar,Thursday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2002,21 Mar,Thursday,March Equinox,Season
+kyrgyzstan,2002,1 May,Wednesday,May Day,Public Holiday
+kyrgyzstan,2002,5 May,Sunday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2002,6 May,Monday,Day off for Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2002,9 May,Thursday,Victory Day,Public Holiday
+kyrgyzstan,2002,21 Jun,Friday,June Solstice,Season
+kyrgyzstan,2002,31 Aug,Saturday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2002,2 Sep,Monday,Day off for Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2002,23 Sep,Monday,September Equinox,Season
+kyrgyzstan,2002,7 Nov,Thursday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2002,6 Dec,Friday,Orozo Ait,Public Holiday
+kyrgyzstan,2002,22 Dec,Sunday,December Solstice,Season
+kyrgyzstan,2003,1 Jan,Wednesday,New Year,Public Holiday
+kyrgyzstan,2003,7 Jan,Tuesday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2003,12 Feb,Wednesday,Kurman Ait,Public Holiday
+kyrgyzstan,2003,23 Feb,Sunday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2003,24 Feb,Monday,Day off for Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2003,8 Mar,Saturday,International Women's Day,Public Holiday
+kyrgyzstan,2003,10 Mar,Monday,International Women's Day observed,Public Holiday
+kyrgyzstan,2003,21 Mar,Friday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2003,21 Mar,Friday,March Equinox,Season
+kyrgyzstan,2003,1 May,Thursday,May Day,Public Holiday
+kyrgyzstan,2003,5 May,Monday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2003,9 May,Friday,Victory Day,Public Holiday
+kyrgyzstan,2003,22 Jun,Sunday,June Solstice,Season
+kyrgyzstan,2003,31 Aug,Sunday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2003,1 Sep,Monday,Day off for Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2003,23 Sep,Tuesday,September Equinox,Season
+kyrgyzstan,2003,7 Nov,Friday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2003,26 Nov,Wednesday,Orozo Ait,Public Holiday
+kyrgyzstan,2003,22 Dec,Monday,December Solstice,Season
+kyrgyzstan,2004,1 Jan,Thursday,New Year,Public Holiday
+kyrgyzstan,2004,7 Jan,Wednesday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2004,2 Feb,Monday,Kurman Ait,Public Holiday
+kyrgyzstan,2004,23 Feb,Monday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2004,8 Mar,Monday,International Women's Day,Public Holiday
+kyrgyzstan,2004,20 Mar,Saturday,March Equinox,Season
+kyrgyzstan,2004,21 Mar,Sunday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2004,22 Mar,Monday,"National Holiday ""Nooruz"" observed",Public Holiday
+kyrgyzstan,2004,1 May,Saturday,May Day,Public Holiday
+kyrgyzstan,2004,3 May,Monday,Day off for May Day,Public Holiday
+kyrgyzstan,2004,5 May,Wednesday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2004,9 May,Sunday,Victory Day,Public Holiday
+kyrgyzstan,2004,10 May,Monday,Day off for Victory Day,Public Holiday
+kyrgyzstan,2004,21 Jun,Monday,June Solstice,Season
+kyrgyzstan,2004,31 Aug,Tuesday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2004,22 Sep,Wednesday,September Equinox,Season
+kyrgyzstan,2004,7 Nov,Sunday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2004,8 Nov,Monday,Day of the Great October Socialist Revolution observed,Public Holiday
+kyrgyzstan,2004,14 Nov,Sunday,Orozo Ait,Public Holiday
+kyrgyzstan,2004,15 Nov,Monday,Day off for Orozo Ait,Public Holiday
+kyrgyzstan,2004,21 Dec,Tuesday,December Solstice,Season
+kyrgyzstan,2005,1 Jan,Saturday,New Year,Public Holiday
+kyrgyzstan,2005,3 Jan,Monday,Day off for New Year,Public Holiday
+kyrgyzstan,2005,7 Jan,Friday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2005,21 Jan,Friday,Kurman Ait,Public Holiday
+kyrgyzstan,2005,23 Feb,Wednesday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2005,8 Mar,Tuesday,International Women's Day,Public Holiday
+kyrgyzstan,2005,20 Mar,Sunday,March Equinox,Season
+kyrgyzstan,2005,21 Mar,Monday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2005,1 May,Sunday,May Day,Public Holiday
+kyrgyzstan,2005,2 May,Monday,Day off for May Day,Public Holiday
+kyrgyzstan,2005,5 May,Thursday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2005,9 May,Monday,Victory Day,Public Holiday
+kyrgyzstan,2005,21 Jun,Tuesday,June Solstice,Season
+kyrgyzstan,2005,31 Aug,Wednesday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2005,23 Sep,Friday,September Equinox,Season
+kyrgyzstan,2005,4 Nov,Friday,Orozo Ait,Public Holiday
+kyrgyzstan,2005,7 Nov,Monday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2005,22 Dec,Thursday,December Solstice,Season
+kyrgyzstan,2006,1 Jan,Sunday,New Year,Public Holiday
+kyrgyzstan,2006,2 Jan,Monday,Day off for New Year,Public Holiday
+kyrgyzstan,2006,7 Jan,Saturday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2006,9 Jan,Monday,Day off for Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2006,10 Jan,Tuesday,Kurman Ait,Public Holiday
+kyrgyzstan,2006,23 Feb,Thursday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2006,8 Mar,Wednesday,International Women's Day,Public Holiday
+kyrgyzstan,2006,21 Mar,Tuesday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2006,21 Mar,Tuesday,March Equinox,Season
+kyrgyzstan,2006,1 May,Monday,May Day,Public Holiday
+kyrgyzstan,2006,5 May,Friday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2006,9 May,Tuesday,Victory Day,Public Holiday
+kyrgyzstan,2006,21 Jun,Wednesday,June Solstice,Season
+kyrgyzstan,2006,31 Aug,Thursday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2006,23 Sep,Saturday,September Equinox,Season
+kyrgyzstan,2006,24 Oct,Tuesday,Orozo Ait,Public Holiday
+kyrgyzstan,2006,7 Nov,Tuesday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2006,22 Dec,Friday,December Solstice,Season
+kyrgyzstan,2006,31 Dec,Sunday,Kurman Ait,Public Holiday
+kyrgyzstan,2007,1 Jan,Monday,New Year,Public Holiday
+kyrgyzstan,2007,7 Jan,Sunday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2007,8 Jan,Monday,Day off for Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2007,23 Feb,Friday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2007,8 Mar,Thursday,International Women's Day,Public Holiday
+kyrgyzstan,2007,21 Mar,Wednesday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2007,21 Mar,Wednesday,March Equinox,Season
+kyrgyzstan,2007,1 May,Tuesday,May Day,Public Holiday
+kyrgyzstan,2007,5 May,Saturday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2007,7 May,Monday,Day off for Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2007,9 May,Wednesday,Victory Day,Public Holiday
+kyrgyzstan,2007,22 Jun,Friday,June Solstice,Season
+kyrgyzstan,2007,31 Aug,Friday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2007,23 Sep,Sunday,September Equinox,Season
+kyrgyzstan,2007,13 Oct,Saturday,Orozo Ait,Public Holiday
+kyrgyzstan,2007,15 Oct,Monday,Day off for Orozo Ait,Public Holiday
+kyrgyzstan,2007,7 Nov,Wednesday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2007,20 Dec,Thursday,Kurman Ait,Public Holiday
+kyrgyzstan,2007,22 Dec,Saturday,December Solstice,Season
+kyrgyzstan,2008,1 Jan,Tuesday,New Year,Public Holiday
+kyrgyzstan,2008,7 Jan,Monday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2008,23 Feb,Saturday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2008,25 Feb,Monday,Day off for Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2008,8 Mar,Saturday,International Women's Day,Public Holiday
+kyrgyzstan,2008,10 Mar,Monday,International Women's Day observed,Public Holiday
+kyrgyzstan,2008,20 Mar,Thursday,March Equinox,Season
+kyrgyzstan,2008,21 Mar,Friday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2008,1 May,Thursday,May Day,Public Holiday
+kyrgyzstan,2008,5 May,Monday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2008,9 May,Friday,Victory Day,Public Holiday
+kyrgyzstan,2008,21 Jun,Saturday,June Solstice,Season
+kyrgyzstan,2008,31 Aug,Sunday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2008,1 Sep,Monday,Day off for Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2008,22 Sep,Monday,September Equinox,Season
+kyrgyzstan,2008,2 Oct,Thursday,Orozo Ait,Public Holiday
+kyrgyzstan,2008,7 Nov,Friday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2008,9 Dec,Tuesday,Kurman Ait,Public Holiday
+kyrgyzstan,2008,21 Dec,Sunday,December Solstice,Season
+kyrgyzstan,2009,1 Jan,Thursday,New Year,Public Holiday
+kyrgyzstan,2009,7 Jan,Wednesday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2009,23 Feb,Monday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2009,8 Mar,Sunday,International Women's Day,Public Holiday
+kyrgyzstan,2009,9 Mar,Monday,International Women's Day observed,Public Holiday
+kyrgyzstan,2009,20 Mar,Friday,March Equinox,Season
+kyrgyzstan,2009,21 Mar,Saturday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2009,23 Mar,Monday,"National Holiday ""Nooruz"" observed",Public Holiday
+kyrgyzstan,2009,1 May,Friday,May Day,Public Holiday
+kyrgyzstan,2009,5 May,Tuesday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2009,9 May,Saturday,Victory Day,Public Holiday
+kyrgyzstan,2009,11 May,Monday,Day off for Victory Day,Public Holiday
+kyrgyzstan,2009,21 Jun,Sunday,June Solstice,Season
+kyrgyzstan,2009,31 Aug,Monday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2009,21 Sep,Monday,Orozo Ait,Public Holiday
+kyrgyzstan,2009,23 Sep,Wednesday,September Equinox,Season
+kyrgyzstan,2009,7 Nov,Saturday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2009,9 Nov,Monday,Day of the Great October Socialist Revolution observed,Public Holiday
+kyrgyzstan,2009,28 Nov,Saturday,Kurman Ait,Public Holiday
+kyrgyzstan,2009,30 Nov,Monday,Day off for Kurman Ait,Public Holiday
+kyrgyzstan,2009,21 Dec,Monday,December Solstice,Season
+kyrgyzstan,2010,1 Jan,Friday,New Year,Public Holiday
+kyrgyzstan,2010,7 Jan,Thursday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2010,23 Feb,Tuesday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2010,8 Mar,Monday,International Women's Day,Public Holiday
+kyrgyzstan,2010,20 Mar,Saturday,March Equinox,Season
+kyrgyzstan,2010,21 Mar,Sunday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2010,22 Mar,Monday,"National Holiday ""Nooruz"" observed",Public Holiday
+kyrgyzstan,2010,1 May,Saturday,May Day,Public Holiday
+kyrgyzstan,2010,3 May,Monday,Day off for May Day,Public Holiday
+kyrgyzstan,2010,5 May,Wednesday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2010,9 May,Sunday,Victory Day,Public Holiday
+kyrgyzstan,2010,10 May,Monday,Day off for Victory Day,Public Holiday
+kyrgyzstan,2010,21 Jun,Monday,June Solstice,Season
+kyrgyzstan,2010,31 Aug,Tuesday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2010,10 Sep,Friday,Orozo Ait,Public Holiday
+kyrgyzstan,2010,23 Sep,Thursday,September Equinox,Season
+kyrgyzstan,2010,7 Nov,Sunday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2010,8 Nov,Monday,Day of the Great October Socialist Revolution observed,Public Holiday
+kyrgyzstan,2010,17 Nov,Wednesday,Kurman Ait,Public Holiday
+kyrgyzstan,2010,22 Dec,Wednesday,December Solstice,Season
+kyrgyzstan,2011,1 Jan,Saturday,New Year,Public Holiday
+kyrgyzstan,2011,3 Jan,Monday,Day off for New Year,Public Holiday
+kyrgyzstan,2011,7 Jan,Friday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2011,23 Feb,Wednesday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2011,8 Mar,Tuesday,International Women's Day,Public Holiday
+kyrgyzstan,2011,21 Mar,Monday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2011,21 Mar,Monday,March Equinox,Season
+kyrgyzstan,2011,1 May,Sunday,May Day,Public Holiday
+kyrgyzstan,2011,2 May,Monday,Day off for May Day,Public Holiday
+kyrgyzstan,2011,5 May,Thursday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2011,9 May,Monday,Victory Day,Public Holiday
+kyrgyzstan,2011,21 Jun,Tuesday,June Solstice,Season
+kyrgyzstan,2011,31 Aug,Wednesday,Orozo Ait,Public Holiday
+kyrgyzstan,2011,31 Aug,Wednesday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2011,23 Sep,Friday,September Equinox,Season
+kyrgyzstan,2011,7 Nov,Monday,Kurman Ait,Public Holiday
+kyrgyzstan,2011,7 Nov,Monday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2011,22 Dec,Thursday,December Solstice,Season
+kyrgyzstan,2012,1 Jan,Sunday,New Year,Public Holiday
+kyrgyzstan,2012,2 Jan,Monday,Day off for New Year,Public Holiday
+kyrgyzstan,2012,7 Jan,Saturday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2012,9 Jan,Monday,Day off for Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2012,23 Feb,Thursday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2012,8 Mar,Thursday,International Women's Day,Public Holiday
+kyrgyzstan,2012,20 Mar,Tuesday,March Equinox,Season
+kyrgyzstan,2012,21 Mar,Wednesday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2012,1 May,Tuesday,May Day,Public Holiday
+kyrgyzstan,2012,5 May,Saturday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2012,7 May,Monday,Day off for Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2012,9 May,Wednesday,Victory Day,Public Holiday
+kyrgyzstan,2012,21 Jun,Thursday,June Solstice,Season
+kyrgyzstan,2012,19 Aug,Sunday,Orozo Ait,Public Holiday
+kyrgyzstan,2012,20 Aug,Monday,Day off for Orozo Ait,Public Holiday
+kyrgyzstan,2012,31 Aug,Friday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2012,22 Sep,Saturday,September Equinox,Season
+kyrgyzstan,2012,26 Oct,Friday,Kurman Ait,Public Holiday
+kyrgyzstan,2012,7 Nov,Wednesday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2012,21 Dec,Friday,December Solstice,Season
+kyrgyzstan,2013,1 Jan,Tuesday,New Year,Public Holiday
+kyrgyzstan,2013,7 Jan,Monday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2013,23 Feb,Saturday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2013,25 Feb,Monday,Day off for Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2013,8 Mar,Friday,International Women's Day,Public Holiday
+kyrgyzstan,2013,20 Mar,Wednesday,March Equinox,Season
+kyrgyzstan,2013,21 Mar,Thursday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2013,1 May,Wednesday,May Day,Public Holiday
+kyrgyzstan,2013,5 May,Sunday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2013,6 May,Monday,Day off for Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2013,9 May,Thursday,Victory Day,Public Holiday
+kyrgyzstan,2013,21 Jun,Friday,June Solstice,Season
+kyrgyzstan,2013,8 Aug,Thursday,Orozo Ait,Public Holiday
+kyrgyzstan,2013,31 Aug,Saturday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2013,2 Sep,Monday,Day off for Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2013,23 Sep,Monday,September Equinox,Season
+kyrgyzstan,2013,15 Oct,Tuesday,Kurman Ait,Public Holiday
+kyrgyzstan,2013,7 Nov,Thursday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2013,21 Dec,Saturday,December Solstice,Season
+kyrgyzstan,2014,1 Jan,Wednesday,New Year,Public Holiday
+kyrgyzstan,2014,7 Jan,Tuesday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2014,23 Feb,Sunday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2014,24 Feb,Monday,Day off for Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2014,8 Mar,Saturday,International Women's Day,Public Holiday
+kyrgyzstan,2014,10 Mar,Monday,International Women's Day observed,Public Holiday
+kyrgyzstan,2014,20 Mar,Thursday,March Equinox,Season
+kyrgyzstan,2014,21 Mar,Friday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2014,1 May,Thursday,May Day,Public Holiday
+kyrgyzstan,2014,5 May,Monday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2014,9 May,Friday,Victory Day,Public Holiday
+kyrgyzstan,2014,21 Jun,Saturday,June Solstice,Season
+kyrgyzstan,2014,29 Jul,Tuesday,Orozo Ait,Public Holiday
+kyrgyzstan,2014,31 Aug,Sunday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2014,1 Sep,Monday,Day off for Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2014,23 Sep,Tuesday,September Equinox,Season
+kyrgyzstan,2014,5 Oct,Sunday,Kurman Ait,Public Holiday
+kyrgyzstan,2014,6 Oct,Monday,Day off for Kurman Ait,Public Holiday
+kyrgyzstan,2014,7 Nov,Friday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2014,22 Dec,Monday,December Solstice,Season
+kyrgyzstan,2015,1 Jan,Thursday,New Year,Public Holiday
+kyrgyzstan,2015,7 Jan,Wednesday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2015,23 Feb,Monday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2015,8 Mar,Sunday,International Women's Day,Public Holiday
+kyrgyzstan,2015,9 Mar,Monday,International Women's Day observed,Public Holiday
+kyrgyzstan,2015,21 Mar,Saturday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2015,21 Mar,Saturday,March Equinox,Season
+kyrgyzstan,2015,23 Mar,Monday,"National Holiday ""Nooruz"" observed",Public Holiday
+kyrgyzstan,2015,1 May,Friday,May Day,Public Holiday
+kyrgyzstan,2015,5 May,Tuesday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2015,9 May,Saturday,Victory Day,Public Holiday
+kyrgyzstan,2015,11 May,Monday,Day off for Victory Day,Public Holiday
+kyrgyzstan,2015,21 Jun,Sunday,June Solstice,Season
+kyrgyzstan,2015,18 Jul,Saturday,Orozo Ait,Public Holiday
+kyrgyzstan,2015,20 Jul,Monday,Day off for Orozo Ait,Public Holiday
+kyrgyzstan,2015,31 Aug,Monday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2015,23 Sep,Wednesday,September Equinox,Season
+kyrgyzstan,2015,24 Sep,Thursday,Kurman Ait,Public Holiday
+kyrgyzstan,2015,7 Nov,Saturday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2015,9 Nov,Monday,Day of the Great October Socialist Revolution observed,Public Holiday
+kyrgyzstan,2015,22 Dec,Tuesday,December Solstice,Season
+kyrgyzstan,2016,1 Jan,Friday,New Year,Public Holiday
+kyrgyzstan,2016,7 Jan,Thursday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2016,8 Jan,Friday,Extra Holiday,Public Holiday
+kyrgyzstan,2016,16 Jan,Saturday,Extra Working Day,Working day on weekend
+kyrgyzstan,2016,22 Feb,Monday,Defender of the Fatherland Extra Holiday,Public Holiday
+kyrgyzstan,2016,23 Feb,Tuesday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2016,7 Mar,Monday,International Women's Day (extra holiday),Public Holiday
+kyrgyzstan,2016,8 Mar,Tuesday,International Women's Day,Public Holiday
+kyrgyzstan,2016,20 Mar,Sunday,March Equinox,Season
+kyrgyzstan,2016,21 Mar,Monday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2016,7 Apr,Thursday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2016,30 Apr,Saturday,Extra Working Day,Working day on weekend
+kyrgyzstan,2016,1 May,Sunday,May Day,Public Holiday
+kyrgyzstan,2016,2 May,Monday,Day off for May Day,Public Holiday
+kyrgyzstan,2016,3 May,Tuesday,Extra Holiday,Public Holiday
+kyrgyzstan,2016,4 May,Wednesday,Extra Holiday,Public Holiday
+kyrgyzstan,2016,5 May,Thursday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2016,6 May,Friday,Constitution Day Holiday,Public Holiday
+kyrgyzstan,2016,7 May,Saturday,Extra Working Day,Working day on weekend
+kyrgyzstan,2016,9 May,Monday,Victory Day,Public Holiday
+kyrgyzstan,2016,21 Jun,Tuesday,June Solstice,Season
+kyrgyzstan,2016,7 Jul,Thursday,Orozo Ait,Public Holiday
+kyrgyzstan,2016,31 Aug,Wednesday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2016,13 Sep,Tuesday,Kurman Ait,Public Holiday
+kyrgyzstan,2016,22 Sep,Thursday,September Equinox,Season
+kyrgyzstan,2016,7 Nov,Monday,Day of the Great October Socialist Revolution,Public Holiday
+kyrgyzstan,2016,21 Dec,Wednesday,December Solstice,Season
+kyrgyzstan,2017,1 Jan,Sunday,New Year,Public Holiday
+kyrgyzstan,2017,2 Jan,Monday,Day off for New Year,Public Holiday
+kyrgyzstan,2017,2 Jan,Monday,New Year (Extra Holiday),Public Holiday
+kyrgyzstan,2017,7 Jan,Saturday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2017,9 Jan,Monday,Day off for Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2017,9 Jan,Monday,Orthodox Christmas (Extra Holiday),Public Holiday
+kyrgyzstan,2017,23 Feb,Thursday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2017,8 Mar,Wednesday,International Women's Day,Public Holiday
+kyrgyzstan,2017,20 Mar,Monday,March Equinox,Season
+kyrgyzstan,2017,21 Mar,Tuesday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2017,7 Apr,Friday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2017,1 May,Monday,May Day,Public Holiday
+kyrgyzstan,2017,5 May,Friday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2017,8 May,Monday,Extra Holiday,Public Holiday
+kyrgyzstan,2017,9 May,Tuesday,Victory Day,Public Holiday
+kyrgyzstan,2017,21 Jun,Wednesday,June Solstice,Season
+kyrgyzstan,2017,26 Jun,Monday,Orozo Ait,Public Holiday
+kyrgyzstan,2017,31 Aug,Thursday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2017,2 Sep,Saturday,Kurman Ait,Public Holiday
+kyrgyzstan,2017,4 Sep,Monday,Day off for Kurman Ait,Public Holiday
+kyrgyzstan,2017,23 Sep,Saturday,September Equinox,Season
+kyrgyzstan,2017,7 Nov,Tuesday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2017,8 Nov,Wednesday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2017,21 Dec,Thursday,December Solstice,Season
+kyrgyzstan,2018,1 Jan,Monday,New Year,Public Holiday
+kyrgyzstan,2018,7 Jan,Sunday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2018,8 Jan,Monday,Day off for Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2018,23 Feb,Friday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2018,8 Mar,Thursday,International Women's Day,Public Holiday
+kyrgyzstan,2018,20 Mar,Tuesday,March Equinox,Season
+kyrgyzstan,2018,21 Mar,Wednesday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2018,7 Apr,Saturday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2018,9 Apr,Monday,Day off for April People's Revolution Day,Public Holiday
+kyrgyzstan,2018,1 May,Tuesday,May Day,Public Holiday
+kyrgyzstan,2018,5 May,Saturday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2018,7 May,Monday,Day off for Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2018,9 May,Wednesday,Victory Day,Public Holiday
+kyrgyzstan,2018,15 Jun,Friday,Orozo Ait,Public Holiday
+kyrgyzstan,2018,21 Jun,Thursday,June Solstice,Season
+kyrgyzstan,2018,22 Aug,Wednesday,Kurman Ait,Public Holiday
+kyrgyzstan,2018,31 Aug,Friday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2018,23 Sep,Sunday,September Equinox,Season
+kyrgyzstan,2018,7 Nov,Wednesday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2018,8 Nov,Thursday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2018,22 Dec,Saturday,December Solstice,Season
+kyrgyzstan,2019,1 Jan,Tuesday,New Year,Public Holiday
+kyrgyzstan,2019,7 Jan,Monday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2019,23 Feb,Saturday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2019,25 Feb,Monday,Day off for Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2019,8 Mar,Friday,International Women's Day,Public Holiday
+kyrgyzstan,2019,21 Mar,Thursday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2019,21 Mar,Thursday,March Equinox,Season
+kyrgyzstan,2019,7 Apr,Sunday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2019,8 Apr,Monday,Day off for April People's Revolution Day,Public Holiday
+kyrgyzstan,2019,1 May,Wednesday,May Day,Public Holiday
+kyrgyzstan,2019,5 May,Sunday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2019,6 May,Monday,Day off for Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2019,9 May,Thursday,Victory Day,Public Holiday
+kyrgyzstan,2019,5 Jun,Wednesday,Orozo Ait,Public Holiday
+kyrgyzstan,2019,21 Jun,Friday,June Solstice,Season
+kyrgyzstan,2019,11 Aug,Sunday,Kurman Ait,Public Holiday
+kyrgyzstan,2019,31 Aug,Saturday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2019,2 Sep,Monday,Day off for Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2019,23 Sep,Monday,September Equinox,Season
+kyrgyzstan,2019,7 Nov,Thursday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2019,8 Nov,Friday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2019,22 Dec,Sunday,December Solstice,Season
+kyrgyzstan,2020,1 Jan,Wednesday,New Year,Public Holiday
+kyrgyzstan,2020,2 Jan,Thursday,Public Holiday (Day off for Defender of the Fatherland Day),Public Holiday
+kyrgyzstan,2020,3 Jan,Friday,Public Holiday (Day off for International Women's Day),Public Holiday
+kyrgyzstan,2020,4 Jan,Saturday,Public Holiday,Public Holiday
+kyrgyzstan,2020,5 Jan,Sunday,Public Holiday,Public Holiday
+kyrgyzstan,2020,6 Jan,Monday,Public Holiday (Day off for Nooruz),Public Holiday
+kyrgyzstan,2020,7 Jan,Tuesday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2020,23 Feb,Sunday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2020,8 Mar,Sunday,International Women's Day,Public Holiday
+kyrgyzstan,2020,20 Mar,Friday,March Equinox,Season
+kyrgyzstan,2020,21 Mar,Saturday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2020,7 Apr,Tuesday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2020,1 May,Friday,May Day,Public Holiday
+kyrgyzstan,2020,4 May,Monday,Public Holiday (Day off for Victory Day),Public Holiday
+kyrgyzstan,2020,5 May,Tuesday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2020,9 May,Saturday,Victory Day,Public Holiday
+kyrgyzstan,2020,24 May,Sunday,Orozo Ait,Public Holiday
+kyrgyzstan,2020,25 May,Monday,Day off for Orozo Ait,Public Holiday
+kyrgyzstan,2020,21 Jun,Sunday,June Solstice,Season
+kyrgyzstan,2020,31 Jul,Friday,Kurman Ait,Public Holiday
+kyrgyzstan,2020,31 Aug,Monday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2020,22 Sep,Tuesday,September Equinox,Season
+kyrgyzstan,2020,7 Nov,Saturday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2020,8 Nov,Sunday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2020,9 Nov,Monday,Day off for Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2020,10 Nov,Tuesday,Day off for Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2020,21 Dec,Monday,December Solstice,Season
+kyrgyzstan,2021,1 Jan,Friday,New Year,Public Holiday
+kyrgyzstan,2021,7 Jan,Thursday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2021,8 Jan,Friday,Public Holiday (Day off for May Day),Public Holiday
+kyrgyzstan,2021,8 Jan,Friday,Election Day,Public Holiday
+kyrgyzstan,2021,23 Feb,Tuesday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2021,8 Mar,Monday,International Women's Day,Public Holiday
+kyrgyzstan,2021,20 Mar,Saturday,March Equinox,Season
+kyrgyzstan,2021,21 Mar,Sunday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2021,22 Mar,Monday,"National Holiday ""Nooruz"" observed",Public Holiday
+kyrgyzstan,2021,7 Apr,Wednesday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2021,1 May,Saturday,May Day,Public Holiday
+kyrgyzstan,2021,5 May,Wednesday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2021,9 May,Sunday,Victory Day,Public Holiday
+kyrgyzstan,2021,13 May,Thursday,Orozo Ait,Public Holiday
+kyrgyzstan,2021,21 Jun,Monday,June Solstice,Season
+kyrgyzstan,2021,17 Jul,Saturday,Public Holiday,Public Holiday
+kyrgyzstan,2021,18 Jul,Sunday,Public Holiday,Public Holiday
+kyrgyzstan,2021,19 Jul,Monday,Public Holiday,Public Holiday
+kyrgyzstan,2021,20 Jul,Tuesday,Kurman Ait,Public Holiday
+kyrgyzstan,2021,24 Jul,Saturday,Extra Working Day,Working day on weekend
+kyrgyzstan,2021,30 Aug,Monday,Public Holiday (Day off for Victory Day),Public Holiday
+kyrgyzstan,2021,31 Aug,Tuesday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2021,23 Sep,Thursday,September Equinox,Season
+kyrgyzstan,2021,7 Nov,Sunday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2021,8 Nov,Monday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2021,9 Nov,Tuesday,Day off for Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2021,21 Dec,Tuesday,December Solstice,Season
+kyrgyzstan,2022,1 Jan,Saturday,New Year,Public Holiday
+kyrgyzstan,2022,3 Jan,Monday,Day off for New Year,Public Holiday
+kyrgyzstan,2022,4 Jan,Tuesday,Public Holiday,Public Holiday
+kyrgyzstan,2022,5 Jan,Wednesday,Public Holiday,Public Holiday
+kyrgyzstan,2022,6 Jan,Thursday,Public Holiday,Public Holiday
+kyrgyzstan,2022,7 Jan,Friday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2022,15 Jan,Saturday,Working day,Working day on weekend
+kyrgyzstan,2022,23 Feb,Wednesday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2022,26 Feb,Saturday,Working day,Working day on weekend
+kyrgyzstan,2022,8 Mar,Tuesday,International Women's Day,Public Holiday
+kyrgyzstan,2022,20 Mar,Sunday,March Equinox,Season
+kyrgyzstan,2022,21 Mar,Monday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2022,26 Mar,Saturday,Working day,Working day on weekend
+kyrgyzstan,2022,7 Apr,Thursday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2022,30 Apr,Saturday,Working Day,Working day on weekend
+kyrgyzstan,2022,1 May,Sunday,May Day,Public Holiday
+kyrgyzstan,2022,2 May,Monday,Orozo Ait,Public Holiday
+kyrgyzstan,2022,3 May,Tuesday,Day off for May Day,Public Holiday
+kyrgyzstan,2022,4 May,Wednesday,Public Holiday,Public Holiday
+kyrgyzstan,2022,5 May,Thursday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2022,6 May,Friday,Public Holiday,Public Holiday
+kyrgyzstan,2022,9 May,Monday,Victory Day,Public Holiday
+kyrgyzstan,2022,14 May,Saturday,Working day,Working day on weekend
+kyrgyzstan,2022,21 Jun,Tuesday,June Solstice,Season
+kyrgyzstan,2022,9 Jul,Saturday,Kurman Ait,Public Holiday
+kyrgyzstan,2022,11 Jul,Monday,Day off for Kurman Ait,Public Holiday
+kyrgyzstan,2022,31 Aug,Wednesday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2022,23 Sep,Friday,September Equinox,Season
+kyrgyzstan,2022,7 Nov,Monday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2022,8 Nov,Tuesday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2022,22 Dec,Thursday,December Solstice,Season
+kyrgyzstan,2023,1 Jan,Sunday,New Year,Public Holiday
+kyrgyzstan,2023,2 Jan,Monday,Day off for New Year,Public Holiday
+kyrgyzstan,2023,3 Jan,Tuesday,Public Holiday,Public Holiday
+kyrgyzstan,2023,4 Jan,Wednesday,Public Holiday,Public Holiday
+kyrgyzstan,2023,5 Jan,Thursday,Public Holiday,Public Holiday
+kyrgyzstan,2023,6 Jan,Friday,Public Holiday,Public Holiday
+kyrgyzstan,2023,7 Jan,Saturday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2023,23 Feb,Thursday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2023,25 Feb,Saturday,Working day,Working day on weekend
+kyrgyzstan,2023,8 Mar,Wednesday,International Women's Day,Public Holiday
+kyrgyzstan,2023,11 Mar,Saturday,Working day,Working day on weekend
+kyrgyzstan,2023,20 Mar,Monday,Nooruz Public Holiday,Public Holiday
+kyrgyzstan,2023,21 Mar,Tuesday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2023,21 Mar,Tuesday,March Equinox,Season
+kyrgyzstan,2023,23 Mar,Thursday,Ramadan Start,Observance
+kyrgyzstan,2023,25 Mar,Saturday,Working day,Working day on weekend
+kyrgyzstan,2023,7 Apr,Friday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2023,21 Apr,Friday,Orozo Ait,Public Holiday
+kyrgyzstan,2023,29 Apr,Saturday,Working Day,Working day on weekend
+kyrgyzstan,2023,1 May,Monday,May Day,Public Holiday
+kyrgyzstan,2023,5 May,Friday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2023,8 May,Monday,Constitution Day Holiday,Public Holiday
+kyrgyzstan,2023,9 May,Tuesday,Victory Day,Public Holiday
+kyrgyzstan,2023,13 May,Saturday,Working day,Working day on weekend
+kyrgyzstan,2023,21 Jun,Wednesday,June Solstice,Season
+kyrgyzstan,2023,28 Jun,Wednesday,Kurman Ait,Public Holiday
+kyrgyzstan,2023,31 Aug,Thursday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2023,23 Sep,Saturday,September Equinox,Season
+kyrgyzstan,2023,6 Nov,Monday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2023,7 Nov,Tuesday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2023,8 Nov,Wednesday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2023,11 Nov,Saturday,Working day,Working day on weekend
+kyrgyzstan,2023,22 Dec,Friday,December Solstice,Season
+kyrgyzstan,2024,1 Jan,Monday,New Year,Public Holiday
+kyrgyzstan,2024,7 Jan,Sunday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2024,8 Jan,Monday,Day off for Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2024,23 Feb,Friday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2024,2 Mar,Saturday,Working day,Working day on weekend
+kyrgyzstan,2024,8 Mar,Friday,International Women's Day,Public Holiday
+kyrgyzstan,2024,11 Mar,Monday,Ramadan Start,Observance
+kyrgyzstan,2024,20 Mar,Wednesday,March Equinox,Season
+kyrgyzstan,2024,21 Mar,Thursday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2024,7 Apr,Sunday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2024,8 Apr,Monday,Day off for April People's Revolution Day,Public Holiday
+kyrgyzstan,2024,10 Apr,Wednesday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2024,1 May,Wednesday,May Day,Public Holiday
+kyrgyzstan,2024,5 May,Sunday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2024,6 May,Monday,Day off for Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2024,9 May,Thursday,Victory Day,Public Holiday
+kyrgyzstan,2024,17 Jun,Monday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2024,21 Jun,Friday,June Solstice,Season
+kyrgyzstan,2024,31 Aug,Saturday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2024,2 Sep,Monday,Day off for Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2024,22 Sep,Sunday,September Equinox,Season
+kyrgyzstan,2024,7 Nov,Thursday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2024,8 Nov,Friday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2024,21 Dec,Saturday,December Solstice,Season
+kyrgyzstan,2025,1 Jan,Wednesday,New Year,Public Holiday
+kyrgyzstan,2025,7 Jan,Tuesday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2025,23 Feb,Sunday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2025,24 Feb,Monday,Day off for Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2025,1 Mar,Saturday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2025,8 Mar,Saturday,International Women's Day,Public Holiday
+kyrgyzstan,2025,10 Mar,Monday,International Women's Day observed,Public Holiday
+kyrgyzstan,2025,20 Mar,Thursday,March Equinox,Season
+kyrgyzstan,2025,21 Mar,Friday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2025,31 Mar,Monday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2025,7 Apr,Monday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2025,1 May,Thursday,May Day,Public Holiday
+kyrgyzstan,2025,5 May,Monday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2025,9 May,Friday,Victory Day,Public Holiday
+kyrgyzstan,2025,7 Jun,Saturday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2025,9 Jun,Monday,Day off for Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2025,21 Jun,Saturday,June Solstice,Season
+kyrgyzstan,2025,31 Aug,Sunday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2025,1 Sep,Monday,Day off for Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2025,23 Sep,Tuesday,September Equinox,Season
+kyrgyzstan,2025,7 Nov,Friday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2025,8 Nov,Saturday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2025,10 Nov,Monday,Day off for Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2025,21 Dec,Sunday,December Solstice,Season
+kyrgyzstan,2026,1 Jan,Thursday,New Year,Public Holiday
+kyrgyzstan,2026,7 Jan,Wednesday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2026,18 Feb,Wednesday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2026,23 Feb,Monday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2026,8 Mar,Sunday,International Women's Day,Public Holiday
+kyrgyzstan,2026,9 Mar,Monday,International Women's Day observed,Public Holiday
+kyrgyzstan,2026,20 Mar,Friday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2026,20 Mar,Friday,March Equinox,Season
+kyrgyzstan,2026,21 Mar,Saturday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2026,23 Mar,Monday,"National Holiday ""Nooruz"" observed",Public Holiday
+kyrgyzstan,2026,7 Apr,Tuesday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2026,1 May,Friday,May Day,Public Holiday
+kyrgyzstan,2026,5 May,Tuesday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2026,9 May,Saturday,Victory Day,Public Holiday
+kyrgyzstan,2026,11 May,Monday,Day off for Victory Day,Public Holiday
+kyrgyzstan,2026,27 May,Wednesday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2026,21 Jun,Sunday,June Solstice,Season
+kyrgyzstan,2026,31 Aug,Monday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2026,23 Sep,Wednesday,September Equinox,Season
+kyrgyzstan,2026,7 Nov,Saturday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2026,8 Nov,Sunday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2026,9 Nov,Monday,Day off for Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2026,10 Nov,Tuesday,Day off for Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2026,22 Dec,Tuesday,December Solstice,Season
+kyrgyzstan,2027,1 Jan,Friday,New Year,Public Holiday
+kyrgyzstan,2027,7 Jan,Thursday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2027,8 Feb,Monday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2027,23 Feb,Tuesday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2027,8 Mar,Monday,International Women's Day,Public Holiday
+kyrgyzstan,2027,10 Mar,Wednesday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2027,21 Mar,Sunday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2027,21 Mar,Sunday,March Equinox,Season
+kyrgyzstan,2027,22 Mar,Monday,"National Holiday ""Nooruz"" observed",Public Holiday
+kyrgyzstan,2027,7 Apr,Wednesday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2027,1 May,Saturday,May Day,Public Holiday
+kyrgyzstan,2027,3 May,Monday,Day off for May Day,Public Holiday
+kyrgyzstan,2027,5 May,Wednesday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2027,9 May,Sunday,Victory Day,Public Holiday
+kyrgyzstan,2027,10 May,Monday,Day off for Victory Day,Public Holiday
+kyrgyzstan,2027,17 May,Monday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2027,21 Jun,Monday,June Solstice,Season
+kyrgyzstan,2027,31 Aug,Tuesday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2027,23 Sep,Thursday,September Equinox,Season
+kyrgyzstan,2027,7 Nov,Sunday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2027,8 Nov,Monday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2027,9 Nov,Tuesday,Day off for Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2027,22 Dec,Wednesday,December Solstice,Season
+kyrgyzstan,2028,1 Jan,Saturday,New Year,Public Holiday
+kyrgyzstan,2028,3 Jan,Monday,Day off for New Year,Public Holiday
+kyrgyzstan,2028,7 Jan,Friday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2028,28 Jan,Friday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2028,23 Feb,Wednesday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2028,27 Feb,Sunday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2028,28 Feb,Monday,Day off for Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2028,8 Mar,Wednesday,International Women's Day,Public Holiday
+kyrgyzstan,2028,20 Mar,Monday,March Equinox,Season
+kyrgyzstan,2028,21 Mar,Tuesday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2028,7 Apr,Friday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2028,1 May,Monday,May Day,Public Holiday
+kyrgyzstan,2028,5 May,Friday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2028,5 May,Friday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2028,9 May,Tuesday,Victory Day,Public Holiday
+kyrgyzstan,2028,21 Jun,Wednesday,June Solstice,Season
+kyrgyzstan,2028,31 Aug,Thursday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2028,22 Sep,Friday,September Equinox,Season
+kyrgyzstan,2028,7 Nov,Tuesday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2028,8 Nov,Wednesday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2028,21 Dec,Thursday,December Solstice,Season
+kyrgyzstan,2029,1 Jan,Monday,New Year,Public Holiday
+kyrgyzstan,2029,7 Jan,Sunday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2029,8 Jan,Monday,Day off for Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2029,16 Jan,Tuesday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2029,15 Feb,Thursday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2029,23 Feb,Friday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2029,8 Mar,Thursday,International Women's Day,Public Holiday
+kyrgyzstan,2029,20 Mar,Tuesday,March Equinox,Season
+kyrgyzstan,2029,21 Mar,Wednesday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2029,7 Apr,Saturday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2029,9 Apr,Monday,Day off for April People's Revolution Day,Public Holiday
+kyrgyzstan,2029,24 Apr,Tuesday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2029,1 May,Tuesday,May Day,Public Holiday
+kyrgyzstan,2029,5 May,Saturday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2029,7 May,Monday,Day off for Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2029,9 May,Wednesday,Victory Day,Public Holiday
+kyrgyzstan,2029,21 Jun,Thursday,June Solstice,Season
+kyrgyzstan,2029,31 Aug,Friday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2029,22 Sep,Saturday,September Equinox,Season
+kyrgyzstan,2029,7 Nov,Wednesday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2029,8 Nov,Thursday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2029,21 Dec,Friday,December Solstice,Season
+kyrgyzstan,2030,1 Jan,Tuesday,New Year,Public Holiday
+kyrgyzstan,2030,6 Jan,Sunday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2030,7 Jan,Monday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2030,5 Feb,Tuesday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2030,23 Feb,Saturday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2030,25 Feb,Monday,Day off for Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2030,8 Mar,Friday,International Women's Day,Public Holiday
+kyrgyzstan,2030,20 Mar,Wednesday,March Equinox,Season
+kyrgyzstan,2030,21 Mar,Thursday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2030,7 Apr,Sunday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2030,8 Apr,Monday,Day off for April People's Revolution Day,Public Holiday
+kyrgyzstan,2030,14 Apr,Sunday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2030,15 Apr,Monday,Day off for Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2030,1 May,Wednesday,May Day,Public Holiday
+kyrgyzstan,2030,5 May,Sunday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2030,6 May,Monday,Day off for Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2030,9 May,Thursday,Victory Day,Public Holiday
+kyrgyzstan,2030,21 Jun,Friday,June Solstice,Season
+kyrgyzstan,2030,31 Aug,Saturday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2030,2 Sep,Monday,Day off for Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2030,23 Sep,Monday,September Equinox,Season
+kyrgyzstan,2030,7 Nov,Thursday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2030,8 Nov,Friday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2030,22 Dec,Sunday,December Solstice,Season
+kyrgyzstan,2030,26 Dec,Thursday,Ramadan Start,Observance
+kyrgyzstan,2031,1 Jan,Wednesday,New Year,Public Holiday
+kyrgyzstan,2031,7 Jan,Tuesday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2031,25 Jan,Saturday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2031,27 Jan,Monday,Day off for Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2031,23 Feb,Sunday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2031,24 Feb,Monday,Day off for Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2031,8 Mar,Saturday,International Women's Day,Public Holiday
+kyrgyzstan,2031,10 Mar,Monday,International Women's Day observed,Public Holiday
+kyrgyzstan,2031,21 Mar,Friday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2031,21 Mar,Friday,March Equinox,Season
+kyrgyzstan,2031,3 Apr,Thursday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2031,7 Apr,Monday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2031,1 May,Thursday,May Day,Public Holiday
+kyrgyzstan,2031,5 May,Monday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2031,9 May,Friday,Victory Day,Public Holiday
+kyrgyzstan,2031,21 Jun,Saturday,June Solstice,Season
+kyrgyzstan,2031,31 Aug,Sunday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2031,1 Sep,Monday,Day off for Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2031,23 Sep,Tuesday,September Equinox,Season
+kyrgyzstan,2031,7 Nov,Friday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2031,8 Nov,Saturday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2031,10 Nov,Monday,Day off for Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2031,15 Dec,Monday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2031,22 Dec,Monday,December Solstice,Season
+kyrgyzstan,2032,1 Jan,Thursday,New Year,Public Holiday
+kyrgyzstan,2032,7 Jan,Wednesday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2032,14 Jan,Wednesday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2032,23 Feb,Monday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2032,8 Mar,Monday,International Women's Day,Public Holiday
+kyrgyzstan,2032,20 Mar,Saturday,March Equinox,Season
+kyrgyzstan,2032,21 Mar,Sunday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2032,22 Mar,Monday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2032,22 Mar,Monday,"National Holiday ""Nooruz"" observed",Public Holiday
+kyrgyzstan,2032,7 Apr,Wednesday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2032,1 May,Saturday,May Day,Public Holiday
+kyrgyzstan,2032,3 May,Monday,Day off for May Day,Public Holiday
+kyrgyzstan,2032,5 May,Wednesday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2032,9 May,Sunday,Victory Day,Public Holiday
+kyrgyzstan,2032,10 May,Monday,Day off for Victory Day,Public Holiday
+kyrgyzstan,2032,21 Jun,Monday,June Solstice,Season
+kyrgyzstan,2032,31 Aug,Tuesday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2032,22 Sep,Wednesday,September Equinox,Season
+kyrgyzstan,2032,7 Nov,Sunday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2032,8 Nov,Monday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2032,9 Nov,Tuesday,Day off for Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2032,4 Dec,Saturday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2032,21 Dec,Tuesday,December Solstice,Season
+kyrgyzstan,2033,1 Jan,Saturday,New Year,Public Holiday
+kyrgyzstan,2033,3 Jan,Monday,Day off for New Year,Public Holiday
+kyrgyzstan,2033,3 Jan,Monday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2033,7 Jan,Friday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2033,23 Feb,Wednesday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2033,8 Mar,Tuesday,International Women's Day,Public Holiday
+kyrgyzstan,2033,12 Mar,Saturday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2033,14 Mar,Monday,Day off for Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2033,20 Mar,Sunday,March Equinox,Season
+kyrgyzstan,2033,21 Mar,Monday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2033,7 Apr,Thursday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2033,1 May,Sunday,May Day,Public Holiday
+kyrgyzstan,2033,2 May,Monday,Day off for May Day,Public Holiday
+kyrgyzstan,2033,5 May,Thursday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2033,9 May,Monday,Victory Day,Public Holiday
+kyrgyzstan,2033,21 Jun,Tuesday,June Solstice,Season
+kyrgyzstan,2033,31 Aug,Wednesday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2033,22 Sep,Thursday,September Equinox,Season
+kyrgyzstan,2033,7 Nov,Monday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2033,8 Nov,Tuesday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2033,23 Nov,Wednesday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2033,21 Dec,Wednesday,December Solstice,Season
+kyrgyzstan,2033,23 Dec,Friday,Orozo Ait,Public Holiday
+kyrgyzstan,2034,1 Jan,Sunday,New Year,Public Holiday
+kyrgyzstan,2034,2 Jan,Monday,Day off for New Year,Public Holiday
+kyrgyzstan,2034,7 Jan,Saturday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2034,9 Jan,Monday,Day off for Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2034,23 Feb,Thursday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2034,1 Mar,Wednesday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2034,8 Mar,Wednesday,International Women's Day,Public Holiday
+kyrgyzstan,2034,20 Mar,Monday,March Equinox,Season
+kyrgyzstan,2034,21 Mar,Tuesday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2034,7 Apr,Friday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2034,1 May,Monday,May Day,Public Holiday
+kyrgyzstan,2034,5 May,Friday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2034,9 May,Tuesday,Victory Day,Public Holiday
+kyrgyzstan,2034,21 Jun,Wednesday,June Solstice,Season
+kyrgyzstan,2034,31 Aug,Thursday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2034,23 Sep,Saturday,September Equinox,Season
+kyrgyzstan,2034,7 Nov,Tuesday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2034,8 Nov,Wednesday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2034,12 Nov,Sunday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2034,12 Dec,Tuesday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2034,22 Dec,Friday,December Solstice,Season
+kyrgyzstan,2035,1 Jan,Monday,New Year,Public Holiday
+kyrgyzstan,2035,7 Jan,Sunday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2035,8 Jan,Monday,Day off for Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2035,18 Feb,Sunday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2035,19 Feb,Monday,Day off for Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2035,23 Feb,Friday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2035,8 Mar,Thursday,International Women's Day,Public Holiday
+kyrgyzstan,2035,21 Mar,Wednesday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2035,21 Mar,Wednesday,March Equinox,Season
+kyrgyzstan,2035,7 Apr,Saturday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2035,9 Apr,Monday,Day off for April People's Revolution Day,Public Holiday
+kyrgyzstan,2035,1 May,Tuesday,May Day,Public Holiday
+kyrgyzstan,2035,5 May,Saturday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2035,7 May,Monday,Day off for Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2035,9 May,Wednesday,Victory Day,Public Holiday
+kyrgyzstan,2035,21 Jun,Thursday,June Solstice,Season
+kyrgyzstan,2035,31 Aug,Friday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2035,23 Sep,Sunday,September Equinox,Season
+kyrgyzstan,2035,2 Nov,Friday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2035,7 Nov,Wednesday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2035,8 Nov,Thursday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2035,2 Dec,Sunday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2035,3 Dec,Monday,Day off for Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2035,22 Dec,Saturday,December Solstice,Season
+kyrgyzstan,2036,1 Jan,Tuesday,New Year,Public Holiday
+kyrgyzstan,2036,7 Jan,Monday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2036,8 Feb,Friday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2036,23 Feb,Saturday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2036,25 Feb,Monday,Day off for Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2036,8 Mar,Saturday,International Women's Day,Public Holiday
+kyrgyzstan,2036,10 Mar,Monday,International Women's Day observed,Public Holiday
+kyrgyzstan,2036,20 Mar,Thursday,March Equinox,Season
+kyrgyzstan,2036,21 Mar,Friday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2036,7 Apr,Monday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2036,1 May,Thursday,May Day,Public Holiday
+kyrgyzstan,2036,5 May,Monday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2036,9 May,Friday,Victory Day,Public Holiday
+kyrgyzstan,2036,21 Jun,Saturday,June Solstice,Season
+kyrgyzstan,2036,31 Aug,Sunday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2036,1 Sep,Monday,Day off for Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2036,22 Sep,Monday,September Equinox,Season
+kyrgyzstan,2036,21 Oct,Tuesday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2036,7 Nov,Friday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2036,8 Nov,Saturday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2036,10 Nov,Monday,Day off for Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2036,20 Nov,Thursday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2036,21 Dec,Sunday,December Solstice,Season
+kyrgyzstan,2037,1 Jan,Thursday,New Year,Public Holiday
+kyrgyzstan,2037,7 Jan,Wednesday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2037,27 Jan,Tuesday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2037,23 Feb,Monday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2037,8 Mar,Sunday,International Women's Day,Public Holiday
+kyrgyzstan,2037,9 Mar,Monday,International Women's Day observed,Public Holiday
+kyrgyzstan,2037,20 Mar,Friday,March Equinox,Season
+kyrgyzstan,2037,21 Mar,Saturday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2037,23 Mar,Monday,"National Holiday ""Nooruz"" observed",Public Holiday
+kyrgyzstan,2037,7 Apr,Tuesday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2037,1 May,Friday,May Day,Public Holiday
+kyrgyzstan,2037,5 May,Tuesday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2037,9 May,Saturday,Victory Day,Public Holiday
+kyrgyzstan,2037,11 May,Monday,Day off for Victory Day,Public Holiday
+kyrgyzstan,2037,21 Jun,Sunday,June Solstice,Season
+kyrgyzstan,2037,31 Aug,Monday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2037,22 Sep,Tuesday,September Equinox,Season
+kyrgyzstan,2037,11 Oct,Sunday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2037,7 Nov,Saturday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2037,8 Nov,Sunday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2037,9 Nov,Monday,Day off for Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2037,10 Nov,Tuesday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2037,10 Nov,Tuesday,Day off for Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2037,21 Dec,Monday,December Solstice,Season
+kyrgyzstan,2038,1 Jan,Friday,New Year,Public Holiday
+kyrgyzstan,2038,7 Jan,Thursday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2038,17 Jan,Sunday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2038,18 Jan,Monday,Day off for Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2038,23 Feb,Tuesday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2038,8 Mar,Monday,International Women's Day,Public Holiday
+kyrgyzstan,2038,20 Mar,Saturday,March Equinox,Season
+kyrgyzstan,2038,21 Mar,Sunday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2038,22 Mar,Monday,"National Holiday ""Nooruz"" observed",Public Holiday
+kyrgyzstan,2038,7 Apr,Wednesday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2038,1 May,Saturday,May Day,Public Holiday
+kyrgyzstan,2038,3 May,Monday,Day off for May Day,Public Holiday
+kyrgyzstan,2038,5 May,Wednesday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2038,9 May,Sunday,Victory Day,Public Holiday
+kyrgyzstan,2038,10 May,Monday,Day off for Victory Day,Public Holiday
+kyrgyzstan,2038,21 Jun,Monday,June Solstice,Season
+kyrgyzstan,2038,31 Aug,Tuesday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2038,23 Sep,Thursday,September Equinox,Season
+kyrgyzstan,2038,30 Sep,Thursday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2038,30 Oct,Saturday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2038,1 Nov,Monday,Day off for Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2038,7 Nov,Sunday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2038,8 Nov,Monday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2038,9 Nov,Tuesday,Day off for Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2038,22 Dec,Wednesday,December Solstice,Season
+kyrgyzstan,2039,1 Jan,Saturday,New Year,Public Holiday
+kyrgyzstan,2039,3 Jan,Monday,Day off for New Year,Public Holiday
+kyrgyzstan,2039,6 Jan,Thursday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2039,7 Jan,Friday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2039,23 Feb,Wednesday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2039,8 Mar,Tuesday,International Women's Day,Public Holiday
+kyrgyzstan,2039,21 Mar,Monday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2039,21 Mar,Monday,March Equinox,Season
+kyrgyzstan,2039,7 Apr,Thursday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2039,1 May,Sunday,May Day,Public Holiday
+kyrgyzstan,2039,2 May,Monday,Day off for May Day,Public Holiday
+kyrgyzstan,2039,5 May,Thursday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2039,9 May,Monday,Victory Day,Public Holiday
+kyrgyzstan,2039,21 Jun,Tuesday,June Solstice,Season
+kyrgyzstan,2039,31 Aug,Wednesday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2039,19 Sep,Monday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2039,23 Sep,Friday,September Equinox,Season
+kyrgyzstan,2039,19 Oct,Wednesday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2039,7 Nov,Monday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2039,8 Nov,Tuesday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2039,22 Dec,Thursday,December Solstice,Season
+kyrgyzstan,2039,26 Dec,Monday,Kurman Ait,Public Holiday
+kyrgyzstan,2040,1 Jan,Sunday,New Year,Public Holiday
+kyrgyzstan,2040,2 Jan,Monday,Day off for New Year,Public Holiday
+kyrgyzstan,2040,7 Jan,Saturday,Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2040,9 Jan,Monday,Day off for Orthodox Christmas Day,Public Holiday
+kyrgyzstan,2040,23 Feb,Thursday,Defender of the Fatherland Day,Public Holiday
+kyrgyzstan,2040,8 Mar,Thursday,International Women's Day,Public Holiday
+kyrgyzstan,2040,20 Mar,Tuesday,March Equinox,Season
+kyrgyzstan,2040,21 Mar,Wednesday,"National Holiday ""Nooruz""",Public Holiday
+kyrgyzstan,2040,7 Apr,Saturday,April People's Revolution Day,Public Holiday
+kyrgyzstan,2040,9 Apr,Monday,Day off for April People's Revolution Day,Public Holiday
+kyrgyzstan,2040,1 May,Tuesday,May Day,Public Holiday
+kyrgyzstan,2040,5 May,Saturday,Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2040,7 May,Monday,Day off for Constitution Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2040,9 May,Wednesday,Victory Day,Public Holiday
+kyrgyzstan,2040,20 Jun,Wednesday,June Solstice,Season
+kyrgyzstan,2040,31 Aug,Friday,Independence Day of the Kyrgyz Republic,Public Holiday
+kyrgyzstan,2040,8 Sep,Saturday,Ramadan Start (Tentative Date),Observance
+kyrgyzstan,2040,22 Sep,Saturday,September Equinox,Season
+kyrgyzstan,2040,8 Oct,Monday,Orozo Ait (Tentative Date),Public Holiday
+kyrgyzstan,2040,7 Nov,Wednesday,Days of History and Memory of Ancestors,Public Holiday
+kyrgyzstan,2040,8 Nov,Thursday,Days of History and Memory of Ancestors Holiday,Public Holiday
+kyrgyzstan,2040,15 Dec,Saturday,Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2040,17 Dec,Monday,Day off for Kurman Ait (Tentative Date),Public Holiday
+kyrgyzstan,2040,21 Dec,Friday,December Solstice,Season

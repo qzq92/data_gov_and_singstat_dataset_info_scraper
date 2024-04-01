@@ -1,0 +1,683 @@
+Geo,Event Year,Date,Day,Name,Type
+kuwait,2011,1 Jan,Saturday,New Year's Day,Official holiday
+kuwait,2011,15 Feb,Tuesday,The Prophet's Birthday,Official holiday
+kuwait,2011,25 Feb,Friday,National Day,Official holiday
+kuwait,2011,26 Feb,Saturday,Liberation Day,Official holiday
+kuwait,2011,21 Mar,Monday,March Equinox,Season
+kuwait,2011,21 Jun,Tuesday,June Solstice,Season
+kuwait,2011,29 Jun,Wednesday,Isra and Miraj,Official holiday
+kuwait,2011,30 Aug,Tuesday,Eid al-Fitr,Official holiday
+kuwait,2011,31 Aug,Wednesday,Eid al-Fitr holiday,Official holiday
+kuwait,2011,1 Sep,Thursday,Eid al-Fitr holiday,Official holiday
+kuwait,2011,23 Sep,Friday,September Equinox,Season
+kuwait,2011,5 Nov,Saturday,Waqfat Arafat Day,Official holiday
+kuwait,2011,6 Nov,Sunday,Eid al-Adha,Official holiday
+kuwait,2011,7 Nov,Monday,Eid al-Adha holiday,Official holiday
+kuwait,2011,8 Nov,Tuesday,Eid al-Adha holiday,Official holiday
+kuwait,2011,26 Nov,Saturday,Islamic New Year,Official holiday
+kuwait,2011,22 Dec,Thursday,December Solstice,Season
+kuwait,2011,31 Dec,Saturday,New Year's Eve,Observance
+kuwait,2012,1 Jan,Sunday,New Year's Day,Official holiday
+kuwait,2012,5 Feb,Sunday,The Prophet's Birthday,Official holiday
+kuwait,2012,25 Feb,Saturday,National Day,Official holiday
+kuwait,2012,26 Feb,Sunday,Liberation Day,Official holiday
+kuwait,2012,27 Feb,Monday,National Day holiday,Official holiday
+kuwait,2012,20 Mar,Tuesday,March Equinox,Season
+kuwait,2012,17 Jun,Sunday,Isra and Miraj,Official holiday
+kuwait,2012,21 Jun,Thursday,June Solstice,Season
+kuwait,2012,19 Aug,Sunday,Eid al-Fitr,Official holiday
+kuwait,2012,20 Aug,Monday,Eid al-Fitr holiday,Official holiday
+kuwait,2012,21 Aug,Tuesday,Eid al-Fitr holiday,Official holiday
+kuwait,2012,22 Sep,Saturday,September Equinox,Season
+kuwait,2012,25 Oct,Thursday,Waqfat Arafat Day,Official holiday
+kuwait,2012,26 Oct,Friday,Eid al-Adha,Official holiday
+kuwait,2012,27 Oct,Saturday,Eid al-Adha holiday,Official holiday
+kuwait,2012,28 Oct,Sunday,Eid al-Adha holiday,Official holiday
+kuwait,2012,29 Oct,Monday,Eid al-Adha holiday,Official holiday
+kuwait,2012,15 Nov,Thursday,Islamic New Year,Official holiday
+kuwait,2012,21 Dec,Friday,December Solstice,Season
+kuwait,2012,31 Dec,Monday,New Year's Eve,Observance
+kuwait,2013,1 Jan,Tuesday,New Year's Day,Official holiday
+kuwait,2013,24 Jan,Thursday,The Prophet's Birthday,Official holiday
+kuwait,2013,25 Feb,Monday,National Day,Official holiday
+kuwait,2013,26 Feb,Tuesday,Liberation Day,Official holiday
+kuwait,2013,20 Mar,Wednesday,March Equinox,Season
+kuwait,2013,6 Jun,Thursday,Isra and Miraj,Official holiday
+kuwait,2013,21 Jun,Friday,June Solstice,Season
+kuwait,2013,8 Aug,Thursday,Eid al-Fitr,Official holiday
+kuwait,2013,9 Aug,Friday,Eid al-Fitr holiday,Official holiday
+kuwait,2013,10 Aug,Saturday,Eid al-Fitr holiday,Official holiday
+kuwait,2013,11 Aug,Sunday,Eid al-Fitr holiday,Government Holiday
+kuwait,2013,22 Sep,Sunday,September Equinox,Season
+kuwait,2013,16 Oct,Wednesday,Eid al-Adha holiday,Official holiday
+kuwait,2013,17 Oct,Thursday,Eid al-Adha holiday,Official holiday
+kuwait,2013,5 Nov,Tuesday,Islamic New Year,Official holiday
+kuwait,2013,21 Dec,Saturday,December Solstice,Season
+kuwait,2013,31 Dec,Tuesday,New Year's Eve,Observance
+kuwait,2014,1 Jan,Wednesday,New Year's Day,Official holiday
+kuwait,2014,16 Jan,Thursday,The Prophet's Birthday,Official holiday
+kuwait,2014,25 Feb,Tuesday,National Day,Official holiday
+kuwait,2014,26 Feb,Wednesday,Liberation Day,Official holiday
+kuwait,2014,20 Mar,Thursday,March Equinox,Season
+kuwait,2014,29 May,Thursday,Isra and Miraj,Official holiday
+kuwait,2014,21 Jun,Saturday,June Solstice,Season
+kuwait,2014,28 Jul,Monday,Eid al-Fitr,Official holiday
+kuwait,2014,29 Jul,Tuesday,Eid al-Fitr holiday,Official holiday
+kuwait,2014,30 Jul,Wednesday,Eid al-Fitr holiday,Official holiday
+kuwait,2014,23 Sep,Tuesday,September Equinox,Season
+kuwait,2014,3 Oct,Friday,Waqfat Arafat Day,Official holiday
+kuwait,2014,4 Oct,Saturday,Eid al-Adha,Official holiday
+kuwait,2014,5 Oct,Sunday,Eid al-Adha holiday,Official holiday
+kuwait,2014,6 Oct,Monday,Eid al-Adha holiday,Official holiday
+kuwait,2014,7 Oct,Tuesday,Eid al-Adha holiday,Official holiday
+kuwait,2014,25 Oct,Saturday,Islamic New Year,Official holiday
+kuwait,2014,22 Dec,Monday,December Solstice,Season
+kuwait,2014,31 Dec,Wednesday,New Year's Eve,Observance
+kuwait,2015,1 Jan,Thursday,New Year's Day,Official holiday
+kuwait,2015,25 Feb,Wednesday,National Day,Official holiday
+kuwait,2015,26 Feb,Thursday,Liberation Day,Official holiday
+kuwait,2015,21 Mar,Saturday,March Equinox,Season
+kuwait,2015,16 May,Saturday,Isra and Miraj,Official holiday
+kuwait,2015,21 Jun,Sunday,June Solstice,Season
+kuwait,2015,17 Jul,Friday,Eid al-Fitr holiday,Government Holiday
+kuwait,2015,18 Jul,Saturday,Eid al-Fitr,Official holiday
+kuwait,2015,19 Jul,Sunday,Eid al-Fitr holiday,Official holiday
+kuwait,2015,20 Jul,Monday,Eid al-Fitr holiday,Official holiday
+kuwait,2015,23 Sep,Wednesday,September Equinox,Season
+kuwait,2015,25 Sep,Friday,Eid al-Adha holiday,Official holiday
+kuwait,2015,26 Sep,Saturday,Eid al-Adha holiday,Official holiday
+kuwait,2015,27 Sep,Sunday,Eid al-Adha holiday,Official holiday
+kuwait,2015,15 Oct,Thursday,Islamic New Year,Official holiday
+kuwait,2015,22 Dec,Tuesday,December Solstice,Season
+kuwait,2015,23 Dec,Wednesday,The Prophet's Birthday,Official holiday
+kuwait,2015,31 Dec,Thursday,New Year's Eve,Official holiday
+kuwait,2016,1 Jan,Friday,New Year's Day,Official holiday
+kuwait,2016,25 Feb,Thursday,National Day,Official holiday
+kuwait,2016,26 Feb,Friday,Liberation Day,Official holiday
+kuwait,2016,20 Mar,Sunday,March Equinox,Season
+kuwait,2016,5 May,Thursday,Isra and Miraj,Official holiday
+kuwait,2016,21 Jun,Tuesday,June Solstice,Season
+kuwait,2016,5 Jul,Tuesday,Eid al-Fitr holiday,Government Holiday
+kuwait,2016,6 Jul,Wednesday,Eid al-Fitr,Official holiday
+kuwait,2016,7 Jul,Thursday,Eid al-Fitr holiday,Official holiday
+kuwait,2016,8 Jul,Friday,Eid al-Fitr holiday,Official holiday
+kuwait,2016,9 Jul,Saturday,Eid al-Fitr holiday,Government Holiday
+kuwait,2016,14 Sep,Wednesday,Eid al-Adha holiday,Official holiday
+kuwait,2016,15 Sep,Thursday,Eid al-Adha holiday,Official holiday
+kuwait,2016,22 Sep,Thursday,September Equinox,Season
+kuwait,2016,3 Oct,Monday,Islamic New Year,Official holiday
+kuwait,2016,12 Dec,Monday,The Prophet's Birthday,Official holiday
+kuwait,2016,21 Dec,Wednesday,December Solstice,Season
+kuwait,2016,31 Dec,Saturday,New Year's Eve,Observance
+kuwait,2017,1 Jan,Sunday,New Year's Day,Official holiday
+kuwait,2017,25 Feb,Saturday,National Day,Official holiday
+kuwait,2017,26 Feb,Sunday,Liberation Day,Official holiday
+kuwait,2017,20 Mar,Monday,March Equinox,Season
+kuwait,2017,27 Apr,Thursday,Isra and Miraj,Official holiday
+kuwait,2017,21 Jun,Wednesday,June Solstice,Season
+kuwait,2017,26 Jun,Monday,Eid al-Fitr,Official holiday
+kuwait,2017,27 Jun,Tuesday,Eid al-Fitr holiday,Official holiday
+kuwait,2017,28 Jun,Wednesday,Eid al-Fitr holiday,Official holiday
+kuwait,2017,3 Sep,Sunday,Eid al-Adha holiday,Official holiday
+kuwait,2017,4 Sep,Monday,Eid al-Adha holiday,Official holiday
+kuwait,2017,22 Sep,Friday,Islamic New Year,Official holiday
+kuwait,2017,22 Sep,Friday,September Equinox,Season
+kuwait,2017,1 Dec,Friday,The Prophet's Birthday,Official holiday
+kuwait,2017,21 Dec,Thursday,December Solstice,Season
+kuwait,2017,31 Dec,Sunday,New Year's Eve,Observance
+kuwait,2018,1 Jan,Monday,New Year's Day,Official holiday
+kuwait,2018,25 Feb,Sunday,National Day,Official holiday
+kuwait,2018,26 Feb,Monday,Liberation Day,Official holiday
+kuwait,2018,20 Mar,Tuesday,March Equinox,Season
+kuwait,2018,15 Apr,Sunday,Isra and Miraj,Official holiday
+kuwait,2018,15 Jun,Friday,Eid al-Fitr,Official holiday
+kuwait,2018,16 Jun,Saturday,Eid al-Fitr holiday,Official holiday
+kuwait,2018,17 Jun,Sunday,Eid al-Fitr holiday,Official holiday
+kuwait,2018,18 Jun,Monday,Eid al-Fitr holiday,Government Holiday
+kuwait,2018,21 Jun,Thursday,June Solstice,Season
+kuwait,2018,19 Aug,Sunday,Eid al-Adha holiday,Official holiday
+kuwait,2018,20 Aug,Monday,Waqfat Arafat Day,Official holiday
+kuwait,2018,21 Aug,Tuesday,Eid al-Adha,Official holiday
+kuwait,2018,22 Aug,Wednesday,Eid al-Adha holiday,Official holiday
+kuwait,2018,23 Aug,Thursday,Eid al-Adha holiday,Official holiday
+kuwait,2018,11 Sep,Tuesday,Islamic New Year,Official holiday
+kuwait,2018,23 Sep,Sunday,September Equinox,Season
+kuwait,2018,22 Nov,Thursday,The Prophet's Birthday,Official holiday
+kuwait,2018,22 Dec,Saturday,December Solstice,Season
+kuwait,2018,31 Dec,Monday,New Year's Eve,Observance
+kuwait,2019,1 Jan,Tuesday,New Year's Day,Official holiday
+kuwait,2019,24 Feb,Sunday,National and Liberation Day Holiday,Official holiday
+kuwait,2019,25 Feb,Monday,National Day,Official holiday
+kuwait,2019,26 Feb,Tuesday,Liberation Day,Official holiday
+kuwait,2019,21 Mar,Thursday,March Equinox,Season
+kuwait,2019,3 Apr,Wednesday,Isra and Miraj,Official holiday
+kuwait,2019,4 Jun,Tuesday,Eid al-Fitr,Official holiday
+kuwait,2019,5 Jun,Wednesday,Eid al-Fitr holiday,Official holiday
+kuwait,2019,6 Jun,Thursday,Eid al-Fitr holiday,Official holiday
+kuwait,2019,21 Jun,Friday,June Solstice,Season
+kuwait,2019,10 Aug,Saturday,Waqfat Arafat Day,Official holiday
+kuwait,2019,11 Aug,Sunday,Eid al-Adha,Official holiday
+kuwait,2019,12 Aug,Monday,Eid al-Adha holiday,Official holiday
+kuwait,2019,13 Aug,Tuesday,Eid al-Adha holiday,Official holiday
+kuwait,2019,31 Aug,Saturday,Islamic New Year,Official holiday
+kuwait,2019,23 Sep,Monday,September Equinox,Season
+kuwait,2019,9 Nov,Saturday,The Prophet's Birthday,Official holiday
+kuwait,2019,22 Dec,Sunday,December Solstice,Season
+kuwait,2019,31 Dec,Tuesday,New Year's Eve,Observance
+kuwait,2020,1 Jan,Wednesday,New Year's Day,Official holiday
+kuwait,2020,2 Jan,Thursday,New Year's Day Holiday,Official holiday
+kuwait,2020,11 Jan,Saturday,Mourning Holiday for Sultan Qaboos Bin Said,Government Holiday
+kuwait,2020,12 Jan,Sunday,Mourning Holiday for Sultan Qaboos Bin Said,Government Holiday
+kuwait,2020,13 Jan,Monday,Mourning Holiday for Sultan Qaboos Bin Said,Government Holiday
+kuwait,2020,25 Feb,Tuesday,National Day,Official holiday
+kuwait,2020,26 Feb,Wednesday,Liberation Day,Official holiday
+kuwait,2020,27 Feb,Thursday,National and Liberation Day Holiday,Official holiday
+kuwait,2020,12 Mar,Thursday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,13 Mar,Friday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,14 Mar,Saturday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,15 Mar,Sunday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,16 Mar,Monday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,17 Mar,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,18 Mar,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,19 Mar,Thursday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,20 Mar,Friday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,20 Mar,Friday,March Equinox,Season
+kuwait,2020,21 Mar,Saturday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,22 Mar,Sunday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,22 Mar,Sunday,Isra and Miraj,Official holiday
+kuwait,2020,23 Mar,Monday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,24 Mar,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,25 Mar,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,26 Mar,Thursday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,27 Mar,Friday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,28 Mar,Saturday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,29 Mar,Sunday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,30 Mar,Monday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,31 Mar,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,1 Apr,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,2 Apr,Thursday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,3 Apr,Friday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,4 Apr,Saturday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,5 Apr,Sunday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,6 Apr,Monday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,7 Apr,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,8 Apr,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,9 Apr,Thursday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,10 Apr,Friday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,11 Apr,Saturday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,12 Apr,Sunday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,13 Apr,Monday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,14 Apr,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,15 Apr,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,16 Apr,Thursday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,17 Apr,Friday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,18 Apr,Saturday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,19 Apr,Sunday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,20 Apr,Monday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,21 Apr,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,22 Apr,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,23 Apr,Thursday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,24 Apr,Friday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,25 Apr,Saturday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,26 Apr,Sunday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,27 Apr,Monday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,28 Apr,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,29 Apr,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,30 Apr,Thursday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,1 May,Friday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,2 May,Saturday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,3 May,Sunday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,4 May,Monday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,5 May,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,6 May,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,7 May,Thursday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,8 May,Friday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,9 May,Saturday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,10 May,Sunday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,11 May,Monday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,12 May,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,13 May,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,14 May,Thursday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,15 May,Friday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,16 May,Saturday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,17 May,Sunday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,18 May,Monday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,19 May,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,20 May,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,21 May,Thursday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,22 May,Friday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,23 May,Saturday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,24 May,Sunday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,24 May,Sunday,Eid al-Fitr,Official holiday
+kuwait,2020,25 May,Monday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,25 May,Monday,Eid al-Fitr holiday,Official holiday
+kuwait,2020,26 May,Tuesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,26 May,Tuesday,Eid al-Fitr holiday,Official holiday
+kuwait,2020,27 May,Wednesday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,28 May,Thursday,Public Holiday,Non-Working Day (COVID-19)
+kuwait,2020,21 Jun,Sunday,June Solstice,Season
+kuwait,2020,30 Jul,Thursday,Waqfat Arafat Day,Official holiday
+kuwait,2020,31 Jul,Friday,Eid al-Adha,Official holiday
+kuwait,2020,1 Aug,Saturday,Eid al-Adha holiday,Official holiday
+kuwait,2020,2 Aug,Sunday,Eid al-Adha holiday,Official holiday
+kuwait,2020,3 Aug,Monday,Eid al-Adha holiday,Official holiday
+kuwait,2020,20 Aug,Thursday,Islamic New Year,Official holiday
+kuwait,2020,22 Sep,Tuesday,September Equinox,Season
+kuwait,2020,29 Oct,Thursday,The Prophet's Birthday,Official holiday
+kuwait,2020,21 Dec,Monday,December Solstice,Season
+kuwait,2020,31 Dec,Thursday,New Year's Eve,Observance
+kuwait,2021,1 Jan,Friday,New Year's Day,Official holiday
+kuwait,2021,3 Jan,Sunday,New Year's Day Holiday,Government Holiday
+kuwait,2021,25 Feb,Thursday,National Day,Official holiday
+kuwait,2021,26 Feb,Friday,Liberation Day,Official holiday
+kuwait,2021,11 Mar,Thursday,Isra and Miraj,Official holiday
+kuwait,2021,20 Mar,Saturday,March Equinox,Season
+kuwait,2021,12 May,Wednesday,Eid al-Fitr holiday,Government Holiday
+kuwait,2021,13 May,Thursday,Eid al-Fitr,Official holiday
+kuwait,2021,14 May,Friday,Eid al-Fitr holiday,Official holiday
+kuwait,2021,15 May,Saturday,Eid al-Fitr holiday,Official holiday
+kuwait,2021,16 May,Sunday,Eid al-Fitr holiday,Government Holiday
+kuwait,2021,21 Jun,Monday,June Solstice,Season
+kuwait,2021,18 Jul,Sunday,Eid al-Adha holiday,Official holiday
+kuwait,2021,19 Jul,Monday,Waqfat Arafat Day,Official holiday
+kuwait,2021,20 Jul,Tuesday,Eid al-Adha,Official holiday
+kuwait,2021,21 Jul,Wednesday,Eid al-Adha holiday,Official holiday
+kuwait,2021,22 Jul,Thursday,Eid al-Adha holiday,Official holiday
+kuwait,2021,8 Aug,Sunday,Islamic New Year holiday,Official holiday
+kuwait,2021,9 Aug,Monday,Islamic New Year,Official holiday
+kuwait,2021,22 Sep,Wednesday,September Equinox,Season
+kuwait,2021,21 Oct,Thursday,The Prophet's Birthday,Official holiday
+kuwait,2021,21 Dec,Tuesday,December Solstice,Season
+kuwait,2021,31 Dec,Friday,New Year's Eve,Observance
+kuwait,2022,1 Jan,Saturday,New Year's Day,Official holiday
+kuwait,2022,2 Jan,Sunday,New Year's Day Holiday,Government Holiday
+kuwait,2022,25 Feb,Friday,National Day,Official holiday
+kuwait,2022,26 Feb,Saturday,Liberation Day,Official holiday
+kuwait,2022,27 Feb,Sunday,Public Sector Holiday,Government Holiday
+kuwait,2022,28 Feb,Monday,Public Sector Holiday,Government Holiday
+kuwait,2022,1 Mar,Tuesday,Isra and Miraj,Official holiday
+kuwait,2022,2 Mar,Wednesday,Public Sector Holiday,Government Holiday
+kuwait,2022,3 Mar,Thursday,Public Sector Holiday,Government Holiday
+kuwait,2022,20 Mar,Sunday,March Equinox,Season
+kuwait,2022,1 May,Sunday,Eid al-Fitr holiday,Government Holiday
+kuwait,2022,2 May,Monday,Eid al-Fitr,Official holiday
+kuwait,2022,3 May,Tuesday,Eid al-Fitr holiday,Official holiday
+kuwait,2022,4 May,Wednesday,Eid al-Fitr holiday,Official holiday
+kuwait,2022,5 May,Thursday,Eid al-Fitr holiday,Government Holiday
+kuwait,2022,21 Jun,Tuesday,June Solstice,Season
+kuwait,2022,8 Jul,Friday,Waqfat Arafat Day,Official holiday
+kuwait,2022,9 Jul,Saturday,Eid al-Adha,Official holiday
+kuwait,2022,10 Jul,Sunday,Eid al-Adha holiday,Official holiday
+kuwait,2022,11 Jul,Monday,Eid al-Adha holiday,Official holiday
+kuwait,2022,12 Jul,Tuesday,Public Sector Holiday,Government Holiday
+kuwait,2022,13 Jul,Wednesday,Public Sector Holiday,Government Holiday
+kuwait,2022,14 Jul,Thursday,Public Sector Holiday,Government Holiday
+kuwait,2022,30 Jul,Saturday,Islamic New Year,Official holiday
+kuwait,2022,31 Jul,Sunday,Islamic New Year Holiday,Official holiday
+kuwait,2022,23 Sep,Friday,September Equinox,Season
+kuwait,2022,29 Sep,Thursday,Parliamentary Elections Holiday,Government Holiday
+kuwait,2022,9 Oct,Sunday,The Prophet's Birthday,Official holiday
+kuwait,2022,22 Dec,Thursday,December Solstice,Season
+kuwait,2022,31 Dec,Saturday,New Year's Eve,Observance
+kuwait,2023,1 Jan,Sunday,New Year's Day,Official holiday
+kuwait,2023,18 Feb,Saturday,Isra and Miraj,Official holiday
+kuwait,2023,19 Feb,Sunday,Day off for Isra and Miraj,Official holiday
+kuwait,2023,25 Feb,Saturday,National Day,Official holiday
+kuwait,2023,26 Feb,Sunday,Liberation Day,Official holiday
+kuwait,2023,27 Feb,Monday,National Day holiday,Official holiday
+kuwait,2023,21 Mar,Tuesday,March Equinox,Season
+kuwait,2023,23 Mar,Thursday,Ramadan Start,Observance
+kuwait,2023,21 Apr,Friday,Eid al-Fitr,Official holiday
+kuwait,2023,22 Apr,Saturday,Eid al-Fitr holiday,Official holiday
+kuwait,2023,23 Apr,Sunday,Eid al-Fitr holiday,Official holiday
+kuwait,2023,24 Apr,Monday,Eid al-Fitr holiday,Government Holiday
+kuwait,2023,25 Apr,Tuesday,Eid al-Fitr holiday,Government Holiday
+kuwait,2023,6 Jun,Tuesday,Parliamentary Elections Holiday,Government Holiday
+kuwait,2023,21 Jun,Wednesday,June Solstice,Season
+kuwait,2023,27 Jun,Tuesday,Waqfat Arafat Day,Official holiday
+kuwait,2023,28 Jun,Wednesday,Eid al-Adha,Official holiday
+kuwait,2023,29 Jun,Thursday,Eid al-Adha holiday,Official holiday
+kuwait,2023,30 Jun,Friday,Eid al-Adha holiday,Official holiday
+kuwait,2023,1 Jul,Saturday,Eid al-Adha holiday,Official holiday
+kuwait,2023,2 Jul,Sunday,Eid al-Adha holiday,Official holiday
+kuwait,2023,19 Jul,Wednesday,Islamic New Year,Official holiday
+kuwait,2023,20 Jul,Thursday,Islamic New Year Holiday,Official holiday
+kuwait,2023,23 Sep,Saturday,September Equinox,Season
+kuwait,2023,28 Sep,Thursday,The Prophet's Birthday,Official holiday
+kuwait,2023,17 Dec,Sunday,Public Sector Holiday,Government Holiday
+kuwait,2023,18 Dec,Monday,Public Sector Holiday,Government Holiday
+kuwait,2023,19 Dec,Tuesday,Public Sector Holiday,Government Holiday
+kuwait,2023,22 Dec,Friday,December Solstice,Season
+kuwait,2023,31 Dec,Sunday,New Year's Eve,Official holiday
+kuwait,2024,1 Jan,Monday,New Year's Day,Official holiday
+kuwait,2024,8 Feb,Thursday,Isra and Miraj,Official holiday
+kuwait,2024,25 Feb,Sunday,National Day,Official holiday
+kuwait,2024,26 Feb,Monday,Liberation Day,Official holiday
+kuwait,2024,11 Mar,Monday,Ramadan Start,Observance
+kuwait,2024,20 Mar,Wednesday,March Equinox,Season
+kuwait,2024,10 Apr,Wednesday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2024,11 Apr,Thursday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2024,12 Apr,Friday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2024,16 Jun,Sunday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2024,17 Jun,Monday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2024,18 Jun,Tuesday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2024,19 Jun,Wednesday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2024,20 Jun,Thursday,June Solstice,Season
+kuwait,2024,8 Jul,Monday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2024,16 Sep,Monday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2024,22 Sep,Sunday,September Equinox,Season
+kuwait,2024,21 Dec,Saturday,December Solstice,Season
+kuwait,2024,31 Dec,Tuesday,New Year's Eve,Observance
+kuwait,2025,1 Jan,Wednesday,New Year's Day,Official holiday
+kuwait,2025,27 Jan,Monday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2025,25 Feb,Tuesday,National Day,Official holiday
+kuwait,2025,26 Feb,Wednesday,Liberation Day,Official holiday
+kuwait,2025,1 Mar,Saturday,Ramadan Start (Tentative Date),Observance
+kuwait,2025,20 Mar,Thursday,March Equinox,Season
+kuwait,2025,31 Mar,Monday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2025,1 Apr,Tuesday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2025,2 Apr,Wednesday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2025,6 Jun,Friday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2025,7 Jun,Saturday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2025,8 Jun,Sunday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2025,9 Jun,Monday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2025,21 Jun,Saturday,June Solstice,Season
+kuwait,2025,27 Jun,Friday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2025,5 Sep,Friday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2025,22 Sep,Monday,September Equinox,Season
+kuwait,2025,21 Dec,Sunday,December Solstice,Season
+kuwait,2025,31 Dec,Wednesday,New Year's Eve,Observance
+kuwait,2026,1 Jan,Thursday,New Year's Day,Official holiday
+kuwait,2026,16 Jan,Friday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2026,18 Feb,Wednesday,Ramadan Start (Tentative Date),Observance
+kuwait,2026,25 Feb,Wednesday,National Day,Official holiday
+kuwait,2026,26 Feb,Thursday,Liberation Day,Official holiday
+kuwait,2026,20 Mar,Friday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2026,20 Mar,Friday,March Equinox,Season
+kuwait,2026,21 Mar,Saturday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2026,22 Mar,Sunday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2026,26 May,Tuesday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2026,27 May,Wednesday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2026,28 May,Thursday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2026,29 May,Friday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2026,17 Jun,Wednesday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2026,21 Jun,Sunday,June Solstice,Season
+kuwait,2026,26 Aug,Wednesday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2026,23 Sep,Wednesday,September Equinox,Season
+kuwait,2026,21 Dec,Monday,December Solstice,Season
+kuwait,2026,31 Dec,Thursday,New Year's Eve,Observance
+kuwait,2027,1 Jan,Friday,New Year's Day,Official holiday
+kuwait,2027,6 Jan,Wednesday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2027,8 Feb,Monday,Ramadan Start (Tentative Date),Observance
+kuwait,2027,25 Feb,Thursday,National Day,Official holiday
+kuwait,2027,26 Feb,Friday,Liberation Day,Official holiday
+kuwait,2027,10 Mar,Wednesday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2027,11 Mar,Thursday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2027,12 Mar,Friday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2027,20 Mar,Saturday,March Equinox,Season
+kuwait,2027,16 May,Sunday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2027,17 May,Monday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2027,18 May,Tuesday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2027,19 May,Wednesday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2027,6 Jun,Sunday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2027,21 Jun,Monday,June Solstice,Season
+kuwait,2027,15 Aug,Sunday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2027,23 Sep,Thursday,September Equinox,Season
+kuwait,2027,22 Dec,Wednesday,December Solstice,Season
+kuwait,2027,26 Dec,Sunday,Isra and Miraj,Official holiday
+kuwait,2027,31 Dec,Friday,New Year's Eve,Observance
+kuwait,2028,1 Jan,Saturday,New Year's Day,Official holiday
+kuwait,2028,28 Jan,Friday,Ramadan Start (Tentative Date),Observance
+kuwait,2028,25 Feb,Friday,National Day,Official holiday
+kuwait,2028,26 Feb,Saturday,Liberation Day,Official holiday
+kuwait,2028,27 Feb,Sunday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2028,28 Feb,Monday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2028,29 Feb,Tuesday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2028,20 Mar,Monday,March Equinox,Season
+kuwait,2028,4 May,Thursday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2028,5 May,Friday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2028,6 May,Saturday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2028,7 May,Sunday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2028,25 May,Thursday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2028,20 Jun,Tuesday,June Solstice,Season
+kuwait,2028,3 Aug,Thursday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2028,22 Sep,Friday,September Equinox,Season
+kuwait,2028,14 Dec,Thursday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2028,21 Dec,Thursday,December Solstice,Season
+kuwait,2028,31 Dec,Sunday,New Year's Eve,Observance
+kuwait,2029,1 Jan,Monday,New Year's Day,Official holiday
+kuwait,2029,16 Jan,Tuesday,Ramadan Start (Tentative Date),Observance
+kuwait,2029,15 Feb,Thursday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2029,16 Feb,Friday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2029,17 Feb,Saturday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2029,25 Feb,Sunday,National Day,Official holiday
+kuwait,2029,26 Feb,Monday,Liberation Day,Official holiday
+kuwait,2029,20 Mar,Tuesday,March Equinox,Season
+kuwait,2029,23 Apr,Monday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2029,24 Apr,Tuesday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2029,25 Apr,Wednesday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2029,26 Apr,Thursday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2029,15 May,Tuesday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2029,21 Jun,Thursday,June Solstice,Season
+kuwait,2029,24 Jul,Tuesday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2029,22 Sep,Saturday,September Equinox,Season
+kuwait,2029,4 Dec,Tuesday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2029,21 Dec,Friday,December Solstice,Season
+kuwait,2029,31 Dec,Monday,New Year's Eve,Observance
+kuwait,2030,1 Jan,Tuesday,New Year's Day,Official holiday
+kuwait,2030,6 Jan,Sunday,Ramadan Start (Tentative Date),Observance
+kuwait,2030,5 Feb,Tuesday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2030,6 Feb,Wednesday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2030,7 Feb,Thursday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2030,25 Feb,Monday,National Day,Official holiday
+kuwait,2030,26 Feb,Tuesday,Liberation Day,Official holiday
+kuwait,2030,20 Mar,Wednesday,March Equinox,Season
+kuwait,2030,13 Apr,Saturday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2030,14 Apr,Sunday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2030,15 Apr,Monday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2030,16 Apr,Tuesday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2030,4 May,Saturday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2030,21 Jun,Friday,June Solstice,Season
+kuwait,2030,13 Jul,Saturday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2030,23 Sep,Monday,September Equinox,Season
+kuwait,2030,23 Nov,Saturday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2030,21 Dec,Saturday,December Solstice,Season
+kuwait,2030,26 Dec,Thursday,Ramadan Start,Observance
+kuwait,2030,31 Dec,Tuesday,New Year's Eve,Observance
+kuwait,2031,1 Jan,Wednesday,New Year's Day,Official holiday
+kuwait,2031,25 Jan,Saturday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2031,26 Jan,Sunday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2031,27 Jan,Monday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2031,25 Feb,Tuesday,National Day,Official holiday
+kuwait,2031,26 Feb,Wednesday,Liberation Day,Official holiday
+kuwait,2031,20 Mar,Thursday,March Equinox,Season
+kuwait,2031,2 Apr,Wednesday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2031,3 Apr,Thursday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2031,4 Apr,Friday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2031,5 Apr,Saturday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2031,23 Apr,Wednesday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2031,21 Jun,Saturday,June Solstice,Season
+kuwait,2031,2 Jul,Wednesday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2031,23 Sep,Tuesday,September Equinox,Season
+kuwait,2031,12 Nov,Wednesday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2031,15 Dec,Monday,Ramadan Start (Tentative Date),Observance
+kuwait,2031,22 Dec,Monday,December Solstice,Season
+kuwait,2031,31 Dec,Wednesday,New Year's Eve,Observance
+kuwait,2032,1 Jan,Thursday,New Year's Day,Official holiday
+kuwait,2032,14 Jan,Wednesday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2032,15 Jan,Thursday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2032,16 Jan,Friday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2032,25 Feb,Wednesday,National Day,Official holiday
+kuwait,2032,26 Feb,Thursday,Liberation Day,Official holiday
+kuwait,2032,20 Mar,Saturday,March Equinox,Season
+kuwait,2032,21 Mar,Sunday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2032,22 Mar,Monday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2032,23 Mar,Tuesday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2032,24 Mar,Wednesday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2032,12 Apr,Monday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2032,20 Jun,Sunday,June Solstice,Season
+kuwait,2032,21 Jun,Monday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2032,22 Sep,Wednesday,September Equinox,Season
+kuwait,2032,1 Nov,Monday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2032,4 Dec,Saturday,Ramadan Start (Tentative Date),Observance
+kuwait,2032,21 Dec,Tuesday,December Solstice,Season
+kuwait,2032,31 Dec,Friday,New Year's Eve,Observance
+kuwait,2033,1 Jan,Saturday,New Year's Day,Official holiday
+kuwait,2033,3 Jan,Monday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2033,4 Jan,Tuesday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2033,5 Jan,Wednesday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2033,25 Feb,Friday,National Day,Official holiday
+kuwait,2033,26 Feb,Saturday,Liberation Day,Official holiday
+kuwait,2033,11 Mar,Friday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2033,12 Mar,Saturday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2033,13 Mar,Sunday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2033,14 Mar,Monday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2033,20 Mar,Sunday,March Equinox,Season
+kuwait,2033,1 Apr,Friday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2033,10 Jun,Friday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2033,21 Jun,Tuesday,June Solstice,Season
+kuwait,2033,22 Sep,Thursday,September Equinox,Season
+kuwait,2033,21 Oct,Friday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2033,23 Nov,Wednesday,Ramadan Start (Tentative Date),Observance
+kuwait,2033,21 Dec,Wednesday,December Solstice,Season
+kuwait,2033,23 Dec,Friday,Eid al-Fitr,Official holiday
+kuwait,2033,24 Dec,Saturday,Eid al-Fitr holiday,Official holiday
+kuwait,2033,25 Dec,Sunday,Eid al-Fitr holiday,Official holiday
+kuwait,2033,31 Dec,Saturday,New Year's Eve,Observance
+kuwait,2034,1 Jan,Sunday,New Year's Day,Official holiday
+kuwait,2034,25 Feb,Saturday,National Day,Official holiday
+kuwait,2034,26 Feb,Sunday,Liberation Day,Official holiday
+kuwait,2034,28 Feb,Tuesday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2034,1 Mar,Wednesday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2034,2 Mar,Thursday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2034,3 Mar,Friday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2034,20 Mar,Monday,March Equinox,Season
+kuwait,2034,21 Mar,Tuesday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2034,30 May,Tuesday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2034,21 Jun,Wednesday,June Solstice,Season
+kuwait,2034,23 Sep,Saturday,September Equinox,Season
+kuwait,2034,10 Oct,Tuesday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2034,12 Nov,Sunday,Ramadan Start (Tentative Date),Observance
+kuwait,2034,12 Dec,Tuesday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2034,13 Dec,Wednesday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2034,14 Dec,Thursday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2034,21 Dec,Thursday,December Solstice,Season
+kuwait,2034,31 Dec,Sunday,New Year's Eve,Observance
+kuwait,2035,1 Jan,Monday,New Year's Day,Official holiday
+kuwait,2035,17 Feb,Saturday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2035,18 Feb,Sunday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2035,19 Feb,Monday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2035,20 Feb,Tuesday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2035,25 Feb,Sunday,National Day,Official holiday
+kuwait,2035,26 Feb,Monday,Liberation Day,Official holiday
+kuwait,2035,11 Mar,Sunday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2035,20 Mar,Tuesday,March Equinox,Season
+kuwait,2035,20 May,Sunday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2035,21 Jun,Thursday,June Solstice,Season
+kuwait,2035,23 Sep,Sunday,September Equinox,Season
+kuwait,2035,30 Sep,Sunday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2035,2 Nov,Friday,Ramadan Start (Tentative Date),Observance
+kuwait,2035,2 Dec,Sunday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2035,3 Dec,Monday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2035,4 Dec,Tuesday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2035,22 Dec,Saturday,December Solstice,Season
+kuwait,2035,31 Dec,Monday,New Year's Eve,Observance
+kuwait,2036,1 Jan,Tuesday,New Year's Day,Official holiday
+kuwait,2036,7 Feb,Thursday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2036,8 Feb,Friday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2036,9 Feb,Saturday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2036,10 Feb,Sunday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2036,25 Feb,Monday,National Day,Official holiday
+kuwait,2036,26 Feb,Tuesday,Liberation Day,Official holiday
+kuwait,2036,28 Feb,Thursday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2036,20 Mar,Thursday,March Equinox,Season
+kuwait,2036,8 May,Thursday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2036,20 Jun,Friday,June Solstice,Season
+kuwait,2036,18 Sep,Thursday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2036,22 Sep,Monday,September Equinox,Season
+kuwait,2036,21 Oct,Tuesday,Ramadan Start (Tentative Date),Observance
+kuwait,2036,20 Nov,Thursday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2036,21 Nov,Friday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2036,22 Nov,Saturday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2036,21 Dec,Sunday,December Solstice,Season
+kuwait,2036,31 Dec,Wednesday,New Year's Eve,Observance
+kuwait,2037,1 Jan,Thursday,New Year's Day,Official holiday
+kuwait,2037,26 Jan,Monday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2037,27 Jan,Tuesday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2037,28 Jan,Wednesday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2037,29 Jan,Thursday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2037,17 Feb,Tuesday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2037,25 Feb,Wednesday,National Day,Official holiday
+kuwait,2037,26 Feb,Thursday,Liberation Day,Official holiday
+kuwait,2037,20 Mar,Friday,March Equinox,Season
+kuwait,2037,28 Apr,Tuesday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2037,21 Jun,Sunday,June Solstice,Season
+kuwait,2037,8 Sep,Tuesday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2037,22 Sep,Tuesday,September Equinox,Season
+kuwait,2037,11 Oct,Sunday,Ramadan Start (Tentative Date),Observance
+kuwait,2037,10 Nov,Tuesday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2037,11 Nov,Wednesday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2037,12 Nov,Thursday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2037,21 Dec,Monday,December Solstice,Season
+kuwait,2037,31 Dec,Thursday,New Year's Eve,Observance
+kuwait,2038,1 Jan,Friday,New Year's Day,Official holiday
+kuwait,2038,16 Jan,Saturday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2038,17 Jan,Sunday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2038,18 Jan,Monday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2038,19 Jan,Tuesday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2038,6 Feb,Saturday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2038,25 Feb,Thursday,National Day,Official holiday
+kuwait,2038,26 Feb,Friday,Liberation Day,Official holiday
+kuwait,2038,20 Mar,Saturday,March Equinox,Season
+kuwait,2038,17 Apr,Saturday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2038,21 Jun,Monday,June Solstice,Season
+kuwait,2038,28 Aug,Saturday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2038,23 Sep,Thursday,September Equinox,Season
+kuwait,2038,30 Sep,Thursday,Ramadan Start (Tentative Date),Observance
+kuwait,2038,30 Oct,Saturday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2038,31 Oct,Sunday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2038,1 Nov,Monday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2038,21 Dec,Tuesday,December Solstice,Season
+kuwait,2038,31 Dec,Friday,New Year's Eve,Observance
+kuwait,2039,1 Jan,Saturday,New Year's Day,Official holiday
+kuwait,2039,5 Jan,Wednesday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2039,6 Jan,Thursday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2039,7 Jan,Friday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2039,8 Jan,Saturday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2039,26 Jan,Wednesday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2039,25 Feb,Friday,National Day,Official holiday
+kuwait,2039,26 Feb,Saturday,Liberation Day,Official holiday
+kuwait,2039,20 Mar,Sunday,March Equinox,Season
+kuwait,2039,6 Apr,Wednesday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2039,21 Jun,Tuesday,June Solstice,Season
+kuwait,2039,17 Aug,Wednesday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2039,19 Sep,Monday,Ramadan Start (Tentative Date),Observance
+kuwait,2039,23 Sep,Friday,September Equinox,Season
+kuwait,2039,19 Oct,Wednesday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2039,20 Oct,Thursday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2039,21 Oct,Friday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2039,22 Dec,Thursday,December Solstice,Season
+kuwait,2039,25 Dec,Sunday,Waqfat Arafat Day,Official holiday
+kuwait,2039,26 Dec,Monday,Eid al-Adha,Official holiday
+kuwait,2039,27 Dec,Tuesday,Eid al-Adha holiday,Official holiday
+kuwait,2039,28 Dec,Wednesday,Eid al-Adha holiday,Official holiday
+kuwait,2039,31 Dec,Saturday,New Year's Eve,Observance
+kuwait,2040,1 Jan,Sunday,New Year's Day,Official holiday
+kuwait,2040,16 Jan,Monday,Islamic New Year (Tentative Date),Official holiday
+kuwait,2040,25 Feb,Saturday,National Day,Official holiday
+kuwait,2040,26 Feb,Sunday,Liberation Day,Official holiday
+kuwait,2040,20 Mar,Tuesday,March Equinox,Season
+kuwait,2040,26 Mar,Monday,The Prophet's Birthday (Tentative Date),Official holiday
+kuwait,2040,20 Jun,Wednesday,June Solstice,Season
+kuwait,2040,6 Aug,Monday,Isra and Miraj (Tentative Date),Official holiday
+kuwait,2040,8 Sep,Saturday,Ramadan Start (Tentative Date),Observance
+kuwait,2040,22 Sep,Saturday,September Equinox,Season
+kuwait,2040,8 Oct,Monday,Eid al-Fitr (Tentative Date),Official holiday
+kuwait,2040,9 Oct,Tuesday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2040,10 Oct,Wednesday,Eid al-Fitr holiday (Tentative Date),Official holiday
+kuwait,2040,14 Dec,Friday,Waqfat Arafat Day (Tentative Date),Official holiday
+kuwait,2040,15 Dec,Saturday,Eid al-Adha (Tentative Date),Official holiday
+kuwait,2040,16 Dec,Sunday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2040,17 Dec,Monday,Eid al-Adha holiday (Tentative Date),Official holiday
+kuwait,2040,21 Dec,Friday,December Solstice,Season
+kuwait,2040,31 Dec,Monday,New Year's Eve,Observance

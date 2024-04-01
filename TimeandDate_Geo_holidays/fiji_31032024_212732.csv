@@ -1,0 +1,410 @@
+Geo,Event Year,Date,Day,Name,Type
+fiji,2015,1 Jan,Thursday,New Year,Public Holiday
+fiji,2015,5 Jan,Monday,The Prophet's Birthday,Public Holiday
+fiji,2015,18 Jan,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+fiji,2015,21 Mar,Saturday,March Equinox,Season
+fiji,2015,3 Apr,Friday,Good Friday,Public Holiday
+fiji,2015,4 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2015,6 Apr,Monday,Easter Monday,Public Holiday
+fiji,2015,22 Jun,Monday,June Solstice,Season
+fiji,2015,26 Jun,Friday,National Sports Day,Public Holiday
+fiji,2015,23 Sep,Wednesday,September Equinox,Season
+fiji,2015,10 Oct,Saturday,Fiji Day,Public Holiday
+fiji,2015,1 Nov,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+fiji,2015,11 Nov,Wednesday,Diwali,Public Holiday
+fiji,2015,22 Dec,Tuesday,December Solstice,Season
+fiji,2015,25 Dec,Friday,Christmas Day,Public Holiday
+fiji,2015,26 Dec,Saturday,Boxing Day,Public Holiday
+fiji,2015,28 Dec,Monday,Day off for Boxing Day,Public Holiday
+fiji,2015,28 Dec,Monday,Boxing Day Holiday,Public Holiday
+fiji,2016,1 Jan,Friday,New Year,Public Holiday
+fiji,2016,17 Jan,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+fiji,2016,20 Mar,Sunday,March Equinox,Season
+fiji,2016,25 Mar,Friday,Good Friday,Public Holiday
+fiji,2016,26 Mar,Saturday,Holy Saturday,Public Holiday
+fiji,2016,28 Mar,Monday,Easter Monday,Public Holiday
+fiji,2016,21 Jun,Tuesday,June Solstice,Season
+fiji,2016,26 Jun,Sunday,National Sports Day,Public Holiday
+fiji,2016,22 Aug,Monday,First Gold Medal Special Holiday,Public Holiday
+fiji,2016,7 Sep,Wednesday,Constitution Day,Public Holiday
+fiji,2016,23 Sep,Friday,September Equinox,Season
+fiji,2016,10 Oct,Monday,Fiji Day,Public Holiday
+fiji,2016,27 Oct,Thursday,Diwali,Public Holiday
+fiji,2016,6 Nov,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+fiji,2016,12 Dec,Monday,The Prophet's Birthday,Public Holiday
+fiji,2016,21 Dec,Wednesday,December Solstice,Season
+fiji,2016,25 Dec,Sunday,Christmas Day,Public Holiday
+fiji,2016,26 Dec,Monday,Day off for Christmas Day,Public Holiday
+fiji,2016,26 Dec,Monday,Boxing Day,Public Holiday
+fiji,2016,27 Dec,Tuesday,Day off for Boxing Day,Public Holiday
+fiji,2017,1 Jan,Sunday,New Year,Public Holiday
+fiji,2017,2 Jan,Monday,Day off for New Year,Public Holiday
+fiji,2017,15 Jan,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+fiji,2017,20 Mar,Monday,March Equinox,Season
+fiji,2017,14 Apr,Friday,Good Friday,Public Holiday
+fiji,2017,15 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2017,17 Apr,Monday,Easter Monday,Public Holiday
+fiji,2017,21 Jun,Wednesday,June Solstice,Season
+fiji,2017,26 Jun,Monday,National Sports Day,Public Holiday
+fiji,2017,7 Sep,Thursday,Constitution Day,Public Holiday
+fiji,2017,23 Sep,Saturday,September Equinox,Season
+fiji,2017,10 Oct,Tuesday,Fiji Day,Public Holiday
+fiji,2017,16 Oct,Monday,Diwali,Public Holiday
+fiji,2017,5 Nov,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+fiji,2017,1 Dec,Friday,The Prophet's Birthday,Public Holiday
+fiji,2017,22 Dec,Friday,December Solstice,Season
+fiji,2017,25 Dec,Monday,Christmas Day,Public Holiday
+fiji,2017,26 Dec,Tuesday,Boxing Day,Public Holiday
+fiji,2018,1 Jan,Monday,New Year,Public Holiday
+fiji,2018,14 Jan,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+fiji,2018,21 Mar,Wednesday,March Equinox,Season
+fiji,2018,30 Mar,Friday,Good Friday,Public Holiday
+fiji,2018,31 Mar,Saturday,Holy Saturday,Public Holiday
+fiji,2018,2 Apr,Monday,Easter Monday,Public Holiday
+fiji,2018,21 Jun,Thursday,June Solstice,Season
+fiji,2018,29 Jun,Friday,National Sports Day,Public Holiday
+fiji,2018,7 Sep,Friday,Constitution Day,Public Holiday
+fiji,2018,23 Sep,Sunday,September Equinox,Season
+fiji,2018,10 Oct,Wednesday,Fiji Day,Public Holiday
+fiji,2018,4 Nov,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+fiji,2018,7 Nov,Wednesday,Diwali,Public Holiday
+fiji,2018,14 Nov,Wednesday,Election Day,Public Holiday
+fiji,2018,19 Nov,Monday,The Prophet's Birthday,Public Holiday
+fiji,2018,22 Dec,Saturday,December Solstice,Season
+fiji,2018,25 Dec,Tuesday,Christmas Day,Public Holiday
+fiji,2018,26 Dec,Wednesday,Boxing Day,Public Holiday
+fiji,2019,1 Jan,Tuesday,New Year,Public Holiday
+fiji,2019,13 Jan,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+fiji,2019,21 Mar,Thursday,March Equinox,Season
+fiji,2019,19 Apr,Friday,Good Friday,Public Holiday
+fiji,2019,20 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2019,22 Apr,Monday,Easter Monday,Public Holiday
+fiji,2019,22 Jun,Saturday,June Solstice,Season
+fiji,2019,7 Sep,Saturday,Constitution Day,Public Holiday
+fiji,2019,23 Sep,Monday,September Equinox,Season
+fiji,2019,10 Oct,Thursday,Fiji Day,Public Holiday
+fiji,2019,28 Oct,Monday,Diwali,Public Holiday
+fiji,2019,10 Nov,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+fiji,2019,11 Nov,Monday,The Prophet's Birthday,Public Holiday
+fiji,2019,22 Dec,Sunday,December Solstice,Season
+fiji,2019,25 Dec,Wednesday,Christmas Day,Public Holiday
+fiji,2019,26 Dec,Thursday,Boxing Day,Public Holiday
+fiji,2020,1 Jan,Wednesday,New Year,Public Holiday
+fiji,2020,12 Jan,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+fiji,2020,20 Mar,Friday,March Equinox,Season
+fiji,2020,10 Apr,Friday,Good Friday,Public Holiday
+fiji,2020,11 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2020,13 Apr,Monday,Easter Monday,Public Holiday
+fiji,2020,21 Jun,Sunday,June Solstice,Season
+fiji,2020,7 Sep,Monday,Constitution Day,Public Holiday
+fiji,2020,23 Sep,Wednesday,September Equinox,Season
+fiji,2020,10 Oct,Saturday,Fiji Day,Public Holiday
+fiji,2020,29 Oct,Thursday,The Prophet's Birthday,Public Holiday
+fiji,2020,14 Nov,Saturday,Diwali,Public Holiday
+fiji,2020,16 Nov,Monday,Day off for Diwali,Public Holiday
+fiji,2020,20 Dec,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
+fiji,2020,21 Dec,Monday,December Solstice,Season
+fiji,2020,25 Dec,Friday,Christmas Day,Public Holiday
+fiji,2020,26 Dec,Saturday,Boxing Day,Public Holiday
+fiji,2020,28 Dec,Monday,Day off for Boxing Day,Public Holiday
+fiji,2021,1 Jan,Friday,New Year,Public Holiday
+fiji,2021,17 Jan,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
+fiji,2021,20 Mar,Saturday,March Equinox,Season
+fiji,2021,2 Apr,Friday,Good Friday,Public Holiday
+fiji,2021,3 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2021,5 Apr,Monday,Easter Monday,Public Holiday
+fiji,2021,21 Jun,Monday,June Solstice,Season
+fiji,2021,7 Sep,Tuesday,Constitution Day,Public Holiday
+fiji,2021,23 Sep,Thursday,September Equinox,Season
+fiji,2021,10 Oct,Sunday,Fiji Day,Public Holiday
+fiji,2021,18 Oct,Monday,The Prophet's Birthday,Public Holiday
+fiji,2021,4 Nov,Thursday,Diwali,Public Holiday
+fiji,2021,22 Dec,Wednesday,December Solstice,Season
+fiji,2021,25 Dec,Saturday,Christmas Day,Public Holiday
+fiji,2021,26 Dec,Sunday,Boxing Day,Public Holiday
+fiji,2021,27 Dec,Monday,Day off for Christmas Day,Public Holiday
+fiji,2021,28 Dec,Tuesday,Day off for Boxing Day,Public Holiday
+fiji,2022,1 Jan,Saturday,New Year,Public Holiday
+fiji,2022,3 Jan,Monday,Day off for New Year,Public Holiday
+fiji,2022,21 Mar,Monday,March Equinox,Season
+fiji,2022,15 Apr,Friday,Good Friday,Public Holiday
+fiji,2022,16 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2022,18 Apr,Monday,Easter Monday,Public Holiday
+fiji,2022,21 Jun,Tuesday,June Solstice,Season
+fiji,2022,7 Sep,Wednesday,Constitution Day,Public Holiday
+fiji,2022,23 Sep,Friday,September Equinox,Season
+fiji,2022,7 Oct,Friday,Day off for The Prophet's Birthday,Public Holiday
+fiji,2022,9 Oct,Sunday,The Prophet's Birthday,Public Holiday
+fiji,2022,10 Oct,Monday,Fiji Day,Public Holiday
+fiji,2022,25 Oct,Tuesday,Diwali,Public Holiday
+fiji,2022,14 Dec,Wednesday,Election Day,Public Holiday
+fiji,2022,22 Dec,Thursday,December Solstice,Season
+fiji,2022,25 Dec,Sunday,Christmas Day,Public Holiday
+fiji,2022,26 Dec,Monday,Day off for Christmas Day,Public Holiday
+fiji,2022,26 Dec,Monday,Boxing Day,Public Holiday
+fiji,2022,27 Dec,Tuesday,Day off for Boxing Day,Public Holiday
+fiji,2023,1 Jan,Sunday,New Year,Public Holiday
+fiji,2023,2 Jan,Monday,Day off for New Year,Public Holiday
+fiji,2023,21 Mar,Tuesday,March Equinox,Season
+fiji,2023,7 Apr,Friday,Good Friday,Public Holiday
+fiji,2023,8 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2023,10 Apr,Monday,Easter Monday,Public Holiday
+fiji,2023,14 May,Sunday,Girmit Day,Public Holiday
+fiji,2023,15 May,Monday,Day off for Girmit Day,Public Holiday
+fiji,2023,29 May,Monday,Sukuna's Day Holiday,Public Holiday
+fiji,2023,22 Jun,Thursday,June Solstice,Season
+fiji,2023,7 Sep,Thursday,Constitution Day,Observance
+fiji,2023,23 Sep,Saturday,September Equinox,Season
+fiji,2023,27 Sep,Wednesday,The Prophet's Birthday (Tentative Date),Observance
+fiji,2023,2 Oct,Monday,The Prophet's Birthday Holiday (Tentative Date),Public Holiday
+fiji,2023,10 Oct,Tuesday,Fiji Day,Public Holiday
+fiji,2023,13 Nov,Monday,Diwali,Public Holiday
+fiji,2023,22 Dec,Friday,December Solstice,Season
+fiji,2023,25 Dec,Monday,Christmas Day,Public Holiday
+fiji,2023,26 Dec,Tuesday,Boxing Day,Public Holiday
+fiji,2024,1 Jan,Monday,New Year,Public Holiday
+fiji,2024,20 Mar,Wednesday,March Equinox,Season
+fiji,2024,29 Mar,Friday,Good Friday,Public Holiday
+fiji,2024,30 Mar,Saturday,Holy Saturday,Public Holiday
+fiji,2024,1 Apr,Monday,Easter Monday,Public Holiday
+fiji,2024,13 May,Monday,Girmit Day,Public Holiday
+fiji,2024,31 May,Friday,Sukuna's Day Holiday,Public Holiday
+fiji,2024,21 Jun,Friday,June Solstice,Season
+fiji,2024,7 Sep,Saturday,Constitution Day,Observance
+fiji,2024,16 Sep,Monday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2024,23 Sep,Monday,September Equinox,Season
+fiji,2024,10 Oct,Thursday,Fiji Day,Public Holiday
+fiji,2024,1 Nov,Friday,Diwali,Public Holiday
+fiji,2024,21 Dec,Saturday,December Solstice,Season
+fiji,2024,25 Dec,Wednesday,Christmas Day,Public Holiday
+fiji,2024,26 Dec,Thursday,Boxing Day,Public Holiday
+fiji,2025,1 Jan,Wednesday,New Year,Public Holiday
+fiji,2025,20 Mar,Thursday,March Equinox,Season
+fiji,2025,18 Apr,Friday,Good Friday,Public Holiday
+fiji,2025,19 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2025,21 Apr,Monday,Easter Monday,Public Holiday
+fiji,2025,21 Jun,Saturday,June Solstice,Season
+fiji,2025,5 Sep,Friday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2025,7 Sep,Sunday,Constitution Day,Observance
+fiji,2025,23 Sep,Tuesday,September Equinox,Season
+fiji,2025,10 Oct,Friday,Fiji Day,Public Holiday
+fiji,2025,21 Oct,Tuesday,Diwali,Public Holiday
+fiji,2025,22 Dec,Monday,December Solstice,Season
+fiji,2025,25 Dec,Thursday,Christmas Day,Public Holiday
+fiji,2025,26 Dec,Friday,Boxing Day,Public Holiday
+fiji,2026,1 Jan,Thursday,New Year,Public Holiday
+fiji,2026,21 Mar,Saturday,March Equinox,Season
+fiji,2026,3 Apr,Friday,Good Friday,Public Holiday
+fiji,2026,4 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2026,6 Apr,Monday,Easter Monday,Public Holiday
+fiji,2026,21 Jun,Sunday,June Solstice,Season
+fiji,2026,26 Aug,Wednesday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2026,7 Sep,Monday,Constitution Day,Observance
+fiji,2026,23 Sep,Wednesday,September Equinox,Season
+fiji,2026,10 Oct,Saturday,Fiji Day,Public Holiday
+fiji,2026,22 Dec,Tuesday,December Solstice,Season
+fiji,2026,25 Dec,Friday,Christmas Day,Public Holiday
+fiji,2026,26 Dec,Saturday,Boxing Day,Public Holiday
+fiji,2026,28 Dec,Monday,Day off for Boxing Day,Public Holiday
+fiji,2027,1 Jan,Friday,New Year,Public Holiday
+fiji,2027,21 Mar,Sunday,March Equinox,Season
+fiji,2027,26 Mar,Friday,Good Friday,Public Holiday
+fiji,2027,27 Mar,Saturday,Holy Saturday,Public Holiday
+fiji,2027,29 Mar,Monday,Easter Monday,Public Holiday
+fiji,2027,22 Jun,Tuesday,June Solstice,Season
+fiji,2027,15 Aug,Sunday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2027,16 Aug,Monday,Day off for The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2027,7 Sep,Tuesday,Constitution Day,Observance
+fiji,2027,23 Sep,Thursday,September Equinox,Season
+fiji,2027,10 Oct,Sunday,Fiji Day,Public Holiday
+fiji,2027,22 Dec,Wednesday,December Solstice,Season
+fiji,2027,25 Dec,Saturday,Christmas Day,Public Holiday
+fiji,2027,26 Dec,Sunday,Boxing Day,Public Holiday
+fiji,2027,27 Dec,Monday,Day off for Christmas Day,Public Holiday
+fiji,2027,28 Dec,Tuesday,Day off for Boxing Day,Public Holiday
+fiji,2028,1 Jan,Saturday,New Year,Public Holiday
+fiji,2028,3 Jan,Monday,Day off for New Year,Public Holiday
+fiji,2028,20 Mar,Monday,March Equinox,Season
+fiji,2028,14 Apr,Friday,Good Friday,Public Holiday
+fiji,2028,15 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2028,17 Apr,Monday,Easter Monday,Public Holiday
+fiji,2028,21 Jun,Wednesday,June Solstice,Season
+fiji,2028,3 Aug,Thursday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2028,7 Sep,Thursday,Constitution Day,Observance
+fiji,2028,22 Sep,Friday,September Equinox,Season
+fiji,2028,10 Oct,Tuesday,Fiji Day,Public Holiday
+fiji,2028,21 Dec,Thursday,December Solstice,Season
+fiji,2028,25 Dec,Monday,Christmas Day,Public Holiday
+fiji,2028,26 Dec,Tuesday,Boxing Day,Public Holiday
+fiji,2029,1 Jan,Monday,New Year,Public Holiday
+fiji,2029,20 Mar,Tuesday,March Equinox,Season
+fiji,2029,30 Mar,Friday,Good Friday,Public Holiday
+fiji,2029,31 Mar,Saturday,Holy Saturday,Public Holiday
+fiji,2029,2 Apr,Monday,Easter Monday,Public Holiday
+fiji,2029,21 Jun,Thursday,June Solstice,Season
+fiji,2029,24 Jul,Tuesday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2029,7 Sep,Friday,Constitution Day,Observance
+fiji,2029,23 Sep,Sunday,September Equinox,Season
+fiji,2029,10 Oct,Wednesday,Fiji Day,Public Holiday
+fiji,2029,22 Dec,Saturday,December Solstice,Season
+fiji,2029,25 Dec,Tuesday,Christmas Day,Public Holiday
+fiji,2029,26 Dec,Wednesday,Boxing Day,Public Holiday
+fiji,2030,1 Jan,Tuesday,New Year,Public Holiday
+fiji,2030,21 Mar,Thursday,March Equinox,Season
+fiji,2030,19 Apr,Friday,Good Friday,Public Holiday
+fiji,2030,20 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2030,22 Apr,Monday,Easter Monday,Public Holiday
+fiji,2030,21 Jun,Friday,June Solstice,Season
+fiji,2030,13 Jul,Saturday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2030,15 Jul,Monday,Day off for The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2030,7 Sep,Saturday,Constitution Day,Observance
+fiji,2030,23 Sep,Monday,September Equinox,Season
+fiji,2030,10 Oct,Thursday,Fiji Day,Public Holiday
+fiji,2030,22 Dec,Sunday,December Solstice,Season
+fiji,2030,25 Dec,Wednesday,Christmas Day,Public Holiday
+fiji,2030,26 Dec,Thursday,Boxing Day,Public Holiday
+fiji,2031,1 Jan,Wednesday,New Year,Public Holiday
+fiji,2031,21 Mar,Friday,March Equinox,Season
+fiji,2031,11 Apr,Friday,Good Friday,Public Holiday
+fiji,2031,12 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2031,14 Apr,Monday,Easter Monday,Public Holiday
+fiji,2031,22 Jun,Sunday,June Solstice,Season
+fiji,2031,2 Jul,Wednesday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2031,7 Sep,Sunday,Constitution Day,Observance
+fiji,2031,23 Sep,Tuesday,September Equinox,Season
+fiji,2031,10 Oct,Friday,Fiji Day,Public Holiday
+fiji,2031,22 Dec,Monday,December Solstice,Season
+fiji,2031,25 Dec,Thursday,Christmas Day,Public Holiday
+fiji,2031,26 Dec,Friday,Boxing Day,Public Holiday
+fiji,2032,1 Jan,Thursday,New Year,Public Holiday
+fiji,2032,20 Mar,Saturday,March Equinox,Season
+fiji,2032,26 Mar,Friday,Good Friday,Public Holiday
+fiji,2032,27 Mar,Saturday,Holy Saturday,Public Holiday
+fiji,2032,29 Mar,Monday,Easter Monday,Public Holiday
+fiji,2032,21 Jun,Monday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2032,21 Jun,Monday,June Solstice,Season
+fiji,2032,7 Sep,Tuesday,Constitution Day,Observance
+fiji,2032,22 Sep,Wednesday,September Equinox,Season
+fiji,2032,10 Oct,Sunday,Fiji Day,Public Holiday
+fiji,2032,21 Dec,Tuesday,December Solstice,Season
+fiji,2032,25 Dec,Saturday,Christmas Day,Public Holiday
+fiji,2032,26 Dec,Sunday,Boxing Day,Public Holiday
+fiji,2032,27 Dec,Monday,Day off for Christmas Day,Public Holiday
+fiji,2032,28 Dec,Tuesday,Day off for Boxing Day,Public Holiday
+fiji,2033,1 Jan,Saturday,New Year,Public Holiday
+fiji,2033,3 Jan,Monday,Day off for New Year,Public Holiday
+fiji,2033,20 Mar,Sunday,March Equinox,Season
+fiji,2033,15 Apr,Friday,Good Friday,Public Holiday
+fiji,2033,16 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2033,18 Apr,Monday,Easter Monday,Public Holiday
+fiji,2033,10 Jun,Friday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2033,21 Jun,Tuesday,June Solstice,Season
+fiji,2033,7 Sep,Wednesday,Constitution Day,Observance
+fiji,2033,23 Sep,Friday,September Equinox,Season
+fiji,2033,10 Oct,Monday,Fiji Day,Public Holiday
+fiji,2033,22 Dec,Thursday,December Solstice,Season
+fiji,2033,25 Dec,Sunday,Christmas Day,Public Holiday
+fiji,2033,26 Dec,Monday,Day off for Christmas Day,Public Holiday
+fiji,2033,26 Dec,Monday,Boxing Day,Public Holiday
+fiji,2033,27 Dec,Tuesday,Day off for Boxing Day,Public Holiday
+fiji,2034,1 Jan,Sunday,New Year,Public Holiday
+fiji,2034,2 Jan,Monday,Day off for New Year,Public Holiday
+fiji,2034,21 Mar,Tuesday,March Equinox,Season
+fiji,2034,7 Apr,Friday,Good Friday,Public Holiday
+fiji,2034,8 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2034,10 Apr,Monday,Easter Monday,Public Holiday
+fiji,2034,30 May,Tuesday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2034,21 Jun,Wednesday,June Solstice,Season
+fiji,2034,7 Sep,Thursday,Constitution Day,Observance
+fiji,2034,23 Sep,Saturday,September Equinox,Season
+fiji,2034,10 Oct,Tuesday,Fiji Day,Public Holiday
+fiji,2034,22 Dec,Friday,December Solstice,Season
+fiji,2034,25 Dec,Monday,Christmas Day,Public Holiday
+fiji,2034,26 Dec,Tuesday,Boxing Day,Public Holiday
+fiji,2035,1 Jan,Monday,New Year,Public Holiday
+fiji,2035,21 Mar,Wednesday,March Equinox,Season
+fiji,2035,23 Mar,Friday,Good Friday,Public Holiday
+fiji,2035,24 Mar,Saturday,Holy Saturday,Public Holiday
+fiji,2035,26 Mar,Monday,Easter Monday,Public Holiday
+fiji,2035,20 May,Sunday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2035,21 May,Monday,Day off for The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2035,22 Jun,Friday,June Solstice,Season
+fiji,2035,7 Sep,Friday,Constitution Day,Observance
+fiji,2035,23 Sep,Sunday,September Equinox,Season
+fiji,2035,10 Oct,Wednesday,Fiji Day,Public Holiday
+fiji,2035,22 Dec,Saturday,December Solstice,Season
+fiji,2035,25 Dec,Tuesday,Christmas Day,Public Holiday
+fiji,2035,26 Dec,Wednesday,Boxing Day,Public Holiday
+fiji,2036,1 Jan,Tuesday,New Year,Public Holiday
+fiji,2036,20 Mar,Thursday,March Equinox,Season
+fiji,2036,11 Apr,Friday,Good Friday,Public Holiday
+fiji,2036,12 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2036,14 Apr,Monday,Easter Monday,Public Holiday
+fiji,2036,8 May,Thursday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2036,21 Jun,Saturday,June Solstice,Season
+fiji,2036,7 Sep,Sunday,Constitution Day,Observance
+fiji,2036,22 Sep,Monday,September Equinox,Season
+fiji,2036,10 Oct,Friday,Fiji Day,Public Holiday
+fiji,2036,21 Dec,Sunday,December Solstice,Season
+fiji,2036,25 Dec,Thursday,Christmas Day,Public Holiday
+fiji,2036,26 Dec,Friday,Boxing Day,Public Holiday
+fiji,2037,1 Jan,Thursday,New Year,Public Holiday
+fiji,2037,20 Mar,Friday,March Equinox,Season
+fiji,2037,3 Apr,Friday,Good Friday,Public Holiday
+fiji,2037,4 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2037,6 Apr,Monday,Easter Monday,Public Holiday
+fiji,2037,28 Apr,Tuesday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2037,21 Jun,Sunday,June Solstice,Season
+fiji,2037,7 Sep,Monday,Constitution Day,Observance
+fiji,2037,23 Sep,Wednesday,September Equinox,Season
+fiji,2037,10 Oct,Saturday,Fiji Day,Public Holiday
+fiji,2037,22 Dec,Tuesday,December Solstice,Season
+fiji,2037,25 Dec,Friday,Christmas Day,Public Holiday
+fiji,2037,26 Dec,Saturday,Boxing Day,Public Holiday
+fiji,2037,28 Dec,Monday,Day off for Boxing Day,Public Holiday
+fiji,2038,1 Jan,Friday,New Year,Public Holiday
+fiji,2038,21 Mar,Sunday,March Equinox,Season
+fiji,2038,17 Apr,Saturday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2038,19 Apr,Monday,Day off for The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2038,23 Apr,Friday,Good Friday,Public Holiday
+fiji,2038,24 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2038,26 Apr,Monday,Easter Monday,Public Holiday
+fiji,2038,21 Jun,Monday,June Solstice,Season
+fiji,2038,7 Sep,Tuesday,Constitution Day,Observance
+fiji,2038,23 Sep,Thursday,September Equinox,Season
+fiji,2038,10 Oct,Sunday,Fiji Day,Public Holiday
+fiji,2038,22 Dec,Wednesday,December Solstice,Season
+fiji,2038,25 Dec,Saturday,Christmas Day,Public Holiday
+fiji,2038,26 Dec,Sunday,Boxing Day,Public Holiday
+fiji,2038,27 Dec,Monday,Day off for Christmas Day,Public Holiday
+fiji,2038,28 Dec,Tuesday,Day off for Boxing Day,Public Holiday
+fiji,2039,1 Jan,Saturday,New Year,Public Holiday
+fiji,2039,3 Jan,Monday,Day off for New Year,Public Holiday
+fiji,2039,21 Mar,Monday,March Equinox,Season
+fiji,2039,6 Apr,Wednesday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2039,8 Apr,Friday,Good Friday,Public Holiday
+fiji,2039,9 Apr,Saturday,Holy Saturday,Public Holiday
+fiji,2039,11 Apr,Monday,Easter Monday,Public Holiday
+fiji,2039,21 Jun,Tuesday,June Solstice,Season
+fiji,2039,7 Sep,Wednesday,Constitution Day,Observance
+fiji,2039,23 Sep,Friday,September Equinox,Season
+fiji,2039,10 Oct,Monday,Fiji Day,Public Holiday
+fiji,2039,22 Dec,Thursday,December Solstice,Season
+fiji,2039,25 Dec,Sunday,Christmas Day,Public Holiday
+fiji,2039,26 Dec,Monday,Day off for Christmas Day,Public Holiday
+fiji,2039,26 Dec,Monday,Boxing Day,Public Holiday
+fiji,2039,27 Dec,Tuesday,Day off for Boxing Day,Public Holiday
+fiji,2040,1 Jan,Sunday,New Year,Public Holiday
+fiji,2040,2 Jan,Monday,Day off for New Year,Public Holiday
+fiji,2040,20 Mar,Tuesday,March Equinox,Season
+fiji,2040,26 Mar,Monday,The Prophet's Birthday (Tentative Date),Public Holiday
+fiji,2040,30 Mar,Friday,Good Friday,Public Holiday
+fiji,2040,31 Mar,Saturday,Holy Saturday,Public Holiday
+fiji,2040,2 Apr,Monday,Easter Monday,Public Holiday
+fiji,2040,21 Jun,Thursday,June Solstice,Season
+fiji,2040,7 Sep,Friday,Constitution Day,Observance
+fiji,2040,22 Sep,Saturday,September Equinox,Season
+fiji,2040,10 Oct,Wednesday,Fiji Day,Public Holiday
+fiji,2040,21 Dec,Friday,December Solstice,Season
+fiji,2040,25 Dec,Tuesday,Christmas Day,Public Holiday
+fiji,2040,26 Dec,Wednesday,Boxing Day,Public Holiday
