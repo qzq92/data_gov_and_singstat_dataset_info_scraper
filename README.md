@@ -1,52 +1,15 @@
 # About
-This repository is used for scraping the latest available data provided by public data sources such as Data.gov.sg and Singstat's Table Builder. In particular, for each Data.gov.sg and SingStat website, Selenium would attempt to expand the data categories and pull its metadata information before exporting them into csv file(s) for each data source. 
-
-For Data.gov.sg, 2 csv files representing Data Collections (i.e. *Datagovsg_collections_17032024_202304.csv*) and Datasets (i.e. *Datagovsg_dataset_17032024_202304.csv*) would be gene
-
-
-
-## Definitions for files generated from scraping Data.gov.sg:
- - **Data Collections**: Group of related datasets defined by Data.gov.sg
- - **Datasets**: Actual data files.
-
-For **Data Collections**, the headers are identified by
-- "Collections";
-- "Data period";
-- "Number of datasets";
-- "Datatype";
-- "Source";
-- "Collections url";
-- "Date_of_check";
-
-For **Datasets**, the headers are identified by
-- "Data period";
-- "Last updated";
-- "Datatype";
-- "Source";
-- "Dataset url";
-- "Date_of_check";
-
-For SingStat, the csv file would contain the categories of the data which it belongs to and the url link for download. The headers are identfied by 
-- "Dataset";
-- "Theme";
-- "Categories";
-- "SubCategories";
-- "URL";
-- "Date_of_check"
-
-
-# New update
-- Inclusion of SmartLocal website for Singapore events (Logic updateon getting event location and actual dates should main page not provide any - Updated on 8/4)
-- Inclusion of timeanddate.com website for various countries/region holidays.
-- Inclusion of SACEOS website for SG MICE events
-- WIP for Eventbrite website
+This repository contains notebook codes for scraping the latest available public data metadata as follows using Selenium library:
+|Data source|Description|Sample image|
+|---|---|---|
+|[Data.gov.sg](https://beta.data.gov.sg/datasets)|Data shared by Singapore Government.|![Data.gov.sg](img/Datagov.png)|
+|[Singstats Table Builder](https://tablebuilder.singstat.gov.sg/)| Singapore economic and socio-demographic statistics.|![Singstats](img/Singstat.png)|
+|[SmartLocal](https://thesmartlocal.com/event-calendar/?a=alltime)| Website for Singapore lifestyle/leisure events.|![Smartlocal](img/smartlocal.png)|
+|[timeanddate](https://www.timeanddate.com/holidays/?allcountries)| Website for various countries/region holidays covering the period from 2000-2040.|![timeanddate](img/timeanddate.png)|
+|[SACEOS](https://saceos.org.sg/)| Singapore Association of Convention & Exhibition Organisers & Suppliers trade association for Meetings, Incentives, Conventions, Exhibitions & Events industry website.|![SACEOS](img/SACEOS.png)|
 
 ## Installation of libraries (Python)
 You may install using package manager such as Python pip or environment management system such as Conda to install all the libraries listed in *requirements.txt*
 
-## Execution
-1. To conduct scraping from Data.gov.sg and Singstat, please execute the cells in the notebook *datagov_singstat_metadata_scraper.ipynb* 
-2. Similary for SmartLocal source, please execute the cells in the notebook *smartlocal_scraper.ipynb* 
-
-## Location of generated files.
-When executing the relevant Jupyter notebooks, the output files are stored in the same directory as the notebooks that were used. For ease of reference, I have moved the files generated into their respective folders instead. I.e Generated Smartlocal csv file is stored under Smartlocal/ directory.
+## Execution and output files
+To conduct scraping of metadata from the above sources please execute the cells in the notebook with the *.ipynb* extension. The metadata would be saved as a csv file and stored in the same directory as the corresponding notebooks used for metadata scraping and are named in the following format: *data source_ddmmyyyy_hhmmss.csv* (e.g SACEOS_dataset_16042024_000325.csv). Do note that Data.gov.sg and Singstats data are residing in a common folder, instead of separate folder.
