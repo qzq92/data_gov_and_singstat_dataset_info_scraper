@@ -13,3 +13,6 @@ You may install using package manager such as Python pip or environment manageme
 
 ## Execution and output files
 To conduct scraping of metadata from the above sources please execute the cells in the notebook with the *.ipynb* extension. The metadata would be saved as a csv file and stored in the same directory as the corresponding notebooks used for metadata scraping and are named in the following format: *data source_ddmmyyyy_hhmmss.csv* (e.g SACEOS_dataset_16042024_000325.csv). Do note that Data.gov.sg and Singstats data are residing in a common folder, instead of separate folder.
+
+## Disclaimer
+Please note that the extracted public data metadata would not perfectly capture all information at 100% rate as published from the sources identified due to varied html construct for specific events/metadata within. However, approximately 90-95% of the data should be captured correctly based on rough eyeball estimates which would suffice for those who want to use it as an input for their model prediction work involving occurrence of public events in Singapore specifically.
