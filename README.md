@@ -8,6 +8,7 @@ This repository contains notebook codes for scraping the latest available public
 |[timeanddate](https://www.timeanddate.com/holidays/?allcountries)| Website for various countries/region holidays covering the period from 2000-2040.|![timeanddate](img/timeanddate.png)|
 |[SACEOS](https://saceos.org.sg/)| Singapore Association of Convention & Exhibition Organisers & Suppliers trade association for Meetings, Incentives, Conventions, Exhibitions & Events industry website.|![SACEOS](img/SACEOS.png)|
 |[Eventbrite](https://www.eventbrite.sg/d/singapore--singapore/all-events/?page=1)|An American event management and ticketing website with a localised platform in Singapore. The service allows users to browse, create, and promote local events.|![Eventbrite](img/eventbrite_page.png)|
+|[GovTech Developer Conferences](https://www.developer.tech.gov.sg/communities/events/conferences/)|Conferences organised by GovTech to hear from Whole-of-Government and industry speakers, network with key leaders, and collaborate and co-create with the tech community|![GovTech Developer Conferences](img/GovTech.png)
 
 ## Installation of libraries (Python)
 You may install using package manager such as Python pip or environment management system such as Conda to install all the libraries listed in *requirements.txt*
